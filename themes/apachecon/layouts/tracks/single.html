@@ -1,0 +1,53 @@
+<!DOCTYPE HTML>
+
+<html>
+{{ partial "header.html" . }}
+<body>
+
+<!-- Header Wrapper -->
+<div class="wrapper style1">
+
+    <!-- Header -->
+    <div id="header">
+        <div class="container">
+            <a href="index.html"><img class="logo-img" src="images/apachecon.png" height="30" ALIGN=CENTER></a>
+            {{ partial "nav.html" . }}
+        </div>
+    </div>
+
+
+    <!-- Main -->
+    <div id="main" class="wrapper style4">
+
+        <!-- Content -->
+        <div id="content" class="container">
+            <section>
+                <header class="major">
+                    <h2>{{.Title}}</h2>
+                </header>
+
+                {{.Content}}
+                {{$fn := .File.BaseFileName}}
+                {{ $day := "" }}
+                {{ range $page_index, $page_val :=  sort .Site.Pages "Date" "asc" }}
+                    {{if eq $fn .Params.track}}
+                    {{ $pageDay := dateFormat "2006-01-02" .Date }}
+                       {{ if eq $pageDay $day }}
+                       {{else}}
+                          <h2>{{ $pageDay }}</h2>
+                       {{end}}
+                       <p>{{dateFormat "15:04" .Date}} {{.Params.presenters}}: <a href="{{.Permalink}}">{{.Title}}</a></p>
+                     {{ $day = $pageDay }}
+                    {{end}}
+                {{end}}
+
+            </section>
+        </div>
+    </div>
+
+    {{ partial "footer.html" . }}
+
+
+</body>
+</html>
+

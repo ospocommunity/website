@@ -1,0 +1,54 @@
+<!DOCTYPE HTML>
+
+<html>
+{{ partial "header.html" . }}
+<body>
+
+<!-- Header Wrapper -->
+<div class="wrapper style1">
+
+    <!-- Header -->
+    <div id="header">
+        <div class="container">
+
+            <!-- Logo -->
+
+            <a href="index.html"><img class="logo-img" src="images/apachecon.png" height="30" ALIGN=CENTER></a>
+
+
+            <!-- Nav menu -->
+            <!-- NAVIGATION MENU -->
+            {{ partial "nav.html" . }}
+
+
+        </div>
+    </div>
+
+
+    <!-- Main -->
+    <div id="main" class="wrapper style4">
+
+        <!-- Content -->
+        <div id="content" class="container">
+            <section>
+                <header class="major">
+                    <h2>{{.Title}}</h2>
+                </header>
+
+                <ul>
+                    {{ range $page_index, $page_val := sort .Pages "Date" "asc"}}
+                    <li><a href="{{.Permalink}}">{{.Title}}</a></li>
+                    {{end}}
+                </ul>
+
+            </section>
+        </div>
+    </div>
+
+    {{ partial "footer.html" . }}
+
+
+</body>
+</html>
+
+

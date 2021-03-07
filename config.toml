@@ -1,0 +1,6 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "ApacheCon at Home 2021"
+theme = "apachecon"
+# When enabled, creates URL of the form /filename.html instead of /filename/.
+uglyURLs = true

@@ -7,14 +7,7 @@
 <!-- Header Wrapper -->
 <div class="wrapper style1">
 
-    <!-- Header -->
-    <div id="header">
-        <div class="container">
-            <a href="index.html"><img class="logo-img" src="images/apachecon.png" height="30" ALIGN=CENTER></a>
-            {{ partial "nav.html" . }}
-        </div>
-    </div>
-
+    {{ partial "smallpageheader.html" . }}
 
     <!-- Main -->
     <div id="main" class="wrapper style4">
@@ -36,7 +29,7 @@
                        {{else}}
                           <h2>{{ $pageDay }}</h2>
                        {{end}}
-                       <p>{{dateFormat "15:04" .Date}} {{.Params.presenters}}: <a href="{{.Permalink}}">{{.Title}}</a></p>
+                <p><b>{{dateFormat "15:04" .Date}}</b> {{.Params.presenters}}: <a href="{{.Permalink}}">{{.Title}}</a></p>
                      {{ $day = $pageDay }}
                     {{end}}
                 {{end}}

@@ -1,3 +1,0 @@
----
-title: Cloudstack Collaboration Conference
----

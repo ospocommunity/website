@@ -43,7 +43,7 @@ weight = 200
 
 # menu for ZH language (final list includes translated pages from /content)
 [[languages.zh.menu.main]]
-name = "马球"
+name = "T恤"
 url = "https://s.apache.org/apach-tshirt"
 weight = -110
 

@@ -21,15 +21,6 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 unsafe = true
 
 # menu for en ((final list includes translated pages from /content)
-[[languages.en.menu.main]]
-name = "t-shirt"
-url = "https://s.apache.org/apache-tshirt"
-weight = -110
-
-[[languages.en.menu.main]]
-name = "Location"
-url = "/getting-started/"
-weight = -100
 
 [[languages.en.menu.main]]
 name = "Schedule"
@@ -42,15 +33,6 @@ url = "zh/"
 weight = 200
 
 # menu for ZH language (final list includes translated pages from /content)
-[[languages.zh.menu.main]]
-name = "T恤"
-url = "https://s.apache.org/apach-tshirt"
-weight = -110
-
-[[languages.zh.menu.main]]
-name = "地点"
-url = "/getting-started/"
-weight = -100
 
 [[languages.zh.menu.main]]
 name = "日程"

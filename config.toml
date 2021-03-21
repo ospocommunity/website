@@ -30,7 +30,7 @@ weight = -100
 
 [[languages.en.menu.main]]
 name = "中文"
-url = "zh/"
+url = "zh"
 weight = 200
 
 # menu for ZH language (final list includes translated pages from /content)

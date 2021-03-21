@@ -19,7 +19,7 @@ In particular, this year we are building content tracks around the following spe
 * Integration
 * Incubator
 * IoT/IIoT
-* Message Queue
+* Messaging
 * Middleware
 * Observability
 * Stream

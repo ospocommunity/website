@@ -12,20 +12,20 @@ menu:
 
 特别是，今年，我们将围绕以下特定主题/项目构建内容主题：
 
-* API /微服务
+* [API /微服务](zh/tracks/api.html)
 * 大数据
-* 开源社区
-* 开源文化
-* 应用集成
-* 孵化器
-* 物联网/ IIoT
-* 消息队列
-* 中间件
-* 可观察性
-* 流处理
-* 调度/数据治理
-* Web服务器
-* 数据可视化
+* [开源社区](zh/tracks/community.html)
+* [开源文化](zh/tracks/culture.html)
+* [应用集成](zh/tracks/integration.html)
+* [孵化器](zh/tracks/incubator.html)
+* [物联网/ IIoT](zh/tracks/IoT.html)
+* [消息队列](zh/tracks/messaging.html)
+* [中间件](zh/tracks/middleware.html)
+* [可观察性](tracks/observability.html)
+* [流处理](zh/tracks/streaming.html)
+* [调度/数据治理](zh/tracks/workflowdatagovernance.html)
+* [Web服务器](zh/tracks/webserverandtomcat.html)
+* [数据可视化](zh/tracks/datavisualization.html)
 
 如果您提交的演讲属于以下类别之一，请在CFP条目表中选择该主题。或者，如果与其他主题或项目领域相关，请选择“常规”。
 

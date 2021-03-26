@@ -18,7 +18,7 @@ menu:
 * [开源文化](zh/tracks/culture.html)
 * [应用集成](zh/tracks/integration.html)
 * [孵化器](zh/tracks/incubator.html)
-* [物联网/ IIoT](zh/tracks/IoT.html)
+* [物联网/ IIoT](zh/tracks/iot.html)
 * [消息队列](zh/tracks/messaging.html)
 * [中间件](zh/tracks/middleware.html)
 * [可观察性](tracks/observability.html)

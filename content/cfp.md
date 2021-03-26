@@ -18,7 +18,7 @@ In particular, this year we are building content tracks around the following spe
 * [Culture](tracks/culture.html)
 * [Integration](tracks/integration.html)
 * [Incubator](tracks/incubator.html)
-* [IoT/IIoT](tracks/IoT.html)
+* [IoT/IIoT](tracks/iot.html)
 * [Messaging](tracks/messaging.html)
 * [Middleware](tracks/middleware.html)
 * [Observability](tracks/observability.html)

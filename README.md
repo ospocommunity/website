@@ -17,6 +17,31 @@ hugo  -b https://apachecon.com/acasia2021/ -d <destination_directory>
 
 ## FAQ
 
+### How can I publish the website to ApacheCon
+First you need to write access right of [ApacheCon website](https://svn.apache.org/repos/infra/apachecon/www.apachecon.com/acasia2021/)
+
+Checking out the this repo
+```
+git@github.com:alc-beijing/acasia2021.git <source-directory>
+```
+
+Checking out the content of website to <site-directory>
+```
+svn co https://svn.apache.org/repos/infra/apachecon/www.apachecon.com/acasia2021/ <site-directory>
+```
+
+After doing some modifications on the markdown files, you can use hugo command to generate the website from the source directory
+```
+cd <source-directory>
+hugo   -b https://apachecon.com/acasia2021/ -d <site-directory>
+```
+
+Publishing the website
+```
+cd <site-directory>
+svn ci -m "Publish the website of acasia2021"
+```
+
 ### How can I modify the content of the main page:
 
 It's under `content/_index.md`

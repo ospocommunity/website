@@ -18,9 +18,9 @@
                 <header class="major">
                     <h2>{{.Title}}</h2>
                 </header>
-
+                
                 {{.Content}}
-                {{$fn := .File.BaseFileName}}
+                {{$fn := .File.TranslationBaseName}}
                 {{ $day := "" }}
                 {{ range $page_index, $page_val :=  sort .Site.Pages "Date" "asc" }}
                     {{if eq $fn .Params.track}}
@@ -43,4 +43,3 @@
 
 </body>
 </html>
-

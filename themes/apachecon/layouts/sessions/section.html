@@ -23,13 +23,14 @@
                 {{ range $page_index, $page_val := sort .Pages "Date" "asc"}}
                 {{ $pageDay := dateFormat "2006-01-02" .Date }}
                 {{ $pageTime := dateFormat "15:04" .Date }}
+
                 {{ if eq $pageDay $day }}
                     {{if eq $pageTime $time}}
                     {{else}}
                     <h3>{{$pageTime}}</h3>
                     {{end}}
                     <p>{{.Params.presenters}}: <a href="{{.Permalink}}">{{.Title}}</a>
-                    <a class="label" href="tracks/{{.Params.track}}.html">#{{.Params.track}}</a></p>
+                    <a class="label" href="{{ "tracks" | relLangURL }}/{{.Params.track}}.html">#{{.Params.track}}</a></p>
                 {{else}}
                 <h2>{{ $pageDay }}</h2>
 
@@ -48,5 +49,3 @@
 
 </body>
 </html>
-
-

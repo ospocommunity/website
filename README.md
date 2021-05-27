@@ -78,8 +78,7 @@ url = "https://s.apache.org/apache-tshirt"
 weight = -110
 ```
 
-The most page links of the menu are generated from the markdown files (For example `content/cfp.md`)
-of content directory.
+The most page links of the menu are generated from the markdown files of content directory.
 For a page, it's enough to add a menu entry to the markdown (For example `content/cfp.md`):
 
 ```
@@ -93,4 +92,4 @@ menu:
 ...
 ```
 
-You can add or remove the links from navigation bar by adding or remove these markdown files.
+You can add or remove the links from navigation bar by adding or removing this menu entry.

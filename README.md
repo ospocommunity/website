@@ -5,14 +5,14 @@ This repository contains a Hugo based site for ApacheCon.
 To test it locally, run:
 
 ```
-hugo server -b http://localhost:1313/acasia2021
+hugo server -b http://localhost:1313/acasia2021 -F
 ```
 
 To generate final site, use:
 
 
 ```
-hugo  -b https://apachecon.com/acasia2021/ -d <destination_directory>
+hugo  -b https://apachecon.com/acasia2021/ -d <destination_directory> -F
 ```
 
 ## FAQ
@@ -33,7 +33,7 @@ svn co https://svn.apache.org/repos/infra/apachecon/www.apachecon.com/acasia2021
 After doing some modifications on the markdown files, you can use hugo command to generate the website from the source directory
 ```
 cd <source-directory>
-hugo   -b https://apachecon.com/acasia2021/ -d <site-directory>
+hugo -b https://apachecon.com/acasia2021/ -d <site-directory> -F
 ```
 
 Publishing the website
@@ -78,8 +78,9 @@ url = "https://s.apache.org/apache-tshirt"
 weight = -110
 ```
 
+The most page links of the menu are generated from the markdown files (For example `content/cfp.md`)
+of content directory.
 For a page, it's enough to add a menu entry to the markdown (For example `content/cfp.md`):
-
 
 ```
 ---
@@ -91,3 +92,5 @@ menu:
 ...
 ...
 ```
+
+You can add or remove the links from navigation bar by adding or remove these markdown files.

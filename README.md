@@ -25,6 +25,12 @@ hugo  -b https://apachecon.com/acasia2021/ -d <destination_directory> -F
 
 ## FAQ
 
+### How to fix the typos in Session page
+If you want to session typos of “https://apachecon.com/acasia2021/sessions/1155.html”
+You just need to go the file 1155.md in content/sessions directory.
+If it is chinese version, you just need to update the file of 1155.zh.md.
+
+
 ### How can I publish the website to ApacheCon
 First you need to write access right of [ApacheCon website](https://svn.apache.org/repos/infra/apachecon/www.apachecon.com/acasia2021/)
 

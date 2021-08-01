@@ -32,12 +32,12 @@
                     <h3>{{$pageTime}}</h3>
                     {{end}}
 
-                    <p>{{.Params.presenters}}: <a href="{{.Permalink}}">{{.Title}}</a> 
+                    <p>{{.Params.presenters}}: <a href="{{.Permalink}}">{{.Title}}</a>
                         {{if eq .Params.track "bigdata"}}
-                            (ROOM{{.Params.room}})
+                            (ROOM : {{.Params.room}})
                         {{end}}
                     <a class="label" href="{{ "tracks" | relLangURL }}/{{.Params.track}}.html">#{{.Params.track}}</a></p>
-                    
+
                 {{else}}
                     {{ if eq $pageDay $day1 }}
                     {{else}}
@@ -48,7 +48,7 @@
                     {{end}}
                         <h2>{{ $pageDay }}</h2>
                         <h3>{{$pageTime}}</h3>
-                        <p>{{.Params.presenters}}: <a href="{{.Permalink}}">{{.Title}}</a> 
+                        <p>{{.Params.presenters}}: <a href="{{.Permalink}}">{{.Title}}</a>
                         <a class="label" href="{{ "tracks" | relLangURL }}/{{.Params.track}}.html">#{{.Params.track}}</a></p>
                     {{end}}
 
@@ -56,7 +56,7 @@
                 {{ $day = $pageDay }}
                 {{ $time = $pageTime }}
                 {{end}}
-                
+
             </section>
         </div>
     </div>

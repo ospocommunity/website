@@ -1,6 +1,6 @@
 ---
 title: Messaging
-trackchairs: "Jia Zhai, Dianjin Wang"
+trackchairs: "Dianjin Wang"
 ---
 
 Messaging system is used to enable communication between systems by sending messages to each other.

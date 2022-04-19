@@ -12,6 +12,7 @@ We are looking for presentations about anything relating to Apache Software Foun
 
 In particular, this year we are building content tracks around the following specific topics/projects:
 
+* [AI / machine learning](tracks/ai.html)
 * [API / Microservice](tracks/api.html)
 * [Big Data](tracks/bigdata.html)
 * [Community](tracks/community.html)
@@ -23,10 +24,10 @@ In particular, this year we are building content tracks around the following spe
 * [Middleware](tracks/middleware.html)
 * [Observability](tracks/observability.html)
 * [Streaming](tracks/streaming.html)
-* [Workflow/Data Governance](tracks/workflowdatagovernance.html)
+* [Workflow / Data Processing](tracks/workflowdatagovernance.html)
 * [Web Server](tracks/webserverandtomcat.html)
 * [DataVisualization](tracks/datavisualization.html)
 
-If your proposed presentation falls into one of these categories, please select that topic in the CfP entry form. Or select **General** if it's related to some other topic or project area.
+If your proposed presentation falls into one of these categories, please select that topic in the CFP entry form. Or select **General** if it's related to some other topic or project area.
 
 [Submit your talk proposal now!](https://shimo.im/forms/6ZTBLanjqW8pY3dj/fill)

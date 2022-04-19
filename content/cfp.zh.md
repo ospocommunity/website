@@ -8,22 +8,23 @@ menu:
 
 [现在提交您的演讲申请！](https://shimo.im/forms/nShSKAZ3uxUstTqS/fill?channel=website)
 
-我们正在寻找与Apache Software Foundation项目，开源治理，社区和软件开发有关的任何内容的演讲。
+我们正在寻找与Apache 软件基金会项目，开源治理，社区和软件开发有关的任何内容的演讲。
 
 特别是，今年，我们将围绕以下特定主题/项目构建内容主题：
 
-* [API /微服务](zh/tracks/api.html)
+* [人工智能 / 机器学习](zh/tracks/ai.html)
+* [API / 微服务](zh/tracks/api.html)
 * [大数据](zh/tracks/bigdata.html)
 * [开源社区](zh/tracks/community.html)
 * [开源文化](zh/tracks/culture.html)
 * [应用集成](zh/tracks/integration.html)
 * [孵化器](zh/tracks/incubator.html)
-* [物联网/ IIoT](zh/tracks/iot.html)
+* [物联网 / 工业物联网](zh/tracks/iot.html)
 * [消息队列](zh/tracks/messaging.html)
 * [中间件](zh/tracks/middleware.html)
 * [可观察性](tracks/observability.html)
 * [流处理](zh/tracks/streaming.html)
-* [调度/数据治理](zh/tracks/workflowdatagovernance.html)
+* [调度 / 数据处理](zh/tracks/workflowdatagovernance.html)
 * [Web服务器](zh/tracks/webserverandtomcat.html)
 * [数据可视化](zh/tracks/datavisualization.html)
 

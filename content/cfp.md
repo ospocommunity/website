@@ -12,7 +12,7 @@ We are looking for presentations about anything relating to Apache Software Foun
 
 In particular, this year we are building content tracks around the following specific topics/projects:
 
-* [AI / machine learning](tracks/ai.html)
+* [AI / Machine learning](tracks/ai.html)
 * [API / Microservice](tracks/api.html)
 * [Big Data](tracks/bigdata.html)
 * [Community](tracks/community.html)

@@ -23,6 +23,7 @@ In particular, this year we are building content tracks around the following spe
 * [Messaging](tracks/messaging.html)
 * [Middleware](tracks/middleware.html)
 * [Observability](tracks/observability.html)
+* [RPC](tracks/rpc.html)
 * [Streaming](tracks/streaming.html)
 * [Workflow / Data Processing](tracks/workflowdatagovernance.html)
 * [Web Server](tracks/webserverandtomcat.html)

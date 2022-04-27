@@ -23,6 +23,7 @@ menu:
 * [消息队列](zh/tracks/messaging.html)
 * [中间件](zh/tracks/middleware.html)
 * [可观察性](zh/tracks/observability.html)
+* [远程过程调用](zh/tracks/rpc.html)
 * [流处理](zh/tracks/streaming.html)
 * [调度 / 数据处理](zh/tracks/workflowdatagovernance.html)
 * [Web服务器](zh/tracks/webserverandtomcat.html)

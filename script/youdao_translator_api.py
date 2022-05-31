@@ -1,9 +1,14 @@
+## ---------------------------------------------------------------------------
+## this code from official use guide:
+## https://ai.youdao.com/DOCSIRMA/html/自然语言翻译/API文档/文本翻译服务/文本翻译服务-API文档.html
+## must run with APP_KEY & APP_SECRET, get from here:
+## https://ai.youdao.com/
+## ---------------------------------------------------------------------------
 # -*- coding: utf-8 -*-
 import sys
 import uuid
 import requests
 import hashlib
-import time
 from imp import reload
 import json
 import time

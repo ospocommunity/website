@@ -75,7 +75,7 @@ column_name_transform_dict = {
     "abstract": "内容摘要",
     "speaker_name": "讲师{}-姓名",
     "speaker_company": "讲师{}-单位名称",
-    "speaker_title": "讲师{}-简介",
+    "speaker_title": "讲师{}-职称",
     "speaker_bios": "讲师{}-简介",
     "time_schedule": "日程安排"
 }
@@ -96,9 +96,9 @@ def write_origin_file(file, file_name, mate_data, abstract, speakers_arr):
     head_img = '<img src="images/speaker/{}" width="200" />'
     for index, speaker in enumerate(speakers_arr):
         if index == 0:
-            head_img_name = file_name+".png"
+            head_img_name = file_name.split("-")[1]+".png"
         else:
-            head_img_name = file_name + "_" + str(index+1) + ".png"
+            head_img_name = file_name.split("-")[1] + "_" + str(index+1) + ".png"
         file.write(head_img.format(head_img_name))
         file.write("\n ")
         file.write(speaker_data.format(speaker[0], speaker[1], speaker[2], speaker[3]))
@@ -119,9 +119,9 @@ def write_translate_file(file, file_name, mate_data, abstract, speakers_arr, tra
         bios = translator(speaker[3], trans_from, trans_to)
 
         if index == 0:
-            head_img_name = file_name + ".png"
+            head_img_name = file_name.split("-")[1] + ".png"
         else:
-            head_img_name = file_name + "_" + str(index + 1) + ".png"
+            head_img_name = file_name.split("-")[1] + "_" + str(index + 1) + ".png"
         file.write(head_img.format(head_img_name))
         file.write("\n ")
         file.write(speaker_data.format(name, company, title, bios))
@@ -159,6 +159,7 @@ for index in sessions.index:
         # create the markdown file
         print(session_title)
         file_name = str(index + 1000)
+        file_name = track_name + "-" + file_name
         markdown_en_file = open(file_name + ".md", "w+", encoding="utf8")
         markdown_zh_file = open(file_name + ".zh.md", "w+", encoding="utf8")
         mate_data = '---\ntitle: "{}"\ndate: "{}" \ntrack: "{}"\npresenters: "{}"\nstype: "{}"\n---\n'

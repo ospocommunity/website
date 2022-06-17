@@ -58,7 +58,6 @@ def translator(q, trans_from, trans_to):
         res_json = json.loads(response.text)
         # print(res_json)
         error_code = res_json.get("errorCode")
-        # print(error_code)
         if error_code == "0":
             return res_json.get("translation")[0]
         else:

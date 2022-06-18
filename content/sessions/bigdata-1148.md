@@ -14,7 +14,6 @@ The S3A connector is the first object store to provide a custom implementation, 
 
 We will introduce the API spec, the S3A implementation and the benchmarks, and show how to use it in your own applications. We will also cover our ongoing work on providing similar speedups with other object stores, and use of the API in other applications.
  ### Speakers: 
- <img src="images/speaker/1148.png" width="200" />
- Thakur, Mukund: Apache APISIX, Cloudera, I am an active committer of Apache Hadoop project currently working at Cloudera focusing on Cloud Storage Connectors (aws, azure and gcs) and Ranger Authorization. 
-I have total experience of 8 years designing and developing large scale distributed systems. Apart from software development, I love doing yoga and hiking in the Himalayas.
+ <img src="images/speaker/1148.png" width="200" /><br>Thakur, Mukund: Apache APISIX, Cloudera, I am an active committer of Apache Hadoop project currently working at Cloudera focusing on Cloud Storage Connectors (aws, azure and gcs) and Ranger Authorization. 
+I have total experience of 8 years designing and developing large scale distributed systems. Apart from software development, I love doing yoga and hiking in the Himalayas.
  

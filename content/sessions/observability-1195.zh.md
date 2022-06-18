@@ -3,7 +3,7 @@ title: "Apache SkyWalking:一个开源的整体应用程序性能监控和观察
 date: "" 
 track: "observability"
 presenters: "Navarro Sonnenfeld, Marc"
-stype: "English Session"
+stype: "英文演讲"
 ---
 Apache Skywalking是一款用于分布式系统的应用程序性能监控和可观察性工具，特别为微服务、云本地和基于容器(Kubernetes)架构设计的——有或没有服务网格。
 
@@ -18,6 +18,5 @@ Apache Skywalking是一款用于分布式系统的应用程序性能监控和可
 —随需应变日志。
 -基于ebp的交互式分析，用于C, c++， Golang和Rust。
  ### Speakers: 
- <img src="images/speaker/1195.png" width="200" />
- 纳瓦罗桑尼菲尔德,马克: Tetrate, 软件工程师, Marc是一名软件工程师，在Tetrate工作，为多个集群服务网格提供统一的可观察性体验。此前，他曾在Oracle-Netsuite担任高级软件工程师，专注于扩展业务事件处理平台，并参与提高公司的性能和分析经验。他拥有15年以上的企业应用后端开发经验，是巴塞罗那GolangBCN meetup社区的联合创始人和主要组织者。
+ <img src="images/speaker/1195.png" width="200" /><br>纳瓦罗桑尼菲尔德,马克: Tetrate, 软件工程师, Marc是一名软件工程师，在Tetrate工作，为多个集群服务网格提供统一的可观察性体验。此前，他曾在Oracle-Netsuite担任高级软件工程师，专注于扩展业务事件处理平台，并参与提高公司的性能和分析经验。他拥有15年以上的企业应用后端开发经验，是巴塞罗那GolangBCN meetup社区的联合创始人和主要组织者。
  

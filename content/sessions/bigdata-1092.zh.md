@@ -3,7 +3,7 @@ title: "使用Apache Kafka、Apache Pinot和Streamlit构建实时分析仪表板
 date: "" 
 track: "bigdata"
 presenters: "Dhanushka, Dunith,Wolok, Karin"
-stype: "English Session"
+stype: "英文演讲"
 ---
 当你听到“决策者”，你会很自然地想到“C-suite”或“executive”。
 
@@ -15,8 +15,6 @@ stype: "English Session"
 
 这个会话是针对想要快速理解流数据的应用程序开发人员和数据工程师的。
  ### Speakers: 
- <img src="images/speaker/1092.png" width="200" />
- Dhanushka, Dunith: StarTree, 开发人员主, Dunith Dhanushka是一位经验丰富的IT专业人士，在大型事件驱动系统的架构、构建和咨询方面拥有超过十年的经验。他对探索企业数据管理领域的创新尤其感兴趣，包括流媒体平台、实时分析和分布式数据库。Dunith目前是StarTree的一名开发者。
- <img src="images/speaker/1092_2.png" width="200" />
- Wolok,卡琳: StarTree, 开发者社区和营销主管, Karin目前是StarTree开发者关系团队的开发者社区编程负责人，StarTree是Apache Pinot的创始人创立的初创公司。Karin最初的职业生涯是在娱乐营销领域，与艾米纳姆和Live Nation等公司合作。她还在美国的两个主要城市成功地建立了一个职业女性网络，为当地的数据科学聚会组织了活动，并帮助领导了一场正在进行的黑客马拉松，将机器学习交到癌症生物学家手中。她的数据工作之旅最终让她成为了世界领先的图形数据库Neo4j的社区开发项目经理。最近，她加入了StarTree，以改善整个开发者社区的采用和成功。
+ <img src="images/speaker/1092.png" width="200" /><br>Dhanushka, Dunith: StarTree, 开发人员主, Dunith Dhanushka是一位经验丰富的IT专业人士，在大型事件驱动系统的架构、构建和咨询方面拥有超过十年的经验。他对探索企业数据管理领域的创新尤其感兴趣，包括流媒体平台、实时分析和分布式数据库。Dunith目前是StarTree的一名开发者。
+ <img src="images/speaker/1092_2.png" width="200" /><br>Wolok,卡琳: StarTree, 开发者社区和营销主管, Karin目前是StarTree开发者关系团队的开发者社区编程负责人，StarTree是Apache Pinot的创始人创立的初创公司。Karin最初的职业生涯是在娱乐营销领域，与艾米纳姆和Live Nation等公司合作。她还在美国的两个主要城市成功地建立了一个职业女性网络，为当地的数据科学聚会组织了活动，并帮助领导了一场正在进行的黑客马拉松，将机器学习交到癌症生物学家手中。她的数据工作之旅最终让她成为了世界领先的图形数据库Neo4j的社区开发项目经理。最近，她加入了StarTree，以改善整个开发者社区的采用和成功。
  

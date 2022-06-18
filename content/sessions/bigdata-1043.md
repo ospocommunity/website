@@ -11,10 +11,9 @@ But building scalable applications isn’t as easy as just throwing more servers
 
 In this presentation, Paul will explore some of the performance goals, challenges, solutions, and insights I discovered over the last 5 years of building multiple realistic demonstration applications. The examples include benchmarking and diagnosing a performance problem we encountered before releasing our managed Apache Kafka offering on AWS’s Graviton2 (ARM) instances, trade-offs and automation of elastic Cassandra auto-scaling, scaling a Cassandra and Kafka anomaly detection application to 19 Billion checks per day, understanding and mitigating the impact of Kafka partitions and replication on cluster throughput, and building low-latency streaming data pipelines using Kafka Connect.
  ### Speakers: 
- <img src="images/speaker/1043.png" width="200" />
- Paul Brebner: Instaclustr, Chief Technology Evangelist, Paul is the Technology Evangelist at Instaclustr. He’s been learning new scalable technologies, solving realistic problems, building applications, and blogging and talking about many open source technologies including Apache Cassandra, Apache Kafka, Apache Spark, Apache Zookeeper, Redis, Elasticsearch, 
+ <img src="images/speaker/1043.png" width="200" /><br>Paul Brebner: Instaclustr, Chief Technology Evangelist, Paul is the Technology Evangelist at Instaclustr. He’s been learning new scalable technologies, solving realistic problems, building applications, and blogging and talking about many open source technologies including Apache Cassandra, Apache Kafka, Apache Spark, Apache Zookeeper, Redis, Elasticsearch, 
  PostgreSQL, Debezium, Cadence, and more. 
 Since learning to program on a VAX 11/780, Paul has extensive R&D and consulting experience in distributed systems, technology innovation, software architecture and engineering, software performance and scalability, grid and cloud computing, and data analytics and machine learning.
 
-Paul has worked at UNSW, several tech start-ups, CSIRO, UCL (UK), and NICTA. Paul has an MSc in Machine Learning and a BSc (Computer Science and Philosophy).
+Paul has worked at UNSW, several tech start-ups, CSIRO, UCL (UK), and NICTA. Paul has an MSc in Machine Learning and a BSc (Computer Science and Philosophy).
  

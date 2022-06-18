@@ -15,7 +15,6 @@ Some related numbers:
 - the frontend is in Angular
 - the backend uses Apache Atlas, HBase, Apache Kafka, Apache Flink, Keycloak, Apache Httpd, elasticsearch and elastic enterprise search
  ### Speakers: 
- <img src="images/speaker/1060.png" width="200" />
- Wombacher, Andreas: Aurelius Enterprise B.V., CTO, Andreas has extensive expertise in workflow and data management. Ranging from data integration, sensor data fusion, data mining, and data analysis towards understanding the dependencies of data created in a workflow environment.  This includes compliance testing, data provenance, process mining and process variance mining. Andreas has worked with data on different scales and abstraction levels from time series sensor data to information system  or human event data. As a consequence, Andreas has experience in techniques ranging from in memory data analysis to Hadoop distributed data processing.
-Due to the hands-on experience in various environments Andreas has been in the role of a data architect in various customer engagements.
+ <img src="images/speaker/1060.png" width="200" /><br>Wombacher, Andreas: Aurelius Enterprise B.V., CTO, Andreas has extensive expertise in workflow and data management. Ranging from data integration, sensor data fusion, data mining, and data analysis towards understanding the dependencies of data created in a workflow environment.  This includes compliance testing, data provenance, process mining and process variance mining. Andreas has worked with data on different scales and abstraction levels from time series sensor data to information system  or human event data. As a consequence, Andreas has experience in techniques ranging from in memory data analysis to Hadoop distributed data processing.
+Due to the hands-on experience in various environments Andreas has been in the role of a data architect in various customer engagements.
  

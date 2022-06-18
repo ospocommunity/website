@@ -100,9 +100,9 @@ def write_origin_file(file, file_name, mate_data, abstract, speakers_arr):
         else:
             head_img_name = file_name.split("-")[1] + "_" + str(index+1) + ".png"
         file.write(head_img.format(head_img_name))
-        file.write("\n ")
+        file.write("<br>")
         file.write(speaker_data.format(speaker[0], speaker[1], speaker[2], speaker[3]))
-        file.write("\n ")
+        file.write("\r\n ")
     file.close()
 
 
@@ -123,9 +123,9 @@ def write_translate_file(file, file_name, mate_data, abstract, speakers_arr, tra
         else:
             head_img_name = file_name.split("-")[1] + "_" + str(index + 1) + ".png"
         file.write(head_img.format(head_img_name))
-        file.write("\n ")
+        file.write("<br>")
         file.write(speaker_data.format(name, company, title, bios))
-        file.write("\n ")
+        file.write("\r\n ")
     file.close()
 
 
@@ -173,40 +173,40 @@ for index in sessions.index:
         speakers = ",".join(speakers)
 
         if translator_type == translator_type_en:
-            session_type = session_types_dictionary.get(session_type)
+            session_type_en = session_types_dictionary.get(session_type)
             mate_data_str = mate_data.format(session_title,
                                              schedule_time,
                                              track_name,
                                              speakers,
-                                             session_type)
+                                             session_type_en)
             write_origin_file(markdown_en_file, file_name, mate_data_str, session_abstract, speakers_arr)
             # Translate English to Chinese
             session_title_cn = translator(session_title, trans_en_code, trans_cn_code)
+            session_type_cn = session_types_chinese_dictionary.get(session_type)
             mate_data_str_cn = mate_data.format(session_title_cn,
                                                 schedule_time,
                                                 track_name,
                                                 speakers,
-                                                session_type)
+                                                session_type_cn)
 
             write_translate_file(markdown_zh_file, file_name,  mate_data_str_cn, session_abstract, speakers_arr, trans_en_code,
                                  trans_cn_code)
 
         elif translator_type == translator_type_zh:
-            session_type = session_types_chinese_dictionary.get(session_type)
+            session_type_cn = session_types_chinese_dictionary.get(session_type)
             mate_data_str = mate_data.format(session_title,
                                              schedule_time,
                                              track_name,
                                              speakers,
-                                             session_type)
+                                             session_type_cn)
             write_origin_file(markdown_zh_file, file_name, mate_data_str, session_abstract, speakers_arr)
-
             # Translate Chinese to English
-            session_type = session_types_dictionary.get(session_type)
+            session_type_en = session_types_dictionary.get(session_type)
             session_title_en = translator(session_title, trans_cn_code, trans_en_code)
             mate_data_str_en = mate_data.format(session_title_en,
                                                 schedule_time,
                                                 track_name,
                                                 speakers,
-                                                session_type)
+                                                session_type_en)
             write_translate_file(markdown_en_file, file_name, mate_data_str_en, session_abstract, speakers_arr, trans_cn_code,
                                  trans_en_code)

@@ -10,9 +10,8 @@ stype: "中文演讲"
 3.shenyu网关的未来规划
 4.shenyu网关的社区治理
  ### Speakers: 
- <img src="images/speaker/1024.png" width="200" />
- 肖宇: 京东科技, 架构师, Apache ShenYu网关创始人 && PPMC
+ <img src="images/speaker/1024.png" width="200" /><br>肖宇: 京东科技, 架构师, Apache ShenYu网关创始人 && PPMC
 Dromara开源组织创始人
 Hmily，Raincat等分布式事务框架作者
-著《深入理解分布式事务 原理与实战》
+著《深入理解分布式事务 原理与实战》
  

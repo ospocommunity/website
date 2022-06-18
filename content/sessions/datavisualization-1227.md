@@ -11,6 +11,5 @@ Currently the project is working on introducing a rich set of interactive featur
 
 In the talk we'll be exploring the details of the feature, new context menus, hooks for extending the functionality and using the feature when building custom visualization plugins and timelines. We'll also show how the feature integrates with Apache ECharts (the main visualization library used by Superset), and plans for future development.
  ### Speakers: 
- <img src="images/speaker/1227.png" width="200" />
- Brofeldt, Ville: Apple, Software Engineer, Ville Brofeldt is a long standing committer and PMC member of the Apache Superset project, with extensive experience in data visualization, data engineering and predictive analytics.
+ <img src="images/speaker/1227.png" width="200" /><br>Brofeldt, Ville: Apple, Software Engineer, Ville Brofeldt is a long standing committer and PMC member of the Apache Superset project, with extensive experience in data visualization, data engineering and predictive analytics.
  

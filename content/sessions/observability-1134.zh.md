@@ -3,7 +3,7 @@ title: "Apache SkyWalking MAL实践——vm和Kubernetes监控"
 date: "" 
 track: "observability"
 presenters: "Kai Wan"
-stype: "English Session"
+stype: "英文演讲"
 ---
 Apache SkyWalking支持自定义指标，并与主流指标生态集成，为指标分析和计算提供了一个指标系统。MAL(韵律分析语言)是为分析设置这些规则的语言。用户可以使用它对这些源指标执行分析计算。在这项提议中将分享:
 什么是MAL，什么场景应该使用它。
@@ -12,7 +12,6 @@ MAL的基本数据流和语法格式。
 MAL的虚拟机监控实践。
 Kubernetes监测MAL的实践。
  ### Speakers: 
- <img src="images/speaker/1134.png" width="200" />
- 凯万: Apache APISIX, Tetrate, 他是Tetrate的工程师，专注于可观察性。
-Apache SkyWalking提交者和PMC成员。
+ <img src="images/speaker/1134.png" width="200" /><br>凯万: Apache APISIX, Tetrate, 他是Tetrate的工程师，专注于可观察性。
+Apache SkyWalking提交者和PMC成员。
  

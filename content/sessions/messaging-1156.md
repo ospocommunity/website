@@ -11,6 +11,5 @@ Therefore, instead of increasing the configuration of max message size, Pulsar p
 
 In this talk, Zike Yang will explain the concept of message chunking, deep dive into its implementation, and share best practices for this feature.
  ### Speakers: 
- <img src="images/speaker/1156.png" width="200" />
- Zike Yang: StreamNative, Software Engineer, Zike Yang is a software engineer at Streamnative. He is also an Apache Pulsar committer.
+ <img src="images/speaker/1156.png" width="200" /><br>Zike Yang: StreamNative, Software Engineer, Zike Yang is a software engineer at Streamnative. He is also an Apache Pulsar committer.
  

@@ -77,10 +77,9 @@ Oozie 与相关项目的社区贡献
 11. https://issues.apache.org/jira/browse/FLINK-22329 
 12. https://issues.apache.org/jira/browse/FLINK-22534
  ### Speakers: 
- <img src="images/speaker/1251.png" width="200" />
- 张俊帆: 爱奇艺, 大数据工程师, 开源项目
+ <img src="images/speaker/1251.png" width="200" /><br>张俊帆: 爱奇艺, 大数据工程师, 开源项目
 个人参与 Flink/Oozie/Hadoop 等大数据项目，负责维护 github.com/tony-framework/tony
 开源地址：github.com/zuston
 
-过去无演讲记录
+过去无演讲记录
  

@@ -14,6 +14,5 @@ stype: "中文演讲"
   - 微服务和云原生
 3. 技术预览版使用演示
  ### Speakers: 
- <img src="images/speaker/1144.png" width="200" />
- 俞霄翔: Kyligence, 高级研发工程师, Apache Kylin PMC member
+ <img src="images/speaker/1144.png" width="200" /><br>俞霄翔: Kyligence, 高级研发工程师, Apache Kylin PMC member
  

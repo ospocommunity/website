@@ -3,7 +3,7 @@ title: "Make Apache Pulsar as Lakehouse: Introduction Lakehouse Tiered Storage I
 date: "" 
 track: "messaging"
 presenters: "陈航"
-stype: "None"
+stype: "Chinese Session"
 ---
 Apache Pulsar is a message bus to cache data and decouples between different systems. To support long-term topic data storage, we introduced tiered storage to offload cold data into tiered storage such as GCS, S3, HDFS, etc. However, current offloaded data is organized by Pulsar and is not open-format, which is a raw data format, and only Pulsar can access the data. It is hard to integrate with other significant data components, such as Presto, Flink SQL, and Spark SQL.
 
@@ -15,6 +15,5 @@ To support streaming offload and make the offloading mechanism more scalable, we
 
 Moreover, we also can provide a compaction service backend by offloader and act the topic as a table. Each update operation for a key is transformed as an upsert action to the table.
  ### Speakers: 
- <img src="images/speaker/1188.png" width="200" />
- Chen hang: StreamNative, Engineer, Hang Chen is an engineer from StreamNative, and he is an Apache Pulsar PMC member. He focuses on storage modules for Pulsar, including BookKeeper, tiered storage, and lakehouse.
+ <img src="images/speaker/1188.png" width="200" /><br>Chen hang: StreamNative, Engineer, Hang Chen is an engineer from StreamNative, and he is an Apache Pulsar PMC member. He focuses on storage modules for Pulsar, including BookKeeper, tiered storage, and lakehouse.
  

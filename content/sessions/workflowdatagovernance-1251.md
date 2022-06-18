@@ -3,7 +3,7 @@ title: "In-depth practice of Apache Oozie"
 date: "" 
 track: "workflowdatagovernance"
 presenters: "张俊帆"
-stype: "None"
+stype: "Chinese Session"
 ---
 In recent years, the field of offline processing of big data is gradually mature and perfect, and in the field of offline task scheduling, that is, workflow, a variety of project tools are emerging in an endless stream. Apache's first workflow scheduler Oozie has been around for more than 10 years, while dolphinScheduler and Airflow have attracted a lot of interest, demonstrating that there is still plenty of life in the workflow scheduler space.
 
@@ -77,10 +77,9 @@ Added Flink Batch Action, Flink side compatibility
 11. https://issues.apache.org/jira/browse/FLINK-22329
 12. https://issues.apache.org/jira/browse/FLINK-22534
  ### Speakers: 
- <img src="images/speaker/1251.png" width="200" />
- Zhang Junfan: iQIYI, Big data Engineer, The open source project
+ <img src="images/speaker/1251.png" width="200" /><br>Zhang Junfan: iQIYI, Big data Engineer, The open source project
 Personally participate in big data projects such as Flink/Oozie/Hadoop and maintain github.com/tony-framework/tony
 Open source address: github.com/zuston
 
-No record of past speeches
+No record of past speeches
  

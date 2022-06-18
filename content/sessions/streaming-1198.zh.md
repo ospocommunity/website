@@ -14,6 +14,5 @@ Volcano正是针对这些需求应运而生的。同时，Volcano继承了Kubern
 
 下面让我们针对CNCF PodGroup概念进行展开，领略一下Flink on K8S 和 volcano如何让Flink job按照我们的意愿运行。
  ### Speakers: 
- <img src="images/speaker/1198.png" width="200" />
- 赵波: 华为, 无, 从事Flink计算框架相关研究
+ <img src="images/speaker/1198.png" width="200" /><br>赵波: 华为, 无, 从事Flink计算框架相关研究
  

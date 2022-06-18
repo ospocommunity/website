@@ -3,7 +3,7 @@ title: "Spark是否需要超能力团队?"
 date: "" 
 track: "streaming"
 presenters: "Merlino, Gian"
-stype: "English Session"
+stype: "英文演讲"
 ---
 在短短十多年的时间里，Spark已经从一个大学实验室项目成长为Apache软件基金会最活跃的项目之一，其提交者和用户遍布全球。作为在单节点机器或集群上执行数据工程、数据科学和机器学习的多语言引擎，Apache Spark™已经证明了它的价值。
 
@@ -11,6 +11,5 @@ stype: "English Session"
 
 Gian Merlino, Apache Druid®的提交者和Imply的联合创始人将展示实时分析数据库是如何补充Spark的能力的，展示两种技术是如何合作来增强高性能系统的。形式可靠的机器学习数据工作流!具有高并发性和低延迟并结合流和批处理数据的交互式数据对话的数据库形状!
  ### Speakers: 
- <img src="images/speaker/1124.png" width="200" />
- Merlino,吉安: 暗示, 联合创始人兼首席技术官, 吉安是Imply的联合创始人兼首席技术官。Gian也是Apache Druid的主要提交者之一。此前，Gian曾在Metamarkets领导数据摄入团队，并在雅虎担任高级工程职位。他拥有加州理工学院计算机科学学士学位。
+ <img src="images/speaker/1124.png" width="200" /><br>Merlino,吉安: 暗示, 联合创始人兼首席技术官, 吉安是Imply的联合创始人兼首席技术官。Gian也是Apache Druid的主要提交者之一。此前，Gian曾在Metamarkets领导数据摄入团队，并在雅虎担任高级工程职位。他拥有加州理工学院计算机科学学士学位。
  

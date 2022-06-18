@@ -11,10 +11,9 @@ There's no secret sauce, it's alll about true openness and inclusiveness, the wi
 
 In this talk you will learn the best practices for open source project leadership.
  ### Speakers: 
- <img src="images/speaker/1163.png" width="200" />
- Yacine Si Tayeb, PhD: SpereEx & Apache ShardingSphere, Head of International Operations, Passionate about technology and innovation, Yacine moved to Beijing to pursue his Ph.D., and fell in awe of the local startup and tech scene.
+ <img src="images/speaker/1163.png" width="200" /><br>Yacine Si Tayeb, PhD: SpereEx & Apache ShardingSphere, Head of International Operations, Passionate about technology and innovation, Yacine moved to Beijing to pursue his Ph.D., and fell in awe of the local startup and tech scene.
 
 His career path has so far been shaped by opportunities at the intersection of technology and business.
 
-Recently he took on a keen interest in the development of the ShardingSphere Big Data & database ecosystem, and open source community building.
+Recently he took on a keen interest in the development of the ShardingSphere Big Data & database ecosystem, and open source community building.
  

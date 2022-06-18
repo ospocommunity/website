@@ -10,8 +10,7 @@ stype: "Chinese Session"
 3. InLong Sort implementation details
 4. Practice case
  ### Speakers: 
- <img src="images/speaker/1098.png" width="200" />
- Yunqing Mo: Tencent Cloud, Big data senior engineer, Yunqing Mo: a Big Data practitioner.
+ <img src="images/speaker/1098.png" width="200" /><br>Yunqing Mo: Tencent Cloud, Big data senior engineer, Yunqing Mo: a Big Data practitioner.
 Ongoing open source projects: Apache InLong
-Previous speaking experience: Participating for the first time
+Previous speaking experience: Participating for the first time
  

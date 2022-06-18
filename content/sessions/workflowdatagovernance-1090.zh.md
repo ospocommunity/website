@@ -13,6 +13,5 @@ stype: "中文演讲"
 3、增加了对已部署的各个服务器留存任务执行的情况
 4、对整体执行性能的优化等
  ### Speakers: 
- <img src="images/speaker/1090.png" width="200" />
- 刘武: 联通数字科技有限公司, 数据开发工程师, 联通数字科技有限公司，参与公司dolphinscheduler调度在公司的集成，二次开发
+ <img src="images/speaker/1090.png" width="200" /><br>刘武: 联通数字科技有限公司, 数据开发工程师, 联通数字科技有限公司，参与公司dolphinscheduler调度在公司的集成，二次开发
  

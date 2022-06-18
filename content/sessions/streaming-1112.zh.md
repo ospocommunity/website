@@ -13,9 +13,8 @@ digital dag framework 是京东零售数据与智能基于京东业务特点，�
 
     等技术要点，主要分享京东零售数据与智能部积累的一些机器学习工程和相关数据分析的技术场景和相应的解决方案
  ### Speakers: 
- <img src="images/speaker/1112.png" width="200" />
- ying zhang: 京东, 算法工程师, 我曾经负责搜推数据处理和轻量级训练系统和在线学习数据链路的搭建，包括Feature Dump 链路构建、label pipeline 的搭建、样本拼接、样本预处理、特征工程和小模型分布式训练，目前在负责数据分析优化部实时计算业务，并且希望在此基础之上沉淀出一套完整且能高效赋能业务的框架
+ <img src="images/speaker/1112.png" width="200" /><br>ying zhang: 京东, 算法工程师, 我曾经负责搜推数据处理和轻量级训练系统和在线学习数据链路的搭建，包括Feature Dump 链路构建、label pipeline 的搭建、样本拼接、样本预处理、特征工程和小模型分布式训练，目前在负责数据分析优化部实时计算业务，并且希望在此基础之上沉淀出一套完整且能高效赋能业务的框架
 
 
-比较积极参与社区，alink、dl on flink 等多个开源项目的contributor，曾经在Flink Forward Asia 2021 和 InfoQ QCon+ 案例研习社全球软件大会进行过演讲
+比较积极参与社区，alink、dl on flink 等多个开源项目的contributor，曾经在Flink Forward Asia 2021 和 InfoQ QCon+ 案例研习社全球软件大会进行过演讲
  

@@ -3,7 +3,7 @@ title: "使用Apache ECharts在Apache Superset中引入高级的下钻功能"
 date: "" 
 track: "datavisualization"
 presenters: "Brofeldt, Ville"
-stype: "English Session"
+stype: "英文演讲"
 ---
 目前Apache Superset的功能是仪表板原生过滤器，这使得向仪表板添加交互式过滤器成为可能，从而控制图表上显示的数据。然而，到目前为止，只有精选图表类型提供了向其他图表发出过滤器的交叉过滤功能，这限制了用户交互主要局限于本地过滤器。
 
@@ -11,6 +11,5 @@ stype: "English Session"
 
 在这次演讲中，我们将探索该特性的细节，新的上下文菜单，扩展功能的钩子，以及在构建自定义可视化插件和时间轴时使用该特性。我们还将展示该特性如何与Apache ECharts (Superset使用的主要可视化库)集成，以及未来的开发计划。
  ### Speakers: 
- <img src="images/speaker/1227.png" width="200" />
- Brofeldt,城镇: 苹果, 软件工程师, Ville Brofeldt是Apache Superset项目的长期提交者和PMC成员，在数据可视化、数据工程和预测分析方面拥有丰富的经验。
+ <img src="images/speaker/1227.png" width="200" /><br>Brofeldt,城镇: 苹果, 软件工程师, Ville Brofeldt是Apache Superset项目的长期提交者和PMC成员，在数据可视化、数据工程和预测分析方面拥有丰富的经验。
  

@@ -3,7 +3,7 @@ title: "在Tomcat中扩展阀门"
 date: "" 
 track: "webserverandtomcat"
 presenters: "Jacob, Dennis"
-stype: "English Session"
+stype: "英文演讲"
 ---
 在Tomcat中，阀门充当请求预处理机制。可以通过扩展基本的Valve Class来开发定制阀门，以集成Tomcat服务器接受的请求的附加功能。请求速率限制、实现增强的mTLS安全性、调试机制等都是一些示例，在这些示例中，可以利用定制的Tomcat valve来扩展Tomcat的功能。
 
@@ -15,6 +15,5 @@ stype: "English Session"
 
 阀门是Tomcat中的一种强大机制，它利用了Tomcat请求处理管道的功能。Tomcat valve的功能可以通过定制阀门进行扩展，以满足如上所述的不同用例。
  ### Speakers: 
- <img src="images/speaker/1146.png" width="200" />
- 雅各,丹尼斯: Apache APISIX, 签证, 我目前在一家领先的支付技术组织担任中间件工程的高级顾问，拥有18年的IT经验。除了中间件工程，我的兴趣还包括应用程序安全和本地云技术。我热衷于尝试最新的技术进步，并向社区和当地团体发表演讲。
+ <img src="images/speaker/1146.png" width="200" /><br>雅各,丹尼斯: Apache APISIX, 签证, 我目前在一家领先的支付技术组织担任中间件工程的高级顾问，拥有18年的IT经验。除了中间件工程，我的兴趣还包括应用程序安全和本地云技术。我热衷于尝试最新的技术进步，并向社区和当地团体发表演讲。
  

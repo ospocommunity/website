@@ -3,7 +3,7 @@ title: "Making Flink K8S works as your wish"
 date: "" 
 track: "streaming"
 presenters: "赵波"
-stype: "None"
+stype: "Chinese Session"
 ---
 Let Flink run better in K8S. Now K8S has slowly entered online deployment service. In the whole process of big data technology evolution, we have higher demand for Flink job running on K8S.
 1. In the case of resource shortage, we need Flink jobs to run in sequence according to certain rules.
@@ -14,6 +14,5 @@ Volcano is responding to those needs. Meanwhile, Volcano inherits the design sty
 
 Let's expand on the CNCF PodGroup concept and see how Flink on K8S and Volcano make The Flink Job work the way we want it to.
  ### Speakers: 
- <img src="images/speaker/1198.png" width="200" />
- Dr. Bo: huawei, There is no, Engaged in the research of Flink computing framework
+ <img src="images/speaker/1198.png" width="200" /><br>Dr. Bo: huawei, There is no, Engaged in the research of Flink computing framework
  

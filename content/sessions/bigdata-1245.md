@@ -3,7 +3,7 @@ title: "Big data infrastructure system evolution"
 date: "" 
 track: "bigdata"
 presenters: "张伟伟"
-stype: "None"
+stype: "Chinese Session"
 ---
 When planning the evolution of big data architecture, The main focus of Big data is: business support, stability, security, cost control, efficiency, to create a solid foundation, powerful big data infrastructure and platform services, support data value and data empowerment, and help the company's business high-quality growth.
 This talk will share the ongoing work of the Big data infrastructure team based on these goals: global big data infrastructure and optimization based on Hadoop ecosystem and hybrid cloud, stability assurance, security assurance, big data cloud native, etc.
@@ -36,6 +36,5 @@ Understand the architecture components based on hybrid cloud and globalization
 Understand typical big data infrastructure-oriented construction approaches
 Understand the construction practices in storage computing, stability, and data security
  ### Speakers: 
- <img src="images/speaker/1245.png" width="200" />
- Wei-wei zhang: Shenzhen Lala Technology Co., LTD, Head of big Data SRE, I am the person in charge of big data SRE, responsible for ensuring the stability of large-scale Hadoop cluster and related ecosystem, and participating in the construction of big data security system and cost control. I have years of experience in cross-cloud architecture system.
+ <img src="images/speaker/1245.png" width="200" /><br>Wei-wei zhang: Shenzhen Lala Technology Co., LTD, Head of big Data SRE, I am the person in charge of big data SRE, responsible for ensuring the stability of large-scale Hadoop cluster and related ecosystem, and participating in the construction of big data security system and cost control. I have years of experience in cross-cloud architecture system.
  

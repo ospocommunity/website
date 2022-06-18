@@ -3,7 +3,7 @@ title: "如何促进与上市公司的开源合作"
 date: "" 
 track: "community"
 presenters: "Yacine Si Tayeb, PhD"
-stype: "English Session"
+stype: "英文演讲"
 ---
 如何让开源社区从少数贡献者成长为中国领先的社区和世界上增长最快的Apache项目之一?
 
@@ -11,10 +11,9 @@ stype: "English Session"
 
 在这次演讲中，你将学到开源项目领导的最佳实践。
  ### Speakers: 
- <img src="images/speaker/1163.png" width="200" />
- Yacine Si Tayeb博士: SpereEx和Apache ShardingSphere, 国际业务主管, 亚辛对技术和创新充满热情，他来到北京攻读博士学位，并对当地的初创企业和科技行业充满敬畏。
+ <img src="images/speaker/1163.png" width="200" /><br>Yacine Si Tayeb博士: SpereEx和Apache ShardingSphere, 国际业务主管, 亚辛对技术和创新充满热情，他来到北京攻读博士学位，并对当地的初创企业和科技行业充满敬畏。
 
 迄今为止，他的职业道路一直受到科技和商业交叉领域机遇的影响。
 
-最近，他对ShardingSphere大数据与数据库生态系统的开发以及开源社区建设产生了浓厚的兴趣。
+最近，他对ShardingSphere大数据与数据库生态系统的开发以及开源社区建设产生了浓厚的兴趣。
  

@@ -3,7 +3,7 @@ title: "Apache Linkis data processing practices"
 date: "" 
 track: "workflowdatagovernance"
 presenters: "李孟"
-stype: "None"
+stype: "Chinese Session"
 ---
 Linkis background
 Linkis builds a layer of computing middleware between the upper application and the lower engine. By using standard interfaces such as REST, WebSocket, and JDBC provided by Linkis, upper-layer applications can easily access low-level engines such as Spark, Presto, and Flink, and realize cross-engine context sharing, unified computing tasks, and engine governance and choreography capabilities.
@@ -15,6 +15,5 @@ Dolphinscheduler pull Linkis computing tasks, dolphinscheduler Shell task type T
 summary
 To this Linkis data processing of the overall link, involving metadata, scheduling tasks, forming a complete closed loop.
  ### Speakers: 
- <img src="images/speaker/1132.png" width="200" />
- Li Meng: Shanghai Xianweng Technology co, The data architecture, Years of experience in data architecture, CSDN blogger, open source enthusiast, Beam community contributor, WeDataSphere community contributor.
+ <img src="images/speaker/1132.png" width="200" /><br>Li Meng: Shanghai Xianweng Technology co, The data architecture, Years of experience in data architecture, CSDN blogger, open source enthusiast, Beam community contributor, WeDataSphere community contributor.
  

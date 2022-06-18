@@ -11,7 +11,6 @@ stype: "中文演讲"
 - Flink流批一体在物流业务中的落地实践；
 - 未来计划。
  ### Speakers: 
- <img src="images/speaker/1057.png" width="200" />
- 康琪: 京东, 技术专家, 京东物流技术专家，专注于实时计算和流批一体领域。
-Apache Flink & Apache Calcite Contributor；Flink Forward Asia 2021讲师。
+ <img src="images/speaker/1057.png" width="200" /><br>康琪: 京东, 技术专家, 京东物流技术专家，专注于实时计算和流批一体领域。
+Apache Flink & Apache Calcite Contributor；Flink Forward Asia 2021讲师。
  

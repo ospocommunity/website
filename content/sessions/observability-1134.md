@@ -12,7 +12,6 @@ How to analyze metrics by MAL.
 VMs monitoring practices by MAL.
 Kubernetes monitoring practices by MAL.
  ### Speakers: 
- <img src="images/speaker/1134.png" width="200" />
- Kai Wan: Apache APISIX, Tetrate, An engineer at Tetrate and focus on observability.
-Apache SkyWalking committer and PMC member.
+ <img src="images/speaker/1134.png" width="200" /><br>Kai Wan: Apache APISIX, Tetrate, An engineer at Tetrate and focus on observability.
+Apache SkyWalking committer and PMC member.
  

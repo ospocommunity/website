@@ -3,7 +3,7 @@ title: "大规模迁移到Uber的Parquet"
 date: "" 
 track: "bigdata"
 presenters: "Huicheng Song"
-stype: "English Session"
+stype: "英文演讲"
 ---
 Parquet是Uber大数据栈的核心文件格式。在Uber的数据组织中，这是许多关键举措的先决条件，比如列级加密、列修剪等。
 
@@ -16,6 +16,5 @@ Parquet是Uber大数据栈的核心文件格式。在Uber的数据组织中，�
 
 该解决方案可以作为任何需要将大量Hive表和数据文件迁移到Parquet格式的人的参考
  ### Speakers: 
- <img src="images/speaker/1015.png" width="200" />
- Huicheng歌: 超级, 高级软件工程师, 优步软件工程师，大数据安全，文件格式统一
+ <img src="images/speaker/1015.png" width="200" /><br>Huicheng歌: 超级, 高级软件工程师, 优步软件工程师，大数据安全，文件格式统一
  

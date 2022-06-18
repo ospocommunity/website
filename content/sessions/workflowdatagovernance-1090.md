@@ -3,7 +3,7 @@ title: "Secondary development and practice of Apache DolphinScheduler scheduling
 date: "" 
 track: "workflowdatagovernance"
 presenters: "刘武"
-stype: "None"
+stype: "Chinese Session"
 ---
 Based on the secondary development of version 1.3.2, 80+ servers have been deployed in the company for operation and maintenance, and the functions of integration and interaction with other components have been expanded, such as background multi-machine, version upgrade, online batch management, etc
 
@@ -13,6 +13,5 @@ China Unicom's big data is developed on the basis of Apache Dolphinscheduler 1.3
 3. Added the execution of retained tasks on deployed servers
 4. Optimize the overall execution performance, etc
  ### Speakers: 
- <img src="images/speaker/1090.png" width="200" />
- Washington: Unicom Digital Technology Co. LTD, Data Development Engineer, Unicom Digital Technology Co., LTD. Participated in the integration and secondary development of DolphinScheduler scheduling in the company
+ <img src="images/speaker/1090.png" width="200" /><br>Washington: Unicom Digital Technology Co. LTD, Data Development Engineer, Unicom Digital Technology Co., LTD. Participated in the integration and secondary development of DolphinScheduler scheduling in the company
  

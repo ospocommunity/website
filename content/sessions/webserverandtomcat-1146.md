@@ -15,6 +15,5 @@ Debugging is also one useful application area of custom Tomcat Valves. There are
 
 Valves are a powerful mechanism in Tomcat that leverages the capabilities of Tomcat request processing pipeline. The capabilities of Tomcat Valves can be extended with custom Valves to meet different use cases such as explained above.
  ### Speakers: 
- <img src="images/speaker/1146.png" width="200" />
- Jacob, Dennis: Apache APISIX, VISA, I am currently working as a Senior Consultant in Middleware Engineering with a leading payment technology organization, with overall 18 years of IT experience. Apart from Middleware Engineering, my interests include application security and cloud native technologies. I am passionate about experimenting on the latest advancements in technology, and speaking to communities and local groups.
+ <img src="images/speaker/1146.png" width="200" /><br>Jacob, Dennis: Apache APISIX, VISA, I am currently working as a Senior Consultant in Middleware Engineering with a leading payment technology organization, with overall 18 years of IT experience. Apart from Middleware Engineering, my interests include application security and cloud native technologies. I am passionate about experimenting on the latest advancements in technology, and speaking to communities and local groups.
  

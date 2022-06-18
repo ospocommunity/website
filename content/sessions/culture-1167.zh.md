@@ -12,6 +12,5 @@ stype: "中文演讲"
 4. Apache 软件基金会旗下的开源项目优势在哪里？
 5. 开源项目商业化的风险识别
  ### Speakers: 
- <img src="images/speaker/1167.png" width="200" />
- 适兕: 「开源之道」, 主创, 适兕，作者，「开源之道」主创，Apache 本地共同体北京成员。
+ <img src="images/speaker/1167.png" width="200" /><br>适兕: 「开源之道」, 主创, 适兕，作者，「开源之道」主创，Apache 本地共同体北京成员。
  

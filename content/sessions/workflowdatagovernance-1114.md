@@ -3,7 +3,7 @@ title: "How can more people benefit from data processing"
 date: "" 
 track: "workflowdatagovernance"
 presenters: "陈卫"
-stype: "None"
+stype: "Chinese Session"
 ---
 1. The backgrand (background)
 With the development and deepening of business, more and more data users, from the original senior management, analysts to front-line business personnel, how to quickly obtain data analysis results is more and more important for business development. Simplified data processing/data analysis is critical for front-line business analysts. Optimized data processing tools/processes help non-technical users capture and automate the embedding of business analysis data into the data processing process, and simplify the cost of using data through configuration.
@@ -19,6 +19,5 @@ In this process, especially from model to data application layer, users are invo
 Data processing personnel pay more attention to the core processes and models of data processing. After completion, they interact model data with users with the assistance of modeling tools. Users can realize self-service analysis and data distribution on the basis of model data.
 6. Question (answer)
  ### Speakers: 
- <img src="images/speaker/1114.png" width="200" />
- Cheng wei: Sichuan Xinwang Bank, Big data architect, 11 years of work experience, engaged in the construction of data warehouse in the early stage, then shifted to the construction of big data basic platform and scheduling system, etc., with experience in the construction of traditional financial industry, Internet data warehouse and data mart, years of scheduling system construction experience, migu Culture Analysis cloud scheduling system design, report platform design, etc. Currently, I am mainly responsible for the system construction of DataOps system of Xinwang Bank (offline development, indicator system, label system).
+ <img src="images/speaker/1114.png" width="200" /><br>Cheng wei: Sichuan Xinwang Bank, Big data architect, 11 years of work experience, engaged in the construction of data warehouse in the early stage, then shifted to the construction of big data basic platform and scheduling system, etc., with experience in the construction of traditional financial industry, Internet data warehouse and data mart, years of scheduling system construction experience, migu Culture Analysis cloud scheduling system design, report platform design, etc. Currently, I am mainly responsible for the system construction of DataOps system of Xinwang Bank (offline development, indicator system, label system).
  

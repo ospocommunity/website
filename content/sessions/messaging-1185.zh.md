@@ -3,7 +3,7 @@ title: "摆脱主题元数据的限制，Apache Pulsar的无限数据保留"
 date: "" 
 track: "messaging"
 presenters: "Penghui Li"
-stype: "Chinese Session"
+stype: "中文演讲"
 ---
 摘要:Pulsar主题数据不会受到单个节点存储资源的限制，即使该主题是未分区的主题，或者分区的主题只有单个分区。最根本的原因是Pulsar使用了逻辑存储模型。pulsar主题数据将分布到更多的bookies节点，分区/主题不会1:1绑定到任何存储节点。
 
@@ -16,6 +16,5 @@ stype: "Chinese Session"
 
 这次演讲将分享脉冲星如何摆脱限制，支持无限数据保留的主题。
  ### Speakers: 
- <img src="images/speaker/1185.png" width="200" />
- Penghui李: StreamNative, 技术负责人，Apache Pulsar PMC成员/提交人, 李鹏辉热衷于帮助组织构建和实现消息服务。在加入StreamNative之前，彭辉是智联招聘(Zhaopin.com)的软件工程师，他是Pulsar的主要倡导者，并帮助公司采用和实施该技术。他是阿帕奇脉冲星委员和PMC成员
+ <img src="images/speaker/1185.png" width="200" /><br>Penghui李: StreamNative, 技术负责人，Apache Pulsar PMC成员/提交人, 李鹏辉热衷于帮助组织构建和实现消息服务。在加入StreamNative之前，彭辉是智联招聘(Zhaopin.com)的软件工程师，他是Pulsar的主要倡导者，并帮助公司采用和实施该技术。他是阿帕奇脉冲星委员和PMC成员
  

@@ -1,9 +1,4 @@
----
-title: 演讲申请
-menu:
-  main:
-    weight: -300
----
+
 现已开放演讲征集！于 **2022年5月31日，星期二，上午8:00:00（北京时间-UTC+8）之前提交提案。** 请不要等到最后一分钟。
 
 [现在提交您的演讲申请！](https://shimo.im/forms/nShSKAZ3uxUstTqS/fill?channel=website)

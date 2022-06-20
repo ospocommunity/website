@@ -12,5 +12,6 @@ What is commercially friendly? A betrayal of open source? Too much compromise wi
 4. What are the advantages of open source projects under the Apache Software Foundation?
 5. Risk identification of open source project commercialization
  ### Speakers: 
- <img src="images/speaker/1167.png" width="200" /><br>Right before: The Open Source Way, creator, Si Si, author, founder of open Source Tao and Beijing member of Apache local community.
+ <img src="images/speaker/1167.png" width="200" /><br>Kuo Shi: The Open Source Way, creator, Si Si, author, founder of open Source Tao and Beijing member of Apache local community.
+
  

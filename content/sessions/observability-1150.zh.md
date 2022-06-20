@@ -2,7 +2,7 @@
 title: "Apache Http服务器的可观察性解决方案"
 date: "" 
 track: "observability"
-presenters: "Nagariya, Ajay,Das, Debajit,Pratyush, Kumar"
+presenters: "Ajay Nagariya, Debajit Das, Kumar Pratyush"
 stype: "英文演讲"
 ---
 Apache Http Server的可观察性解决方案基于OpenTelemetry(源代码在https://github.com/open-telemetry/opentelemetry-cpp-contrib/tree/main/instrumentation/otel-webserver-module)。它支持通过在运行时将检测注入Apache Http server来跟踪对服务器的传入请求。它还能够捕获传入请求中涉及的许多模块(包括mod_proxy)的响应时间，从而包括每个模块的分层时间消耗。
@@ -17,7 +17,7 @@ Apache Http Server的可观察性解决方案基于OpenTelemetry(源代码在htt
 
 位于印度班加罗尔的思科(Appdynamics)团队正在积极管理可观察性解决方案。
  ### Speakers: 
- <img src="images/speaker/1150.png" width="200" /><br>Nagariya, Ajay: 思科, AppDynamics(思科)工程总监, 他是一位有成就的技术专业人士和领导者，拥有21年以上的经验，并在建立和领导世界级的产品团队方面有良好的记录。我曾管理过产品组合，包括开发、测试、DevOps和工程支持，涵盖NMS、存储、系统编程、硬件验证、ERP、安全软件和Web/云产品等领域的全栈/企业产品。
+ <img src="images/speaker/1150.png" width="200" /><br>Ajay Nagariya: 思科, AppDynamics(思科)工程总监, 他是一位有成就的技术专业人士和领导者，拥有21年以上的经验，并在建立和领导世界级的产品团队方面有良好的记录。我曾管理过产品组合，包括开发、测试、DevOps和工程支持，涵盖NMS、存储、系统编程、硬件验证、ERP、安全软件和Web/云产品等领域的全栈/企业产品。
 
 具有敏锐的商业能力，具有战略思考和行动的能力。我有建立工程过程的可见的跟踪记录，从而提高产品质量，可预测的时间表，和产品交付。
 
@@ -32,11 +32,14 @@ Apache Http Server的可观察性解决方案基于OpenTelemetry(源代码在htt
 •掌握全栈软件开发
 •升级和人员管理
 •商业智慧
-•投资组合规划和DevOps模型
- <img src="images/speaker/1150_2.png" width="200" /><br>Das, Debajit: 思科, AppDynamics(思科)高级软件工程师, 经验丰富的高级软件工程师，在APM，电信和消费电子行业工作过。熟练掌握多线程开发，软件设计模式，C和c++。在Silchar国家理工学院获得电子与通信工程学士学位(B.Tech)。
- <img src="images/speaker/1150_3.png" width="200" /><br>前任“老板”Pratyush,库马尔: 思科, AppDynamics软件工程师(思科), 在思科AppDynamics产品开发团队担任软件工程师。我是一个有竞争力的编程爱好者。
+•投资组合规划和DevOps模型
+
+ <img src="images/speaker/1150_2.png" width="200" /><br>Kumar Pratyush: 思科, AppDynamics(思科)高级软件工程师, 经验丰富的高级软件工程师，在APM，电信和消费电子行业工作过。熟练掌握多线程开发，软件设计模式，C和c++。在Silchar国家理工学院获得电子与通信工程学士学位(B.Tech)。
+
+ <img src="images/speaker/1150_3.png" width="200" /><br>Debajit Das: 思科, AppDynamics软件工程师(思科), 在思科AppDynamics产品开发团队担任软件工程师。我是一个有竞争力的编程爱好者。
 
 为自定义PHP应用程序创建OpenTelemetry Instrumentation，使用Laravel可以与Appdynamics Instrumentation进行比较
 ·在Appdynamics传感器的基础上，分析了Jaeger、Zipkin、Opencensus等各种仪表支持产生的跨度和轨迹。
-·对支持OpenTelemetry框架的手动仪表进行更改，包括自动仪表支持。
+·对支持OpenTelemetry框架的手动仪表进行更改，包括自动仪表支持。
+
  

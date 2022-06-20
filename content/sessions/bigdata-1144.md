@@ -14,5 +14,6 @@ At the same time, the Kylin community is also planning the next generation of Ky
 - Microservices and cloud native
 3. Technical preview demo
  ### Speakers: 
- <img src="images/speaker/1144.png" width="200" /><br>YuXiaoXiang: Kyligence, Senior R&d Engineer, Apache Kylin PMC member
+ <img src="images/speaker/1144.png" width="200" /><br>Xiaoxiang Yu: Kyligence, Senior R&d Engineer, Apache Kylin PMC member
+
  

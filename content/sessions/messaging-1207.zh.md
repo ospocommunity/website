@@ -7,5 +7,6 @@ stype: "中文演讲"
 ---
 脉冲星主要关注流的过程。但流数据将被用于分析或其他用途。因为我们使用不同的系统来处理不同的情况，数据存储在很多情况下都会成为一个问题。将用于脉冲星专题数据下沉的湖房连接器引入湖房存储，统一存储。
  ### Speakers: 
- <img src="images/speaker/1207.png" width="200" /><br>勇张: StreamNative, 软件工程师, Apache Pulsar & BookKeeper提交者，StreamNative软件工程师。
+ <img src="images/speaker/1207.png" width="200" /><br>Yong Zhang: StreamNative, 软件工程师, Apache Pulsar & BookKeeper提交者，StreamNative软件工程师。
+
  

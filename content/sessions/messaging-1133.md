@@ -9,5 +9,6 @@ BIGO currently has two major video products and services, BIGO Live and Likee sh
 
 In this paper, we will introduce the performance optimization of BIGO based on Pulsar in a high-throughput read/write environment for a catch-up read scenario. The main contents of this paper include: In this article, we will discuss the performance loss caused by the catch-up read, the main time phase of message disk read, the new asynchronous prefetch optimization proposed by BIGO, and the actual performance of the new strategy in the production environment. We will share the thoughts and experiences of BIGO when optimizing the catch-up read scenario in the most realistic way.
  ### Speakers: 
- <img src="images/speaker/1133.png" width="200" /><br>Wu exhibition peng: BIGO, Staff Engineer, He is a senior big data r&d engineer for BIGO Computing platform. He is currently a contributor for Apache Pulsar, PulSAR-Flink and maintainer of Kafka-on-Pulsar. In the past, I have been invited to give technical speeches at Pulsar Meetup and Pulsar Submit.
+ <img src="images/speaker/1133.png" width="200" /><br>Zhanpeng Wu: BIGO, Staff Engineer, He is a senior big data r&d engineer for BIGO Computing platform. He is currently a contributor for Apache Pulsar, PulSAR-Flink and maintainer of Kafka-on-Pulsar. In the past, I have been invited to give technical speeches at Pulsar Meetup and Pulsar Submit.
+
  

@@ -8,5 +8,6 @@ stype: "Chinese Session"
 1.RocketMQ vs. Kafka.
 2. Similarities and differences in the application of a painting technique in Chinese and Western cultures.
  ### Speakers: 
- <img src="images/speaker/1236.png" width="200" /><br>Peng Long: Midea group, Software engineer, Message-oriented middleware, and big data ecology enthusiasts.
+ <img src="images/speaker/1236.png" width="200" /><br>Long Peng: Midea group, Software engineer, Message-oriented middleware, and big data ecology enthusiasts.
+
  

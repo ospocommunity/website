@@ -9,5 +9,6 @@ Vivo Mobile Internet aims to provide the ultimate Internet products and services
 Over the past few years, we have supported terabyte/day ETL, recommendation, Push, monitoring and other Internet services with multiple Kafka clusters. We have now chosen Apache Pulsar as our next-generation messaging middleware to address the challenges of higher-order data.
 In this talk, I will share the reasons for choosing Pulsar, the practical experience of Pulsar from 0 to 1 and the problem solving ideas, the seamless migration solution from Kafka to Pulsar, and the planning outlook for the future.
  ### Speakers: 
- <img src="images/speaker/1209.png" width="200" /><br>All riding: Vivo Mobile Communication (Shenzhen) Co., LTD, Big data Engineer, Vivo Big data engineer, currently responsible for the construction of Vivo distributed message middleware, committed to building high-performance, highly available, easy operation and maintenance of the underlying basic components and services.
+ <img src="images/speaker/1209.png" width="200" /><br>Liming Quan: Vivo Mobile Communication (Shenzhen) Co., LTD, Big data Engineer, Vivo Big data engineer, currently responsible for the construction of Vivo distributed message middleware, committed to building high-performance, highly available, easy operation and maintenance of the underlying basic components and services.
+
  

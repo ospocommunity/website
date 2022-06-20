@@ -9,5 +9,6 @@ Big data is becoming more and more important, and more and more products rely on
 
 In this topic, you can not only understand the implementation principle of RocketMQ-Streams, but also determine whether your business can have a lighter solution, lower product cost and provide competitiveness based on ali's rocketMQ-Streams application practice
  ### Speakers: 
- <img src="images/speaker/1049.png" width="200" /><br>Yuan Xiaodong: Ali cloud, Senior technical Specialist, Yuan Xiaodong: Apache RocketMQ Committer, RocketMQ-Streams Cofounder, Ali Cloud senior technical expert, responsible person of security intelligent computing engine
+ <img src="images/speaker/1049.png" width="200" /><br>Xiaodong Yuan: Ali cloud, Senior technical Specialist, Yuan Xiaodong: Apache RocketMQ Committer, RocketMQ-Streams Cofounder, Ali Cloud senior technical expert, responsible person of security intelligent computing engine
+
  

@@ -11,9 +11,10 @@ stype: "英文演讲"
 
 在这次演讲中，Paul将探讨一些性能目标、挑战、解决方案和见解，这些是我在过去5年构建多个实际演示应用程序时发现的。这些例子包括在AWS的Graviton2 (ARM)实例上发布我们的管理Apache Kafka之前遇到的性能问题的基准测试和诊断，弹性Cassandra自动伸缩的折衷和自动化，将一个Cassandra和Kafka异常检测应用扩展到每天190亿次检查，理解和减轻Kafka分区和复制对集群吞吐量的影响，以及使用Kafka Connect构建低延迟的流数据管道。
  ### Speakers: 
- <img src="images/speaker/1043.png" width="200" /><br>保罗Brebner: Instaclustr, 首席技术专员, Paul是Instaclustr的技术布道者。他一直在学习新的可扩展技术，解决现实问题，构建应用程序，写博客，谈论很多开源技术，包括Apache Cassandra, Apache Kafka, Apache Spark, Apache Zookeeper, Redis, Elasticsearch，
+ <img src="images/speaker/1043.png" width="200" /><br>Paul Brebner: Instaclustr, 首席技术专员, Paul是Instaclustr的技术布道者。他一直在学习新的可扩展技术，解决现实问题，构建应用程序，写博客，谈论很多开源技术，包括Apache Cassandra, Apache Kafka, Apache Spark, Apache Zookeeper, Redis, Elasticsearch，
 PostgreSQL, Debezium, Cadence等等。
 自从在VAX 11/780上学习编程以来，Paul在分布式系统、技术创新、软件架构和工程、软件性能和可伸缩性、网格和云计算、数据分析和机器学习方面拥有广泛的研发和咨询经验。
 
-Paul曾在新南威尔士大学、几家科技初创企业、CSIRO、UCL(英国)和NICTA工作。Paul拥有机器学习硕士学位和计算机科学与哲学学士学位。
+Paul曾在新南威尔士大学、几家科技初创企业、CSIRO、UCL(英国)和NICTA工作。Paul拥有机器学习硕士学位和计算机科学与哲学学士学位。
+
  

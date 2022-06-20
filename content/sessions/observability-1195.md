@@ -2,7 +2,7 @@
 title: "Apache SkyWalking: An open source holistic application performance monitoring and observability tool"
 date: "" 
 track: "observability"
-presenters: "Navarro Sonnenfeld, Marc"
+presenters: "Marc Navarro Sonnenfeld"
 stype: "English Session"
 ---
 Apache Skywalking is an application performance monitoring and observability tool for distributed systems, especially designed for microservices, cloud native and container-based (Kubernetes) architectures — with or without a service mesh.
@@ -18,5 +18,6 @@ You will learn how easy and quickly you can get Apache Skywalking up and running
 - On demand logs.
 - ebpf-based interactive profiling for C, C++, Golang, and Rust.
  ### Speakers: 
- <img src="images/speaker/1195.png" width="200" /><br>Navarro Sonnenfeld, Marc: Tetrate, Software Engineer, Marc is Software Engineer that works at Tetrate to provide a unified observability experience in multiple cluster service meshes. Previously he worked at Oracle-Netsuite as a Senior Software Engineer focused on extending a business events processing platform and he also was involved in enhancing the performance and profiling experience in the company. He as 15+ years of backend development experience in enterprise applications and is the co-founder and lead organizer of the GolangBCN meetup community in Barcelona.
+ <img src="images/speaker/1195.png" width="200" /><br>Marc Navarro Sonnenfeld: Tetrate, Software Engineer, Marc is Software Engineer that works at Tetrate to provide a unified observability experience in multiple cluster service meshes. Previously he worked at Oracle-Netsuite as a Senior Software Engineer focused on extending a business events processing platform and he also was involved in enhancing the performance and profiling experience in the company. He as 15+ years of backend development experience in enterprise applications and is the co-founder and lead organizer of the GolangBCN meetup community in Barcelona.
+
  

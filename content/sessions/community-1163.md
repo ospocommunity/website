@@ -2,7 +2,7 @@
 title: "How to enable and foster open source collaboration with leading corporations listed on the stock market"
 date: "" 
 track: "community"
-presenters: "Yacine Si Tayeb, PhD"
+presenters: "Yacine Si Tayeb"
 stype: "English Session"
 ---
 How to grow an Open Source community from just a handful of contributors, to one of the leading communities in China and fastest growing Apache projects in the world?
@@ -11,9 +11,10 @@ There's no secret sauce, it's alll about true openness and inclusiveness, the wi
 
 In this talk you will learn the best practices for open source project leadership.
  ### Speakers: 
- <img src="images/speaker/1163.png" width="200" /><br>Yacine Si Tayeb, PhD: SpereEx & Apache ShardingSphere, Head of International Operations, Passionate about technology and innovation, Yacine moved to Beijing to pursue his Ph.D., and fell in awe of the local startup and tech scene.
+ <img src="images/speaker/1163.png" width="200" /><br>Yacine Si Tayeb: SpereEx & Apache ShardingSphere, Head of International Operations, Passionate about technology and innovation, Yacine moved to Beijing to pursue his Ph.D., and fell in awe of the local startup and tech scene.
 
 His career path has so far been shaped by opportunities at the intersection of technology and business.
 
-Recently he took on a keen interest in the development of the ShardingSphere Big Data & database ecosystem, and open source community building.
+Recently he took on a keen interest in the development of the ShardingSphere Big Data & database ecosystem, and open source community building.
+
  

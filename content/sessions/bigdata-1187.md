@@ -13,5 +13,6 @@ Bytedance is deeply customized based on Apache Calcite, and the project name is 
 - Provides consistent use experience of Hive entity tables compared with View
 - The system can be implemented in various application scenarios such as data encryption and desensitization. For example, a high permission level can be set for plaintext fields, and a low permission level can be set for desensitized virtual column fields, providing flexible usage modes
  ### Speakers: 
- <img src="images/speaker/1187.png" width="200" /><br>Xie Jiajun: Bytes to beat, Senior R&d Engineer, Senior R&D engineer of Bytedance Data Engine Department, focusing on SQL parsing and optimization, loving open source, and being one of Contributor for Apache Calcite.
+ <img src="images/speaker/1187.png" width="200" /><br>Jiajun Xie: Bytes Dance, Senior R&d Engineer, Senior R&D engineer of Bytedance Data Engine Department, focusing on SQL parsing and optimization, loving open source, and being one of Contributor for Apache Calcite.
+
  

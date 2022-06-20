@@ -10,7 +10,8 @@ stype: "中文演讲"
 3.InLong Sort的实现细节
 4. 实践案例
  ### Speakers: 
- <img src="images/speaker/1098.png" width="200" /><br>在苏区莫: 腾讯云, 大数据高级工程师, 莫云青:大数据从业者。
+ <img src="images/speaker/1098.png" width="200" /><br>Yunqing Mo: 腾讯云, 大数据高级工程师, 莫云青:大数据从业者。
 正在进行的开源项目:Apache InLong
-演讲经历:第一次参加
+演讲经历:第一次参加
+
  

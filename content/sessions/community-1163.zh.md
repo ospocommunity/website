@@ -2,7 +2,7 @@
 title: "如何促进与上市公司的开源合作"
 date: "" 
 track: "community"
-presenters: "Yacine Si Tayeb, PhD"
+presenters: "Yacine Si Tayeb"
 stype: "英文演讲"
 ---
 如何让开源社区从少数贡献者成长为中国领先的社区和世界上增长最快的Apache项目之一?
@@ -15,5 +15,6 @@ stype: "英文演讲"
 
 迄今为止，他的职业道路一直受到科技和商业交叉领域机遇的影响。
 
-最近，他对ShardingSphere大数据与数据库生态系统的开发以及开源社区建设产生了浓厚的兴趣。
+最近，他对ShardingSphere大数据与数据库生态系统的开发以及开源社区建设产生了浓厚的兴趣。
+
  

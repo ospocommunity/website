@@ -13,5 +13,6 @@ China Unicom's big data is developed on the basis of Apache Dolphinscheduler 1.3
 3. Added the execution of retained tasks on deployed servers
 4. Optimize the overall execution performance, etc
  ### Speakers: 
- <img src="images/speaker/1090.png" width="200" /><br>Washington: Unicom Digital Technology Co. LTD, Data Development Engineer, Unicom Digital Technology Co., LTD. Participated in the integration and secondary development of DolphinScheduler scheduling in the company
+ <img src="images/speaker/1090.png" width="200" /><br>Wu Liu: Unicom Digital Technology Co. LTD, Data Development Engineer, Unicom Digital Technology Co., LTD. Participated in the integration and secondary development of DolphinScheduler scheduling in the company
+
  

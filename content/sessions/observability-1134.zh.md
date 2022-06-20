@@ -12,6 +12,7 @@ MAL的基本数据流和语法格式。
 MAL的虚拟机监控实践。
 Kubernetes监测MAL的实践。
  ### Speakers: 
- <img src="images/speaker/1134.png" width="200" /><br>凯万: Apache APISIX, Tetrate, 他是Tetrate的工程师，专注于可观察性。
-Apache SkyWalking提交者和PMC成员。
+ <img src="images/speaker/1134.png" width="200" /><br>Kai Wan: Apache APISIX, Tetrate, 他是Tetrate的工程师，专注于可观察性。
+Apache SkyWalking提交者和PMC成员。
+
  

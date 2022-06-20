@@ -10,8 +10,9 @@ stype: "Chinese Session"
 3. Future planning of Shenyu Gateway
 4. Community governance of Shenyu Gateway
  ### Speakers: 
- <img src="images/speaker/1024.png" width="200" /><br>XiaoYu: Jingdong technology, The architect, Founder of Apache ShenYu Gateway && PPMC
+ <img src="images/speaker/1024.png" width="200" /><br>Yu Xiao: Jingdong technology, The architect, Founder of Apache ShenYu Gateway && PPMC
 Founder of Dromara Open Source organization
 Author of distributed transaction framework, Hmily, Raincat et al
-An In-depth Understanding of distributed Transaction Principles and Practices
+An In-depth Understanding of distributed Transaction Principles and Practices
+
  

@@ -13,9 +13,10 @@ stype: "英文演讲"
 
 第三，我将解释Apache Camel出色的集成能力如何丰富基于Knative的无服务器架构。我将涉及一些主题，比如自动伸缩和零伸缩，基于内容的云事件路由，以及Apache Kafka和Apache Camel支持的300多种系统之间的流数据。
  ### Speakers: 
- <img src="images/speaker/1226.png" width="200" /><br>Bendhiba代森锌: 红色的帽子, 高级软件工程师, Zineb Bendhiba是红帽公司的高级软件工程师。她是开源项目Apache Camel的提交者和PMC成员。目前，她贡献并维护了许多Camel Quarkus扩展。
+ <img src="images/speaker/1226.png" width="200" /><br>Zineb Bendhiba: 红帽, 高级软件工程师, Zineb Bendhiba是红帽公司的高级软件工程师。她是开源项目Apache Camel的提交者和PMC成员。目前，她贡献并维护了许多Camel Quarkus扩展。
 
 在2020年加入红帽之前，她在不同的公司工作了12年。她参与了各种项目的设计、开发和管理，主要是Java技术。
 
-此外，她还是法国大型女性科技社区Duchess France的董事会成员。她经常在活动中就骆驼、夸克以及多样性和包容性发表演讲。
+此外，她还是法国大型女性科技社区Duchess France的董事会成员。她经常在活动中就骆驼、夸克以及多样性和包容性发表演讲。
+
  

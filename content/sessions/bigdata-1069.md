@@ -9,5 +9,6 @@ For big data engineers, the development and scheduling of big data jobs usually 
 This presentation will show you how to use the Open source Apache Dolphinscheduler scheduling tool and Apache Zeppelin and Jupyter notebooks to form a big data development Studio. After the data platform team ADAPTS to the relevant environment, big data /AI engineers develop /debug interactive online and perform one-click scheduling, eliminating the need to spend time dealing with adaptation problems caused by inconsistent environments, greatly improving the efficiency and experience of big data operation and development.
 The integration code covered in the talk is fully open source and you are welcome to download it.
  ### Speakers: 
- <img src="images/speaker/1069.png" width="200" /><br>Nacho figueras maple: Ali Cloud EMR data development team, Basic platform development engineer, He graduated from Shanghai Jiao Tong University and Purdue University. The ex - SDE @ Amazon, Seattle. Now he is working in the EMR data development team of Ali Cloud. Apache Dolphinscheduler, Airflow, Zeppelin Contributor. Interested in new big data development platform.
+ <img src="images/speaker/1069.png" width="200" /><br>Chufeng Gao: Ali Cloud EMR data development team, Basic platform development engineer, He graduated from Shanghai Jiao Tong University and Purdue University. The ex - SDE @ Amazon, Seattle. Now he is working in the EMR data development team of Ali Cloud. Apache Dolphinscheduler, Airflow, Zeppelin Contributor. Interested in new big data development platform.
+
  

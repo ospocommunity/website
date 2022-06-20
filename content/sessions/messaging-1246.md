@@ -12,8 +12,9 @@ As the guest of this topic, Hu Zongtang will introduce the practice and applicat
 (3) Design and practice of mobile cloud self-developed RabbitMQ;
 (4) Technology evolution and future outlook of RabbitMQ developed by mobile cloud;
  ### Speakers: 
- <img src="images/speaker/1246.png" width="200" /><br>Hu Zongtang: China Mobile Cloud Capability Center, Technical experts, Hu Zongtang, China Mobile Cloud Capability Center, technical expert in cloud native field,
+ <img src="images/speaker/1246.png" width="200" /><br>Zongtang Hu: China Mobile Cloud Capability Center, Technical experts, Hu Zongtang, China Mobile Cloud Capability Center, technical expert in cloud native field,
 Apache RocketMQ Committer, SOFAJRaft Committer,
 Alibaba/Nacos Committer, Linux OpenMessaging Member
-Familiar with distributed message queue, API gateway and distributed transaction middleware design principle, architecture and various application scenarios, rich experience in high performance, high availability and high concurrency.
+Familiar with distributed message queue, API gateway and distributed transaction middleware design principle, architecture and various application scenarios, rich experience in high performance, high availability and high concurrency.
+
  

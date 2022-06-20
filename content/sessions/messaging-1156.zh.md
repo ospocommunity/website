@@ -11,5 +11,6 @@ stype: "中文演讲"
 
 在这次演讲中，杨子科将解释消息分块的概念，深入研究它的实现，并分享这一特性的最佳实践。
  ### Speakers: 
- <img src="images/speaker/1156.png" width="200" /><br>Zike杨: StreamNative, 软件工程师, Zike Yang是Streamnative的软件工程师。他也是阿帕奇脉冲星的提交者。
+ <img src="images/speaker/1156.png" width="200" /><br>Zike Yang: StreamNative, 软件工程师, Zike Yang是Streamnative的软件工程师。他也是阿帕奇脉冲星的提交者。
+
  

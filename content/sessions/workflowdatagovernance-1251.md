@@ -77,9 +77,10 @@ Added Flink Batch Action, Flink side compatibility
 11. https://issues.apache.org/jira/browse/FLINK-22329
 12. https://issues.apache.org/jira/browse/FLINK-22534
  ### Speakers: 
- <img src="images/speaker/1251.png" width="200" /><br>Zhang Junfan: iQIYI, Big data Engineer, The open source project
+ <img src="images/speaker/1251.png" width="200" /><br>Junfan Zhang: iQIYI, Big data Engineer, The open source project
 Personally participate in big data projects such as Flink/Oozie/Hadoop and maintain github.com/tony-framework/tony
 Open source address: github.com/zuston
 
-No record of past speeches
+No record of past speeches
+
  

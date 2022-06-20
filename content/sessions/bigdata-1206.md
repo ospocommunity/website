@@ -10,6 +10,7 @@ stype: "Chinese Session"
 3.Spark data collection practice
 4.Spark observability indicator construction
  ### Speakers: 
- <img src="images/speaker/1206.png" width="200" /><br>The king must: millet, R&d engineer, Hadoop/Spark/Flink/Iceberg, Pegasus, etc.;
-Xiaomi group shared Spark Multiple Catalog Practice and Spark Data Skew Optimization internally
+ <img src="images/speaker/1206.png" width="200" /><br>Zhun Wang: millet, R&d engineer, Hadoop/Spark/Flink/Iceberg, Pegasus, etc.;
+Xiaomi group shared Spark Multiple Catalog Practice and Spark Data Skew Optimization internally
+
  

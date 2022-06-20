@@ -10,7 +10,8 @@ CDC (Change Data Capture) is a technology used to Capture changes from the datab
 
 In this sharing, Professor Xu Bangjiang will first share the core design and implementation of Flink CDC, such as lock-free algorithm, parallel reading, breakpoint continuation and distributed architecture, and share the application of Flink CDC in different scenarios based on specific business scenarios. Then the demo will explain how to efficiently build a real-time data lake based on Flink CDC and Hudi.
  ### Speakers: 
- <img src="images/speaker/1109.png" width="200" /><br>Xu Bang jiang: Ali cloud, Senior R&d Engineer, Apache Flink Committer & Flink CDC Maintainer, specializes in Flink SQL, Flink CDC, data integration, has spoken and shared Apache Flink, Flink CDC Maintainer many times.
+ <img src="images/speaker/1109.png" width="200" /><br>Bangjiang Xu: Ali cloud, Senior R&d Engineer, Apache Flink Committer & Flink CDC Maintainer, specializes in Flink SQL, Flink CDC, data integration, has spoken and shared Apache Flink, Flink CDC Maintainer many times.
 https://github.com/apache/flink
-https://github.com/ververica/flink-cdc-connectors
+https://github.com/ververica/flink-cdc-connectors
+
  

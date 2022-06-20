@@ -15,5 +15,6 @@ Dolphinscheduler pull Linkis computing tasks, dolphinscheduler Shell task type T
 summary
 To this Linkis data processing of the overall link, involving metadata, scheduling tasks, forming a complete closed loop.
  ### Speakers: 
- <img src="images/speaker/1132.png" width="200" /><br>Li Meng: Shanghai Xianweng Technology co, The data architecture, Years of experience in data architecture, CSDN blogger, open source enthusiast, Beam community contributor, WeDataSphere community contributor.
+ <img src="images/speaker/1132.png" width="200" /><br>Meng Li: Shanghai Xianweng Technology co, The data architecture, Years of experience in data architecture, CSDN blogger, open source enthusiast, Beam community contributor, WeDataSphere community contributor.
+
  

@@ -2,7 +2,7 @@
 title: "Apache Camel: Project update and what's coming next"
 date: "" 
 track: "integration"
-presenters: "Ibsen, Claus,Cosentino, Andrea"
+presenters: "Claus Ibsen, Andrea Cosentino"
 stype: "English Session"
 ---
 Camel is the Swiss knife of integration, and the most famous integration project from ASF.
@@ -12,10 +12,12 @@ This session covers all the latest development of the Camel projects, and roadma
 
 During the session we will show quick demos of Camel.
  ### Speakers: 
- <img src="images/speaker/1141.png" width="200" /><br>Ibsen, Claus: Apache APISIX, Red Hat, Claus Ibsen is an open-source enthusiast and software developer from Red Hat. He's co-leading the Apache Camel project, a project used for integration; which he has been working on full time for more than a decade.
+ <img src="images/speaker/1141.png" width="200" /><br>Claus Ibsen: Apache APISIX, Red Hat, Claus Ibsen is an open-source enthusiast and software developer from Red Hat. He's co-leading the Apache Camel project, a project used for integration; which he has been working on full time for more than a decade.
 
-Claus is a member at Apache Software Foundation and a Java Champion.
- <img src="images/speaker/1141_2.png" width="200" /><br>Cosentino, Andrea: Red Hat, Principal Software Engineer, Andrea Cosentino (@oscerd2) is an open-source addicted and software developer. He co-leads Apache Camel and he’s the Project Management Committee (PMC) Chair of the project. He's currently working on expanding the Camel ecosystem through new subprojects like Camel K, Camel Quarkus, and Camel Kafka Connector (the latest project in the family). 
+Claus is a member at Apache Software Foundation and a Java Champion.
 
-Andrea is a Principal Software Engineer at Red Hat where he works on the Red Hat Fuse Team, focusing on integration.
+ <img src="images/speaker/1141_2.png" width="200" /><br>Andrea Cosentino: Red Hat, Principal Software Engineer, Andrea Cosentino (@oscerd2) is an open-source addicted and software developer. He co-leads Apache Camel and he’s the Project Management Committee (PMC) Chair of the project. He's currently working on expanding the Camel ecosystem through new subprojects like Camel K, Camel Quarkus, and Camel Kafka Connector (the latest project in the family). 
+
+Andrea is a Principal Software Engineer at Red Hat where he works on the Red Hat Fuse Team, focusing on integration.
+
  

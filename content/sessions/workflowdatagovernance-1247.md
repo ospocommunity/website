@@ -13,5 +13,6 @@ In addition to offline batch processing, it also integrates parts of real-time s
 Many open source frameworks have been introduced in the platform, including Apache Dolphin Scheduler, StreamX, Prometheus and others.
 As a technology disseminator, Silicon Valley works with multiple open source teams and will share the features and usage of each major framework in this presentation.
  ### Speakers: 
- <img src="images/speaker/1247.png" width="200" /><br>Bryan zhang,: Silicon Valley IT education, Project director, Shang Silicon Valley presided over the development of data management platform projects, user portrait, data warehouse and real-time data warehouse projects. He has been a technical lecturer for many years. He also participated in the first-line projects of State Grid Corporation of China, Citic Bank and Zhongzhi Group.
+ <img src="images/speaker/1247.png" width="200" /><br>Bryan Zhang,: Silicon Valley IT education, Project director, Shang Silicon Valley presided over the development of data management platform projects, user portrait, data warehouse and real-time data warehouse projects. He has been a technical lecturer for many years. He also participated in the first-line projects of State Grid Corporation of China, Citic Bank and Zhongzhi Group.
+
  

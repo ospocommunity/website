@@ -14,5 +14,6 @@ Volcano is responding to those needs. Meanwhile, Volcano inherits the design sty
 
 Let's expand on the CNCF PodGroup concept and see how Flink on K8S and Volcano make The Flink Job work the way we want it to.
  ### Speakers: 
- <img src="images/speaker/1198.png" width="200" /><br>Dr. Bo: huawei, There is no, Engaged in the research of Flink computing framework
+ <img src="images/speaker/1198.png" width="200" /><br>Bo Zhao: huawei, Engaged in the research of Flink computing framework
+
  

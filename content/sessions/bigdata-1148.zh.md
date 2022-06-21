@@ -2,7 +2,7 @@
 title: "Hadoop矢量IO:你的数据变快了!"
 date: "" 
 track: "bigdata"
-presenters: "Thakur Mukund"
+presenters: "Mukund Thakur"
 stype: "英文演讲"
 ---
 自2006年以来，大数据的世界已经从tb级转移到数百pb级，从本地集群转移到远程云存储，然而最初的基于Apache Hadoop posix的文件api几乎没有改变。
@@ -14,7 +14,7 @@ S3A连接器是第一个提供自定义实现的对象存储，可以并行读�
 
 我们将介绍API规范、S3A实现和基准，并展示如何在您自己的应用程序中使用它。我们还将介绍我们正在进行的工作，在其他对象存储中提供类似的加速，以及在其他应用程序中使用API。
  ### Speakers: 
- <img src="images/speaker/1148.png" width="200" /><br>Thakur Mukund: Apache APISIX, Cloudera, 我是Apache Hadoop项目的活跃提交者，目前在Cloudera工作，专注于云存储连接器(aws、azure和gcs)和Ranger Authorization。
+ <img src="images/speaker/1148.png" width="200" /><br>Mukund Thakur: Apache APISIX, Cloudera, 我是Apache Hadoop项目的活跃提交者，目前在Cloudera工作，专注于云存储连接器(aws、azure和gcs)和Ranger Authorization。
 我有8年的大型分布式系统设计和开发经验。除了软件开发，我还喜欢做瑜伽和在喜马拉雅山徒步旅行。
 
  

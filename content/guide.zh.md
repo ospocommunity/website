@@ -1,5 +1,5 @@
 ---
-title: 会议注册
+title: 指导
 menu:
   main:
     weight: -40

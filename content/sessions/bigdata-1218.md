@@ -1,5 +1,5 @@
 ---
-title: "Apache Doris (Incubating) Flink Connector 2.0"
+title: "The Design and Implementation of Apache Flink Connector 2.0 "
 date: "" 
 track: "bigdata"
 presenters: "杨勇强"

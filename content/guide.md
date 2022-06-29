@@ -17,7 +17,7 @@ PPT template download:
 
 [Template_ApacheCon_Asia.pptx](https://apachecon.com/acasia2022/Template_ApacheCon_Asia.pptx)
 * Keynote recording time is not more than 30 minute. It is recommended that you limit your presentation to 25 minutes, taking into account overtures and Q&A.
-* Track: please confirm the time with the track chair in advance, as the number of topics in each track is not the same.
+* Session recording time is not more than 40 minute. It is recommended that you limit your presentation to 35 minutes, taking into account overtures and Q&A.
 
 # Step 2: Equipment/environment preparation before recording
 Pay attention to 5 key points:

@@ -17,7 +17,7 @@ PPT模板下载地址：
 [Template_ApacheCon_Asia.pptx](https://apachecon.com/acasia2022/Template_ApacheCon_Asia.pptx)
 
 * 主题演讲的录像时间不超过 30 分钟, 考虑过场和提问，建议控制在25分钟之内。
-* 分论坛演讲的时间请提前跟出品人沟通确认，因为每个论坛议题数量不一致。
+* 常规演讲的录像时间不超过 40 分钟, 考虑过场和提问，建议控制在35分钟之内。
 
 ## 第二步：正式录制前的设备调试/环境准备
 

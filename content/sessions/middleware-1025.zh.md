@@ -1,7 +1,7 @@
 ---
 title: "SpamAssassin 4.0:检测新的垃圾邮件类型的新功能"
 date: "" 
-track: "general"
+track: "middleware"
 presenters: "Bechis Giovanni"
 stype: "英文演讲"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Creating cross-platform, reproducible, binary builds for Java projects"
 date: "" 
-track: "general"
+track: "middleware"
 presenters: "Mark Thomas"
 stype: "English Session"
 ---

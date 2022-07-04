@@ -2,7 +2,7 @@
 title: "Practical Steps to Encourage Community Growth"
 date: "" 
 track: "keynote"
-presenters: "Shane Coughlan"
+presenters: "Rich Bowen"
 stype: "英文演讲"
 ---
 Building an enthusiastic contributor community is perhaps the hardest part of any open source project. But without it, your project will struggle to sustain itself long term. Although community growth is more art than science, there are some practical things that you can do to make it more likely that people will want to join in. Rich will share some lessons from 20+ years of community shepherding.

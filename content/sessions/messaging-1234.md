@@ -1,6 +1,6 @@
 ---
 title: "Cloud native practice and application of RocketMQ message queue in mobile cloud"
-date: "" 
+date: "2022-07-29T17:20:00"
 track: "messaging"
 presenters: "胡宗棠"
 stype: "Chinese Session"

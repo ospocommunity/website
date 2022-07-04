@@ -1,6 +1,6 @@
 ---
 title: "Capturing per thread statistics for a job - Thread-level IOStatistics - HADOOP-17461"
-date: "" 
+date: "2022-07-30T13:30:00"
 track: "bigdata"
 presenters: "Mehakmeet Singh"
 stype: "English Session"

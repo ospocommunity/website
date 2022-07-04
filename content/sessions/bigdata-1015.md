@@ -1,6 +1,6 @@
 ---
 title: "Large scale migration to Parquet in Uber"
-date: "" 
+date: "2022-07-31T14:10:00"
 track: "bigdata"
 presenters: "Huicheng Song"
 stype: "English Session"
@@ -16,5 +16,6 @@ We tackled the challenge with a 3-pillared solution:
 
 The solution can be a reference for anyone needs to migrate massive amounts of Hive tables and data files to Parquet format
  ### Speakers: 
- <img src="images/speaker/1015.png" width="200" /><br>Huicheng Song: Uber, Senior Software Engineer, Uber software engineer, working in Big Data Security, file format unification
+ <img src="images/speaker/1015.png" width="200" /><br>Huicheng Song: Uber, Senior Software Engineer, Uber software engineer, working in Big Data Security, file format unification
+
  

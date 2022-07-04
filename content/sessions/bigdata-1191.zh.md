@@ -1,6 +1,6 @@
 ---
 title: "捕获作业的每个线程统计信息——线程级IOStatistics——HADOOP-17461"
-date: "" 
+date: "2022-07-30T13:30:00"
 track: "bigdata"
 presenters: "Mehakmeet Singh"
 stype: "英文演讲"

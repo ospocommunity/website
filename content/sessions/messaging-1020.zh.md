@@ -1,6 +1,6 @@
 ---
 title: "朝着一个没有zookeeper的脉冲星"
-date: "" 
+date: "2022-07-30T14:10:00"
 track: "messaging"
 presenters: "David Kjerrumgaard"
 stype: "英文演讲"

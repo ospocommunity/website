@@ -1,6 +1,6 @@
 ---
 title: "Kafka-on-Pulsar如何与Pulsar模式集成，为Kafka用户利用Pulsar"
-date: "" 
+date: "2022-07-30T15:30:00"
 track: "messaging"
 presenters: "Yunze Xu"
 stype: "中文演讲"

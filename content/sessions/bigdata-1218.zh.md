@@ -1,6 +1,6 @@
 ---
 title: "Apache Doris Flink connector 2.0的设计与实现"
-date: "" 
+date: "2022-07-31T17:30:00"
 track: "bigdata"
 presenters: "杨勇强"
 stype: "中文演讲"

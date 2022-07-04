@@ -1,6 +1,6 @@
 ---
 title: "深入研究脉冲星信息分块"
-date: "" 
+date: "2022-07-30T16:10:00"
 track: "messaging"
 presenters: "Zike Yang"
 stype: "中文演讲"

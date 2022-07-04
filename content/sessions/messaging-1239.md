@@ -1,6 +1,6 @@
 ---
 title: "Build a new data flow processing platform based on RocketMQ Connect"
-date: "" 
+date: "2022-07-29T15:20:00"
 track: "messaging"
 presenters: "周波"
 stype: "Chinese Session"

@@ -1,6 +1,6 @@
 ---
 title: "BIGO is based on the performance optimization practices of Pulsar in high throughput catch-up read scenarios"
-date: "" 
+date: "2022-07-29T16:10:00"
 track: "messaging"
 presenters: "吴展鹏"
 stype: "Chinese Session"

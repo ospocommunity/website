@@ -1,6 +1,6 @@
 ---
 title: "New features for Apache Doris 1.x version and future plans for the cloud native era"
-date: "" 
+date: "2022-07-29T13:30:00"
 track: "bigdata"
 presenters: "杨政国"
 stype: "Chinese Session"

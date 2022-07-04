@@ -1,6 +1,6 @@
 ---
 title: "Interactive data engineering workload execution using Livy session on Kubernetes cluster"
-date: "" 
+date: "2022-07-30T16:50:00"
 track: "bigdata"
 presenters: "Anmol Chaturvedi, Haripriya Bendapudi, Praneet Sharma"
 stype: "English Session"

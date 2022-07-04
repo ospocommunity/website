@@ -1,6 +1,6 @@
 ---
 title: "Flash Large scale ActiveMQ smooth migration RocketMQ"
-date: "" 
+date: "2022-07-29T16:40:00"
 track: "messaging"
 presenters: "高向阳"
 stype: "Chinese Session"

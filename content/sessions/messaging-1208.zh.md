@@ -1,6 +1,6 @@
 ---
 title: "基于Apache Pulsar构建一个实时数据仓库"
-date: "" 
+date: "2022-07-31T15:30:00"
 track: "messaging"
 presenters: "Dezhi Liu,杨子棵"
 stype: "中文演讲"

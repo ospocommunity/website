@@ -1,6 +1,6 @@
 ---
 title: "当失败是不可能的。"
-date: "" 
+date: "2022-07-31T13:30:00"
 track: "messaging"
 presenters: "David Kjerrumgaard"
 stype: "英文演讲"

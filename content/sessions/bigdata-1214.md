@@ -1,6 +1,6 @@
 ---
 title: "An off-line data discovery method based on consanguinity"
-date: "" 
+date: "2022-07-29T16:50:00"
 track: "bigdata"
 presenters: "韩帅,孙科"
 stype: "Chinese Session"

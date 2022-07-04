@@ -1,6 +1,6 @@
 ---
 title: "Intergrating Apache Pulsar with BigQuery to Build Data Pipeline"
-date: "" 
+date: "2022-07-31T16:50:00"
 track: "messaging"
 presenters: "石宝迪"
 stype: "Chinese Session"

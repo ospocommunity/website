@@ -1,6 +1,6 @@
 ---
 title: "Application of message-driven lightweight computing in logistics"
-date: "" 
+date: "2022-07-29T16:40:00"
 track: "messaging"
 presenters: "王鑫"
 stype: "Chinese Session"

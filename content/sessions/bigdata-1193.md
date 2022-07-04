@@ -1,6 +1,6 @@
 ---
 title: "The practice and thinking of big data Python ecology in transmitting wisdom education"
-date: "" 
+date: "2022-07-31T16:50:00"
 track: "bigdata"
 presenters: "张敬存,赵晨杰"
 stype: "Chinese Session"

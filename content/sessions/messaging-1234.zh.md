@@ -1,6 +1,6 @@
 ---
 title: "RocketMQ消息队列在移动云端的云原生实践与应用"
-date: "" 
+date: "2022-07-29T17:20:00"
 track: "messaging"
 presenters: "胡宗棠"
 stype: "中文演讲"
@@ -16,5 +16,6 @@ RocketMQ作为消息队列组件，已经在中国移动内部诸多业务系统
  <img src="images/speaker/1234.png" width="200" /><br>胡宗棠: 中国移动云能力中心, 技术专家, 胡宗棠 中国移动云能力中心，云原生领域技术专家，
 Apache RocketMQ Committer，SOFAJRaft Committer，
 Alibaba/Nacos Committer，Linux OpenMessaging Member
-熟悉分布式消息队列、API 网关和分布式事务等中间件设计原理、架构以及各种应用场景，具有丰富高性能、高可用和高并发经验。
+熟悉分布式消息队列、API 网关和分布式事务等中间件设计原理、架构以及各种应用场景，具有丰富高性能、高可用和高并发经验。
+
  

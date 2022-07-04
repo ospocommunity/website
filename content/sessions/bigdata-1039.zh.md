@@ -1,6 +1,6 @@
 ---
 title: "Apache 1.x极速版的新特性和云原生时代的未来规划"
-date: "" 
+date: "2022-07-29T13:30:00"
 track: "bigdata"
 presenters: "杨政国"
 stype: "中文演讲"

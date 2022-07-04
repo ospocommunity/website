@@ -1,6 +1,6 @@
 ---
 title: "Apache Pulsar stability optimization practice in Tencent Cloud"
-date: "" 
+date: "2022-07-29T15:30:00"
 track: "messaging"
 presenters: "冉小龙"
 stype: "Chinese Session"

@@ -1,6 +1,6 @@
 ---
 title: "RocketMQ and Kafka and a painting technique used in Chinese and Western cultures."
-date: "" 
+date: "2022-07-29T16:00:00"
 track: "messaging"
 presenters: "彭龙"
 stype: "Chinese Session"

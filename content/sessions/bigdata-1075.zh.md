@@ -1,6 +1,6 @@
 ---
 title: "What's new in Apache Impala 4.x"
-date: "" 
+date: "2022-07-30T14:10:00"
 track: "bigdata"
 presenters: "Quanlong Huang（黄权隆）"
 stype: "中文演讲"

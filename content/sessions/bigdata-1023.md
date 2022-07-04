@@ -1,6 +1,6 @@
 ---
 title: "How does Linkis provide computing governance capabilities for diversified big data computing and storage engines"
-date: "" 
+date: "2022-07-31T15:30:00"
 track: "bigdata"
 presenters: "邸帅"
 stype: "Chinese Session"

@@ -1,6 +1,6 @@
 ---
 title: "RocketMQ Streams- Best practices for lightweight computing in cloud security and edge computing"
-date: "" 
+date: "2022-07-29T14:00:00"
 track: "messaging"
 presenters: "袁小栋"
 stype: "Chinese Session"

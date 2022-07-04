@@ -1,6 +1,6 @@
 ---
 title: "Apache Druid cloud native architecture evolution"
-date: "" 
+date: "2022-07-29T14:50:00"
 track: "bigdata"
 presenters: "金嘉怡"
 stype: "Chinese Session"

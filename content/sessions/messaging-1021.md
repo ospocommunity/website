@@ -1,6 +1,6 @@
 ---
 title: "Introducing TableView: Pulsar's database table abstraction"
-date: "" 
+date: "2022-07-31T13:30:00"
 track: "messaging"
 presenters: "David Kjerrumgaard"
 stype: "English Session"

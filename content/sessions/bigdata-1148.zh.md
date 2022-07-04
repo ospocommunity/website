@@ -1,6 +1,6 @@
 ---
 title: "Hadoop矢量IO:你的数据变快了!"
-date: "" 
+date: "2022-07-30T16:10:00"
 track: "bigdata"
 presenters: "Mukund Thakur"
 stype: "英文演讲"

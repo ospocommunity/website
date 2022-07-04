@@ -1,6 +1,6 @@
 ---
 title: "升级Mpack的BIGTOP 3.0:大数据分发的新时代"
-date: "" 
+date: "2022-07-31T13:30:00"
 track: "bigdata"
 presenters: "Yuqi Gu（顾煜祺）"
 stype: "英文演讲"

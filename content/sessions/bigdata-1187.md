@@ -1,6 +1,6 @@
 ---
 title: "Multi-engine virtual column technology based on Apache Calcite"
-date: "" 
+date: "2022-07-31T16:10:00"
 track: "bigdata"
 presenters: "谢佳君"
 stype: "Chinese Session"

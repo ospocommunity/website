@@ -1,6 +1,6 @@
 ---
 title: "在本次演讲中，我们介绍了Apache Atlas数据模型的扩展和另一种开源用户界面，它针对的是非技术用户。更详细地说，在本演示中对数据模型的底层扩展进行了动机和解释。此外，业务用户需要哪些派生的信息来增加可用性也是其动机所在。接下来解释了开放源码后端功能，并介绍了底层技术。最后，提供了一个简短的教程，介绍了如何使用相关的开源掌舵图设置自己的系统，并解释了如何开始。"
-date: "" 
+date: "2022-07-29T14:10:00"
 track: "bigdata"
 presenters: "Wombacher, Andreas"
 stype: "英文演讲"
@@ -16,5 +16,6 @@ Apache Atlas提供数据治理功能，并且是Hadoop生态系统的一部分�
 —后端使用Apache Atlas、HBase、Apache Kafka、Apache Flink、Keycloak、Apache Httpd、elasticsearch、弹性企业搜索
  ### Speakers: 
  <img src="images/speaker/1060.png" width="200" /><br>Wombacher安德烈: 奥里利乌斯企业帐面价值, 首席技术官, Andreas在工作流和数据管理方面拥有广泛的专业知识。从数据集成、传感器数据融合、数据挖掘和数据分析到理解工作流环境中创建的数据的依赖性。这包括遵从性测试、数据来源、过程挖掘和过程方差挖掘。Andreas处理过不同规模和抽象级别的数据，从时间序列传感器数据到信息系统或人类事件数据。因此，Andreas拥有从内存数据分析到Hadoop分布式数据处理的各种技术经验。
-由于在各种环境中的实践经验，Andreas一直在各种客户项目中担任数据架构师的角色。
+由于在各种环境中的实践经验，Andreas一直在各种客户项目中担任数据架构师的角色。
+
  

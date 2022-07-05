@@ -2,6 +2,7 @@
 title: "An extension of Apache Atlas’ data model and an alternative open source user interface"
 date: "2022-07-29T14:10:00"
 track: "bigdata"
+room: "A"
 presenters: "Wombacher, Andreas"
 stype: "English Session"
 ---

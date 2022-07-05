@@ -2,6 +2,7 @@
 title: "Apache Atlas 数据模型的扩展和另一种开源用户界面"
 date: "2022-07-29T14:10:00"
 track: "bigdata"
+room: "A"
 presenters: "Wombacher, Andreas"
 stype: "英文演讲"
 ---

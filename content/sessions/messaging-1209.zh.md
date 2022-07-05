@@ -2,7 +2,7 @@
 title: "Apache Pulsar在vivo的探索与实践"
 date: "2022-07-29T14:10:00"
 track: "messaging"
-room: "A"
+room: "B"
 presenters: "全利民"
 stype: "中文演讲"
 ---

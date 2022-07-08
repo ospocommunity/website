@@ -1,6 +1,6 @@
 ---
 title: "Apache APISIX community practice sharing"
-date: "2022-07-30T16:10:00"
+date: "2022-07-31T16:50:00"
 track: "community"
 presenters: "Jing Li,Reese Liu"
 stype: "Chinese Session"

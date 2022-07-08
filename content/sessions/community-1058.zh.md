@@ -1,6 +1,6 @@
 ---
 title: "Apache APISIX 的社区运营实践分享"
-date: "2022-07-30T16:10:00"
+date: "2022-07-31T16:50:00"
 track: "community"
 presenters: "Jing Li,Reese Liu"
 stype: "中文演讲"

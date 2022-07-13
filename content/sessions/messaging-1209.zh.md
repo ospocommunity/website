@@ -14,4 +14,4 @@ vivo移动互联网旨在为3.5亿的全球vivo智能手机用户提供极致的
  ### Speakers: 
  <img src="images/speaker/1209.png" width="200" /><br>全利民，vivo互联网大数据工程师，目前负责vivo分布式消息中间件建设。
 
- <img src="images/speaker/2023.jpg" width="200" /><br>陈建波，vivo互联网大数据工程师，曾任微服务应用架构师，现负责vivo分布式消息中间件的能力建设。 
+ <img src="images/speaker/1209_2.png" width="200" /><br>陈建波，vivo互联网大数据工程师，曾任微服务应用架构师，现负责vivo分布式消息中间件的能力建设。 

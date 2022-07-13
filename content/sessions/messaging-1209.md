@@ -14,6 +14,6 @@ In this speech, I will share the reasons for choosing Pulsar, how we worked to p
  ### Speakers: 
  <img src="images/speaker/1209.png" width="200" /><br>Liming Quan, Big Data Engineer at vivo. He is currently responsible for the building of distributed message middleware at vivo.
 
- <img src="images/speaker/2023.jpg" width="200" /><br>Jianbo Chen, Big Data Engineer at vivo. He is currently responsible for the building of distributed message middleware at vivo.
+ <img src="images/speaker/1209_2.png" width="200" /><br>Jianbo Chen, Big Data Engineer at vivo. He is currently responsible for the building of distributed message middleware at vivo.
 
  

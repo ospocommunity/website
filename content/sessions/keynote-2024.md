@@ -1,6 +1,6 @@
 ---
 title: "Power TUNA"
-date: "" 
+date: "2022-07-31T10:15:00" 
 track: "keynote"
 presenters: "Yipeng Liu"
 stype: "Chinese Session"

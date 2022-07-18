@@ -1,6 +1,6 @@
 ---
 title: "Apache Doris开源项目到产品的商业化探索之路"
-date: "" 
+date: "2022-07-30T10:20:00" 
 track: "keynote"
 presenters: "连林江"
 stype: "中文演讲"

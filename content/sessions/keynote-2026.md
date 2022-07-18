@@ -1,6 +1,6 @@
 ---
 title: "History and technical analysis of the real-time data warehouse Apache Doris"
-date: "" 
+date: "2022-07-31T10:30:00" 
 track: "keynote"
 presenters: "Dongjin Zhang"
 stype: "Chinese Session"

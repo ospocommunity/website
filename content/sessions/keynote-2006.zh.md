@@ -1,6 +1,6 @@
 ---
 title: "我们需要做什么来构建安全的开源供应链"
-date: "" 
+date: "2022-07-29T09:10:00" 
 track: "keynote"
 presenters: "Brian Behlendorf"
 stype: "英文演讲"

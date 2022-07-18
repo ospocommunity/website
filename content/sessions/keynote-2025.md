@@ -1,6 +1,6 @@
 ---
 title: "The road from Apache Doris open source project to product commercialization exploration"
-date: "" 
+date: "2022-07-30T10:20:00" 
 track: "keynote"
 presenters: "Linjiang Lian"
 stype: "Chinese Session"

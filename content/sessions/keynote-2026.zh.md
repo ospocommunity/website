@@ -1,6 +1,6 @@
 ---
 title: "实时数仓 Apache Doris 发展历程和技术解析"
-date: "" 
+date: "2022-07-31T10:30:00" 
 track: "keynote"
 presenters: "张东进"
 stype: "中文演讲"

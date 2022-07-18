@@ -1,6 +1,6 @@
 ---
 title: "What We All Need To Do Together To Secure The Open Source Software Supply Chain"
-date: "" 
+date: "2022-07-29T09:10:00" 
 track: "keynote"
 presenters: "Brian Behlendorf"
 stype: "English Session"

@@ -1,8 +1,8 @@
 ---
 title: "Top Project Start-ups Panel"
-date: "2022-07-29T10:30:00" 
+date: "2022-07-29T11:30:00" 
 track: "keynote"
-presenters: "Xiangdong Huang, Ming Wen, Liang Zhang, Jerry Tan, Lidong Dai"
+presenters: "Xiangdong Huang, Ming Wen, Liang Zhang, Lidong Dai"
 stype: "Chinese Panel"
 ---
 In an era of increasing open source emergence, there is a growing number of commercialized companies building products around top-tier Apache projects. Start-ups of top projects are also gaining more favor from the investment community, such as Tributary Technologies, the commercialization company of the open source microservice API gateway Apache APISIX, SphereEx, which uses Apache Shardingsphere as its cornerstone, Easy View, which donated Apache DolphinScheduler, and Timecho, which is built around the temporal database Timecho Technology, built around the Apache IoTDB. So, how does the Apache Top Project title help in commercialization? What are the constraints? How to balance the two things: open source and commercialization?

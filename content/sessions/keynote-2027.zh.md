@@ -1,6 +1,6 @@
 ---
 title: "祝贺 ApacheCon Asia(亚洲)在线会议召开"
-date: "2022-07-31T10:30:00" 
+date: "2022-07-29T09:05:00" 
 track: "keynote"
 presenters: "陆首群"
 stype: "中文演讲"

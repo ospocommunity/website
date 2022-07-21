@@ -38,7 +38,7 @@
 
                   <input type="hidden" class="hidden"/> 
                   <span class='ellipsis-end' style='display:none'>...</span>
-                  <span class="pageNum">                
+                  <span class="pageNum" style='display:none'>                
                       <span class="current_page">1</span>
                       <span style="padding:0 3px;">/</span>
                       <span class="total"></span>
@@ -248,7 +248,22 @@
           }
         })
       }
+
+      if(page > 4){
+        $('.ellipsis-pre').show()
+      } else {
+        $('.ellipsis-pre').hide()
+
+      }
+
+      if(page < total_page - 3){
+        $('.ellipsis-end').show()
+      } else {
+        $('.ellipsis-end').hide()
+      }
+
     }
+
     buttonHide()
 
     // Click the page number to jump
@@ -258,18 +273,7 @@
 
       buttonHide(clickPage)
  
-      if(clickPage > 5){
-        $('.ellipsis-pre').show()
-      } else {
-        $('.ellipsis-pre').hide()
 
-      }
-
-      if(clickPage < total_page - 5){
-        $('.ellipsis-end').show()
-      } else {
-        $('.ellipsis-end').hide()
-      }
 
       $(".current_page").text(current_num);
       $(this).addClass("selected"); 

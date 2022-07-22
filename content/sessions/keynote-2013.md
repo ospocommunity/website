@@ -2,7 +2,7 @@
 title: "Top Project Start-ups Panel"
 date: "2022-07-29T11:30:00" 
 track: "keynote"
-presenters: "Xiangdong Huang, Ming Wen, Liang Zhang, Lidong Dai"
+presenters: "Xiangdong Huang, Jialin Qiao, Ming Wen, Liang Zhang, Lidong Dai"
 stype: "Chinese Panel"
 ---
 In an era of increasing open source emergence, there is a growing number of commercialized companies building products around top-tier Apache projects. Start-ups of top projects are also gaining more favor from the investment community, such as Tributary Technologies, the commercialization company of the open source microservice API gateway Apache APISIX, SphereEx, which uses Apache Shardingsphere as its cornerstone, Easy View, which donated Apache DolphinScheduler, and Timecho, which is built around the temporal database Timecho Technology, built around the Apache IoTDB. So, how does the Apache Top Project title help in commercialization? What are the constraints? How to balance the two things: open source and commercialization?
@@ -12,6 +12,9 @@ We invited Wen Ming, Co-founder & CEO of Shenzhen Tributary Technology, Zhang Li
 ### Speakers: 
 <img src="images/speaker/2013.png" width="200" /><br>
 Xiangdong Huang, Apache Member, Apache IoTDB PMC Chair, Ph.D. 2012, Tsinghua University School of Software, Assistant Researcher, Tsinghua University School of Software. He is also a member and secretary of the Special Committee on Open Source Technology of the Chinese Society of Communication. He has more than 30 patents related to temporal data management. He received the First Prize of Science and Technology Progress of Chinese Meteorological Society, the First Prize of Technical Invention of Ministry of Education, and the First Prize of Science and Technology Progress of Beijing.
+
+<img src="images/speaker/2013_4.png" width="200" /><br>
+Jialin Qiao, Apache IoTDB PMC and core module development. D., Class of 2016, School of Software, Tsinghua University, Assistant Researcher, School of Software, Tsinghua University. He received the First Prize of Beijing Science and Technology Progress Award and National Scholarship for PhD students. He is the author of the public number "Iron Head Qiao".
 
 <img src="images/speaker/2013_1.png" width="200" /><br>
 Ming Wen, co-founder & CEO of Shenzhen Tributary Technology, PPMC of open source microservice API gateway Apache APISIX, founder and first chairman of OpenResty Software Foundation, initiator of 360 Open Source Committee, columnist of "OpenResty from Beginning to Practice" in Geek Time.

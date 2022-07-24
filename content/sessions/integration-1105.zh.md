@@ -1,6 +1,6 @@
 ---
 title: "研发效能数据集成平台DevLake的架构分享"
-date: "2022-07-29T13:30:00"
+date: "2022-07-29T14:10:00"
 track: "integration"
 presenters: "陈映初"
 stype: "中文演讲"

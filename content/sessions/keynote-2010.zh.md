@@ -12,10 +12,10 @@ stype: "中文圆桌"
 王伟，华东师范大学研究员，开源社副理事长，开源社 ONES Group 发起人
 
 <img src="images/speaker/2010_1.png" width="200" /><br>
-王永雷，DevSecOps 专业人士，开源社 ONES Group 发起人
+王永雷，新思科技开源治理专家，开源社 ONES Group 发起人
 
 <img src="images/speaker/2010_2.png" width="200" /><br>
-边思康，企业 OSPO 专业人士，开源社 ONES Group 发起人，CCF 开源发展委员会委员
+边思康，蚂蚁开源办公室执行负责人，开源社 ONES Group 发起人，CCF 开源发展委员会委员
 
 <img src="images/speaker/2010_3.png" width="200" /><br>
 赵生宇，同济大学博士研究生，开源社 ONES Group 发起人

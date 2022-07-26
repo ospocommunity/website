@@ -1,5 +1,5 @@
 ---
-title: "内源和 The Apache Way：如何学习开源"
+title: "内源和 Apache 之道：如何学习开源"
 date: "2022-07-29T09:40:00" 
 track: "keynote"
 presenters: "Danese Cooper"

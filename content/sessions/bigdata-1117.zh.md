@@ -4,6 +4,7 @@ date: "2022-07-31T16:50:00"
 track: "bigdata"
 room: "A"
 presenters: "Merlino Gian"
+speechLink: "https://www.youtube.com/embed/2JR4sdLHTLM"
 stype: "英文演讲"
 ---
 如何构建和操作能够每秒接收数百万个事件、存储pb级历史数据、每秒运行数千个查询的系统，而所有这些响应时间都是亚秒级的?这并不容易，但是使用计算-存储设计、分散/聚集查询引擎和集群管理的正确组合已经完成了。

@@ -4,6 +4,7 @@ date: "2022-07-29T13:30:00"
 track: "messaging"
 room: "B"
 presenters: "Lin Lin, Xiaotong Wang"
+speechLink: "https://www.youtube.com/embed/q4XRCen_EGU"
 stype: "Chinese Session"
 ---
 In the cloud-native era, the infrastructure of the message queue in the Huawei Device is faced with many challenges. The large number of MQ types has caused difficulty in maintaining and building disaster tolerance capabilities and high costs. This section will cover Huawei Device’s experience rebuilding the message queue and dealing with the above problems.

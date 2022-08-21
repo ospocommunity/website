@@ -4,6 +4,7 @@ date: "2022-07-31T16:50:00"
 track: "bigdata"
 room: "A"
 presenters: "Gian Merlino"
+speechLink: "https://www.youtube.com/embed/2JR4sdLHTLM"
 stype: "English Session"
 ---
 How do you build and operate systems that can ingest millions of events per second, store petabytes of historical data, and run thousands of queries per second, all at subsecond response times? It’s not easy, but it has been accomplished using the right mix of compute-storage design, scatter/gather query engines, and cluster management.

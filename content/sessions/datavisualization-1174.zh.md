@@ -4,6 +4,7 @@ date: "2022-07-29T14:20:00"
 track: "datavisualization"
 presenters: "羡辙"
 stype: "中文演讲"
+speechLink: "https://www.youtube.com/embed/mjBCwRy80Tg"
 ---
 数据可视化并不只是用来“看”的，让更多人理解图表所传递的信息也是可视化重要的方面。在这个分享中，我将介绍 Apache ECharts 近些年来在无障碍设计方面的努力，包括自动生成的图表描述、用以区分数据的贴花图案、在触摸设备增加响应范围等细节设计。
  ### Speakers:

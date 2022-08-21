@@ -4,6 +4,7 @@ date: "2022-07-31T09:00:00"
 track: "keynote"
 presenters: "Justin Mclean"
 stype: "English Session"
+speechLink: "https://www.youtube.com/embed/IOoXuxsJQ6M"
 ---
 What is the Apache Foundation Apache, and what is the Apache Way?
 In this talk, I'll introduce the ASF and the Apache way and explain how the Apache Incubator teaches it to new projects at the ASF Incubator. If you are new to ASF, you may think that some ways we do things are strange or unnecessary. Understanding the Apache Way helps you comprehend why certain things happen the way they do in ASF projects and how you create a long-lived community around a project.

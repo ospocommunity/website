@@ -4,6 +4,7 @@ date: "2022-07-30T16:10:00"
 track: "messaging"
 room: "A"
 presenters: "Zike Yang"
+speechLink: "https://www.youtube.com/embed/Vfg091JLp90"
 stype: "Chinese Session"
 ---
 Like all messaging systems, Apache Pulsar imposes a size limit on each message sent to the broker. It prevents the payload of each message from exceeding the max message size set in the pulsar broker. However, many users need the Pulsar client to send large messages to the broker for use cases such as image and audio processing. 

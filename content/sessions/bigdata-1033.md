@@ -4,6 +4,7 @@ date: "2022-07-29T14:50:00"
 track: "bigdata"
 room: "A"
 presenters: "金嘉怡"
+speechLink: "https://www.youtube.com/embed/QWKOn5tx8Co"
 stype: "Chinese Session"
 ---
 Introduce the background of the Apache Druid cloud native architecture, the process of landing in many SHOPEE businesses, the opportunities and challenges during the period, our main technology evolution route, and future plans and prospects.

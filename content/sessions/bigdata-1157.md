@@ -4,6 +4,7 @@ date: "2022-07-30T16:50:00"
 track: "bigdata"
 room: "A"
 presenters: "Yan Liu"
+speechLink: "https://www.youtube.com/embed/aGsT13gFGac"
 stype: "Chinese Session"
 ---
 The Release schedule for Apache Hive 4.0 has been on hold for a long time, but the community has not stopped developing and improving, and the patches that have been resolved and marked as Apache Hive 4.0 have accumulated to an order of magnitude.

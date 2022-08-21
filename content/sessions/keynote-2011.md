@@ -4,6 +4,7 @@ date: "2022-07-31T11:00:00"
 track: "keynote"
 presenters: "Meng Li, Sky, Qijun Xie, Jieker, Zhangheng Huang"
 stype: "Chinese Panel"
+speechLink: "https://www.youtube.com/embed/_MCLkXHdWkc"
 ---
 "OSPP" builds a bridge between many open source projects and university students. Under the guidance of open source project mentors, the Summer of Open Source provides an opportunity for students to learn about and participate in the open source community through hands-on summer projects. Through participating in the "OSPP", students not only enrich their practical experience and enhance their project development skills, but also have in-depth communication with open source project developers, so as to understand open source in the most direct way and gain a deeper understanding of open source, providing a reference for subsequent academic advancement and accumulating contacts for career development; at the same time This year, the Open Source Summer has entered its third year and hundreds of projects have been produced with the joint efforts of students and tutors. Today we have invited students from the Summer of Open Source to share their stories about their participation in the Summer of Open Source, in the hope that it will inspire Generation Z developers and motivate more young developers to participate in open source project development activities.
 

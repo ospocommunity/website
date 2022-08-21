@@ -4,6 +4,7 @@ date: "2022-07-29T16:40:00"
 track: "messaging"
 room: "A"
 presenters: "高向阳"
+speechLink: "https://www.youtube.com/embed/8DaD8AdpUk4"
 stype: "Chinese Session"
 ---
 For historical reasons, The business line of Flash Delivery Company fully uses ActiveMQ as the message system. With the increase of the business volume of the company, problems such as ActiveMQ's high performance, high expansion and high availability are increasingly emerging, which has become the most important problem to be improved in the system stability (company-level key promotion project).

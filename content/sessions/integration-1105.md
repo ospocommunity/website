@@ -4,6 +4,7 @@ date: "2022-07-29T14:10:00"
 track: "integration"
 presenters: "陈映初"
 stype: "Chinese Session"
+speechLink: "https://www.youtube.com/embed/-prMcpvbmcU"
 ---
 DevLake is an open source r&d data platform that provides automated, one-stop data collection, analysis, and visualization capabilities to help r&d teams better understand the development process and identify key bottlenecks and efficiencies.
 One of the biggest challenges in the development of a multi-source integration platform like DevLake is the complexity of data sources and the sheer volume of data. In the original architecture, there were three issues including data loss, data distortion, and the need to request the API repeatedly after each tweak. This presentation shares how the team overcame challenges during the evolution of the architecture and hopefully provides a reference for the design of a framework for data integration and processing.

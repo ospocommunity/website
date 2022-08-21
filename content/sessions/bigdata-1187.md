@@ -4,6 +4,7 @@ date: "2022-07-31T16:10:00"
 track: "bigdata"
 room: "B"
 presenters: "谢佳君"
+speechLink: "https://www.youtube.com/embed/imw45AdyafM"
 stype: "Chinese Session"
 ---
 In the field of data analysis, the same business indicator may need to write different SQL for different engines, and the writer needs to deal with the syntax differences of different engines, which costs a lot to learn and use. When an indicator caliber is changed, it is necessary to notify all the service providers using the indicator to make the change. Therefore, the communication cost is high. Bytedance solves this problem by designing and implementing multi-engine virtual columns based on Apache Calcite.

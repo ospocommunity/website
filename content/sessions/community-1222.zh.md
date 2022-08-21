@@ -4,6 +4,7 @@ date: "2022-07-30T15:30:00"
 track: "community"
 presenters: "梅相如"
 stype: "中文演讲"
+speechLink: "https://www.youtube.com/embed/JNcYC0uJC6M"
 ---
 openGauss是领先的企业级开源关系型数据库，经过两年成长，openGauss开源社区最近被中国信通院评为各项指标成熟度均为先进级的开源社区。
 本议题将介绍openGauss开源社区从0到1的治理的实践经验。这里包含了若干The Apache Way的治理方法的实践落地。

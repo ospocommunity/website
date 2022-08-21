@@ -4,6 +4,7 @@ date: "2022-07-30T14:10:00"
 track: "community"
 presenters: "Yacine Si Tayeb"
 stype: "英文演讲"
+speechLink: "https://www.youtube.com/embed/1JiWgOvwYXw"
 ---
 如何让开源社区从少数贡献者成长为中国领先的社区和世界上增长最快的Apache项目之一?
 

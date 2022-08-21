@@ -4,6 +4,7 @@ date: "2022-07-29T14:10:00"
 track: "workflowdatagovernance"
 presenters: "张俊帆"
 stype: "中文演讲"
+speechLink: "https://www.youtube.com/embed/4OIktg8dREQ"
 ---
 大数据离线处理领域在近些年的发展逐渐成熟完善，而在对离线任务编排领域，也就是工作流这一块，各种项目工具也是层出不穷。Apache 的第一代工作流调度软件 Oozie 已经是有 10 余年的历史了，而新晋火热的 dolphinscheduler 和 airflow 也是关注度相当高，证明了在工作流编排领域依然有很强的活力。
 

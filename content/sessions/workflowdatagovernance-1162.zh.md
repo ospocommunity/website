@@ -4,6 +4,7 @@ date: "2022-07-29T13:30:00"
 track: "workflowdatagovernance"
 presenters: "Gang Li"
 stype: "中文演讲"
+speechLink: "https://www.youtube.com/embed/m5bz1k8sbVs"
 ---
 主要讲述Apache DolphinScheduler在联想的推广，落地实践以及未来规划，会从以下三方面展开：
 1. 联想TDP统一调度中心的需求背景

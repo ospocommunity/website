@@ -4,6 +4,7 @@ date: "2022-07-29T13:30:00"
 track: "bigdata"
 room: "A"
 presenters: "杨政国"
+speechLink: "https://www.youtube.com/embed/SxQnsIueix4"
 stype: "中文演讲"
 ---
 Apache Doris 是百度贡献给Apache软件基金会的一款高性能全场景MPP企业级MPP数据库。提供针对海量数据的近实时数据分析， 支持大规模数据导入，能提供亚秒级实时分析和超高并发的查询响应。

@@ -4,6 +4,7 @@ date: "2022-07-31T15:30:00"
 track: "bigdata"
 room: "A"
 presenters: "高楚枫"
+speechLink: "https://www.youtube.com/embed/e76RYh1ZdmE"
 stype: "Chinese Session"
 ---
 For big data engineers, the development and scheduling of big data jobs usually takes place in different environments. After job development and debugging is completed in the IDE, the code is copied or packaged into a scheduling tool for scheduling. On the one hand, it affects the development efficiency; on the other hand, it may produce unpredictable problems due to the difference of environment.

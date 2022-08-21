@@ -4,6 +4,7 @@ date: "2022-07-29T16:10:00"
 track: "integration"
 presenters: "Bendhiba Zineb"
 stype: "英文演讲"
+speechLink: "https://www.youtube.com/embed/Owl9bOhPx8o"
 ---
 您是否曾经遇到过在两个系统之间实现数据交换的任务，而这两个系统并没有设计成相互通信?我敢打赌你有过，在这里我将介绍一些工具和方法，使任务更容易完成。
 

@@ -4,6 +4,7 @@ date: "2022-07-31T13:30:00"
 track: "messaging"
 room: "A"
 presenters: "LinChen"
+speechLink: "https://www.youtube.com/embed/yTT0bl3c6Cg"
 stype: "Chinese Session"
 ---
 1. What is InLong?

@@ -4,6 +4,7 @@ date: "2022-07-29T15:30:00"
 track: "bigdata"
 room: "B"
 presenters: "Yunqing Mo"
+speechLink: "https://www.youtube.com/embed/ISYxPYuLLoU"
 stype: "Chinese Session"
 ---
 1. Introduction to Apache InLong

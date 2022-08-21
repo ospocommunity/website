@@ -4,6 +4,7 @@ date: "2022-07-31T10:30:00"
 track: "keynote"
 presenters: "张东进"
 stype: "中文演讲"
+speechLink: "https://www.youtube.com/embed/RyM1duuRfjg"
 ---
 Apache Doris 是近年来新兴的开源实时数仓项目，具有高性能、场景支持完善、易于使用、易于运维等特点。本文将总体介绍该项目在百度内部以及开源之后的发展历程，并深入解析其核心特性和技术实现，希望能帮助更多人认识、使用和参与这一优秀的项目。
 

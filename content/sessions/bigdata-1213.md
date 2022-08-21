@@ -4,6 +4,7 @@ date: "2022-07-30T14:50:00"
 track: "bigdata"
 room: "A"
 presenters: "喻兆靖"
+speechLink: "https://www.youtube.com/embed/faDRMrC5KbI"
 stype: "Chinese Session"
 ---
 Bytedance currently has one of the largest data lake coverage companies in China, covering 100 petabytes of data.

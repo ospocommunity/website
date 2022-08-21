@@ -4,6 +4,7 @@ date: "2022-07-30T14:30:00"
 track: "workflowdatagovernance"
 presenters: "XU SHUAI"
 stype: "Chinese Session"
+speechLink: "https://www.youtube.com/embed/H7Qgfd3NguE"
 ---
 In BIGO, they use DolphinScheduler to unify the workflow schedule system. They made a lot of improvements on DolphinScheduler and even some automatical tools for migrating existing workflow in AirFlow and oozie to DolphinSceduler. Now DolphinScheduler has become the only workflow schedule system in BIGO.
  ### Speakers: 

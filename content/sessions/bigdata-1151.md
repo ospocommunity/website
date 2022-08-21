@@ -4,6 +4,7 @@ date: "2022-07-30T13:30:00"
 track: "bigdata"
 room: "B"
 presenters: "Kota Uenishi"
+speechLink: "https://www.youtube.com/embed/EmpHluBOesg"
 stype: "English Session"
 ---
 This talk introduces two types of workloads over Apache Ozone, in self-hosted supercomputer systems of Preferred Networks. They're the result of our effort connecting the AI & HPC ecosystem (PyTorch, GPU) to BigData ecosystem (JVM, commodity hardware).

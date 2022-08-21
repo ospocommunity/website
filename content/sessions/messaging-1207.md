@@ -4,6 +4,7 @@ date: "2022-07-31T14:50:00"
 track: "messaging"
 room: "A"
 presenters: "Yong Zhang"
+speechLink: "https://www.youtube.com/embed/qKqHtrRBQC0"
 stype: "Chinese Session"
 ---
 As we may use different systems for streaming data in various use cases, integrating data stored across these systems may be a problem. In this speech, we will talk about the Lakehouse Connector and how to use it to sink Pulsar topic data into Lakehouse.

@@ -4,6 +4,7 @@ date: "2022-07-30T14:50:00"
 track: "messaging"
 room: "A"
 presenters: "Penghui Li"
+speechLink: "https://www.youtube.com/embed/4qcv5TyaSRQ"
 stype: "Chinese Session"
 ---
 Abstract: The Pulsar topic data will not be limited by the storage resources of a single node anymore, even if the topic is a non-partitioned topic or a partitioned topic with a single partition. The fundamental reason is that Pulsar uses the logical storage model. Pulsar topic data will be distributed to more bookies nodes, and the partition/topic will not be 1:1 bound to any storage node. 

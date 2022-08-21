@@ -4,6 +4,7 @@ date: "2022-07-29T16:50:00"
 track: "bigdata"
 room: "A"
 presenters: "张伟伟"
+speechLink: "https://www.youtube.com/embed/-7-iHDWkbwU"
 stype: "Chinese Session"
 ---
 When planning the evolution of big data architecture, The main focus of Big data is: business support, stability, security, cost control, efficiency, to create a solid foundation, powerful big data infrastructure and platform services, support data value and data empowerment, and help the company’s business high-quality growth. This talk will share the ongoing work of the Big data infrastructure team based on these goals: big data infrastructure and optimization based on Hadoop ecosystem and hybrid cloud, stability assurance, security assurance, big data cloud native, etc. 

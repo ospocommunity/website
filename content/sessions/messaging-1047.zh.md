@@ -4,6 +4,7 @@ date: "2022-07-29T14:00:00"
 track: "messaging"
 room: "A"
 presenters: "王帆"
+speechLink: "https://www.youtube.com/embed/Qh5dAUftyrA"
 stype: "中文演讲"
 ---
 消息队列是连接、解耦各类异构数据系统的管道，小米在 RocketMQ 社区和自研的基础上，针对集成、工业、商业化等场景构建了一套高可用、高性能的在线消息平台，能够大幅降低用户的接入成本。

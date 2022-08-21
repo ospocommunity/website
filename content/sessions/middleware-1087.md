@@ -4,6 +4,7 @@ date: "2022-07-29T16:50:00"
 track: "middleware"
 presenters: "梁荣华"
 stype: "Chinese Session"
+speechLink: "https://www.youtube.com/embed/KT2Be8aTy4g"
 ---
 The scheme design and application scenario of building cloud native data transfer platform based on Apache EventMesh
  ### Speakers: 

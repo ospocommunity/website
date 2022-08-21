@@ -4,6 +4,7 @@ date: "2022-07-30T16:10:00"
 track: "bigdata"
 room: "A"
 presenters: "Mukund Thakur"
+speechLink: "https://www.youtube.com/embed/BpApYhHCYQk"
 stype: "English Session"
 ---
 Since 2006 the world of big data has moved from terabytes to hundreds of petabytes, from local clusters to remote cloud storage, yet the original Apache Hadoop posix-based file APIs have barely changed.

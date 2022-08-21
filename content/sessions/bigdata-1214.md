@@ -4,6 +4,7 @@ date: "2022-07-29T16:50:00"
 track: "bigdata"
 room: "B"
 presenters: "韩帅,孙科"
+speechLink: "https://www.youtube.com/embed/EeOI8Dy46sQ"
 stype: "Chinese Session"
 ---
 In the context of data center, users in the field of offline data warehouse often need to solve the following problems:

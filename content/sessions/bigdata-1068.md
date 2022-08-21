@@ -4,6 +4,7 @@ date: "2022-07-29T16:10:00"
 track: "bigdata"
 room: "B"
 presenters: "陶克路,王正"
+speechLink: "https://www.youtube.com/embed/2QrVb3VWNnw"
 stype: "Chinese Session"
 ---
 This paper mainly introduces how to build a job development management platform based on Zeppelin on Kubernetes environment, and run and manage Flink/Spark on Native K8S practice.

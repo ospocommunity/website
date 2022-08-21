@@ -4,6 +4,7 @@ date: "2022-07-29T15:30:00"
 track: "incubator"
 presenters: "肖宇"
 stype: "Chinese Session"
+speechLink: "https://www.youtube.com/embed/RDGnrAaT3IE"
 ---
 1. Development history of Shenyu Gateway
 2. Functions of Shenyu gateway

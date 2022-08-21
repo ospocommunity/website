@@ -4,6 +4,7 @@ date: "2022-07-29T14:10:00"
 track: "bigdata"
 room: "A"
 presenters: "Wombacher, Andreas"
+speechLink: "https://www.youtube.com/embed/RZ_PeuDLFDo"
 stype: "English Session"
 ---
 Apache Atlas provides data governance functionality and is part of the Hadoop eco-system, however, it is not limited to it. The underlying data model is very generic and can be extended. This makes Apache Atlas very flexible, however, has consequences for the usability of the user interface.

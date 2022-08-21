@@ -4,6 +4,7 @@ date: "2022-07-29T16:50:00"
 track: "integration"
 presenters: "Rachel Yordán"
 stype: "English Session"
+speechLink: "https://www.youtube.com/embed/EHC-W3RtBb4"
 ---
 Let's face it, integrations are better in the cloud. Learn how you can use open source software to design and deploy your integrations in a matter of minutes using Kaoto, a developer-friendly low code integration tool. Kaoto's lightweight architecture is based on Apache Camel and its battle-tested enterprise integration patterns.
  ### Speakers: 

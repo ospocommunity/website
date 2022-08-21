@@ -4,6 +4,7 @@ date: "2022-07-30T14:40:00"
 track: "webserverandtomcat"
 presenters: "饶子昊"
 stype: "Chinese Session"
+speechLink: "https://www.youtube.com/embed/lnp51wz4PlQ"
 ---
 This section describes the design principles of graceful shutdown provided by Tomcat, and describes how Alibaba Cloud Microservice engine MSE uses related features to serve external enterprise users to help them achieve graceful shutdown.
  ### Speakers: 

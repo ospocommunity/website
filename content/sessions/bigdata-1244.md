@@ -4,6 +4,7 @@ date: "2022-07-30T16:50:00"
 track: "bigdata"
 room: "B"
 presenters: "Anmol Chaturvedi, Haripriya Bendapudi, Praneet Sharma"
+speechLink: "https://www.youtube.com/embed/FL-FGMZPe7U"
 stype: "English Session"
 ---
 In recent times, the demand for time-critical short-lived interactive spark workloads has grown tremendously. One common use case is that of data preparation wherein a pipeline of data integration steps is built through spark driven interactions with subset of data (data worksheet) and visualizing the transforming data responses in real time. This recipe of interactive spark queries is then published to be applied on petabytes of data at hyperscale.

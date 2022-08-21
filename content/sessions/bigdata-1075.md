@@ -4,6 +4,7 @@ date: "2022-07-30T14:10:00"
 track: "bigdata"
 room: "B"
 presenters: "Quanlong Huang（黄权隆）"
+speechLink: "https://www.youtube.com/embed/v9zY8Kyg1Vc"
 stype: "Chinese Session"
 ---
 Apache Impala is a distributed query engine implemented based on the MPP architecture. This talk will share the basic implementation of Impala and the basic concepts in Impala. Based on this, we will introduce the noteworthy new features and improvements in Impala 4.x. Finally, we will discuss the future plans for Impala.

@@ -4,6 +4,7 @@ date: "2022-07-29T15:30:00"
 track: "streaming"
 presenters: "张颖,闫莉刚"
 stype: "Chinese Session"
+speechLink: "https://www.youtube.com/embed/pV_VAYCCj3A"
 ---
 JD retail data and intelligence department build a flink-based real-time computing framework based on JD’s business characteristics to improve the development efficiency of r&d personnel in specific scenarios. It is committed to building unique flink-based data flow scenarios, including but not limited to:
 

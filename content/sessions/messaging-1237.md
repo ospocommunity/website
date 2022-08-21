@@ -4,6 +4,7 @@ date: "2022-07-29T14:40:00"
 track: "messaging"
 room: "A"
 presenters: "黄展鹏"
+speechLink: "https://www.youtube.com/embed/tsvMkudEOp4"
 stype: "Chinese Session"
 ---
 Under the cloud native distributed micro-service architecture, RocketMQ and other middleware are used to realize the whole-link business gray scale management and control capability for the business under the condition of basically no intrusion to the business

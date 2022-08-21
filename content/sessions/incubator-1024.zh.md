@@ -4,6 +4,7 @@ date: "2022-07-29T15:30:00"
 track: "incubator"
 presenters: "肖宇"
 stype: "中文演讲"
+speechLink: "https://www.youtube.com/embed/RDGnrAaT3IE"
 ---
 1.shenyu网关的发展历程
 2.shenyu网关的功能介绍

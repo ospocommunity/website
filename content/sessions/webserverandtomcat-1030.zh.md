@@ -4,6 +4,7 @@ date: "2022-07-31T14:00:00"
 track: "webserverandtomcat"
 presenters: "Mark Thomas"
 stype: "英文演讲"
+speechLink: "https://www.youtube.com/embed/C0y3w8yBeWg"
 ---
 Apache Tomcat实现了Jakarta Servlet、Jakarta Pages、Jakarta表达式语言、Jakarta WebSocket和Jakarta身份验证规范。Jakarta EE 8和Jakarta EE 9是过渡版本，没有向最终用户提供新特性。最近发布的Jakarta EE 10是第一个包含新特性和其他变化的版本。
 

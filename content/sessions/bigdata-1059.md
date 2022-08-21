@@ -4,6 +4,7 @@ date: "2022-07-30T14:10:00"
 track: "bigdata"
 room: "A"
 presenters: "Yan Liu,Yi Chen"
+speechLink: "https://www.youtube.com/embed/SB4lgATn-s8"
 stype: "Chinese Session"
 ---
 Apache Ozone is the next generation of distributed storage from the Hadoop community. The architecture is simple and scalable, compatible with Hadoop file systems, and seamlessly supports computing engines such as MR, Hive, Spark and Impala. Compatible with S3 object protocol, support AWS client access; Rich enterprise-class features, including user authentication, transparent data encryption, GDPR specifications, access control, quota management, and more.

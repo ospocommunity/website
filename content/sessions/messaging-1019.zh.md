@@ -4,6 +4,8 @@ date: "2022-07-31T13:30:00"
 track: "messaging"
 room: "B"
 presenters: "David Kjerrumgaard"
+speechLink: "https://www.youtube.com/embed/x5OFvx_Ot5o"
+speechLink: "https://www.youtube.com/embed/eM-TA8UJ0v4"
 stype: "英文演讲"
 ---
 开发高可用性的应用程序，需要的不仅仅是利用软件栈中的容错服务（如Apache Pulsar），还需要立即进行故障检测和解决，包括在数据中心发生故障时进行内置故障转移。

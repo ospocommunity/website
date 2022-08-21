@@ -4,6 +4,7 @@ date: "2022-07-30T16:10:00"
 track: "streaming"
 presenters: "赵波"
 stype: "Chinese Session"
+speechLink: "https://www.youtube.com/embed/JAOllZTbbRw"
 ---
 Let Flink run better in K8S. Now K8S has slowly entered online deployment service. In the whole process of big data technology evolution, we have higher demand for Flink job running on K8S.
 1. In the case of resource shortage, we need Flink jobs to run in sequence according to certain rules.

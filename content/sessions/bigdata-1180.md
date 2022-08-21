@@ -4,6 +4,7 @@ date: "2022-07-30T15:30:00"
 track: "bigdata"
 room: "A"
 presenters: "陶克路"
+speechLink: "https://www.youtube.com/embed/SGDLgQH8gG8"
 stype: "Chinese Session"
 ---
 This section describes how to use Apache Seatunnel to implement data synchronization between different data sources based on Flink/Spark, the core implementation of Seatunnel, and the future development direction of the community. Finally, how to participate in the open source community.

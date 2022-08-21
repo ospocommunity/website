@@ -4,6 +4,7 @@ date: "2022-07-30T16:50:00"
 track: "middleware"
 presenters: "Bechis Giovanni"
 stype: "英文演讲"
+speechLink: "https://www.youtube.com/embed/udCbMbbHr70"
 ---
 SpamAssassin 4.0即将面世，它提供了许多新功能，可以用来改进垃圾邮件的检测方式。
 Giovanni Bechis将谈论最近的垃圾邮件活动，以及如何使用SpamAssassin的新功能来检测可以注入Office文件的新垃圾邮件类型和新恶意软件。

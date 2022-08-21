@@ -4,6 +4,7 @@ date: "2022-07-29T15:30:00"
 track: "middleware"
 presenters: "Paul Brebner"
 stype: "English Session"
+speechLink: "https://www.youtube.com/embed/cUCTB_7dtzw"
 ---
 A ZooKeeper walks into a pub … (actually an Outback pub), and ends up helping some Philosophers solve their fork resource contention problem. This talk is an introduction to Apache Zookeeper and Apache Curator to solve a new variant of the classic computer science Dining Philosophers problem. We’ll introduce Zookeeper (a mature and widely-used de facto technology for distributed systems coordination) and the Dining Philosophers problem, and explore how we used Apache Curator (a high-level Java client for Zookeeper) to implement the solution and show how it works. We tested the application on Instaclustr’s new managed Apache Zookeper cloud service, so we can also reveal performance results using a single Zookeeper server vs. an Ensemble. Finally, we take a look at the progress to remove Zookeeper from Apache Kafka. Even though Apache Kafka may be leaving the Zoo(keeper) soon, there are still lots of distributed applications in need of some coordination help. and it’s worth learning about Apache Zookeeper and Curator.
  ### Speakers: 

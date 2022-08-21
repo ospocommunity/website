@@ -4,6 +4,7 @@ date: "2022-07-30T15:10:00"
 track: "workflowdatagovernance"
 presenters: "李心恺,赵玉威"
 stype: "Chinese Session"
+speechLink: "https://www.youtube.com/embed/oQXg-MwF6yE"
 ---
 Apache DolphinScheduler is an excellent distributed data workflow task scheduling system, but it lacks CI\CD modules. T3 travel integrates one-stop development platform and connects DolphinScheduler with Apache Kyuubi and Apache Linkis computing middleware to form a complete development process such as development, debugging, release and version control, greatly improving development efficiency and standardizing the data development process. It can realize the integration of code development, business on-line and scheduling system, and at the same time can close the mouth to achieve CI/CD management of big data development, helping business departments to lower the threshold of on-line big data-related requirements, reducing the pressure of data development, and making a further step towards our goal of one-stop development platform
  ### Speakers: 

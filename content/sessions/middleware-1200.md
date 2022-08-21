@@ -4,6 +4,7 @@ date: "2022-07-30T16:10:00"
 track: "middleware"
 presenters: "马丽丽"
 stype: "Chinese Session"
+speechLink: "https://www.youtube.com/embed/xlM3s2vS-14"
 ---
 In addition to performance and availability, the scalability of the database is also an issue that users need to consider when choosing the database or when the volume of data keeps growing as the business expands. Take Amazon Aurora, the relational database developed by Amazon Cloud Technology, for example, it has good support in storage expansion, horizontal expansion of read nodes, global database expansion, and vertical expansion of single nodes. Aurora now supports up to four write nodes on a horizontal scale-up of write nodes. Users need to select database middleware when the number of concurrent writes is high. This session will show you how to further extend Amazon Aurora's write extension capabilities with The Apache ShardingSphere and provide a reference for the audience when choosing database middleware.
 This presentation will cover:

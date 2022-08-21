@@ -4,6 +4,7 @@ date: "2022-07-30T14:50:00"
 track: "streaming"
 presenters: "毕岩"
 stype: "中文演讲"
+speechLink: "https://www.youtube.com/embed/CUL9JD07iWE"
 ---
 随着数据湖格式的兴起和应用，如何在实际生产环境中更好的与现有大数据生态结合，解决当前大数据/数仓架构下的难点，是需要持续去探索和丰富的。该topic探讨在经典的数仓CDC场景下，如何将Apache Hudi和Apache Spark结合，实现CDC解决方案，来构建完整的流式增量数仓。
  ### Speakers: 

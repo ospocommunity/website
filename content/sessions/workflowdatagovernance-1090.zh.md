@@ -4,6 +4,7 @@ date: "2022-07-29T14:50:00"
 track: "workflowdatagovernance"
 presenters: "刘武"
 stype: "中文演讲"
+speechLink: "https://www.youtube.com/embed/7waDuA-Gt94"
 ---
 基于1.3.2版本进行二次开发的，在公司内部部署了80+的服务器运行与维护，扩展了后台多机器，版本升级，上线批量管理，以及扩展了与其他组件集成交互的功能等
 

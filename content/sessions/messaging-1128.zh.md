@@ -4,6 +4,7 @@ date: "2022-07-30T14:40:00"
 room: "B"
 track: "messaging"
 presenters: "区二立"
+speechLink: "https://www.youtube.com/embed/_mfMra3ZlRs"
 stype: "中文演讲"
 ---
 RocketMQ（以下简称MQ）作为消息中间件在事务管理，异步解耦，削峰填谷，数据同步等应用场景中有着广泛使用。当业务系统进行灰度发布时，Dubbo与HTTP的调用可以基于业界通用的灰度方式在vivo的微服务治理与网关平台来实现，但MQ已知的灰度方案都不能完全解决消息的隔离与切换衔接问题，为此，vivo技术架构团队在鲁班MQ平台（包含根因分析、资源管理、订阅关系校验、延时优化等等的扩展）增加了MQ灰度功能的扩展实现，该方案主要以拆分queue的目标使用方式为基础进行深度扩展封装实现。

@@ -4,6 +4,7 @@ date: "2022-07-29T15:20:00"
 track: "datavisualization"
 presenters: "Fan Qiuxia"
 stype: "中文演讲"
+speechLink: "https://www.youtube.com/embed/egfPGjpsDc0"
 ---
 数据可视化的背景。
 用ECharts实现SkyWalking仪表板。

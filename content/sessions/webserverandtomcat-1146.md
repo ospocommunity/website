@@ -4,6 +4,7 @@ date: "2022-07-30T15:20:00"
 track: "webserverandtomcat"
 presenters: "Dennis Jacob"
 stype: "English Session"
+speechLink: "https://www.youtube.com/embed/Jmw-d0kyZ_4"
 ---
 Valves act as a request pre-processing mechanism in Tomcat. Custom Valves can be developed by extending the base Valve Class, to integrate additional capabilities for the requests that are accepted by the Tomcat server for processing. Request traffic rate limiting, implementing enhanced mTLS security, debugging mechanisms etc. are some of the examples, where custom Tomcat Valves can be leveraged for extending capabilities of Tomcat.
 

@@ -4,6 +4,7 @@ date: "2022-07-29T11:30:00"
 track: "keynote"
 presenters: "黄向东，乔嘉林，温铭，张亮，代立冬"
 stype: "中文圆桌"
+speechLink: "https://www.youtube.com/embed/mIyTn7r2icM"
 ---
 在开源日益兴起的时代，围绕着Apache顶级项目打造产品的商业化公司越来越多。顶级项目的新创企业们也获得了投资界的较多青睐，比如开源微服务 API 网关 Apache APISIX的商业化公司支流科技、以 Apache Shardingsphere 为基石的SphereEx、捐献出 Apache DolphinScheduler 的易观、围绕着时序数据库 Apache IoTDB 打造的Timecho天谋科技。那么，Apache顶级项目这个title对进行商业化有什么帮助？有什么掣肘？开源和商业化这两件事如何平衡？
 本次邀请到了深圳支流科技的联合创始人&CEO 温铭、SphereEx 创始人兼CEO 张亮、白鲸开源联合创始人 & Apache DolphinScheduler PMC Chair 代立冬、Apache Member、Apache IoTDB PMC Chair 黄向东，来对顶级项目新创企业这类公司从不同的视角提出相关的看法。

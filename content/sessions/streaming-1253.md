@@ -4,6 +4,7 @@ date: "2022-07-30T14:10:00"
 track: "streaming"
 presenters: "盛宇帆"
 stype: "Chinese Session"
+speechLink: "https://www.youtube.com/embed/eGA5LRoqGJ8"
 ---
 Apache Pulsar has provided a DataStream API based Connector in Apache Flink that can read and write Pulsar and develop batch converged applications. In this talk, Sheng Yufan will introduce the technical details behind Connector and how Pulsar's various capabilities can be used and supported on Connector. We will demonstrate how to design and develop a consistent, high-throughput flow computing application based on Connector.
  ### Speakers: 

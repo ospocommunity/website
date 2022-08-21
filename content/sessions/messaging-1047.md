@@ -4,6 +4,7 @@ date: "2022-07-29T14:00:00"
 track: "messaging"
 room: "A"
 presenters: "王帆"
+speechLink: "https://www.youtube.com/embed/Qh5dAUftyrA"
 stype: "Chinese Session"
 ---
 Message queue is the pipeline connecting and decoupling various heterogeneous data systems. Based on the RocketMQ community and its own research, Xiaomi has built a set of highly available and high-performance online messaging platform for integration, industrial and commercial scenarios, which can significantly reduce users' access costs.

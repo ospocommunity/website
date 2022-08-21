@@ -4,6 +4,7 @@ date: "2022-07-29T14:40:00"
 track: "observability"
 presenters: "Han Liu"
 stype: "English Session"
+speechLink: "https://www.youtube.com/embed/yUF5qRk4rYY"
 ---
 The topic of eBPF has become hotter and hotter in recent years. It turns the Linux system into a programmable kernel, which makes it easier for us to obtain various data in Linux.
 As an observable platform, Apache SkyWalking can use eBPF technology to aggregate more data into the platform for analysis. So, we created the native eBPF agent. In this session, I will introduce what eBPF can bring to the Apache SkyWalking.

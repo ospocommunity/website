@@ -4,6 +4,7 @@ date: "2022-07-30T14:50:00"
 track: "bigdata"
 room: "B"
 presenters: "哈晓琳"
+speechLink: "https://www.youtube.com/embed/-sp8GtyHNcA"
 stype: "中文演讲"
 ---
 主要讲述HBase在美团大规模应用场景下遇到的一些问题和改进方案，以及美团使用HBase的一些实践经验。

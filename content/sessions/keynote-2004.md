@@ -4,6 +4,7 @@ date: "2022-07-30T09:20:00"
 track: "keynote"
 presenters: "Mark Thomas"
 stype: "English Session"
+speechLink: "https://www.youtube.com/embed/fKzN0dPfXXg"
 ---
 This session is aimed primarily at committers of Apache projects. It will start with an overview of branding and trademarks and discuss how these relate to the project community and how they contribute to the
 overall health of the project. The bulk of the session will cover the services that the Brand Management team provides to projects. These services cost the ASF between $60k and $80k each year and the dicussion of services will include typical costs.

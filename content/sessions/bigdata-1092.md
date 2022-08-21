@@ -4,6 +4,7 @@ date: "2022-07-29T13:30:00"
 track: "bigdata"
 room: "B"
 presenters: "Dunith Dhanushka, Karin Wolok"
+speechLink: "https://www.youtube.com/embed/XOV-zIiJ60o"
 stype: "English Session"
 ---
 When you hear "decision-maker," it's natural to think of "C-suite" or "executive." 

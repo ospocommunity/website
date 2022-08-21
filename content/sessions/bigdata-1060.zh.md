@@ -4,6 +4,7 @@ date: "2022-07-29T14:10:00"
 track: "bigdata"
 room: "A"
 presenters: "Wombacher, Andreas"
+speechLink: "https://www.youtube.com/embed/RZ_PeuDLFDo"
 stype: "英文演讲"
 ---
 Apache Atlas提供数据治理功能，并且是Hadoop生态系统的一部分，然而，它并不限于此。底层数据模型非常通用，可以进行扩展。这使得Apache Atlas非常灵活，但是会影响用户界面的可用性。

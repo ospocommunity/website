@@ -4,6 +4,7 @@ date: "2022-07-29T13:30:00"
 track: "incubator"
 presenters: "Eya Abdisho, John Gemignani, Josh Innis"
 stype: "English Session"
+speechLink: "https://www.youtube.com/embed/atDO8ngDxqI"
 ---
 The AGE team will tell the story of AGE from its introduction to the incubator to its graduation. The primary goal is to impart lessons learned by the PMC team on how to build a successful open source community
  ### Speakers: 

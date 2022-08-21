@@ -4,6 +4,7 @@ date: "2022-07-29T09:10:00"
 track: "keynote"
 presenters: "Brian Behlendorf"
 stype: "English Session"
+speechLink: "https://www.youtube.com/embed/6Z094bXri18"
 ---
 Brian will speak about the ways in which the open source community have become vulnerable to new kinds of attacks on the software supply chain, and the efforts of many to address those challenges. Those efforts require new processes, new tools, and new initiatives to drive adoption.
 Heightened interest, particularly by governments of the world, has now driven the community to respond with a Mobilization Plan with specific goals. The talk ends with a specific list of things Apache projects can do to be more secure and support this global security effort.

@@ -4,6 +4,7 @@ date: "2022-07-31T13:30:00"
 track: "workflowdatagovernance"
 presenters: "陈卫"
 stype: "Chinese Session"
+speechLink: "https://www.youtube.com/embed/7VzdBmL0FZ0"
 ---
 1. The backgrand (background)
 With the development and deepening of business, more and more data users, from the original senior management, analysts to front-line business personnel, how to quickly obtain data analysis results is more and more important for business development. Simplified data processing/data analysis is critical for front-line business analysts. Optimized data processing tools/processes help non-technical users capture and automate the embedding of business analysis data into the data processing process, and simplify the cost of using data through configuration.

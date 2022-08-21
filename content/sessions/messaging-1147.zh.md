@@ -4,6 +4,7 @@ date: "2022-07-29T14:50:00"
 track: "messaging"
 room: "B"
 presenters: "沈文兵"
+speechLink: "https://www.youtube.com/embed/jAKY6IcP3Lg"
 stype: "中文演讲"
 ---
 本演讲将介绍新浪微博引入 KoP、Pulsar 的动机和背景，分享在使用 KoP、Pulsar 过程中遇到的挑战和优化、解决方案。

@@ -4,6 +4,7 @@ date: "2022-07-31T15:30:00"
 track: "messaging"
 room: "B"
 presenters: "孟祥迎"
+speechLink: "https://www.youtube.com/embed/4KQ6KTkk2no"
 stype: "中文演讲"
 ---
 Apache Pulsar Transaction 是自 Apache Pulsar 2.9.0 开始支持的重要功能。经过多次更新迭代后，Pulsar Transaction 功能目前已经基本稳定，而且已经被很多公司采用并投入到生产环境中使用。以下是本次演讲的主要内容：

@@ -4,6 +4,7 @@ date: "2022-07-30T15:20:00"
 track: "culture"
 presenters: "展留坤"
 stype: "Chinese Session"
+speechLink: "https://www.youtube.com/embed/JjiDwHHDSzs"
 ---
 When you think of open source, you may think of a lot of words: open, shared, source Code, Community, Apache project, GitHub, contributor, Community over Code, etc. If you compare them to "fruits", then the soil that cultivated these fruits must be "open source culture". So what does open source culture look like? How does a small white from understanding open source to contribute open source? Through this sharing hope to guide more partners to understand open source and contribute to open source.
  ### Speakers: 

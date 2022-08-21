@@ -4,6 +4,7 @@ date: "2022-07-29T13:30:00"
 track: "bigdata"
 room: "A"
 presenters: "杨政国"
+speechLink: "https://www.youtube.com/embed/SxQnsIueix4"
 stype: "Chinese Session"
 ---
 Apache Doris is a high-performance all-scenario MPP database, donated by Baidu to the ASF. It can provides near-real-time data analysis for massive data and supports large-scale data import.Apache Doris also support ultra-concurrent query responses and return query results only in sub-second.

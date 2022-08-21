@@ -4,6 +4,7 @@ date: "2022-07-29T14:40:00"
 track: "datavisualization"
 presenters: "Ville Brofeldt"
 stype: "English Session"
+speechLink: "https://www.youtube.com/embed/7YnpKLZ1PRM"
 ---
 Currently Apache Superset features dashboard native filters, which make it possible to add interactive filters to dashboards that control what data is being shown on charts. However, until now, only select chart types have offered cross filtering functionality for emitting filters to other charts, limiting limiting user interaction mostly to native filters.
 

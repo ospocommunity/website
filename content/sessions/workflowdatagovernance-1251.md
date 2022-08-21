@@ -4,6 +4,7 @@ date: "2022-07-29T14:10:00"
 track: "workflowdatagovernance"
 presenters: "张俊帆"
 stype: "Chinese Session"
+speechLink: "https://www.youtube.com/embed/4OIktg8dREQ"
 ---
 In recent years, the field of offline processing of big data is gradually mature and perfect, and in the field of offline task scheduling, that is, workflow, a variety of project tools are emerging in an endless stream. Apache's first workflow scheduler Oozie has been around for more than 10 years, while dolphinScheduler and Airflow have attracted a lot of interest, demonstrating that there is still plenty of life in the workflow scheduler space.
 

@@ -4,6 +4,7 @@ date: "2022-07-29T10:30:00"
 track: "keynote"
 presenters: "Willem Jiang, Sheng Wu, Ted Liu, Jerry Tan,  Bo Jiang"
 stype: "Chinese Panel"
+speechLink: "https://www.youtube.com/embed/Ehwqlg6rRag"
 ---
 The Apache Software Foundation (ASF) is a non-profit charitable organization founded in 1999 with the mission to "Provide software for the public good". server, the Apache Group, a group of enthusiasts who developed the Apache HTTP server. After more than two decades, the Apache Software Foundation has become the world's largest open source foundation, overseeing more than 350 free, enterprise-class projects and more than 190 million lines of code that are the cornerstones of widely used applications around the world.
 

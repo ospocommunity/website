@@ -4,6 +4,7 @@ date: "2022-07-31T14:40:00"
 track: "webserverandtomcat"
 presenters: "麻志辉"
 stype: "Chinese Session"
+speechLink: "https://www.youtube.com/embed/GxRjT6k7muQ"
 ---
 This article mainly shares the exploration of Proxyless Service-mesh direction in the mesh field of Dubbo-Go.
 Similar to sidecar mode, proxyLess directly interacts with Istiod control plane components through built-in xDS protocol support in Dubbo-Go framework, realizing functions such as service registration discovery and traffic management in Istio mesh environment. Proxyless Mesh scheme has obvious advantages in some scenarios such as resource efficiency and time-sensitive application agent layer delay effect in large-scale service grid.

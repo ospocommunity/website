@@ -4,6 +4,7 @@ date: "2022-07-29T14:10:00"
 track: "messaging"
 room: "B"
 presenters: "Jianbo Chen, Limin Quan"
+speechLink: "https://www.youtube.com/embed/oRsY1YnrzUY"
 stype: "Chinese Session"
 ---
 vivo aims to provide excellent Internet products and services for 350 million vivo smartphone users worldwide. Currently, it has established a complete mobile Internet ecosystem based on vivo’s big data operations, featuring applications, games, information, brands, e-commerce, content, finance and search.

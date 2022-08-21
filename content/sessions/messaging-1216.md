@@ -4,6 +4,7 @@ date: "2022-07-31T16:10:00"
 track: "messaging"
 room: "A"
 presenters: "Teng Fu, Guangning E"
+speechLink: "https://www.youtube.com/embed/V0F8fB_ET0c"
 stype: "Chinese Session"
 ---
 Data security has become an essential competitive advantage for enterprises. As we know, Apache Pulsar supports many authentication and authentication plug-ins, and different companies and organizations may develop their authentication and authentication tools according to their needs. What are best practices for cluster and cloud environments in this connection?

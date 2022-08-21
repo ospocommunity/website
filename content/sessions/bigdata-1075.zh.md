@@ -4,6 +4,7 @@ date: "2022-07-30T14:10:00"
 track: "bigdata"
 room: "B"
 presenters: "Quanlong Huang（黄权隆）"
+speechLink: "https://www.youtube.com/embed/v9zY8Kyg1Vc"
 stype: "中文演讲"
 ---
 Apache Impala是一个基于MPP架构实现的分布式查询引擎。本次演讲将分享Impala的基本实现和Impala中的基本概念，并基于此介绍Impala 4.x中值得关注的新功能和改进，最后也会介绍Impala的未来规划。

@@ -4,6 +4,7 @@ date: "2022-07-29T17:20:00"
 track: "messaging"
 presenters: "胡宗棠"
 room: "A"
+speechLink: "https://www.youtube.com/embed/HVLWS2PEY1Y"
 stype: "中文演讲"
 ---
 RocketMQ作为消息队列组件，已经在中国移动内部诸多业务系统（电子商务平台、交易平台和门户管理平台）中被广泛使用和落地。每次业务系统需要接入和使用RocketMQ消息队列组件，都会提需求单或工单给RocketMQ中间件研发团队和SRE，SRE或者交付组的同事会使用批量部署工具在服务器上完成RocketMQ组件版本的部署。

@@ -4,6 +4,7 @@ date: "2022-07-29T14:50:00"
 track: "streaming"
 presenters: "邱从贤"
 stype: "中文演讲"
+speechLink: "https://www.youtube.com/embed/QRQlawCD5qQ"
 ---
 本次演讲将系统的从 1）减少故障；2）降低影响；3）快速发现故障等三个方面介绍腾讯在大规模集群下 Apache Flink 的稳定性优化实践；希望通过该演讲给用户在建设 Apache Flink 的稳定性方面提供实质性参考。
  ### Speakers: 

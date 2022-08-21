@@ -4,6 +4,7 @@ date: "2022-07-31T15:30:00"
 track: "bigdata"
 room: "B"
 presenters: "邸帅"
+speechLink: "https://www.youtube.com/embed/cBIFEx7aPqk"
 stype: "中文演讲"
 ---
 Apache Linkis(incubating)在上层应用程序和底层引擎之间构建了一层计算中间件，提供连通、管控、扩展、编排等计算治理能力。在本次演讲中，邸帅将为大家介绍，Linkis 如何为更高效、低成本的连通多样化的计算存储引擎提供便利（如Python、Spark、Flink 等），以及如何解决多租户隔离、高并发、新引擎适配、高危操作管控等计算治理问题。同时，邸帅将展示Linkis 社区当前正在进行的一些令人期待的工作，和Linkis 的后续规划。

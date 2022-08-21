@@ -4,6 +4,7 @@ date: "2022-07-30T14:50:00"
 track: "bigdata"
 room: "B"
 presenters: "哈晓琳"
+speechLink: "https://www.youtube.com/embed/-sp8GtyHNcA"
 stype: "Chinese Session"
 ---
 This chapter describes the problems and improvement solutions of HBase in meituan large-scale application scenarios, and the practical experience of using HBase.

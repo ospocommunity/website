@@ -4,6 +4,7 @@ date: "2022-07-30T13:30:00"
 track: "messaging"
 room: "A"
 presenters: "Timothy Spann"
+speechLink: "https://www.youtube.com/embed/QTnYVlmyCOw"
 stype: "English Session"
 ---
 In this talk I will walk through how to build different types of streaming applications utilizing Apache NiFi, Apache Flink, Apache Spark and Apache Pulsar together.   

@@ -4,6 +4,7 @@ date: "2022-07-31T09:00:00"
 track: "keynote"
 presenters: "Justin Mclean"
 stype: "英文演讲"
+speechLink: "https://www.youtube.com/embed/IOoXuxsJQ6M"
 ---
 什么是 Apache 基金会的 Apache，什么是 Apache 之道？
 在这次演讲中，我将介绍ASF和Apache之道，并解释Apache孵化器如何向新项目传授Apache之道。如果你是ASF的新手，你可能会认为我们的一些做事方式很奇怪或者没有必要。了解 Apache 之道可以帮助你理解为什么在 ASF 项目中某些事情会以这样的方式发生，以及如何围绕一个项目创建一个可持续发展的社群。

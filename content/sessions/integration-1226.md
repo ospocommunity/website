@@ -4,6 +4,7 @@ date: "2022-07-29T16:10:00"
 track: "integration"
 presenters: "Zineb Bendhiba"
 stype: "English Session"
+speechLink: "https://www.youtube.com/embed/Owl9bOhPx8o"
 ---
 Have you ever got the task to implement an exchange of data between two systems that were not designed to communicate with each other? I bet you have, and I dare to introduce a couple of tools and approaches making the task easier to accomplish.
 

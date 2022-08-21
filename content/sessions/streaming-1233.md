@@ -4,6 +4,7 @@ date: "2022-07-29T16:50:00"
 track: "streaming"
 presenters: "郑舒力"
 stype: "Chinese Session"
+speechLink: "https://www.youtube.com/embed/cgIDTPcJY-8"
 ---
 Kingsoft Cloud real-time computing platform was established at the beginning of 2015, aiming to build a one-stop real-time computing development platform, reduce the threshold for development and operation personnel to directly use the open source engine for learning, operation and maintenance, and improve development efficiency. The platform base is based on Apache Flink, providing the ability to develop, test, deploy, and operate real-time computing applications in one stop. At present, in the financial, medical, Internet and other industries to serve a large number of enterprise customers. This sharing will be divided into two parts. The first part introduces the practice and thinking of Kingsoft cloud real-time computing platform in terms of product and architecture. The second part will introduce how to use the ability of Apache Flink computing engine to improve the timeliness of all kinds of epidemic prevention data under the background of special big data construction of epidemic prevention in a city, and quickly respond to the real-time computing needs of all kinds of epidemic prevention data relying on the real-time computing platform of Kingsoft Cloud. It provides more real-time data support for the large screen display of real-time data of epidemic prevention departments and various epidemic prevention work.
 

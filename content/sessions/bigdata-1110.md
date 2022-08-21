@@ -4,6 +4,7 @@ date: "2022-07-31T14:50:00"
 track: "bigdata"
 room: "A"
 presenters: "李劲松"
+speechLink: "https://www.youtube.com/embed/PTjE0BjhWyY"
 stype: "Chinese Session"
 ---
 Flink Table Store is a unified streaming batch storage for streaming data warehouse. It is used to build dynamic tables for streaming batch processing in Flink, supporting real-time streaming consumption and real-time OLAP query.

@@ -4,6 +4,7 @@ date: "2022-07-30T14:50:00"
 track: "middleware"
 presenters: "刘俊洋"
 stype: "Chinese Session"
+speechLink: "https://www.youtube.com/embed/VT-X_4MaEKw"
 ---
 This lecture mainly introduces the Kafka high availability architecture in the message service application practice, from the physical multi-lease architecture, high availability deployment, data high reliability and other aspects, introduces how to build a high availability Kafka message service
  ### Speakers: 

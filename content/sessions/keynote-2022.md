@@ -4,6 +4,7 @@ date: "2022-07-29T10:10:00"
 track: "keynote"
 presenters: "Ren Xudong"
 stype: "Chinese Session"
+speechLink: "https://www.youtube.com/embed/2x-YV4UT1NU"
 ---
 Open source has become an important mode of global technological innovation. Huawei insists on the concept of "solving problems and creating value", continues to invest in and contribute to open source, and expects to work with the Apache Software Foundation to promote the prosperity of the open source ecosystem. This sharing will summarize the trend of open source at home and abroad, share the history and practice of Huawei's participation in open source, and the progress of basic software open source projects. As an important part of the global open source software value chain, we call on open source enterprises, organizations, foundations and individual developers to collaborate to enhance the fertility of China's open source land and jointly prosper the open source ecology.
 

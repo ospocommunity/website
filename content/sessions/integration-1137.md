@@ -4,6 +4,7 @@ date: "2022-07-29T15:30:00"
 track: "integration"
 presenters: "Pasquale Congiusti"
 stype: "English Session"
+speechLink: "https://www.youtube.com/embed/Wmg7-PZgQJI"
 ---
 Cloud native development requires your microservices to have a small resource footprint and a fast startup. Classic Java (and Apache Camel) applications are not very well suited for Cloud Native. We'll learn how Camel K can leverage Quarkus Native build in order to transform transparently your application in a first class Cloud Native citizen. Thanks to the Kamelet technology and the recent development made in Camel K we'll see how this is possible and how the resulting application will be a memory reduced and faster version of the classic one.
 

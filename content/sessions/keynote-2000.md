@@ -4,6 +4,7 @@ date: "2022-07-30T09:55:00"
 track: "keynote"
 presenters: "Shane Coughlan"
 stype: "English Session"
+speechLink: "https://www.youtube.com/embed/cVpXS-nzmQ8"
 ---
 Open source, the supply chain, and compliance are central to modern trade. License compliance has been joined by security compliance as central to trade. In this keynote Shane Coughlan, GM of the ISO standard for open source license compliance will explain what his community and other adjacent communities are doing to make things quicker, safer and more efficient.
 ### Speakers: 

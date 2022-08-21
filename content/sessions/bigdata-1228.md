@@ -4,6 +4,7 @@ date: "2022-07-29T14:10:00"
 track: "bigdata"
 room: "B"
 presenters: "Rakesh Radhakrishnan, Mukul Kumar Singh"
+speechLink: "https://www.youtube.com/embed/HN7PWX9TdAE"
 stype: "English Session"
 ---
 Apache Ozone is a distributed, scalable and a high performance object store that can scale to billions of objects of varying sizes. Apache Ozone object store recently implemented a multi-protocol aware bucket feature, where a single Ozone cluster with the capabilities of both Hadoop Core File System (“HCFS”) and Object Store (like Amazon S3) features. In this talk we will deep dive into the unified and extensible architectural design in Ozone representing directories, files, objects and buckets that allows interoperability between hierarchical file system and object store protocol. Basically, this multi-protocol capability will be attractive to systems that are primarily oriented towards File System - like workloads, but would like to add some Object Store feature support. For example, a user can ingest data into Ozone using FileSystem API, and the same data can be accessed via Ozone S3 API(Amazon S3 implementation). This would potentially improve the efficiency of the user platform with on-prem Object Store. Furthermore, data stored in Ozone can be shared for various use cases, eliminating the need for data duplication, which in turn reduces risk and optimises resource utilisation. 

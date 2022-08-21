@@ -4,6 +4,7 @@ date: "2022-07-29T14:40:00"
 track: "datavisualization"
 presenters: "Ville Brofeldt"
 stype: "英文演讲"
+speechLink: "https://www.youtube.com/embed/7YnpKLZ1PRM"
 ---
 目前Apache Superset的功能是仪表板原生过滤器，这使得向仪表板添加交互式过滤器成为可能，从而控制图表上显示的数据。然而，到目前为止，只有精选图表类型提供了向其他图表发出过滤器的交叉过滤功能，这限制了用户交互主要局限于本地过滤器。
 

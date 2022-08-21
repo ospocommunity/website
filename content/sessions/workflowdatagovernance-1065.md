@@ -4,6 +4,7 @@ date: "2022-07-30T13:10:00"
 track: "workflowdatagovernance"
 presenters: "Liu Dingzheng"
 stype: "Chinese Session"
+speechLink: "https://www.youtube.com/embed/dpRvUpipWXY"
 ---
 In order to onboard their internal business and make Apache Dolphin Scheduler a more powerful big data platform, Cisco Webex big data platform team integrated various data processing jobs with Kubernetes backend like Flink and Spark jobs on Apache Dolphin Scheduler.
  ### Speakers: 

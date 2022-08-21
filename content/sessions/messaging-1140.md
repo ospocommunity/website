@@ -4,6 +4,7 @@ date: "2022-07-29T15:20:00"
 track: "messaging"
 room: "A"
 presenters: "李伟"
+speechLink: "https://www.youtube.com/embed/PRmnL0R1c6g"
 stype: "Chinese Session"
 ---
 How does the RocketMQ ecosystem integrate event processing, data flow, and project support

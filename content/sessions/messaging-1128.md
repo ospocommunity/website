@@ -4,6 +4,7 @@ date: "2022-07-30T14:40:00"
 room: "B"
 track: "messaging"
 presenters: "区二立"
+speechLink: "https://www.youtube.com/embed/_mfMra3ZlRs"
 stype: "Chinese Session"
 ---
 RocketMQ (MQ) is widely used as messaging middleware in transaction management, asynchronous decoupling, peak load balancing, and data synchronization applications. When the business system publishes grayscale, the call of Dubbo and HTTP can be realized in Vivo's microservice governance and gateway platform based on the general grayscale method in the industry. However, none of the known grayscale schemes of MQ can completely solve the problem of message isolation and switch connection. Therefore, Vivo technical architecture team added extended implementation of MQ grayscale function in Luban MQ platform (including root cause analysis, resource management, subscription relationship verification, delay optimization, etc.). This scheme is mainly based on the target usage mode of split queue for deep extended encapsulation.

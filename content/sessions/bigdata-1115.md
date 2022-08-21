@@ -4,6 +4,7 @@ date: "2022-07-31T16:10:00"
 track: "bigdata"
 room: "A"
 presenters: "邹磊"
+speechLink: "https://www.youtube.com/embed/iTewYm1bc3Q"
 stype: "Chinese Session"
 ---
 At present, there are many pain points in existing company platforms: each platform only has basic and fragmented metadata, without establishing correlation; The relationship between metadata does not have an effective analysis and application; Lack of "thousands of faces" tag capability, unable to flexibly mark application/resource/domain name metadata. Companies urgently need a metadata platform that can extract and analyze various relational data; In this context, we chose HugeGraph graph data from Baidu, and made deep integration and secondary development to create Huya application metadata platform: build a dynamic relationship network of huya applications and resources; On this basis, AI and big data are combined for intelligent retrieval and analysis, so as to horizontally break through the measurement relationship between applications and resources, and vertically build a one-stop visual metadata management and analysis platform for intelligent analysis of application architecture rationality and application labels.

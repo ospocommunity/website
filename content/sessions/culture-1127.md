@@ -4,6 +4,7 @@ date: "2022-07-29T14:40:00"
 track: "culture"
 presenters: "张晋涛"
 stype: "Chinese Session"
+speechLink: "https://www.youtube.com/embed/RhjzY-bc2AI"
 ---
 ASF has many open source projects launched from China, such as Apache APISIX, Skywalking, etc. Due to language and cultural differences, developers with Asian cultural background (Chinese developers are taken as examples in this sharing), when participating in the contribution of open source projects or participating in the Apache open source community, There are some "acclimatization" situation. This time, Zhang jintao will use Apache APISIX and other projects and communities as examples to share how to attract developers from Asian cultural backgrounds to participate in open source. And how to get developers to embrace the open source community culture and better integrate into the Apache community.
  ### Speakers: 

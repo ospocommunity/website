@@ -4,6 +4,7 @@ date: "2022-07-31T10:30:00"
 track: "keynote"
 presenters: "Dongjin Zhang"
 stype: "Chinese Session"
+speechLink: "https://www.youtube.com/embed/RyM1duuRfjg"
 ---
 Apache Doris is an emerging open source real-time data warehouse project in recent years, featuring high performance, complete scenario support, ease of use and easy operation and maintenance. This article will provide an overview of the project's development within Baidu and after it was open sourced, as well as an in-depth analysis of its core features and technical implementation, in the hope that it will help more people to understand, use and participate in this excellent project.
 

@@ -4,6 +4,7 @@ date: "2022-07-29T14:50:00"
 track: "integration"
 presenters: "Timothy SPann"
 stype: "English Session"
+speechLink: "https://www.youtube.com/embed/hPZS1ocmWhM"
 ---
 Democratizing the ability to build streaming data pipelines will help turn everyone who needs streaming data to be able to do it themselves.   By utilizing the open source streaming stack known as FLiPNS will let us achieve this.
 

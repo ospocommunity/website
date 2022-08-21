@@ -4,6 +4,7 @@ date: "2022-07-30T13:30:00"
 track: "middleware"
 presenters: "彭荣新,沈辉"
 stype: "Chinese Session"
+speechLink: "https://www.youtube.com/embed/OHifzmU00dc"
 ---
 At the beginning of ximalaya's establishment, each business managed its own database. With continuous development, it gradually realized the importance of providing a unified and customized data access platform at the company level. To this end, the infrastructure team launched its own PaaS platform, where businesses only need to apply for a resource ID to use the database, thus achieving full systematization of resource use. Among them, the access to the database is based on Apache ShardingSphere to achieve, based on the powerful functions of Apache ShardingSphere, in fault disaster recovery, dynamic change of resources, read and write separation, shadow library, live, distributed unique ID and monitoring alarm, etc., have been optimized and enhanced.
  ### Speakers: 

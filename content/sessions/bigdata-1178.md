@@ -4,6 +4,7 @@ date: "2022-07-31T13:30:00"
 track: "bigdata"
 room: "A"
 presenters: "Sadanand Shenoy,Rakesh Radhakrishnan"
+speechLink: "https://www.youtube.com/embed/E97fYFZJ2LQ"
 stype: "English Session"
 ---
 Apache ozone is a distributed, scalable and a high performance object store. It provides Object Store semantics (like Amazon S3) and also has a Hadoop  compatible filesystem layer implemented above it and can handle billions of objects. Handling such large scale distributed system clusters is often prone to data accidents like hardware failure, human errors or natural disasters. This talk will deep dive into the solutions implemented in Apache Ozone such as container replication, high availability, trash feature and as to how a user can replicate the data across clusters.  The talk would also discuss the future roadmap and the enhancements being done to improve the data replication across Ozone clusters.

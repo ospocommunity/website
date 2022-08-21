@@ -4,6 +4,7 @@ date: "2022-07-29T16:00:00"
 track: "observability"
 presenters: "Nagariya, Ajay,Das, Debajit,Pratyush, Kumar"
 stype: "English Session"
+speechLink: "https://www.youtube.com/embed/CgelQUf3GLE"
 ---
 The observability solution of Apache Http Server is based on OpenTelemetry (source code at https://github.com/open-telemetry/opentelemetry-cpp-contrib/tree/main/instrumentation/otel-webserver-module). It enables tracing of incoming requests to the server by injecting instrumentation into the Apache Http Server at runtime. It also has capabilities to capture the response time of many modules (including mod_proxy) involved in an incoming request, thereby including the hierarchical time consumption by each module.
 

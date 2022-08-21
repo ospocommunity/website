@@ -4,6 +4,7 @@ date: "2022-07-29T14:20:00"
 track: "datavisualization"
 presenters: "羡辙"
 stype: "Chinese Session"
+speechLink: "https://www.youtube.com/embed/mjBCwRy80Tg"
 ---
 Data visualization is not just for "looking at", it is also important for more people to understand the information conveyed by the chart. In this post, I'll describe some of Apache ECharts' efforts in accessibility design over the years, including auto-generated chart descriptions, decals to differentiate data, and detailed design to add response range to touch devices.
  ### Speakers:

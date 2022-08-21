@@ -4,6 +4,7 @@ date: "2022-07-29T16:50:00"
 track: "integration"
 presenters: "Rachel Yordán"
 stype: "英文演讲"
+speechLink: "https://www.youtube.com/embed/EHC-W3RtBb4"
 ---
 让我们面对现实吧，云中的集成更好。了解如何使用开发人员友好的低代码集成工具Kaoto，在几分钟内使用开源软件设计和部署集成。Kaoto的轻量级架构是基于Apache Camel及其经过实践检验的企业应用集成模式。
  ### Speakers: 

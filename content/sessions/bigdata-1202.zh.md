@@ -4,6 +4,7 @@ date: "2022-07-30T15:30:00"
 track: "bigdata"
 room: "B"
 presenters: "姜逸坤,王雷博"
+speechLink: "https://www.youtube.com/embed/BYZ_nX2Moyg"
 stype: "中文演讲"
 ---
 Spark on Kubernetes得到了越来越多的关注和使用，由于Kubernetes对批量调度支持缺乏，导致大数据场景调度经常出现资源死锁的问题，同时，缺乏队列、优先级、资源预留、多样性算力调度等高级能力。本议题将介绍Apache Spark社区Support Customized Kubernetes Schedulers的最新进展和最佳实践。

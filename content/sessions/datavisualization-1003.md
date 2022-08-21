@@ -4,6 +4,7 @@ date: "2022-07-29T15:20:00"
 track: "datavisualization"
 presenters: "Fan Qiuxia"
 stype: "Chinese Session"
+speechLink: "https://www.youtube.com/embed/egfPGjpsDc0"
 ---
 The background of data visualization.
 Implement the SkyWalking Dashboards with ECharts.

@@ -4,6 +4,7 @@ date: "2022-07-29T13:30:00"
 track: "workflowdatagovernance"
 presenters: "Gang Li"
 stype: "Chinese Session"
+speechLink: "https://www.youtube.com/embed/m5bz1k8sbVs"
 ---
 Introducting the technology promotion, enterprise practice and future planning of Apache DolphinScheduler in Lenovo.It will be introduced in three aspects.
 

@@ -4,6 +4,7 @@ date: "2022-07-30T14:10:00"
 track: "community"
 presenters: "Yacine Si Tayeb"
 stype: "English Session"
+speechLink: "https://www.youtube.com/embed/1JiWgOvwYXw"
 ---
 How to grow an Open Source community from just a handful of contributors, to one of the leading communities in China and fastest growing Apache projects in the world?
 

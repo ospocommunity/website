@@ -4,6 +4,7 @@ date: "2022-07-30T16:00:00"
 track: "culture"
 presenters: "高丰"
 stype: "Chinese Session"
+speechLink: "https://www.youtube.com/embed/AIBC7prYLJg"
 ---
 Open Source is one of the many branches of Open Knowledge and the most widely recognized one with the highest participation rate. But there are branches of the Open world such as Open Data, Open Access, Open Science and so on. So what are the core values of Open? How can the Open source community and various Open communities work together to better promote public recognition and participation in the value of Open? What efforts do we need to make to embed Open as a code of conduct in the functioning of our society? This talk will bring some personal reflections and seek community feedback and collaboration.
  ### Speakers: 

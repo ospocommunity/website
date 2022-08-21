@@ -4,6 +4,7 @@ date: "2022-07-29T17:20:00"
 track: "observability"
 presenters: "Kai Wan"
 stype: "English Session"
+speechLink: "https://www.youtube.com/embed/Osk1oYNthqU"
 ---
 Apache SkyWalking supports custom metrics and integration with the mainstream metrics ecology and provides a meter system for metrics analysis and calculation. MAL(Meter Analysis Language) is the language that sets these rules for analyzing. Users can use it to perform analytical calculations on these source metrics. In this proposal will share:
 - What is the MAL, and what scenarios should use it.

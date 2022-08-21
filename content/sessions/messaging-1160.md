@@ -4,6 +4,7 @@ date: "2022-07-30T17:20:00"
 track: "messaging"
 room: "B"
 presenters: "刘振东"
+speechLink: "https://www.youtube.com/embed/iulaVgW8chI"
 stype: "Chinese Session"
 ---
 In the online business scenario, RocketMQ has been verified by Alibaba's Singles' Day for many years, and then widely adopted by most of China's Top Internet and financial enterprises in the core production system, honing the ultimate performance, ease of use and stability. RocketMQ doesn't stop there, however. In the latest version of 5.0, the RocketMQ storage tier has a number of new features, including Batch, LogicQueue, CompactTopic, and more. These features are the culmination of RocketMQ's efforts in streaming storage. Zhendong Liu, PMC Member from Apache RocketMQ community, will share with you the thinking, judgment and practice path behind this conference.

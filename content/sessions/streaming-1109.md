@@ -4,6 +4,7 @@ date: "2022-07-30T13:30:00"
 track: "streaming"
 presenters: "徐榜江"
 stype: "Chinese Session"
+speechLink: "https://www.youtube.com/embed/qsXrauwclRk"
 ---
 Business data in a database is one of the most valuable data, and how to effectively and efficiently synchronize this data into the data lake is a very valuable topic.
 CDC (Change Data Capture) is a technology used to Capture changes from the database. Flink CDC is the open source representative of real-time Data integration framework, with full incremental integration, lockless read, concurrent read, distributed architecture and other technical advantages, which is very popular in the open source community. In addition to real-time lake and warehouse access, Flink CDC also supports robust data processing capabilities, Real-time association, aggregation and widening of database data can be done through SQL, and the processed data can be conveniently written into downstream Kafka, Hudi, Iceberg and Doris with the rich downstream ecology of Flink.

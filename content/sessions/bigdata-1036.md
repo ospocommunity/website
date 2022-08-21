@@ -4,6 +4,7 @@ date: "2022-07-31T13:30:00"
 track: "bigdata"
 room: "B"
 presenters: "Yuqi Gu（顾煜祺）"
+speechLink: "https://www.youtube.com/embed/ocxcYHAbEzE"
 stype: "English Session"
 ---
 Apache Bigtop is a top-level Apache project for Infrastructure Engineers and Data Scientists who are looking for building their own Bigdata Distros stack from ground up. 

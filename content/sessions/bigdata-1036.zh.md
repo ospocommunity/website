@@ -4,6 +4,7 @@ date: "2022-07-31T13:30:00"
 track: "bigdata"
 room: "B"
 presenters: "Yuqi Gu（顾煜祺）"
+speechLink: "https://www.youtube.com/embed/ocxcYHAbEzE"
 stype: "英文演讲"
 ---
 Apache Bigtop是一个面向希望从头开始构建自己的Bigdata发行版堆栈基础设施工程师和数据科学家的Apache顶级项目。

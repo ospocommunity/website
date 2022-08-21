@@ -4,6 +4,7 @@ date: "2022-07-30T14:10:00"
 track: "middleware"
 presenters: "罗锦荣(Alex Luo)"
 stype: "Chinese Session"
+speechLink: "https://www.youtube.com/embed/0v-tjIYkDIw"
 ---
 In the new era of SaaS, business adaptability needs are leading enterprises to shift to technology architectures that support rapid, secure and efficient application change. Composite applications, as a key technology to accelerate digitization, is one of Gartner's key strategic technology trends for 2022. It is built from business-centric modular components that enable technology and business teams to reuse code more agile and effectively. For example, an application may support only one of the protocols, such as HTTP and TCP, but the lack of unified communication standards makes it difficult to implement the architecture. Here's how Apache EventMesh solves this problem.
  ### Speakers: 

@@ -4,6 +4,7 @@ date: "2022-07-31T14:50:00"
 track: "bigdata"
 room: "A"
 presenters: "李劲松"
+speechLink: "https://www.youtube.com/embed/PTjE0BjhWyY"
 stype: "中文演讲"
 ---
 Flink Table Store 是一个为流式数仓打造的流批统一的存储，用于在Flink中为流批处理建立动态表，支持实时流消费和实时OLAP查询。

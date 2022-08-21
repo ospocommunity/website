@@ -4,6 +4,7 @@ date: "2022-07-31T14:10:00"
 track: "bigdata"
 room: "A"
 presenters: "俞霄翔"
+speechLink: "https://www.youtube.com/embed/ML2uokjRQdY"
 stype: "Chinese Session"
 ---
 In September 2021, Apache Kylin community released Kylin 4.0, a new generation product of Kylin, which uses Parquet to replace HBase to simplify the architecture and realize the separation of storage and computation. At present, there are many users in the community who choose to upgrade to the new version and get a good use experience.

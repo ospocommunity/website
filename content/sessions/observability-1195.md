@@ -4,6 +4,7 @@ date: "2022-07-29T14:00:00"
 track: "observability"
 presenters: "Marc Navarro Sonnenfeld"
 stype: "English Session"
+speechLink: "https://www.youtube.com/embed/E0yy-LLGk9M"
 ---
 Apache Skywalking is an application performance monitoring and observability tool for distributed systems, especially designed for microservices, cloud native and container-based (Kubernetes) architectures — with or without a service mesh.
 

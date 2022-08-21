@@ -4,6 +4,7 @@ date: "2022-07-29T16:50:00"
 track: "middleware"
 presenters: "梁荣华"
 stype: "中文演讲"
+speechLink: "https://www.youtube.com/embed/KT2Be8aTy4g"
 ---
 基于Apache EventMesh构建云原生数据流转平台的方案设计以及应用场景
  ### Speakers: 

@@ -4,6 +4,7 @@ date: "2022-07-29T15:30:00"
 track: "messaging"
 room: "B"
 presenters: "Xiaolong Ran"
+speechLink: "https://www.youtube.com/embed/V6u9NsIS0yY"
 stype: "Chinese Session"
 ---
 Apache Pulsar has been in mass production in Tencent Cloud. In the past year, we undertook different application scenarios in multi-industry ecology. In the actual production practice, we did a series of performance optimization and stability work for Apache Pulsar to ensure the stable and efficient operation of the system in different scenarios for users. This sharing will focus on Tencent Cloud's work on Pulsar stability and performance optimization in the past year.

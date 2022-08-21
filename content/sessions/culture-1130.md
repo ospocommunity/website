@@ -4,6 +4,7 @@ date: "2022-07-29T14:00:00"
 track: "culture"
 presenters: "姜宁,李圳虎"
 stype: "Chinese Session"
+speechLink: "https://www.youtube.com/embed/nOb4KSN0qwY"
 ---
 Introduction: Open source community construction "public" and "private" dilemma
 Differential pattern: concept introduction and illustration

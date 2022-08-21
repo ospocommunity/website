@@ -4,6 +4,7 @@ date: "2022-07-30T09:55:00"
 track: "keynote"
 presenters: "Shane Coughlan"
 stype: "英文演讲"
+speechLink: "https://www.youtube.com/embed/cVpXS-nzmQ8"
 ---
 开源软件、供应链和合规性是现代贸易的核心。许可证合规性已经与安全合规性一起成为贸易的中心要素。 在本次主题演讲中，ISO开源许可合规标准的总经理 Shane Coughlan 将讲解他的社区和其他相邻社区组织正在做的事情，从而使得一切都变得更快速、更安全，并且更高效。
 

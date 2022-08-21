@@ -4,6 +4,7 @@ date: "2022-07-31T15:30:00"
 track: "community"
 presenters: "Yu Liu"
 stype: "Chinese Session"
+speechLink: "https://www.youtube.com/embed/dGv_d33VSlQ"
 ---
 In recent years, a new round of global scientific and technological revolution and industrial transformation have deepened, ushering in new development opportunities for the open source industry. With the inclusion of open source in the 14th Five-Year Plan, the spring of open source industry is coming. Different from traditional industries, the open source industry has higher requirements for information experience due to its characteristics of pooling wisdom, rapid innovation and rapid iteration. The open source website is the main window to provide information experience. In order to optimize the content experience, how to design the information architecture of the website from the product perspective? How to measure the quality of a website's information architecture in order to strengthen the quality of its content? What are some stereotypes to avoid in your journey to develop your website's information architecture? What lessons can be learned? What are the best practices worth following? What personal reflections can we explore? Take Apache Software Foundation's top open source project, Apache Pulsar, as an example to answer these questions.
  ### Speakers: 

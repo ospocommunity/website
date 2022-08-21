@@ -4,6 +4,7 @@ date: "2022-07-29T15:20:00"
 track: "observability"
 presenters: "Chen Yihao"
 stype: "English Session"
+speechLink: "https://www.youtube.com/embed/ljEi8uVHkFE"
 ---
 With drastic improvements in machine learning capabilities over the recent years, practical AI solutions have been deployed at scale in production-ready scenarios. In the landscape of observability, major commercial platforms have provided their users with various AI-enabled functionalities, mostly anomaly detection, since 2015. At the Apache SkyWalking ecosystem, open-source developers and young researchers are working on an community-driven AIOps solution to lower the bar for the curious practitioners. 
 

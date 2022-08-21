@@ -4,6 +4,7 @@ date: "2022-07-30T14:10:00"
 track: "messaging"
 room: "A"
 presenters: "David Kjerrumgaard"
+speechLink: "https://www.youtube.com/embed/tRChbhHC5fs"
 stype: "英文演讲"
 ---
 在许多场景中，应用程序使用Pulsar消费者或reader从主题中获取所有更新，并使用已接收消息的每个键的最新值构建映射。

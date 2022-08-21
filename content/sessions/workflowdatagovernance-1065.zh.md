@@ -4,6 +4,7 @@ date: "2022-07-30T13:10:00"
 track: "workflowdatagovernance"
 presenters: "Liu Dingzheng"
 stype: "中文演讲"
+speechLink: "https://www.youtube.com/embed/dpRvUpipWXY"
 ---
 为了承载内部业务，使Apache Dolphin Scheduler成为一个更强大的大数据平台，思科Webex大数据平台团队将各种数据处理任务与Kubernetes后台集成在Apache Dolphin Scheduler上，如Flink和Spark任务。
  ### Speakers: 

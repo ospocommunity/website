@@ -4,6 +4,7 @@ date: "2022-07-30T16:00:00"
 track: "webserverandtomcat"
 presenters: "宋洋"
 stype: "Chinese Session"
+speechLink: "https://www.youtube.com/embed/40hRY00TbV8"
 ---
 Song Yang, Business architecture Department of Kuaishou, will share the practice of using Tomcat container in Kuaishou, including tomcat deployment mode, transformation practice and service tuning methods, etc
  ### Speakers: 

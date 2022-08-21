@@ -4,6 +4,7 @@ date: "2022-07-30T14:10:00"
 track: "messaging"
 room: "A"
 presenters: "David Kjerrumgaard"
+speechLink: "https://www.youtube.com/embed/tRChbhHC5fs"
 stype: "English Session"
 ---
 In many use cases, applications are using Pulsar consumers or readers to fetch all the updates from a topic and construct a map with the latest value of each key for the messages that were received. 

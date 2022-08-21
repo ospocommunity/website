@@ -4,6 +4,7 @@ date: "2022-07-30T14:40:00"
 track: "culture"
 presenters: "适兕"
 stype: "中文演讲"
+speechLink: "https://www.youtube.com/embed/RJNs-KLkezs"
 ---
 开源是人类文化的产物，而文化不是自变量，它是一种被人们选择或者说追求的过程。《开源之迷》作者适兕，期望通过考察过去20多年开源世界走过的历史，尤其是其中的文化变迁，试图寻找出文化在开源的发展过程中所发挥的重要作用。
  ### Speakers: 

@@ -4,6 +4,7 @@ date: "2022-07-29T10:30:00"
 track: "keynote"
 presenters: "姜宁, 吴晟, 刘天栋, 谭中意, 江波"
 stype: "中文圆桌"
+speechLink: "https://www.youtube.com/embed/Ehwqlg6rRag"
 ---
 Apache软件基金会（ASF)是一个成立于1999年的非盈利慈善组织，其使命是：“Provide software for the public good”，为公众利益提供软件。ASF最早源于开发Apache HTTP服务器的一个爱好者组织“Apache组织”。经过二十多年的发展，Apache软件基金会已成为世界上最大的开源基金会，负责监管350多个免费的企业级项目和1.9亿多行的代码，这些项目和代码成为支撑着全球广泛使用的应用程序的基石。
 

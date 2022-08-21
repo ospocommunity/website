@@ -4,6 +4,7 @@ date: "2022-07-31T15:30:00"
 track: "messaging"
 room: "B"
 presenters: "Xiangying Meng"
+speechLink: "https://www.youtube.com/embed/4KQ6KTkk2no"
 stype: "Chinese Session"
 ---
 Apache Pulsar Transactions represent a vital feature supported by Apache Pulsar since version 2.9.0. After several iterations, the feature is now stable and has been adopted and put into production by many companies. Here is a quick look at the outline of this speech:

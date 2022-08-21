@@ -4,6 +4,7 @@ date: "2022-07-29T16:10:00"
 track: "middleware"
 presenters: "李卓"
 stype: "Chinese Session"
+speechLink: "https://www.youtube.com/embed/On_J3Vg7gkM"
 ---
 background
 As Kubernetes matured and became more stable, SphereEx came to see it as an important milestone in the next phase of ShardingSphere as it explored its future prospects. In this context, the SphereEx Cloud team focuses on the cloud transformation of ShardingSphere as an important goal. In the actual process, the team encountered many problems and challenges. This speech will share the problems and solutions of the team in the cloud transformation of ShardingSphere.

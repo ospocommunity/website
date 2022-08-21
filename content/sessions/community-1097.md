@@ -4,6 +4,7 @@ date: "2022-07-30T14:50:00"
 track: "community"
 presenters: "李广远"
 stype: "Chinese Session"
+speechLink: "https://www.youtube.com/embed/r3EKD7zt9xI"
 ---
 Guang-yuan li students has carried on the website of https://apisix.apache.org/zh site i18n Chinese translation work, which involves a lot of members and APISIX business aspects of communication and discussion, the way of tool library use if everyone within the open source framework on some implementations have their own ideas, There must be communication with the maintenance staff in the community.
 How to communicate with them, how to quickly establish effective communication, how to normative your questions, and normative let others clearly review of your code, these I will be in the speech, synchronization to each love you open source developers, if you don't know how to put forward the issue to the open source project or pr, please carefully read this speech, I believe it will be good for you.

@@ -4,6 +4,7 @@ date: "2022-07-29T14:50:00"
 track: "messaging"
 room: "B"
 presenters: "Wenbing Shen"
+speechLink: "https://www.youtube.com/embed/jAKY6IcP3Lg"
 stype: "Chinese Session"
 ---
 The section will cover the motivation why Sina Weibo is using KoP and Pulsar, the challenges encountered in the process of implementing and operating KoP and Pulsar, and the solutions to the problems.

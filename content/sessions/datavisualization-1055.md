@@ -4,6 +4,7 @@ date: "2022-07-29T16:00:00"
 track: "datavisualization"
 presenters: "王海虎"
 stype: "Chinese Session"
+speechLink: "https://www.youtube.com/embed/ui-w1uRQ_Qc"
 ---
 This paper introduces the current situation of data visualization and the pain points exposed by the current situation, introduces the concept of low code based on the idea of solving the pain points, introduces the design and thinking of low code engine, introduces the characteristics and capabilities of Flyfish, how to solve the pain points in the industry and how to improve the efficiency. How to combine Apache Echarts to create better and more powerful visualization components and make data visualization screens efficiently!
  ### Speakers: 

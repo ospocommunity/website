@@ -4,6 +4,7 @@ date: "2022-07-31T14:50:00"
 track: "community"
 presenters: "韩飞"
 stype: "Chinese Session"
+speechLink: "https://www.youtube.com/embed/K-c0Dn706eU"
 ---
 In this talk, Humphrey will introduce how an open source novice completes the transformation from operation and maintenance to Tech-writer. In addition, from his own perspective, he will explain why he should engage in the technical document writing of the open source community and the importance of the open source software document, and explain how non-technical students participate in the contribution of the open source software document from a professional perspective.
 From operations to the change of technical writing, in fact, more can understand why open source software for good documentation, in daily operational work, to be exposed to a lot of open source software, how to quickly get started and it is very important to study these open source software, then for han fei, what made him want to engage in technical writing?

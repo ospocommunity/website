@@ -4,6 +4,7 @@ date: "2022-07-29T14:50:00"
 track: "integration"
 presenters: "Timothy SPann"
 stype: "英文演讲"
+speechLink: "https://www.youtube.com/embed/hPZS1ocmWhM"
 ---
 将构建流数据管道的能力大众化，将有助于让每个需要流数据的人能够自己动手。我们可以通过利用被称为FLiPNS的开源流处理堆栈来实现这一点。
 

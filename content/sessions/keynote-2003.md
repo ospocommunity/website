@@ -4,6 +4,7 @@ date: "2022-07-30T09:00:00"
 track: "keynote"
 presenters: "Rich Bowen"
 stype: "English Session"
+speechLink: "https://www.youtube.com/embed/CjZ-N5Yq6dw"
 ---
 Building an enthusiastic contributor community is perhaps the hardest part of any open source project. But without it, your project will struggle to sustain itself long term. Although community growth is more art than science, there are some practical things that you can do to make it more likely that people will want to join in. Rich will share some lessons from 20+ years of community shepherding.
 ### Speakers: 

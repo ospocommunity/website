@@ -4,6 +4,7 @@ date: "2022-07-30T17:30:00"
 track: "middleware"
 presenters: "Mark Thomas"
 stype: "英文演讲"
+speechLink: "https://www.youtube.com/embed/jnzKgO2gXjs"
 ---
 随着对供应链安全的关注越来越多，对可复制的二进制构建的需求也越来越大。这为开放源码项目提供了机会，因为与封闭源码项目不同，可复制的二进制构建使开放源码项目能够明确地证明，它们所提供的方便的二进制文件是由终端用户能够审计的标记过的、未修改的源树构建的。
 

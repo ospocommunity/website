@@ -4,6 +4,7 @@ date: "2022-07-29T14:10:00"
 track: "streaming"
 presenters: "胡焕"
 stype: "Chinese Session"
+speechLink: "https://www.youtube.com/embed/scQwzjD_1Rs"
 ---
 In this speech, we will introduce the challenges xiaomi faces in real-time data integration in the process of advancing the data lake architecture, as well as our thinking and practice on real-time data integration.
 Xiaomi started to promote the data lake architecture in 2021. As a key part of the data lake ecosystem, real-time data integration faces many challenges in streaming and batch integration, Schema Evolution, heterogeneous data system integration, breakpoint continuation and other features. This talk will introduce the real-time data integration engine incubated by Xiaomi based on Flink SQL and Flink CDC, as well as the practice of real-time data integration in data lake.

@@ -4,6 +4,8 @@ date: "2022-07-31T13:30:00"
 track: "messaging"
 room: "B"
 presenters: "David Kjerrumgaard"
+speechLink: "https://www.youtube.com/embed/x5OFvx_Ot5o"
+speechLink: "https://www.youtube.com/embed/eM-TA8UJ0v4"
 stype: "English Session"
 ---
 Developing a highly-available application requires more than just utilizing fault-tolerant services such as Apache Pulsar in your software stack. It also requires immediate failure detection and resolution including built-in failover when there are data center outages.

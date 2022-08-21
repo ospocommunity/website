@@ -4,6 +4,7 @@ date: "2022-07-30T13:30:00"
 track: "bigdata"
 room: "A"
 presenters: "Mehakmeet Singh"
+speechLink: "https://www.youtube.com/embed/SwVQTEcl98s"
 stype: "English Session"
 ---
 For effective reporting of the IOtatistics of individual worker threads, we need a thread-level context that IO components update(HADOOP-17461).

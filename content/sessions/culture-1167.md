@@ -4,6 +4,7 @@ date: "2022-07-29T16:40:00"
 track: "culture"
 presenters: "Kuo Shi, Gu Jun, Chen Yuanxi, XiaoYan Wang, Wing"
 stype: "Chinese Panel"
+speechLink: "https://www.youtube.com/embed/FExi-AdFSiA"
 ---
 What is commercially friendly? A betrayal of open source? Too much compromise with business? Can you go far? We asked people from law, venture capital, evangelists, and entrepreneurs to talk about open source and commercial-friendly:
 1. License is the function of product, software license

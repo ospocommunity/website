@@ -4,6 +4,7 @@ date: "2022-07-29T16:10:00"
 track: "messaging"
 room: "B"
 presenters: "Zhanpeng Wu"
+speechLink: "https://www.youtube.com/embed/iIKTGfRPmXY"
 stype: "Chinese Session"
 ---
 Powered by Artificial Intelligence technology, BIGO's video-based products and services have gained immense popularity, with users in more than 150 countries. The products include BIGO Live (live streaming) and Likee (short-form video). BIGO Live is available in more than 150 countries or regions and Likee has more than 100 million users and is popular among Generation Z. 

@@ -4,6 +4,7 @@ date: "2022-07-31T14:00:00"
 track: "webserverandtomcat"
 presenters: "Mark Thomas"
 stype: "English Session"
+speechLink: "https://www.youtube.com/embed/C0y3w8yBeWg"
 ---
 Apache Tomcat implements the Jakarta Servlet, Jakarta Pages, Jakarta Expression Language, Jakarta WebSocket and Jakarta Authentication specifications. Jakarta EE 8 and Jakarta EE 9 were transition releases that did not provide new features to end users. The recently released Jakarta EE 10 is the first release to include new features and other changes.
 

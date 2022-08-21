@@ -4,6 +4,7 @@ date: "2022-07-30T13:30:00"
 track: "bigdata"
 room: "A"
 presenters: "Mehakmeet Singh"
+speechLink: "https://www.youtube.com/embed/SwVQTEcl98s"
 stype: "英文演讲"
 ---
 为了有效地报告各个工作线程的iotstatistics，我们需要IO组件更新的线程级上下文(HADOOP-17461)。

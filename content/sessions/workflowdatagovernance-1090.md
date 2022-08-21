@@ -4,6 +4,7 @@ date: "2022-07-29T14:50:00"
 track: "workflowdatagovernance"
 presenters: "刘武"
 stype: "Chinese Session"
+speechLink: "https://www.youtube.com/embed/7waDuA-Gt94"
 ---
 Based on the secondary development of version 1.3.2, 80+ servers have been deployed in the company for operation and maintenance, and the functions of integration and interaction with other components have been expanded, such as background multi-machine, version upgrade, online batch management, etc
 

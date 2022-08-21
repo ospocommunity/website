@@ -4,6 +4,7 @@ date: "2022-07-31T16:10:00"
 track: "messaging"
 room: "A"
 presenters: "傅腾,俄广宁"
+speechLink: "https://www.youtube.com/embed/V0F8fB_ET0c"
 stype: "中文演讲"
 ---
 数据安全已经成为企业的一项重要竞争优势。众所周知，Apache Pulsar 支持大量的认证和鉴权插件，不同的公司或组织也会根据自己的需要开发自己的认证和鉴权插件。那针对集群和云上环境有哪些最佳实践可供参考呢？

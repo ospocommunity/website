@@ -4,6 +4,7 @@ date: "2022-07-29T13:30:00"
 track: "middleware"
 presenters: "薛炜明"
 stype: "Chinese Session"
+speechLink: "https://www.youtube.com/embed/IpD_1udNZsw"
 ---
 Apache EventMesh is an event driven as the core of distributed service runs, through dynamic plug-in cloud based service layer, native applications and middleware layer separation, and provides a flexible, reliable and fast event distribution and processing capacity, can manage the events at the same time, can be a connection layer, the application process It provides a complete set of application process communication modes for enterprises to realize their digital transformation goals. This talk will describe the evolution of the EventMesh community and features associated with EventMesh.
  ### Speakers: 

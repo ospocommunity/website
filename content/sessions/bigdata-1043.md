@@ -4,6 +4,7 @@ date: "2022-07-29T15:30:00"
 track: "bigdata"
 room: "A"
 presenters: "Paul Brebner"
+speechLink: "https://www.youtube.com/embed/ihuEg8a86z0"
 stype: "English Session"
 ---
 In the last decade, the development of modern horizontally scalable open-source Big Data technologies such as Apache Cassandra (for data storage), and Apache Kafka (for data streaming) enabled cost-effective, highly scalable, reliable, low-latency applications, and made these technologies increasingly ubiquitous. To enable reliable horizontal scalability, both Cassandra and Kafka utilize partitioning (for concurrency) and replication (for reliability and availability) across clustered servers. 

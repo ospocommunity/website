@@ -4,6 +4,7 @@ date: "2022-07-29T15:20:00"
 track: "messaging"
 room: "A"
 presenters: "李伟"
+speechLink: "https://www.youtube.com/embed/PRmnL0R1c6g"
 stype: "中文演讲"
 ---
 主要介绍RocketMQ生态中是如何融合处理事件、数据流以及支持项目介绍

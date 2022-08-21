@@ -4,6 +4,7 @@ date: "2022-07-29T14:50:00"
 track: "streaming"
 presenters: "邱从贤"
 stype: "Chinese Session"
+speechLink: "https://www.youtube.com/embed/QRQlawCD5qQ"
 ---
 This speech will reduce the system from 1) failure; 2) Reduce the impact; 3) The stability optimization practice of Apache Flink by Tencent in large-scale cluster is introduced from three aspects, such as quick fault discovery; It is hoped that this presentation will provide users with a substantial reference in building stability for Apache Flink.
  ### Speakers: 

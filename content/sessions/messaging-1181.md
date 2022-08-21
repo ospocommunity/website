@@ -4,6 +4,7 @@ date: "2022-07-31T14:10:00"
 track: "messaging"
 room: "B"
 presenters: "Fenghua Hu"
+speechLink: "https://www.youtube.com/embed/wZbkMV0nma0"
 stype: "Chinese Session"
 ---
 Intel Optane persistent memory (PMem) is a revolutionary memory product, which combines high performance, large capacity, persistence and other features, and has won consistent praise in the industry. Especially in the case of extreme performance requirements, PMem can give full play to its advantages. Pulsar is a popular message queue software, widely used in many fields. In this talk, we will show you how to use Intel Optane PMem to further improve Pulsar throughput, reduce latency, and effectively cope with performance demanding scenarios.

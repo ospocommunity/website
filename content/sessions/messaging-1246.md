@@ -4,6 +4,7 @@ date: "2022-07-31T16:50:00"
 track: "messaging"
 room: "B"
 presenters: "胡宗棠"
+speechLink: "https://www.youtube.com/embed/G_-nppuL6i0"
 stype: "Chinese Session"
 ---
 RabbitMQ, as message queue middleware, has been widely used and implemented in many internal business systems (e-commerce platform, transaction platform and portal management platform) of China Mobile, especially OpenStack for cloud computing infrastructure. RabbitMQ is an essential messaging infrastructure component in OpenStack. It provides message flow and asynchronous decoupling capabilities for Nova, Cinder, and Neturon components. As OpenStack is deployed in China's mobile public cloud system on a larger scale (more than 5000 computing nodes are deployed in a single AZ), open-source RabbitMQ faces many challenges in terms of brain fracture failures, message backlogs, elastic cluster expansion, and improving server resource utilization.

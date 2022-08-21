@@ -4,6 +4,7 @@ date: "2022-07-31T09:30:00"
 track: "keynote"
 presenters: "Frank Zhao"
 stype: "Chinese Session"
+speechLink: "https://www.youtube.com/embed/tWHLpQ8AW6Q"
 ---
 Open source brings not only open code collaboration, but also generates a huge amount of open data. This sharing will take you close into the big data related to open source and understand how to use these data to better serve open source collaboration and help open source projects grow rapidly.
 

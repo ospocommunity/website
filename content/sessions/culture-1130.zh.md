@@ -4,6 +4,7 @@ date: "2022-07-29T14:00:00"
 track: "culture"
 presenters: "姜宁,李圳虎"
 stype: "中文演讲"
+speechLink: "https://www.youtube.com/embed/nOb4KSN0qwY"
 ---
 引子：开源共同体建设的“公”与“私”两难
 差序格局：概念引入与举例说明

@@ -4,6 +4,7 @@ date: "2022-07-30T15:30:00"
 track: "bigdata"
 room: "B"
 presenters: "姜逸坤,王雷博"
+speechLink: "https://www.youtube.com/embed/BYZ_nX2Moyg"
 stype: "Chinese Session"
 ---
 Spark on Kubernetes has gained more and more attention and usage. Due to the lack of Kubernetes' batch scheduling support, resource deadlocks often occur in big data scheduling scenarios. In addition, It lacks advanced capabilities such as queue, priority, resource reservation, and multiple computing force scheduling. This topic describes the latest developments and best practices of the Apache Spark community Support Customized Kubernetes Schedulers.

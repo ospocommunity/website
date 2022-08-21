@@ -4,6 +4,7 @@ date: "2022-07-29T16:50:00"
 track: "bigdata"
 room: "B"
 presenters: "韩帅,孙科"
+speechLink: "https://www.youtube.com/embed/EeOI8Dy46sQ"
 stype: "中文演讲"
 ---
 在数据中台的大背景下，离线数仓领域中用户经常需要解决以下问题:

@@ -4,6 +4,7 @@ date: "2022-07-29T15:20:00"
 track: "culture"
 presenters: "Bo Jiang"
 stype: "English Session"
+speechLink: "https://www.youtube.com/embed/iah3t1xvFlE"
 ---
 The Apache Way is a culture and spirit which guides not only how to make good open-source software, but how to run a good developer community and user group as well.
 SegmentFault is the leading developer community in China, where tens of millions of developers share their development experiences every month.

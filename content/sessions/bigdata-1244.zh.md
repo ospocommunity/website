@@ -4,6 +4,7 @@ date: "2022-07-30T16:50:00"
 track: "bigdata"
 room: "B"
 presenters: "Anmol Chaturvedi, Haripriya Bendapudi, Praneet Sharma"
+speechLink: "https://www.youtube.com/embed/FL-FGMZPe7U"
 stype: "英文演讲"
 ---
 最近，对时间关键的短期交互spark工作负载的需求急剧增长。一个常见的用例是数据准备，其中通过与数据子集(数据工作表)进行spark驱动的交互来构建数据集成步骤的管道，并实时可视化转换数据响应。然后，这个交互式spark查询配方被发布出来，应用于超大规模的pb级数据。

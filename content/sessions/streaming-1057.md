@@ -4,6 +4,7 @@ date: "2022-07-29T13:30:00"
 track: "streaming"
 presenters: "康琪"
 stype: "Chinese Session"
+speechLink: "https://www.youtube.com/embed/uu3vCFrzavY"
 ---
 Flow and batch integration is one of the most important features of Flink as a new generation of computing engine. This speech will introduce the thinking, exploration and practice of JD Logistics in this direction, including the following aspects:
 -Big data application scenarios of JD Logistics;

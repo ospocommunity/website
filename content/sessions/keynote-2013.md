@@ -4,6 +4,7 @@ date: "2022-07-29T11:30:00"
 track: "keynote"
 presenters: "Xiangdong Huang, Jialin Qiao, Ming Wen, Liang Zhang, Lidong Dai"
 stype: "Chinese Panel"
+speechLink: "https://www.youtube.com/embed/mIyTn7r2icM"
 ---
 In an era of increasing open source emergence, there is a growing number of commercialized companies building products around top-tier Apache projects. Start-ups of top projects are also gaining more favor from the investment community, such as Tributary Technologies, the commercialization company of the open source microservice API gateway Apache APISIX, SphereEx, which uses Apache Shardingsphere as its cornerstone, Easy View, which donated Apache DolphinScheduler, and Timecho, which is built around the temporal database Timecho Technology, built around the Apache IoTDB. So, how does the Apache Top Project title help in commercialization? What are the constraints? How to balance the two things: open source and commercialization?
 We invited Wen Ming, Co-founder & CEO of Shenzhen Tributary Technology, Zhang Liang, Founder & CEO of SphereEx, Lidong Dai, Director of Big Data Platform & Apache DolphinScheduler PPMC of Eview, and Huang Xiangdong, Apache Member and PMC Chair of Apache IoTDB, to give their views on the top project startups. We will present our views on the top project start-ups from different perspectives.

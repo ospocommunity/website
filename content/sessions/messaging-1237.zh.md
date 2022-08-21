@@ -4,6 +4,7 @@ date: "2022-07-29T14:40:00"
 track: "messaging"
 room: "A"
 presenters: "黄展鹏"
+speechLink: "https://www.youtube.com/embed/tsvMkudEOp4"
 stype: "中文演讲"
 ---
 在云原生分布式微服务架构下，在对业务基本无侵入的情形下，利用 RocketMQ 等中间件为业务实现全链路的业务灰度的管控能力

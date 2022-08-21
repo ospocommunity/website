@@ -4,6 +4,7 @@ date: "2022-07-29T09:05:00"
 track: "keynote"
 presenters: "Shouqun Lu"
 stype: "Chinese Session"
+speechLink: "https://www.youtube.com/embed/SY5X7z8-Vms"
 ---
 
 ### Speakers: 

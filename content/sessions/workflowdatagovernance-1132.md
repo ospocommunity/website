@@ -4,6 +4,7 @@ date: "2022-07-31T14:10:00"
 track: "workflowdatagovernance"
 presenters: "李孟"
 stype: "Chinese Session"
+speechLink: "https://www.youtube.com/embed/me3NnBIGvC0"
 ---
 Linkis background
 Linkis builds a layer of computing middleware between the upper application and the lower engine. By using standard interfaces such as REST, WebSocket, and JDBC provided by Linkis, upper-layer applications can easily access low-level engines such as Spark, Presto, and Flink, and realize cross-engine context sharing, unified computing tasks, and engine governance and choreography capabilities.

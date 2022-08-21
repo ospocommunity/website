@@ -4,6 +4,7 @@ date: "2022-07-30T16:50:00"
 track: "messaging"
 room: "A"
 presenters: "Yan Zhao"
+speechLink: "https://www.youtube.com/embed/8xADk1UBd4Q"
 stype: "Chinese Session"
 ---
 There are two steps to delete data in Apache Pulsar: delete metadata and actual stored data.

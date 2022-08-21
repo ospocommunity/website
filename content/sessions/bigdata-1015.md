@@ -4,6 +4,7 @@ date: "2022-07-31T14:10:00"
 track: "bigdata"
 room: "B"
 presenters: "Huicheng Song"
+speechLink: "https://www.youtube.com/embed/sOAer1CaGf8"
 stype: "English Session"
 ---
 Parquet is the core file format in Uber's big data stack. It is a prerequisite for many key initiatives like column level encryption, column pruning etc. in Uber's data org.

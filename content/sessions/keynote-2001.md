@@ -4,6 +4,7 @@ date: "2022-07-29T09:40:00"
 track: "keynote"
 presenters: "Danese Cooper"
 stype: "English Session"
+speechLink: "https://www.youtube.com/embed/EKMRoJESJSM"
 ---
 In 1999, just after the term Open Source was coined, Sun Microsystems made a code contribution that created the TomCat (Servlet API) project at the Apache Software Foundation (ASF), This was the beginning of my 20+ year relationship with the ASF, where I am still a Member.  I was fascinated to witness the codification of how to write software using the massively peer-reviewed collaborative development method known as the Apache Way. Although not infallible, the Apache Way has helped tens of thousands of engineers (and organisations) learn how to work openly with fellow travelers and competitors in a public commons. Learn how and why I patterned the InnerSource Commons on the Apache Way and how a new wave of Open Source curious organisations in diverse fields of endeavour have allowed a practice of InnerSource to help them modernize their own engineering culture and prepare them for real Open Source engagement.
 ### Speakers: 

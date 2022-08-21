@@ -4,6 +4,7 @@ date: "2022-07-30T17:30:00"
 track: "middleware"
 presenters: "Mark Thomas"
 stype: "English Session"
+speechLink: "https://www.youtube.com/embed/jnzKgO2gXjs"
 ---
 With the increasing focus on supply chain security, there is a greater demand for reproducible binary builds. This presents an opportunity for open source projects as, unlike closed source projects, reproducible binary builds enable open source projects to categorically demonstrate that the convenience binaries that they provide have been built from an tagged, unaltered source tree that end users are able to audit.
 

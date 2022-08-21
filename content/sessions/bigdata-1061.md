@@ -4,6 +4,7 @@ date: "2022-07-29T14:50:00"
 track: "bigdata"
 room: "B"
 presenters: "王斐"
+speechLink: "https://www.youtube.com/embed/x7id9Eu-DdY"
 stype: "Chinese Session"
 ---
 Apache Kyuubi(Incubating) is a big data gateway, which supports multi-tenant and distributed features, and can be suitable for enterprise applications in big data scenarios, such as ETL and BI reports. At present, the main direction is to build a Serverless SQL on Lakehouse service based on its own architecture design and all kinds of mainstream computing engines. Currently, the engines supported are Spark, Flink and Trino.

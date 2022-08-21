@@ -4,6 +4,7 @@ date: "2022-07-30T16:10:00"
 track: "streaming"
 presenters: "赵波"
 stype: "中文演讲"
+speechLink: "https://www.youtube.com/embed/JAOllZTbbRw"
 ---
 让Flink在K8S运行的更好，当今K8S已经慢慢进入线上部署服务，在整个大数据技术演进过程中，我们对运行在K8S上的Flink job有了更高的需求，例如，
 1. 在资源紧缺的情况下，我们需要Flink job能够按照一定的规则按序运行。

@@ -4,6 +4,7 @@ date: "2022-07-29T15:30:00"
 track: "middleware"
 presenters: "Paul Brebner"
 stype: "英文演讲"
+speechLink: "https://www.youtube.com/embed/cUCTB_7dtzw"
 ---
 当 ZooKeeper 走进一个酒吧（实际上是一个 Outback 酒吧)，最后帮助一些哲学家解决他们的分叉资源争用问题。这次演讲是针对 Apache ZooKeeper 和 Apache Curator 解决经典计算机科学哲学家用餐问题新变体的介绍。我们将介绍 ZooKeeper（一种成熟的、广泛使用的分布式系统协调事实上的技术）和哲学家用餐问题，并探索我们如何使用 Apache Curator(ZooKeeper 的高级 Java 客户端)实现解决方案，并展示它是如何工作的。我们在 Instaclustr 的新的托管 Apache ZooKeeper 云服务上测试了应用程序，并展示使用单个 ZooKeeper 服务器与集成服务器的性能结果。最后，我们来看看从Apache Kafka 中删除 ZooKeeper 的进度。即使 Apache Kafka 可能很快就会离开 ZooKeeper，但仍然有很多分布式应用程序需要协调帮助。Apache ZooKeeper 和 Apache Curator 是值得学习的。
  ### Speakers: 

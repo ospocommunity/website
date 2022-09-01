@@ -4,7 +4,6 @@ date: "2022-07-31T13:30:00"
 track: "messaging"
 room: "B"
 presenters: "David Kjerrumgaard"
-speechLink: "https://www.youtube.com/embed/x5OFvx_Ot5o"
 speechLink: "https://www.youtube.com/embed/eM-TA8UJ0v4"
 stype: "英文演讲"
 ---

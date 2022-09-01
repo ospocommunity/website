@@ -4,7 +4,7 @@ date: "2022-07-29T15:30:00"
 track: "streaming"
 presenters: "张颖，闫莉刚"
 stype: "中文演讲"
-speechLink: "https://www.youtube.com/embed/pV_VAYCCj3A"
+speechLink: "https://player.bilibili.com/player.html?aid=899523647&cid=806318669&page=1"
 ---
 京东零售数据与智能部基于京东业务特点，为提升特定场景下研发人员的开发效率而搭建了一套基于 Flink 的实时计算框架，致力于构建基于 Flink 的独有的数据流场景，本次主要分享京东零售数据与智能部积累的一些机器学习工程和相关数据分析的技术场景和相应的解决方案，包括但不限于：
 

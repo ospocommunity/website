@@ -4,7 +4,7 @@ date: "2022-07-31T14:10:00"
 track: "bigdata"
 room: "B"
 presenters: "Huicheng Song"
-speechLink: "https://www.youtube.com/embed/sOAer1CaGf8"
+speechLink: "https://player.bilibili.com/player.html?aid=302038681&cid=806150691&page=1"
 stype: "英文演讲"
 ---
 Parquet是Uber大数据栈的核心文件格式。在Uber的数据组织中，这是许多关键举措的先决条件，比如列级加密、列修剪等。

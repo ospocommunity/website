@@ -4,7 +4,7 @@ date: "2022-07-29T15:30:00"
 track: "bigdata"
 room: "A"
 presenters: "Paul Brebner"
-speechLink: "https://www.youtube.com/embed/ihuEg8a86z0"
+speechLink: "https://player.bilibili.com/player.html?aid=344518211&cid=805992041&page=1"
 stype: "英文演讲"
 ---
 在过去的十年中，现代水平可伸缩的开源大数据技术的发展，如Apache Cassandra(用于数据存储)和Apache Kafka(用于数据流)，使成本低、高度可伸缩、可靠、低延迟的应用程序成为可能，并使这些技术越来越普遍。为了实现可靠的水平可伸缩性，Cassandra和Kafka都利用了跨集群服务器的分区(用于并发)和复制(用于可靠性和可用性)。

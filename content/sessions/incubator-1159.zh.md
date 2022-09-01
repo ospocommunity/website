@@ -4,7 +4,7 @@ date: "2022-07-29T13:30:00"
 track: "incubator"
 presenters: "Eya Abdisho, John Gemignani, Josh Innis"
 stype: "英文演讲"
-speechLink: "https://www.youtube.com/embed/atDO8ngDxqI"
+speechLink: "https://player.bilibili.com/player.html?aid=472028612&cid=806872655&page=1"
 ---
 AGE团队将讲述AGE从成立到孵化到毕业的故事。主要目标是传授PMC团队在如何构建一个成功的开源社区方面所吸取的经验教训
  ### Speakers: 

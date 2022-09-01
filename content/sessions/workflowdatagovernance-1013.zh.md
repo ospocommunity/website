@@ -4,7 +4,7 @@ date: "2022-07-30T15:10:00"
 track: "workflowdatagovernance"
 presenters: "李心恺,赵玉威"
 stype: "中文演讲"
-speechLink: "https://www.youtube.com/embed/oQXg-MwF6yE"
+speechLink: "https://player.bilibili.com/player.html?aid=557063596&cid=806301064&page=1"
 ---
 Apache DolphinScheduler是一款优秀的分布式数据工作流任务调度系统，但是缺少相关CI\CD模块。T3出行整合了一站式开发平台，并且使DolphinScheduler对接了Apache Kyuubi、Apache Linkis计算中间件，形成了开发调试、发布、版本控制等一套完成的开发流程，极大提高了开发效率，规范了数据开发流程，实现了代码开发、业务上线与调度系统的打通，同时可以收口做到大数据开发 CI/CD 管理，帮助业务部门低门槛上线大数据相关的需求，减轻了数据开发的压力，向我们一站式开发平台的目标更进了一步
  ### Speakers: 

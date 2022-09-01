@@ -4,7 +4,7 @@ date: "2022-07-30T13:30:00"
 track: "messaging"
 room: "A"
 presenters: "Timothy Spann"
-speechLink: "https://www.youtube.com/embed/QTnYVlmyCOw"
+speechLink: "https://player.bilibili.com/player.html?aid=259527642&cid=806352669&page=1"
 stype: "英文演讲"
 ---
 在这次演讲中，我将介绍如何使用Apache NiFi、Apache Flink、Apache Spark和Apache Pulsar一起构建不同类型的流应用程序。

@@ -4,7 +4,7 @@ date: "2022-07-31T14:10:00"
 track: "bigdata"
 room: "A"
 presenters: "俞霄翔"
-speechLink: "https://www.youtube.com/embed/ML2uokjRQdY"
+speechLink: "https://player.bilibili.com/player.html?aid=217024881&cid=806192985&page=1"
 stype: "中文演讲"
 ---
 2021 年 9 月份，Apache Kylin 社区发布了 Kylin 的新一代产品 Kylin 4.0，使用 Parquet 替代 HBase 使得架构更加精简，实现了存算分离；目前在社区已经有很多用户选择升级到新的版本，获得了良好的使用体验。

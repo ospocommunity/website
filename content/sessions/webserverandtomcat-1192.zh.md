@@ -4,7 +4,7 @@ date: "2022-07-30T16:00:00"
 track: "webserverandtomcat"
 presenters: "宋洋"
 stype: "中文演讲"
-speechLink: "https://www.youtube.com/embed/40hRY00TbV8"
+speechLink: "https://player.bilibili.com/player.html?aid=472123443&cid=806264646&page=1"
 ---
 快手业务架构部宋洋，将分享tomcat容器在快手内的使用实践，包括tomcat的部署模式、改造实践和服务调优手段等
  ### Speakers: 

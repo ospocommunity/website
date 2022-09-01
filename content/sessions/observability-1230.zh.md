@@ -4,7 +4,7 @@ date: "2022-07-29T15:20:00"
 track: "observability"
 presenters: "Chen Yihao"
 stype: "英文演讲"
-speechLink: "https://www.youtube.com/embed/ljEi8uVHkFE"
+speechLink: "https://player.bilibili.com/player.html?aid=644595353&cid=805969093&page=1"
 ---
 近年来，随着机器学习能力的大幅提高，实际的人工智能解决方案已大规模部署在可生产场景中。在可观测领域，自2015年以来，各大商业平台为用户提供了各种人工智能功能，其中以异常检测为主。在Apache SkyWalking生态系统中，开源开发者和年轻的研究人员正在开发一个社区驱动的AIOps解决方案，以降低好奇的实践者的门槛。
 

@@ -4,7 +4,7 @@ date: "2022-07-31T14:50:00"
 track: "messaging"
 room: "B"
 presenters: "郭吉伟"
-speechLink: "https://www.youtube.com/embed/NDfmJb9hoUs"
+speechLink: "https://player.bilibili.com/player.html?aid=472123910&cid=806454005&page=1"
 stype: "中文演讲"
 ---
 Key_Shared 订阅模式自 Pulsar 2.4 版本起引入，经过多个版本的迭代后，现已稳定。在本次分享中，我们将从设计到实现，深入剖析 Key_Shared 订阅的原理。

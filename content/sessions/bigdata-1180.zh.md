@@ -4,7 +4,7 @@ date: "2022-07-30T15:30:00"
 track: "bigdata"
 room: "A"
 presenters: "陶克路"
-speechLink: "https://www.youtube.com/embed/SGDLgQH8gG8"
+speechLink: "https://player.bilibili.com/player.html?aid=344537156&cid=806135876&page=1"
 stype: "中文演讲"
 ---
 主要介绍如何使用 Apache Seatunnel 基于 Flink/Spark 来实现不同数据源间的数据同步，以及 Seatunnel 的核心实现、社区后续发展方向。最后介绍下如何参与开源社区。

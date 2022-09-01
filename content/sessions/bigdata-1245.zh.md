@@ -4,7 +4,7 @@ date: "2022-07-29T16:50:00"
 track: "bigdata"
 room: "A"
 presenters: "张伟伟"
-speechLink: "https://www.youtube.com/embed/-7-iHDWkbwU"
+speechLink: "https://player.bilibili.com/player.html?aid=857064694&cid=805992044&page=1"
 stype: "中文演讲"
 ---
 货拉拉大数据在规划架构的演进时，主要聚焦的目标是：业务支撑、稳定、安全、控本、增效，来打造基础扎实、能力强大的大数据基础设施和平台化服务，支撑数据价值和数据赋能，助力公司业务高质量增长。

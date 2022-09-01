@@ -4,7 +4,7 @@ date: "2022-07-31T16:10:00"
 track: "bigdata"
 room: "B"
 presenters: "谢佳君"
-speechLink: "https://www.youtube.com/embed/imw45AdyafM"
+speechLink: "https://player.bilibili.com/player.html?aid=514503485&cid=806193209&page=1"
 stype: "中文演讲"
 ---
 在数据分析领域，同一个业务指标可能需要针对不同的引擎写不同的SQL，编写的人需要处理不同引擎的语法差异，学习和使用成本较高。当指标口径变更时，需要通知到所有使用该指标的业务方进行相应的变更，沟通成本较高。字节跳动基于Apache Calcite设计并实现了多引擎的虚拟列，来解决这一问题。

@@ -4,7 +4,7 @@ date: "2022-07-30T10:20:00"
 track: "keynote"
 presenters: "连林江"
 stype: "中文演讲"
-speechLink: "https://www.youtube.com/embed/cov6nvdHmPM"
+speechLink: "https://player.bilibili.com/player.html?aid=814400407&cid=801305619&page=1"
 ---
 Apache Doris是一个基于MPP架构的高性能、实时的分析型数据库。SelectDB 是一家开源技术公司，基于 Doris 研发新一代云原生实时数仓 SelectDB（Powered by Apache Doris）运行在多家云上，为用户和客户提供开箱即用的产品能力。 
 本次演讲将会介绍在云原生时代一个开源核心技术如何走向一个成熟的商业产品，系统阐述从Apache Doris到SelectDB的核心洞察、理念、商业产品规划和客户价值落地，探讨开源和商业化如何相铺相成的良性发展之道。

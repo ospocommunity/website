@@ -4,7 +4,7 @@ date: "2022-07-31T13:30:00"
 track: "bigdata"
 room: "A"
 presenters: "Sadanand Shenoy,Rakesh Radhakrishnan"
-speechLink: "https://www.youtube.com/embed/E97fYFZJ2LQ"
+speechLink: "https://player.bilibili.com/player.html?aid=514565590&cid=806150742&page=1"
 stype: "英文演讲"
 ---
 Apache ozone是一个分布式的、可扩展的、高性能的对象存储。它提供对象存储语义(像Amazon S3)，并且在其上实现了一个Hadoop兼容的文件系统层，可以处理数十亿个对象。处理如此大规模的分布式系统集群，往往容易发生硬件故障、人为错误或自然灾害等数据事故。本次演讲将深入探讨Apache臭氧中实现的解决方案，如容器复制、高可用性、垃圾特性，以及用户如何跨集群复制数据。会谈还将讨论未来的路线图和正在进行的改进工作，以改善跨臭氧集群的数据复制。

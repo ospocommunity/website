@@ -4,7 +4,7 @@ date: "2022-07-30T14:30:00"
 track: "workflowdatagovernance"
 presenters: "XU SHUAI"
 stype: "中文演讲"
-speechLink: "https://www.youtube.com/embed/H7Qgfd3NguE"
+speechLink: "https://player.bilibili.com/player.html?aid=772081135&cid=806301142&page=1"
 ---
 在BIGO中，他们使用DolphinScheduler来统一工作流调度系统。他们对DolphinScheduler做了很多改进，甚至对一些自动工具进行了改进，将现有的工作流从气流和oozie迁移到DolphinScheduler。现在DolphinScheduler已经成为BIGO中唯一的工作流调度系统。
  ### Speakers: 

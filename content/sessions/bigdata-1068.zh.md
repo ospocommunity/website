@@ -4,7 +4,7 @@ date: "2022-07-29T16:10:00"
 track: "bigdata"
 room: "B"
 presenters: "陶克路,王正"
-speechLink: "https://www.youtube.com/embed/2QrVb3VWNnw"
+speechLink: "https://player.bilibili.com/player.html?aid=687032506&cid=805991958&page=1"
 stype: "中文演讲"
 ---
 主要介绍如何在 Kubernetes 环境之上基于 Zeppelin 构建作业开发管理平台，并运行和管理 Flink/Spark on native k8s 上的实践。

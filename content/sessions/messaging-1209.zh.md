@@ -4,7 +4,7 @@ date: "2022-07-29T14:10:00"
 track: "messaging"
 room: "B"
 presenters: "陈建波, 全利民"
-speechLink: "https://www.youtube.com/embed/oRsY1YnrzUY"
+speechLink: "https://player.bilibili.com/player.html?aid=984514726&cid=806341986&page=1"
 stype: "中文演讲"
 ---
 vivo移动互联网旨在为3.5亿的全球vivo智能手机用户提供极致的互联网产品和服务。目前已建立完整的移动互联网生态圈，围绕vivo大数据运营，打造包括应用、游戏、资讯、品牌、电商、内容、金融及搜索在内的全方位服务生态。

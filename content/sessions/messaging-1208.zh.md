@@ -4,7 +4,7 @@ date: "2022-07-31T15:30:00"
 track: "messaging"
 room: "A"
 presenters: "刘德志,杨子棵"
-speechLink: "https://www.youtube.com/embed/mKbQdRd4OdA"
+speechLink: "https://player.bilibili.com/player.html?aid=599622025&cid=806453922&page=1"
 stype: "中文演讲"
 ---
 本演讲将介绍 Apache Pulsar 独特的存储分离架构和分层存储模式，并阐述如何基于 Pulsar 构建实时数据仓库。

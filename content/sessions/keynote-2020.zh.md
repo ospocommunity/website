@@ -4,7 +4,7 @@ date: "2022-07-31T09:30:00"
 track: "keynote"
 presenters: "赵生宇"
 stype: "中文演讲"
-speechLink: "https://www.youtube.com/embed/tWHLpQ8AW6Q"
+speechLink: "https://player.bilibili.com/player.html?aid=686885151&cid=801353838&page=1"
 ---
 开源带来的不仅是开放的代码协作，更是产生了海量的开放数据。本次分享将带大家近距离走进开源相关的大数据，并理解如何使用这些数据更好的服务开源协作，助力开源项目快速成长。
 

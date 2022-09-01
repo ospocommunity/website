@@ -4,7 +4,7 @@ date: "2022-07-29T16:00:00"
 track: "datavisualization"
 presenters: "王海虎"
 stype: "中文演讲"
-speechLink: "https://www.youtube.com/embed/ui-w1uRQ_Qc"
+speechLink: "https://player.bilibili.com/player.html?aid=857003079&cid=805946013&page=1"
 ---
 介绍数据可视化目前的现状，目前现状所暴露出来的的痛点，站在解决痛点的思路上推出低代码概念，介绍低代码引擎设计与思考，介绍数据可视化编排平台Flyfish的特点与能力、如何解决行业痛点及如何进行提效。如何结合Apache Echarts打造出更好更强有力可视化组件，并高效做出数据可视化大屏！
  ### Speakers: 

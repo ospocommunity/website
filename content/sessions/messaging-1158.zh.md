@@ -4,7 +4,7 @@ date: "2022-07-29T15:30:00"
 track: "messaging"
 room: "B"
 presenters: "冉小龙"
-speechLink: "https://www.youtube.com/embed/V6u9NsIS0yY"
+speechLink: "https://player.bilibili.com/player.html?aid=302036573&cid=806342088&page=1"
 stype: "中文演讲"
 ---
 Apache Pulsar 在腾讯云中已经得到大规模的生产实践。在过去一年中，承接了多行业生态中不同的使用场景，在实际的生产实践中，我们针对社区版本做了一系列的性能优化和稳定性功能方面的工作，来保障用户在不同的场景下系统的稳定高效的运行。此次分享将重点针对腾讯云近一年在 Pulsar 稳定性和性能方面优化的工作。

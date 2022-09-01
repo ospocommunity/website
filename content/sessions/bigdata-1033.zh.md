@@ -4,7 +4,7 @@ date: "2022-07-29T14:50:00"
 track: "bigdata"
 room: "A"
 presenters: "金嘉怡"
-speechLink: "https://www.youtube.com/embed/QWKOn5tx8Co"
+speechLink: "https://player.bilibili.com/player.html?aid=514523844&cid=806000470&page=1"
 stype: "中文演讲"
 ---
 介绍 Apache Druid 云原生架构提出的背景，在 Shopee 众多业务中落地的过程，期间的机遇和挑战，云原生架构的深度剖析，以及未来的规划与展望等。

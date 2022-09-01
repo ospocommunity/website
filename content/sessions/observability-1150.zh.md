@@ -4,7 +4,7 @@ date: "2022-07-29T16:00:00"
 track: "observability"
 presenters: "Ajay Nagariya, Debajit Das, Kumar Pratyush"
 stype: "英文演讲"
-speechLink: "https://www.youtube.com/embed/CgelQUf3GLE"
+speechLink: "https://player.bilibili.com/player.html?aid=217052728&cid=806243749&page=1"
 ---
 Apache Http Server的可观察性解决方案基于OpenTelemetry(源代码在https://github.com/open-telemetry/opentelemetry-cpp-contrib/tree/main/instrumentation/otel-webserver-module)。它支持通过在运行时将检测注入Apache Http server来跟踪对服务器的传入请求。它还能够捕获传入请求中涉及的许多模块(包括mod_proxy)的响应时间，从而包括每个模块的分层时间消耗。
 

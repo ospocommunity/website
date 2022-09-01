@@ -4,7 +4,7 @@ date: "2022-07-29T17:20:00"
 track: "observability"
 presenters: "Kai Wan"
 stype: "英文演讲"
-speechLink: "https://www.youtube.com/embed/Osk1oYNthqU"
+speechLink: "https://player.bilibili.com/player.html?aid=217065193&cid=806243743&page=1"
 ---
 Apache SkyWalking支持自定义指标，并与主流指标生态集成，为指标分析和计算提供了一个指标系统。MAL(Meter Analysis Language)是为分析设置这些规则的语言。用户可以使用它对这些源指标执行分析计算。在这项提议中将分享:
 - 什么是MAL，什么场景应该使用它。

@@ -4,7 +4,7 @@ date: "2022-07-30T13:30:00"
 track: "bigdata"
 room: "B"
 presenters: "Kota Uenishi"
-speechLink: "https://www.youtube.com/embed/EmpHluBOesg"
+speechLink: "https://player.bilibili.com/player.html?aid=942068092&cid=806019944&page=1"
 stype: "英文演讲"
 ---
 这篇演讲介绍了在Preferred Networks的自托管超级计算机系统中，Apache Ozone上的两种工作负载。它们是我们努力将AI和HPC生态系统(PyTorch, GPU)与大数据生态系统(JVM，商用硬件)连接起来的成果。

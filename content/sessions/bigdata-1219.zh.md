@@ -4,7 +4,7 @@ date: "2022-07-30T16:10:00"
 track: "bigdata"
 room: "B"
 presenters: "魏中佳"
-speechLink: "https://www.youtube.com/embed/RBcpMorlxMk"
+speechLink: "https://player.bilibili.com/player.html?aid=772076192&cid=806020007&page=1"
 stype: "中文演讲"
 ---
 字节跳动内部主要使用 Spark 进行离线大数据处理，每天线上约有几十万的 Spark 作业。内部业务用户对 SLA 有明确需求，如果破线将对业务产生较大影响。Shuffle 是 Spark 引擎的一个重要操作，在大规模作业下，开源 ExternalShuffleService(ESS) 的实现机制容易带来大量随机读导致的磁盘 IOPS 瓶颈、Fetch 请求积压等问题，进而导致运算过程中经常会出现 Stage 重算甚至作业失败，继而引起资源使用的恶性循环，严重影响 SLA。此外，在字节跳动内部的在离线混部场景下，在线机器的磁盘容量等能力较小，运行中经常遇到磁盘满的问题。

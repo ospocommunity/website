@@ -4,7 +4,7 @@ date: "2022-07-30T14:40:00"
 track: "webserverandtomcat"
 presenters: "饶子昊"
 stype: "中文演讲"
-speechLink: "https://www.youtube.com/embed/lnp51wz4PlQ"
+speechLink: "https://player.bilibili.com/player.html?aid=599574419&cid=806264595&page=1"
 ---
 介绍Tomcat中提供的优雅下线相关设计原理，介绍阿里云微服务引擎MSE如何利用相关特性服务广大外部企业级用户帮助其实现优雅下线。
  ### Speakers: 

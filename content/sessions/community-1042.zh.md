@@ -4,7 +4,7 @@ date: "2022-07-31T13:30:00"
 track: "community"
 presenters: "Maxim Wheatley"
 stype: "英文演讲"
-speechLink: "https://www.youtube.com/embed/99uR5OsSa8Y"
+speechLink: "https://player.bilibili.com/player.html?aid=729515179&cid=806208047&page=1"
 ---
 在这个环节中，Maxim Wheatley(商业和市场营销主管)将分享DevLake开源发布的经验教训和实践技巧，这是一个开源的DevOps平台，在不到两个月的时间里在GitHub上增长到了1.5万多颗星!在这次演讲中，与会者将了解到所有的关键细节，从制作一个有效的GitHub页面和ReadMe，到战略营销和社区努力为项目带来大量关注。
  ### Speakers: 

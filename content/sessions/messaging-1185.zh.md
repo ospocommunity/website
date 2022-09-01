@@ -4,7 +4,7 @@ date: "2022-07-30T14:50:00"
 track: "messaging"
 room: "A"
 presenters: "李鹏辉"
-speechLink: "https://www.youtube.com/embed/4qcv5TyaSRQ"
+speechLink: "https://player.bilibili.com/player.html?aid=729619100&cid=806352672&page=1"
 stype: "中文演讲"
 ---
 Pulsar 主题数据不会受到单个节点存储资源的限制，无论该主题是未分区的主题还是单分区主题。最根本的原因是 Pulsar 使用了逻辑存储模型。Pulsar 主题数据将分布到更多的 bookie 节点，分区/主题不会 1:1 绑定到任何存储节点。

@@ -4,7 +4,7 @@ date: "2022-07-29T16:40:00"
 track: "observability"
 presenters: "Hongtao Gao"
 stype: "英文演讲"
-speechLink: "https://www.youtube.com/embed/4kW1C3nye8Q"
+speechLink: "https://player.bilibili.com/player.html?aid=644540513&cid=806243925&page=1"
 ---
 BanyanDB作为一个可观察性数据库，旨在收集、分析和存储metrics、tracing和logging数据。它被设计用来处理Apache SkyWalking生成的可观察性数据。
  ### Speakers: 

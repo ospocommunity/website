@@ -4,7 +4,7 @@ date: "2022-07-29T13:30:00"
 track: "streaming"
 presenters: "康琪"
 stype: "中文演讲"
-speechLink: "https://www.youtube.com/embed/uu3vCFrzavY"
+speechLink: "https://player.bilibili.com/player.html?aid=602027397&cid=806318676&page=1"
 ---
 流批一体是Flink作为新一代计算引擎最重要的特征之一，本次演讲将介绍京东物流在该方向的思考、探索与实践，包含以下方面：
 - 京东物流的大数据应用场景；

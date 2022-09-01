@@ -4,7 +4,7 @@ date: "2022-07-31T14:10:00"
 track: "messaging"
 room: "A"
 presenters: "陈航"
-speechLink: "https://www.youtube.com/embed/M3R-jBji0g4"
+speechLink: "https://player.bilibili.com/player.html?aid=557007758&cid=806465056&page=1"
 stype: "中文演讲"
 ---
 Apache Pulsar 是一种用于缓存数据并在不同系统之间解耦的消息总线。为了支持长期的主题数据存储，我们引入了分层存储，将冷数据卸载到分层存储中，例如 GCS、S3、HDFS 等。但是，当前卸载的数据是由 Pulsar 管理的非开放格式数据，是原始的数据格式，且只有 Pulsar 可以访问数据。因此很难将其与其他大数据组件集成，例如 Presto、Flink SQL 和 Spark SQL。

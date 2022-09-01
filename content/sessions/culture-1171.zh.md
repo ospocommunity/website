@@ -4,7 +4,7 @@ date: "2022-07-29T15:20:00"
 track: "culture"
 presenters: "Bo Jiang"
 stype: "英文演讲"
-speechLink: "https://www.youtube.com/embed/iah3t1xvFlE"
+speechLink: "https://player.bilibili.com/player.html?aid=557022958&cid=806218009&page=1"
 ---
 Apache之道是一种文化和精神，它不仅指导如何制作优秀的开源软件，也指导如何运营一个优秀的开发者社区和用户群体。
 SegmentFault是中国领先的开发者社区，每月有数以千万计的开发者分享他们的开发经验。

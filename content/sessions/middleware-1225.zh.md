@@ -4,7 +4,7 @@ date: "2022-07-30T14:50:00"
 track: "middleware"
 presenters: "刘俊洋"
 stype: "中文演讲"
-speechLink: "https://www.youtube.com/embed/VT-X_4MaEKw"
+speechLink: "https://player.bilibili.com/player.html?aid=729517634&cid=806279684&page=1"
 ---
 本次演讲主要介绍Kafka高可用架构在消息服务中的应用实践，从物理多租架构、高可用部署、数据高可靠等几个方面，介绍如何构建高可用的Kafka消息服务
  ### Speakers: 

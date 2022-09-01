@@ -4,7 +4,7 @@ date: "2022-07-30T13:30:00"
 track: "streaming"
 presenters: "徐榜江"
 stype: "中文演讲"
-speechLink: "https://www.youtube.com/embed/qsXrauwclRk"
+speechLink: "https://player.bilibili.com/player.html?aid=729526568&cid=806320264&page=1"
 ---
 数据库中的业务数据是最有价值的数据之一，如何有效地将这些数据高效地同步到数据湖中是一个非常有价值的主题。
 CDC（Change Data Capture）是用于从数据库中捕获变更的技术，Flink CDC 是实时数据集成框架的开源代表，具有全增量一体化、无锁读取、并发读取、分布式架构等技术优势，在开源社区中非常受欢迎。除了具备实时入湖入仓能力，Flink CDC 还支持强大的数据加工能力，可以通过 SQL 对数据库数据做实时关联、聚合、打宽等, 配合 Flink 丰富的下游生态可以将加工后的数据方便地写入 Kafka、Hudi、Iceberg 、Doris等下游。

@@ -4,7 +4,7 @@ date: "2022-07-30T15:20:00"
 track: "webserverandtomcat"
 presenters: "Dennis Jacob"
 stype: "英文演讲"
-speechLink: "https://www.youtube.com/embed/Jmw-d0kyZ_4"
+speechLink: "https://player.bilibili.com/player.html?aid=729598950&cid=806264448&page=1"
 ---
 在Tomcat中，阀门充当请求预处理机制。可以通过扩展基本的Valve Class来开发定制阀门，以集成Tomcat服务器接受的请求的附加功能。请求速率限制、实现增强的mTLS安全性、调试机制等都是一些示例，在这些示例中，可以利用定制的Tomcat valve来扩展Tomcat的功能。
 

@@ -4,7 +4,7 @@ date: "2022-07-30T16:10:00"
 track: "bigdata"
 room: "A"
 presenters: "Mukund Thakur"
-speechLink: "https://www.youtube.com/embed/BpApYhHCYQk"
+speechLink: "https://player.bilibili.com/player.html?aid=942106754&cid=806879774&page=1"
 stype: "英文演讲"
 ---
 自2006年以来，大数据的世界已经从tb级转移到数百pb级，从本地集群转移到远程云存储，然而最初的基于Apache Hadoop posix的文件api几乎没有改变。

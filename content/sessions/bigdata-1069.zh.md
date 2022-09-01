@@ -4,7 +4,7 @@ date: "2022-07-31T15:30:00"
 track: "bigdata"
 room: "A"
 presenters: "高楚枫"
-speechLink: "https://www.youtube.com/embed/e76RYh1ZdmE"
+speechLink: "https://player.bilibili.com/player.html?aid=814532438&cid=806193301&page=1"
 stype: "中文演讲"
 ---
 对于大数据工程师来说，大数据作业的开发和调度通常是在不同的环境中进行的。需要在IDE中完成作业开发、调试后，再将代码copy paste或打包到调度工具中进行调度。一方面影响了开发效率，另一方面由于环境的差异导致调度时可能产生难以预知的问题。

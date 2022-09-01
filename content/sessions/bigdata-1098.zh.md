@@ -4,7 +4,7 @@ date: "2022-07-29T15:30:00"
 track: "bigdata"
 room: "B"
 presenters: "Yunqing Mo"
-speechLink: "https://www.youtube.com/embed/ISYxPYuLLoU"
+speechLink: "https://player.bilibili.com/player.html?aid=602070610&cid=805992034&page=1"
 stype: "中文演讲"
 ---
 1. Apache InLong简介

@@ -4,7 +4,7 @@ date: "2022-07-31T14:40:00"
 track: "webserverandtomcat"
 presenters: "麻志辉"
 stype: "中文演讲"
-speechLink: "https://www.youtube.com/embed/GxRjT6k7muQ"
+speechLink: "https://player.bilibili.com/player.html?aid=302030972&cid=806271257&page=1"
 ---
 主要分享 Dubbo-go在mesh 领域中 proxyless service-mesh 方向的探索。
 类似与sidecar模式，proxyless通过在dubbo-go框架内置xDS协议的支持，直接与Istiod控制面组件交互，实现在istio mesh环境下，服务注册发现、流量治理等方面功能。proxyless mesh方案在考虑大规模服务网格中的资源效率、时间敏感应用代理层时延影响等一些场景中，具有明显的优越性。

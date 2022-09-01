@@ -4,7 +4,7 @@ date: "2022-07-29T09:10:00"
 track: "keynote"
 presenters: "Brian Behlendorf"
 stype: "英文演讲"
-speechLink: "https://www.youtube.com/embed/6Z094bXri18"
+speechLink: "https://player.bilibili.com/player.html?aid=771944651&cid=801184175&page=1"
 ---
 Brian 将谈到开源社区是如何变得越来越容易受到软件供应链上的新型攻击的，以及许多人为了应对这些挑战做了哪些举措。这些举措需要新流程、新工具和新措施来推广。
 

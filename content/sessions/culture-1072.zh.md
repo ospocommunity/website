@@ -4,7 +4,7 @@ date: "2022-07-30T16:00:00"
 track: "culture"
 presenters: "高丰"
 stype: "中文演讲"
-speechLink: "https://www.youtube.com/embed/AIBC7prYLJg"
+speechLink: "https://player.bilibili.com/player.html?aid=644594471&cid=806233844&page=1"
 ---
 开源（Open Source) 是 Open Knowledge （开放知识） 众多分支中的一支也是最为广泛被认知、参与率最高的一支，但实质 Open 的世界中还有诸如开放数据(open data)、开放访问(open access）、开放科学(open science）等等分支的存在。那么什么是 Open 的价值核心？开源社区和各类 Open 社区间如何形成合力，去更好地推动大众对 Open 价值的认同和参与？我们需要如何努力，才能将 Open 作为一种行为的准则嵌入我们的社会运行中？本演讲将带来个人的一些思考，并寻求社区的反馈和协作。
  ### Speakers: 

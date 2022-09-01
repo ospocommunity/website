@@ -4,7 +4,7 @@ date: "2022-07-30T14:10:00"
 track: "streaming"
 presenters: "盛宇帆"
 stype: "中文演讲"
-speechLink: "https://www.youtube.com/embed/eGA5LRoqGJ8"
+speechLink: "https://player.bilibili.com/player.html?aid=729612816&cid=806320272&page=1"
 ---
 Apache Pulsar 已经在 Apache Flink 中提供了基于 DataStream API 的 Connector，使用该 Connector 可以读写 Pulsar，开发批流融合的应用。本次演讲中，盛宇帆将向大家介绍 Connector 的背后技术细节，Pulsar 的各类能力如何在 Connector 上使用并支持。并将现场演示如何基于 Connector 去设计开发一个一致性、高吞吐的流计算应用。
  ### Speakers: 

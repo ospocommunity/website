@@ -4,7 +4,7 @@ date: "2022-07-29T16:10:00"
 track: "middleware"
 presenters: "李卓"
 stype: "中文演讲"
-speechLink: "https://www.youtube.com/embed/On_J3Vg7gkM"
+speechLink: "https://player.bilibili.com/player.html?aid=259549234&cid=806258471&page=1"
 ---
 背景
 随着 Kubernetes 日趋成熟与稳定，SphereEx 在探索 ShardingSphere 未来的前景的路上也逐渐将其认为是 ShardingSphere 下一阶段的重要里程碑。在此背景下，SphereEx 云团队将对 ShardingSphere 云化改造作为重要目标注意。在实际过程中，团队遇到很多问题和挑战。本次演讲将分享一下团队对 ShardingSphere 云化改造中遇到的问题和做出的应对。

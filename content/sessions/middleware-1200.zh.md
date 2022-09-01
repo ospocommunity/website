@@ -4,7 +4,7 @@ date: "2022-07-30T16:10:00"
 track: "middleware"
 presenters: "马丽丽"
 stype: "中文演讲"
-speechLink: "https://www.youtube.com/embed/xlM3s2vS-14"
+speechLink: "https://player.bilibili.com/player.html?aid=772068073&cid=806279699&page=1"
 ---
 除性能、可用性以外，数据库的可扩展性也是用户在进行数据库选型时或者随着业务扩张数据量不停增长需要考虑的方面。以亚马逊云科技自研的关系数据库 Amazon Aurora 为例，它在存储扩展、读节点水平扩展、全球数据库扩展、以及单节点的纵向扩展方面都有良好的支持。在写节点的水平扩展上，Aurora 现在支持最多4个写节点，在用户写的并发数比较多时，用户需要进行数据库中间件的选型。本次分享会介绍如何结合 Apache ShardingSphere 来进一步扩展 Amazon Aurora 的写扩展的能力，并会为听众在进行数据库中间件选型基于什么角度考虑提供一个参考。
 本次演讲会涵盖：

@@ -4,7 +4,7 @@ date: "2022-07-31T13:30:00"
 track: "workflowdatagovernance"
 presenters: "陈卫"
 stype: "中文演讲"
-speechLink: "https://www.youtube.com/embed/7VzdBmL0FZ0"
+speechLink: "https://player.bilibili.com/player.html?aid=557123974&cid=806313469&page=1"
 ---
 1.backgrand(背景)
   随着业务发展，业务深入，数据用户越来越多，从原来的高层，分析师至一线业务人员，如何快速的获取数据分析结果对业务发展越来越重要，通过提供简化的数据加工流程/数据分析工作对一线业务分析人员至关重要,通过优化的数据处理工具/流程协助非技术用户获取业务分析数据并自动化嵌入至数据处理流程中，通过配置化简化数据使用成本。

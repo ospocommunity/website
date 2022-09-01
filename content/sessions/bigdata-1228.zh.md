@@ -4,7 +4,7 @@ date: "2022-07-29T14:10:00"
 track: "bigdata"
 room: "B"
 presenters: "Rakesh Radhakrishnan, Mukul Kumar Singh"
-speechLink: "https://www.youtube.com/embed/HN7PWX9TdAE"
+speechLink: "https://player.bilibili.com/player.html?aid=729555388&cid=806000474&page=1"
 stype: "英文演讲"
 ---
 Apache Ozone是一个分布式、可伸缩的高性能对象存储，可以扩展到数十亿个不同大小的对象。Apache Ozone对象存储最近实现了一个多协议感知桶特性，其中一个Apache Ozone集群同时具备Hadoop核心文件系统(“HCFS”)和对象存储(如Amazon S3)功能。在这次演讲中，我们将深入探讨Ozone中统一和可扩展的架构设计，它表示目录、文件、对象和桶，允许分层文件系统和对象存储协议之间的互操作性。基本上，这种多协议能力对主要面向文件系统类工作负载的系统很有吸引力，但希望添加一些对象存储特性支持。例如，用户可以使用文件系统API将数据摄取到Ozone中，同样的数据也可以通过Ozone S3 API(Amazon S3实现)访问。这可能会提高自带对象存储的用户平台的效率。此外，存储在Ozone中的数据可用于不同的用例共享，消除了数据重复的需要，从而降低了风险，优化了资源的利用。

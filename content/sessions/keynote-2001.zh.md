@@ -4,7 +4,7 @@ date: "2022-07-29T09:40:00"
 track: "keynote"
 presenters: "Danese Cooper"
 stype: "英文演讲"
-speechLink: "https://www.youtube.com/embed/EKMRoJESJSM"
+speechLink: "https://player.bilibili.com/player.html?aid=386981572&cid=801290321&page=1"
 ---
 1999年，就在“开源”这个词被创造出来不久，Sun Microsystems在Apache软件基金会（ASF）创建了TomCat（Servlet API）项目。这是我与ASF20多年关系的开始，直至今日我仍是该组织的成员。
 我着迷于见证通过大规模同伴评议的协作方式来开发软件也就是“Apache之道”的形成。虽然“Apache之道”并不是无懈可击，但它已经帮助数以万计的工程师（和组织）学习如何与同行和竞争对手更公开地合作。本次演讲将分享我以Apache之道创立“内源社区”的原因和方法，以及不同领域的新一波对开源充满好奇的组织是如何通过内源的实践来帮助他们实现自身工程文化的现代化，并为他们真正参与开源做好准备的。

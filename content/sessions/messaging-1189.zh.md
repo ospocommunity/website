@@ -4,7 +4,7 @@ date: "2022-07-30T16:50:00"
 track: "messaging"
 room: "A"
 presenters: "赵延"
-speechLink: "https://www.youtube.com/embed/8xADk1UBd4Q"
+speechLink: "https://player.bilibili.com/player.html?aid=687048961&cid=806352661&page=1"
 stype: "中文演讲"
 ---
 目前，Apache Pulsar 对于数据的删除存在两个步骤，即删除元数据与实际存储数据。

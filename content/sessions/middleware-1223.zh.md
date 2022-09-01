@@ -4,7 +4,7 @@ date: "2022-07-30T15:30:00"
 track: "middleware"
 presenters: "余洲"
 stype: "中文演讲"
-speechLink: "https://www.youtube.com/embed/1z-BgGfK7dk"
+speechLink: "https://player.bilibili.com/player.html?aid=217020926&cid=806279693&page=1"
 ---
 分布式事务有2PC、SAGA、TCC等方案，演讲主要介绍各种方案的架构和优缺点，已经如何基于消息队列来实现
  ### Speakers: 

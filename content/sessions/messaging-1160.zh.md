@@ -4,7 +4,7 @@ date: "2022-07-30T17:20:00"
 room: "B"
 track: "messaging"
 presenters: "刘振东"
-speechLink: "https://www.youtube.com/embed/iulaVgW8chI"
+speechLink: "https://player.bilibili.com/player.html?aid=644562925&cid=806352551&page=1"
 stype: "中文演讲"
 ---
 在线业务场景，RocketMQ 先是经过了阿里巴巴多年双十一的高压验证，后又被中国大部分互联网和金融Top企业广泛采纳在核心生产系统中，打磨出了极致的性能、易用性和稳定性。然而，RocketMQ 没有止步于此。在 5.0 的最新版本中，RocketMQ 存储层新增了一系列新的特性，包括 Batch、LogicQueue、CompactTopic等。这些特性是 RocketMQ 在流存储领域的实践结晶。来自 Apache RocketMQ 社区的 PMC Member 刘振东，将在这次大会上和大家分享这背后的思考判断与实践路径。

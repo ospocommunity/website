@@ -4,7 +4,7 @@ date: "2022-07-30T09:20:00"
 track: "keynote"
 presenters: "Mark Thomas"
 stype: "英文演讲"
-speechLink: "https://www.youtube.com/embed/fKzN0dPfXXg"
+speechLink: "https://player.bilibili.com/player.html?aid=429399344&cid=801298697&page=1"
 ---
 本次演讲主要面向 Apache 项目的提交者。首先会介绍品牌与商标的概念，阐述它们与社区项目的关系以及它们如何助力社区项目的健康发展。主要内容涵盖品牌管理团队为项目提供的各项服务，探究这些每年耗资 ASF（Apache软件基金组织）6万至8万美元的服务的典型成本项。
 

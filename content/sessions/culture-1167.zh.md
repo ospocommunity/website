@@ -4,7 +4,7 @@ date: "2022-07-29T16:40:00"
 track: "culture"
 presenters: "适兕, 顾钧, 陈元熹, 王晓研, Wing"
 stype: "中文圆桌"
-speechLink: "https://www.youtube.com/embed/FExi-AdFSiA"
+speechLink: "https://player.bilibili.com/player.html?aid=644528782&cid=806218018&page=1"
 ---
 什么是商业化友好？是对开源的背叛？还是对商业的过分妥协？能走远吗？我们找到来自法律、创投、布道者、创业者一起来聊聊开源与商业化友好：
 1. 许可即产品，软件许可的作用

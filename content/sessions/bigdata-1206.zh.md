@@ -4,7 +4,7 @@ date: "2022-07-31T14:50:00"
 track: "bigdata"
 room: "B"
 presenters: "王准"
-speechLink: "https://www.youtube.com/embed/dF7mmSeoja8"
+speechLink: "https://player.bilibili.com/player.html?aid=772074063&cid=806150901&page=1"
 stype: "中文演讲"
 ---
 1.Spark在小米的技术演进

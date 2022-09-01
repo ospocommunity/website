@@ -4,7 +4,7 @@ date: "2022-07-29T16:10:00"
 track: "messaging"
 room: "B"
 presenters: "吴展鹏"
-speechLink: "https://www.youtube.com/embed/iIKTGfRPmXY"
+speechLink: "https://player.bilibili.com/player.html?aid=857084430&cid=806342135&page=1"
 stype: "中文演讲"
 ---
 BIGO 旗下目前有 BIGO Live 和 Likee 短视频两大视频产品与服务，当前 BIGO Live 直播业务已覆盖 150 多个国家与地区，Likee 短视频也拥有超过 1 亿用户，产品在 Z 世代中广泛流行。在过往的技术架构中，BIGO 采用开源的 Kafka 集群来支撑实时数据计算分析与短视频推荐业务。但随着业务不断快速发展，过往架构遇到了巨大挑战。Apache Pulsar 带来的分层架构及低延迟、持久化存储、水平易扩展等特性帮助我们解决了生产系统中面临的诸多问题。

@@ -4,7 +4,7 @@ date: "2022-07-29T13:30:00"
 track: "bigdata"
 room: "B"
 presenters: "Dunith Dhanushka, Karin Wolok"
-speechLink: "https://www.youtube.com/embed/XOV-zIiJ60o"
+speechLink: "https://player.bilibili.com/player.html?aid=984551890&cid=817017358&page=1"
 stype: "英文演讲"
 ---
 当你听到“决策者”，你会很自然地想到“C-suite”或“executive”。

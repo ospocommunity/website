@@ -4,7 +4,7 @@ date: "2022-07-30T13:50:00"
 track: "workflowdatagovernance"
 presenters: "范未太"
 stype: "中文演讲"
-speechLink: "https://www.youtube.com/embed/wKvc6rh8QTs"
+speechLink: "https://player.bilibili.com/player.html?aid=217059027&cid=806301137&page=1"
 ---
 本文主要介绍Apache Seatunnel有哪些特性和优势。以及在生产中我们的使用经验，以 Seatunnel为基础，打造拖拉拽，配置化的数据处理平台，主要包括逻辑校验，任务开发，插件管理等。
  ### Speakers: 

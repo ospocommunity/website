@@ -4,7 +4,7 @@ date: "2022-07-29T16:10:00"
 track: "bigdata"
 room: "A"
 presenters: "Mukund"
-speechLink: "https://www.youtube.com/embed/mMi4owe8zKo"
+speechLink: "https://player.bilibili.com/player.html?aid=344576894&cid=806000486&page=1"
 stype: "英文演讲"
 ---
 Apache Ranger在Apache Hadoop生态系统中被广泛用于本地集群的HDFS、HIVE、HBASE等大部分产品的授权服务。在本次讨论中，我们将讨论如何利用Ranger策略对存储在S3公共云存储中的对象执行细粒度授权以及查看访问审计的功能的各种用例。

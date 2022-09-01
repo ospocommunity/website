@@ -4,7 +4,7 @@ date: "2022-07-29T14:40:00"
 track: "culture"
 presenters: "张晋涛"
 stype: "中文演讲"
-speechLink: "https://www.youtube.com/embed/RhjzY-bc2AI"
+speechLink: "https://player.bilibili.com/player.html?aid=514569289&cid=806217975&page=1"
 ---
 ASF 有很多发起自中国的开源项目，比如 Apache APISIX, Skywalking 等，由于语言和文化的差异，有亚洲文化背景的开发者（本次分享以中国开发者为例），在参与开源项目贡献，或者参与到 Apache 开源社区的时候，有一些“水土不服”的情况出现。本次分享，张晋涛将以 Apache APISIX 等项目及社区为例，结合自身经验来分享，如何吸引亚洲文化背景的开发者参与到开源。以及如何让开发者接受开源社区的文化，以及更好的融入到 Apache 社区中。
  ### Speakers: 

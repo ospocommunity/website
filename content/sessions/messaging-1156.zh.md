@@ -4,7 +4,7 @@ date: "2022-07-30T16:10:00"
 track: "messaging"
 room: "A"
 presenters: "杨子棵"
-speechLink: "https://www.youtube.com/embed/Vfg091JLp90"
+speechLink: "https://player.bilibili.com/player.html?aid=814517007&cid=806352393&page=1"
 stype: "中文演讲"
 ---
 Apache Pulsar 与所有消息系统一样，会对发送到 broker 的每条消息限制大小。这可以防止每条消息的负载超过 broker 中设置的 `maxMessageSize`。

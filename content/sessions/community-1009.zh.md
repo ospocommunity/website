@@ -4,7 +4,7 @@ date: "2022-07-30T13:30:00"
 track: "community"
 presenters: "琚致远"
 stype: "中文演讲"
-speechLink: "https://www.youtube.com/embed/1XVxVFCHLnU"
+speechLink: "https://player.bilibili.com/player.html?aid=644568165&cid=806203122&page=1"
 ---
 琚致远出生于 1997 年，在接触 Web 领域后了解到了 Apache Web Server 并被羽毛 Logo 所吸引。当时他从未想过会参与其中并与 Apache 软件基金会产生故事，在 2019 年大学毕业后，他注意到 APISIX 项目并参与其中，接着项目被捐献给 Apache 软件基金会；2020 年 Incubator Apache APISIX 项目以非常快的速度与质量从基金会毕业，他也成为项目管理委员会（Apache APISIX PMC）一员。在过去 3 年的时间中，他把精力与热爱全心奉献给了项目与社区，今年他也很荣幸地被选举为 Apache Member，通过琚致远与基金会、Apache APISIX 社区的故事，相信能够为社区爱好者/观望者带来启发。
  ### Speakers: 

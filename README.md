@@ -28,7 +28,7 @@ hugo -b https://apachecon.com/acasia2022/ -d <destination_directory> -F
 ## FAQ
 
 ### How to fix the typos in Session page
-If you want to session typos of “https://apachecon.com/acasia2022/sessions/1155.html”
+If you want to fix session typos of https://apachecon.com/acasia2022/sessions/1155.html
 You just need to go the file 1155.md in content/sessions directory.
 If it is chinese version, you just need to update the file of 1155.zh.md.
 

@@ -1,4 +1,4 @@
 baseURL = 'http://ospo.community/'
 languageCode = 'en-us'
 title = '开源项目办公室峰会2022'
-theme = "ananke"
+theme = "hugo-scroll"

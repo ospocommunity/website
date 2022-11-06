@@ -34,6 +34,7 @@ jobs:
         # below accordingly.
         if: ${{ github.ref == 'refs/heads/main' }}
         with:
+          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
           external_repository: ospocommmunity/ospo.github.io
           publish_dir: ./public

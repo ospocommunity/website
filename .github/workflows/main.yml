@@ -36,7 +36,7 @@ jobs:
         with:
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          external_repository: ospocommmunity/ospo.github.io
+          external_repository: ospocommunity/ospo.github.io
           publish_dir: ./public
           publish_branch: gh-pages
           allow_empty_commit: true

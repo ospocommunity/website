@@ -1,7 +1,7 @@
 baseURL = "https://www.example.com/"
 languageCode = "en-us"
 title = "OSPO Summit 2022"
-themesDir = "theme"
+themesDir = "themes"
 theme = "hugo-hero-theme"
 
 [module]

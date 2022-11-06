@@ -39,3 +39,4 @@ jobs:
           external_repository: ospocommmunity/ospo.github.io
           publish_dir: ./public
           publish_branch: gh-pages
+          allow_empty_commit: true

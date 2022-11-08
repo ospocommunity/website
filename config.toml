@@ -1,4 +1,4 @@
-baseURL = "https://www.example.com/"
+baseURL = "https://ospo.events/"
 languageCode = "en-us"
 title = "OSPO Summit 2022"
 themesDir = "themes"
@@ -16,16 +16,16 @@ theme = "hugo-hero-theme"
     mobile = "images/logo-mobile.svg"
     mobile_height = "36px"
     mobile_width = "36px"
-    desktop = "images/logo.svg"
+    desktop = "images/ospo-summit-logo.png"
     desktop_height = "29px"
     desktop_width = "217px"
-    alt = "Hugo Hero"
+    alt = "OSPO Summit"
 
   [params.homepage_meta_tags]
     meta_description = "for OSPOer meetup."
     meta_og_title = "OSPO Summit"
     meta_og_type = "website"
-    meta_og_url = "https://ospo.community"
+    meta_og_url = "https://ospo.events"
     meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-hero-theme/master/images/tn.png"
     meta_og_description = ""
     meta_twitter_card = "summary"
@@ -33,24 +33,24 @@ theme = "hugo-hero-theme"
     meta_twitter_creator = "@lijiangsheng1"
 
 [[menu.main]]
-	name = "Services"
+	name = "Program"
 	url = "/services/"
     weight = 1
 
 [[menu.main]]
-    name = "Work"
+    name = "Sponsor"
     url = "/work/"
-    weight = 2
+   weight = 2
 
 [[menu.main]]
     name = "About"
     url = "/about/"
     weight = 3
 
-[[menu.main]]
-    name = "History"
-    url = "/history/"
-    weight = 3
+# [[menu.main]]
+#    name = "History"
+#    url = "/history/"
+#    weight = 3
 
 [[menu.main]]
     name = "Contact"
@@ -60,3 +60,4 @@ theme = "hugo-hero-theme"
 [permalinks]
   post = "/:year/:month/:day/:slug/"
   pages = "/:filename/"
+

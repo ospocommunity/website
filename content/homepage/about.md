@@ -1,6 +1,6 @@
 ---
 title: 'Who We Are'
-weight: 2
+weight: 1
 background: ''
 button: 'About Us'
 buttonLink: 'about'
@@ -27,4 +27,4 @@ OSPO SIG, LF APAC
 
 ### Preparatory Team Members
 
-Jiansheng Li, Jie Liu, Le Ma, Zhiqiang Yu, Nadia Jiang, Jinghe Ma, Jie Hu, Wenbin Zhao, Guofeng Zhang, Horace Li, Richard Bian, Zhenhua Sun, Hong Li, Wei Meng, Ailin Yang, Yiyang Zhang
+Jiansheng Li, Jie Liu, Le Ma, Zhiqiang Yu, Nadia Jiang, Jinghe Ma, Jie Hu, Wenbin Zhao, Guofeng Zhang, Horace Li, Richard Bian, Zhenhua Sun, Xiang Li, Wei Meng, Ailin Yang, Yiyang Zhang

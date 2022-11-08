@@ -1,8 +1,8 @@
 ---
 title: 'Localization and Globalization'
 weight: 1
-background: 'images/kevin-bhagat-461952-unsplash.jpg'
-button: 'Our Hightlight'
+background: 'images/gotc-ospo-meetup.png'
+button: 'Our Work'
 buttonLink: 'work'
 ---
 

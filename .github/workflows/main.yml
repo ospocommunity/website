@@ -40,4 +40,5 @@ jobs:
           external_repository: ospocommunity/ospo.github.io
           publish_dir: ./public
           publish_branch: gh-pages
+          cname: ospo.events
           allow_empty_commit: true

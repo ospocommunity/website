@@ -1,5 +1,4 @@
 baseURL = "https://ospo.events/"
-languageCode = "en-us"
 title = "OSPO Summit 2022"
 themesDir = "themes"
 theme = "hugo-hero-theme"
@@ -57,7 +56,56 @@ theme = "hugo-hero-theme"
     url = "/contact/"
     weight = 4
 
+[[menu.main]]
+  name = "中文"
+  url = "../zh"
+  weight = 7
+  
+[[languages.zh.menu.main]]
+  name = "EN"
+  url = "../en"
+  weight = 7
+
+[[languages.zh.menu.main]]
+	name = "日程"
+	url = "/services/"
+    weight = 1
+
+[[languages.zh.menu.main]]
+    name = "赞助者"
+    url = "/work/"
+   weight = 2
+
+[[languages.zh.menu.main]]
+    name = "关于"
+    url = "/about/"
+    weight = 3
+
+[[languages.zh.menu.main]]
+    name = "联系"
+    url = "/contact/"
+    weight = 4
+
 [permalinks]
   post = "/:year/:month/:day/:slug/"
   pages = "/:filename/"
+
+
+# multi language support
+
+defaultContentLanguage = "zh"
+defaultContentLanguageInSubdir = true
+
+[languages]
+    [languages.en]
+        languageCode = "en-us"
+        weight = 0
+        languageName = "English"
+        contentDir = "content/en"
+    [languages.zh]
+        languageCode = "zh-cn"
+        weight = 1
+        languageName = "中文"
+        contentDir = "content/zh"
+        title = "开源项目办公室"
 

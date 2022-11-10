@@ -1,5 +1,5 @@
 ---
-title: 'Peer'
+title: '同行交流'
 date: 2018-11-28T15:14:54+10:00
 icon: 'services/service-icon-5.png'
 featured: true
@@ -9,4 +9,6 @@ heroSubHeading: 'Saving for retirement requires careful planning.'
 heroBackground: 'services/service1.jpg'
 ---
 
-who you kown?
+你知道有多少在企业内推动开源的同行吗？
+
+来了就知道了。

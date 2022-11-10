@@ -1,9 +1,9 @@
 ---
-title: 'Localization and Globalization'
+title: '本地化和全球化'
 weight: 1
 background: 'images/gotc-ospo-meetup.png'
-button: 'Our Work'
-buttonLink: 'work'
+button: '历史活动'
+buttonLink: 'about'
 ---
 
-China is special, whereas open source is global. We must perceive rationally, both to understand and implement according to the local situation, but also to integrate and influence the world.
+中国是特殊的，而开源是全球的。我们必须理性地认识，既要根据本地情况理解和落实，又要融入和影响世界！

@@ -1,30 +1,31 @@
 ---
-title: 'Who We Are'
+title: '关于活动组织者'
 weight: 1
 background: ''
-button: 'About Us'
+button: '进一步了解'
 buttonLink: 'about'
 ---
 
-### Consultants
+### 会议顾问
 
 Linux Foundation APAC, TODO Group, OpenInfra Foundation
 
 
 
-### Summit Chair
+### 首届会议主席
 
-Zhiqiang Yu, Open Source Evangelist
+郁志强，中国移动研究院 首席开源联络官，LF APAC 开源布道者
 
-Nadia Jiang, COO at SegmentFault, Co-founder of Answer.dev
-
-
-### Executive Team
-
-OSPO SIG, LF APAC
+江波，SegmentFault 思否 COO，Co-founder of Answer.dev
 
 
 
-### Preparatory Team Members
+### 执行团队
 
-Jiansheng Li, Jie Liu, Le Ma, Zhiqiang Yu, Nadia Jiang, Jinghe Ma, Jie Hu, Wenbin Zhao, Guofeng Zhang, Horace Li, Richard Bian, Zhenhua Sun, Xiang Li, Wei Meng, Ailin Yang, Yiyang Zhang
+LF APAC 开源布道者 OSPO SIG
+
+
+
+### 会议筹备组成员
+
+适兕、刘洁、马乐、郁志强、江波、马景贺、胡捷、赵文斌、张国锋、李昊阳、边思康、孙振华、李响、孟伟、杨爱林、张一阳

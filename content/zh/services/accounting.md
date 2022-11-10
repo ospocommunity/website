@@ -1,5 +1,5 @@
 ---
-title: 'Keynote'
+title: '主题演讲'
 date: 2018-11-18T12:33:46+10:00
 icon: 'services/service-icon-1.png'
 draft: false
@@ -11,3 +11,4 @@ heroBackground: 'services/service1.jpg'
 ---
 
 
+来自基金会、企业OSPO资深人士的洞察和观点

@@ -44,7 +44,7 @@ theme = "hugo-hero-theme"
 [[menu.main]]
     name = "About"
     url = "/about/"
-    weight = 3
+    weight = 4
 
 # [[menu.main]]
 #    name = "History"
@@ -52,9 +52,9 @@ theme = "hugo-hero-theme"
 #    weight = 3
 
 [[menu.main]]
-    name = "Contact"
-    url = "/contact/"
-    weight = 4
+    name = "Support"
+    url = "/support/"
+    weight = 3
 
 [[menu.main]]
   name = "中文"
@@ -79,12 +79,12 @@ theme = "hugo-hero-theme"
 [[languages.zh.menu.main]]
     name = "关于"
     url = "/about/"
-    weight = 3
+    weight = 4
 
 [[languages.zh.menu.main]]
-    name = "联系"
-    url = "/contact/"
-    weight = 4
+    name = "支持单位"
+    url = "/support/"
+    weight = 3
 
 [permalinks]
   post = "/:year/:month/:day/:slug/"

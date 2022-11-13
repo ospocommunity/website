@@ -58,32 +58,32 @@ theme = "hugo-hero-theme"
 
 [[menu.main]]
   name = "中文"
-  url = "../zh"
+  url = "/zh"
   weight = 7
   
 [[languages.zh.menu.main]]
   name = "EN"
-  url = "../en"
+  url = "../../en"
   weight = 7
 
 [[languages.zh.menu.main]]
 	name = "日程"
-	url = "/services/"
+	url = "/zh//services/"
     weight = 1
 
 [[languages.zh.menu.main]]
     name = "赞助者"
-    url = "/work/"
+    url = "/zh/work/"
    weight = 2
 
 [[languages.zh.menu.main]]
     name = "关于"
-    url = "/about/"
+    url = "/zh/about/"
     weight = 4
 
 [[languages.zh.menu.main]]
     name = "支持单位"
-    url = "/support/"
+    url = "/zh/support/"
     weight = 3
 
 [permalinks]

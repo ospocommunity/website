@@ -14,11 +14,14 @@
     <div class="row">
       <div class="col-12 col-md-6 {{ if eq .Params.align "right" }}offset-md-6{{ end }}">
         <h2 class="text-primary text-capitalize">{{ .Title }}</h2>
+        <div class="markdown-body">
         {{ .Content }}
+        </div>
+        <div>
         {{ if .Params.button }}
           <a class="button" href="{{ .Params.buttonLink | relURL }}">{{ .Params.button }}</a>
         {{ end }}
-      </div>
+        </div>
     </div>
   </div>
 </div>

@@ -8,5 +8,10 @@
         "name": "Twitter",
         "link": "https://twitter.com/osposummit",
         "image": "social/twitter.svg"
+    },
+    {
+        "name": "WeChat",
+        "link": "/about",
+        "image": "social/wechat.svg"
     }
 ]

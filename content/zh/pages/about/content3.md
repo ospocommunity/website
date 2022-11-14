@@ -1,11 +1,11 @@
 ---
-title: 'Giving Back'
+title: '诚邀加入我们！'
 weight: 3
 date: 2018-12-06T09:29:16+10:00
-background: ''
+background: 'https://source.unsplash.com/1600x700/?welcome'
 align: right
-button: 'Contact Us'
-buttonLink: 'contact'
+button: '现在就加入！'
+buttonLink: ''
 ---
 
-Theres no limits, Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur.
+一起在企业推动开源的发展！

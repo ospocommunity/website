@@ -8,4 +8,4 @@ heroBackground: ''
 
 欢迎成为我们的赞助者！ 我们需要您的支持，同时我们也认为您需要 OSPO 峰会。
 
-下载并查阅 : [权益细节](https://1drv.ms/b/s!Arg2k_5HJFrbgeV7lJ8ar2BYP-88wg?e=WKRYDh)
+下载并查阅 : [权益细节](https://1drv.ms/b/s!Arg2k_5HJFrbgeYQ9l11vUpMEN_l6g?e=iyVLCh)

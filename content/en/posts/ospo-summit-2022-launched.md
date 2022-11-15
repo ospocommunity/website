@@ -1,5 +1,5 @@
 ---
-title: "Ospo Summit 2022 Launched"
+title: "OSPO Summit 2022 Launched"
 date: 2022-11-14T10:47:07+08:00
 icon: "services/service-icon-1.png"
 featured: true
@@ -8,7 +8,7 @@ weight: 100
 heroHeading: 'Ospo Summit 2022 Launched'
 heroSubHeading: ''
 heroBackground: 'services/service1.jpg'
-description: ''
+description: 'The article of OSPO Summit 2022, write by JiangBo.'
 ---
 
 > OSPO Summit of the open source community, by the open source community and for the open source community.

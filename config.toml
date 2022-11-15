@@ -42,6 +42,7 @@ theme = "hugo-hero-theme"
    weight = 2
 
 [[menu.main]]
+    identifier = "about-en"
     name = "About"
     url = "/about/"
     weight = 4
@@ -57,13 +58,18 @@ theme = "hugo-hero-theme"
     weight = 3
 
 [[menu.main]]
+    name = "Press"
+    url = "/posts/"
+    weight = 3
+
+[[menu.main]]
   name = "中文"
   url = "/zh"
   weight = 7
   
 [[languages.zh.menu.main]]
   name = "EN"
-  url = "../../en"
+  url = "../../../en"
   weight = 7
 
 [[languages.zh.menu.main]]
@@ -84,6 +90,11 @@ theme = "hugo-hero-theme"
 [[languages.zh.menu.main]]
     name = "支持单位"
     url = "/zh/support/"
+    weight = 3
+
+[[languages.zh.menu.main]]
+    name = "新闻"
+    url = "/zh/posts/"
     weight = 3
 
 [permalinks]

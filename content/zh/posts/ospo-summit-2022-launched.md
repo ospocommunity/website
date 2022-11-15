@@ -8,7 +8,7 @@ weight: 100
 heroHeading: 'OSPO Summit 2022 正式启动!'
 heroSubHeading: ''
 heroBackground: 'services/service1.jpg'
-description: ''
+description: '来自会议联合主席江波的投稿，关于启动OSPO Summit 2022的概要介绍。'
 ---
 
 > OSPO Summit of the open source community, by the open source community and for the open source community.

@@ -3,7 +3,7 @@ title: '关于活动组织者'
 weight: 1
 background: ''
 button: '进一步了解'
-buttonLink: 'about'
+buttonLink: 'zh/about'
 ---
 
 ### 会议顾问

@@ -1,18 +1,14 @@
 ---
-title: '竞争与合作'
+title: 'OSPO 工作实践'
 date: 2018-11-28T15:14:39+10:00
 icon: 'services/service-icon-2.png'
+weight: 3
 featured: true
 draft: false
-heroHeading: 'Business Advisory'
-heroSubHeading: 'Expert advice and guidance when you need it most.'
+heroHeading: 'OSPO 工作实践'
+heroSubHeading: ''
 heroBackground: 'services/service2.jpg'
+description: '分论坛之二，实践才是硬道理！'
 ---
 
-共同分担
 
-利益优先
-
-面对未来挑战
-
-战略合作

@@ -1,7 +1,7 @@
 ---
 title: "为什么您应该赞助 OSPO Summit 2022 峰会？"
 date: 2022-11-15T12:30:20+08:00
-icon: "services/service-icon-1.png"
+icon: "services/icons8-support-80.png"
 featured: true
 draft: false
 weight: 1

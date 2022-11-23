@@ -12,7 +12,7 @@ description: 'Insights and perspectives from foundation and corporate OSPO gurus
 ---
 
 
-# LF APAC Diector Hali Yung Welcome speech 
+# LF APAC Diector  Welcome speech 
 
 # 《Building and Managing an Open Source Program Office》
 

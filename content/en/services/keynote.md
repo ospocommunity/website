@@ -16,7 +16,11 @@ description: 'Insights and perspectives from foundation and corporate OSPO gurus
 
 # 《Building and Managing an Open Source Program Office》
 
-## Speaker info
+## Abstract
+
+how to build ospo, and manage ospo , detail is key. 
+
+## About the speaker
 
 ![](https://www.ibrahimatlinux.com/wp-content/uploads/2022/03/IbrahimHaddad-Office-e1647255486535.png)
 
@@ -24,13 +28,10 @@ Dr. Ibrahim Haddad is Vice President of Strategic Programs (AI and Data) at the 
 
 Ibrahim Haddad website: [https://www.ibrahimatlinux.com/](https://www.ibrahimatlinux.com/)
 
-##  speech Abstract
-
-
 
 #  How TODO Group help build your own OSPO : Minimum Viable OSPO for Open Source Continuity
 
-## Speaker info 
+## About the speaker
 
 Ana is the OSPO Program Manager at the TODO Group, a Linux Foundation project and open community of practitioners who aim to create and share knowledge, collaborate on practices, tools, and other ways to run successful and effective Open Source Program Offices. Formerly she worked at Bitergia, a Software Development Analytics firm, and she has recently finished her MSc in Data Science, whose final thesis focused on measuring DevRel’s success within Open Source development communities.
 
@@ -46,3 +47,13 @@ During her spare time, you can find Ana practicing yoga, illustrating or learnin
 > This presentation shares a set of recommendations and best practices to build your minimum viable OSPO (MVO), and how to ensure it aligns with the organization's >processes, work environment, and structure. Also, this presentation provides a list of existing resources and tools from the TODO Group and sister open source >communities (e.g the OSPO Mind Map) to use to help implement an OSPO strategy.
 
 >The audience will leave with a step-by-step MVO checklist to take you from idea to proposal, to better communicate the value of adopting a strategic posture around open source within your organization.
+
+# Title: Open source process management: standards for licensing, security and more
+
+## Abstract:
+
+> Open source software can be extremely effective when it is well managed. However, to get maximum benefit, it is important to have good management processes. This talk will explain the ISO standard for open source license compliance, a new standard for security assurance, and other global solutions for the supply chain.
+
+## About the speaker:
+
+> Shane Coughlan is an expert in communication, security and business development. His professional accomplishments include building the largest open source governance community in the world through the OpenChain Project, spearheading the licensing team that elevated Open Invention Network into the largest patent non-aggression community in history and establishing the first global network for open source legal experts. He is a founder of both the first law journal and the first law book dedicated to open source. He currently leads the OpenChain Project, acts as an advisor to both World Mobile and Asylum Labs, and is a General Assembly Member of OpenForum Europe.

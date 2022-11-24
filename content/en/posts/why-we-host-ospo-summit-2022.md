@@ -1,7 +1,7 @@
 ---
 title: "Why We Host Ospo Summit 2022"
 date: 2022-11-16T21:48:52+08:00
-icon: "services/service-icon-1.png"
+icon: "services/icons8-events-80.png"
 featured: true
 draft: false
 weight: 100

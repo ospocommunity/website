@@ -54,7 +54,7 @@ theme = "hugo-hero-theme"
 
 [[menu.main]]
     name = "Support"
-    url = "/support/"
+    url = "/support/supported-org/"
     weight = 3
 
 [[menu.main]]
@@ -89,7 +89,7 @@ theme = "hugo-hero-theme"
 
 [[languages.zh.menu.main]]
     name = "支持单位"
-    url = "/zh/support/"
+    url = "/zh/support/supported-org/"
     weight = 3
 
 [[languages.zh.menu.main]]

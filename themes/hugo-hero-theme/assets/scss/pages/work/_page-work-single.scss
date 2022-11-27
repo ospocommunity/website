@@ -7,7 +7,9 @@
   .work-image {
     img {
       width: 100%;
-      height: auto;
+      height: 80px;
+      object-fit: contain;
+      mix-blend-mode: multiply;
     }
   }
   .content {
@@ -22,7 +24,7 @@
   }
   .masonry {
     /* Masonry container */
-    column-count: 3;
+    column-count: 6;
     column-gap: 1em;
   }
   .item {

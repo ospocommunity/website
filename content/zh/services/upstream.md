@@ -6,9 +6,9 @@ draft: false
 featured: true
 weight: 2
 heroHeading: 'Upstream First 成功实践 '
-heroSubHeading: ''
+heroSubHeading: 'Upstream first 是参与开源的不二法门。'
 heroBackground: 'services/service2.jpg'
-description: '分论坛之一，Upstream first 是参与开源的不二法门，但是如何迈出第一步，实属不易。我们邀请到最先进的企业（参与Kernel、Kubernetes等）来分享说服领导、绩效考核、防止挖人等；'
+description: '分论坛之一，如何迈出第一步，实属不易。我们邀请到最先进的企业（参与Kernel、Kubernetes等）来分享说服领导、绩效考核、防止挖人等；'
 ---
 
 # 分享题目： 企业拥抱开源历程

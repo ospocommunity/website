@@ -6,8 +6,9 @@ weight: 1
 heroHeading: '战略合作伙伴'
 heroSubHeading: ''
 heroBackground: 'work/work1.jpg'
-thumbnail: 'https://source.unsplash.com/random/400x400/?gold'
-images: ['https://source.unsplash.com/random/400x600/?company', 
-'https://source.unsplash.com/random/400x300/?enterprise']
+thumbnail: ''
+images: ['', 
+'']
 ---
 
+虚位以待

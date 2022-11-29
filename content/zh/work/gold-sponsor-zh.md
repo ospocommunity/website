@@ -7,9 +7,10 @@ weight: 2
 heroHeading: '金牌合作伙伴'
 heroSubHeading: ''
 heroBackground: 'https://source.unsplash.com/iqGtaQnk3VM/1600x400'
-thumbnail: 'https://source.unsplash.com/random/400x400/?strategy'
-images: ['https://source.unsplash.com/random/400x600/?information', 
-'https://source.unsplash.com/random/400x300/?computer']
+thumbnail: ''
+images: ['', 
+'']
 ---
 
 
+虚位以待

@@ -57,3 +57,16 @@ During her spare time, you can find Ana practicing yoga, illustrating or learnin
 ## About the speaker:
 
 > Shane Coughlan is an expert in communication, security and business development. His professional accomplishments include building the largest open source governance community in the world through the OpenChain Project, spearheading the licensing team that elevated Open Invention Network into the largest patent non-aggression community in history and establishing the first global network for open source legal experts. He is a founder of both the first law journal and the first law book dedicated to open source. He currently leads the OpenChain Project, acts as an advisor to both World Mobile and Asylum Labs, and is a General Assembly Member of OpenForum Europe.
+
+# The CHAOSS Project: Working with OSPOs
+
+## Abstract
+
+1. What is CHAOSS
+2. Why OSPOs Matter to CHAOSS
+3. Current Efforts in CHAOSS
+4. Closing Remarks
+
+## About the speaker
+
+Matt Germonprez is the Mutual of Omaha Distinguished Chair of Information Science & Technology and Professor of Information Systems and Quantitative Analysis in the College of Information Science & Technology at the University of Nebraska Omaha. He uses qualitative field-studies to research corporate engagement with open communities and the dynamics of work found in these engagements. His lines of research have been funded by numerous organizations including the Alfred P. Sloan Foundation, the Ford Foundation, the National Science Foundation, the Chan Zuckerberg Initiative, and Mozilla. Matt is the co-founder of the Linux Foundation Community Health Analytics OSS Project (CHAOSS). He has had work accepted at ISR, MISQ, JAIS, JIT, ISJ, I&O, CSCW, OpenSym, Group, HICSS, IEEE Computer, and ACM Interactions. Matt is an active open source community member, having presented design and development work at LinuxCon, the Open Source Summit NA, the Linux Foundation Open Compliance Summit, the Linux Foundation Collaboration Summit, and the Open Source Leadership Summit.

@@ -30,11 +30,15 @@ Ibrahim Haddad 博士 是 LF AI & Data 基金会 和PyTorch 基金会的执行�
 
 Thierry， OIF Executive
 
-#  CHAOSS 如果帮助推动OSPO 进化？
+#  CHAOSS 项目: 和 OSPO 共同进步
 
-CHAOSS  Matt Germonprez
+## 演讲摘要
 
-#  What OpenChain can help OSPO？
+1. CHAOSS 介绍
+2. 为什么说 CHAOSS 和 OSPOs 强相关
+3. CHAOSS 当前的做法
+4. 未来展望
 
-OpenChain GM Shane Coughlan
+## 关于演讲者
 
+Matt Germonprez 是 内布拉斯加大学奥马哈分校信息科学与技术杰出主席，信息科学与技术学院的信息系统与定量分析教授。Matt 倡导定性的田野调查方法研究企业与开放共同体的参与以及在这些参与中发现的工作动态。他的研究方向得到了许多组织的资助，包括阿尔弗雷德·P·斯隆基金会、福特基金会、国家科学基金会、陈·扎克伯格倡议和 Mozilla基金会。Matt 是 Linux 基金会社区健康分析 OSS 项目 （CHAOSS） 的联合创始人。他的作品被ISR，MISQ，JAIS，JIT，ISJ，I&O，CSCW，OpenSym，Group，HICSS，IEEE Computer和ACM Interactions等所接受。Matt 是一位活跃的开源共同体成员，曾在 LinuxCon、NA 开源峰会、Linux 基金会开放合规峰会、Linux 基金会协作峰会和开源领导力峰会上展示设计和开发成果。

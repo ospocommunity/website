@@ -3,42 +3,33 @@
 {{ define "body_classes" }}page-work-single{{ end }}
 {{ define "header_classes" }}{{ end }}
 
-{{ define "main" }}
-{{ partial "hero-image-setheight.html" (dict "background" .Params.heroBackground "heading" .Params.heroHeading "subheading" .Params.heroSubHeading "content" .)}}
+{{ define "main" }} 
+{{ partial "hero-image-setheight.html" (dict "background" .Params.heroBackground "heading" .Params.heroHeading "subheading" .Params.heroSubHeading )}}
 
-  <div class="container ">
-    <div class="row justify-content-center">
-      <div class="col-15">
+  <div class="container">
+    <div class="row align-items-start">
+      <div class="col-12">
         <h1 style="color:Tomato;text-align:center">
           {{ .Title }}
         </h1>
- 
+      </div>  
+    </div>  
+    <div class="row align-items-center">
+        <div class="col-10 align-self-center">
         {{ .Description }}
-        
-        <div class="markdown-body">
-            
-            {{ .Content }}
         </div>
-      </div>
-    </div>
+    </div>   
  
-    {{ if .Params.images }}
-    <div class="col-12 pt-4 pt-md-10">
-      <h2 class="mb-2 text-uppercase">Gallery</h2>
-      <div class="masonry">
-        {{ range .Params.images }}
-          <div class="work-image item">
-            <img src="{{ . | relURL }}"/>
+    <div class="row align-items-end">
+        <div class="col-12">
+          <div class="markdown-body">
+            {{ .Content }}
           </div>
-        {{ end }}
-      </div>
-    </div>
-    {{ end }}
-    
+        </div>
+    </div>  
   </div>
-</div>
 
-{{ end }}
+  {{ end }}
 
 {{ define "footer_js" }}
 {{ $library := resources.Get "js/libs/library.js" }}
@@ -50,3 +41,4 @@
   <script type="text/javascript" src="{{ ($servicesJS | minify | fingerprint).RelPermalink }}"></script>
   {{ end }}
 {{ end }}
+

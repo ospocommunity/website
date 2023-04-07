@@ -24,7 +24,7 @@ OSPOlogy 是一门全新的学科与挑战，因为在这里所汇集的是企�
 * 预算： 开源是需要付费的，付多少划算？不付费显然是吃亏的，究竟是多少？所谓赢亏也。
 * 商业环境： 模式、制度、习俗等都是开源发展的先天条件，OSPO 能否发展，也取决于此。
 
-每一天都在焦急的等待优质的内容:[CFP — LFAPAC OSPO SIG  “开源万里行” 议题征集](https://docs.qq.com/form/page/DUEdqYllSa0VaV1dj)
+优质内容:[CFP — LFAPAC OSPO SIG  “开源万里行” 议题征集](https://docs.qq.com/form/page/DUEdqYllSa0VaV1dj)
 
 # 2023年开源项目办公室 OSPO 活动概览
 
@@ -34,15 +34,15 @@ OSPOlogy 是一门全新的学科与挑战，因为在这里所汇集的是企�
 |--------------|:-------------:|:------------|------------:|
 |LFAPAC OSPO SIG 开源万里行活动走进极狐|2023.2.24 |《极狐(GitLab)的开源之道》，郭旭东;《开源社区的价值，度量与工具》，夏小雅;《OSS-Compass 介绍》，王晔晖 ;《开源项目办公室——企业管理视角》，适兕 |已完成，更多记录请阅读：*[LF APAC OSPO SIG Meetup 2-24 上海](https://docs.qq.com/doc/DUGZmblpDa3RQQnVK)*
 |OSPO Summit  | 2023.3.24|地址:   北京海淀区丽亭华苑酒店 | 已完成；完整回顾：https://mp.weixin.qq.com/s/P1MZ5-uX9bGOf1CFv3CiKw
-|LFAPAC OSPO SIG 开源万里行活动走进蚂蚁金服 |2023.4.21 |《开放式组织管理的利与弊》，张家驹；《OSPO 给开源的价值》解读，适兕 | 策划中；更多记录请阅读：**[LFAPAC OSPO SIG 开源万里行之走进蚂蚁开源办公室](https://docs.qq.com/doc/DUHhhc3N6VVJEdEJp)**
+|LFAPAC OSPO SIG 开源万里行活动走进蚂蚁开源办公室 |2023.4.21 |《开放式组织管理的利与弊》，张家驹；《OSPO 给开源的价值》解读，适兕 | 策划中；更多记录请阅读：**[LFAPAC OSPO SIG 开源万里行之走进蚂蚁开源办公室](https://docs.qq.com/doc/DUHhhc3N6VVJEdEJp)**
 |OSPOCon China 2023@GOTC | 2023.5.28| 上海浦东| 筹备中；详情可访问：https://gotc.oschina.net/
-|LFAPAC OSPO SIG 开源万里行活动走进字节跳动 | TBD| | 规划中；
+|LFAPAC OSPO SIG 开源万里行活动走进字节跳动 OSPO | TBD| | 规划中；
 |OSPO Group 季度聚会|2023.6.14|北京|规划中；
-|LFAPAC OSPO SIG 开源万里行活动走进华为 |TBD | | 规划中；
+|LFAPAC OSPO SIG 开源万里行活动走进华为 OSPO |TBD | | 规划中；
 |LFAPAC OSPO SIG 开源万里行活动走进|TBD||规划中；
 |LFAPAC OSPO SIG 开源万里行活动走进|TBD||规划中；
 |OSPO Group 季度聚会|2023.9|北京|规划中；
-|LFAPAC OSPO SIG 开源万里行活动走进华为 |TBD | | 规划中；
+|LFAPAC OSPO SIG 开源万里行活动走进 |TBD | | 规划中；
 |LFAPAC OSPO SIG 开源万里行活动走进|TBD||规划中；
 |LFAPAC OSPO SIG 开源万里行活动走进|TBD||规划中；
 |OSPO Group 季/年度聚会|2023.12|北京|规划中；

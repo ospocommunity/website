@@ -33,7 +33,7 @@ OSPOlogy 是一门全新的学科与挑战，因为在这里所汇集的是企�
 |活动名称(联合出品方)	|分享时间	|内容概要|完成状态及回顾
 |--------------|:-------------:|:------------|------------:|
 |LFAPAC OSPO SIG 开源万里行活动走进极狐|2023.2.24 |《极狐(GitLab)的开源之道》，郭旭东;《开源社区的价值，度量与工具》，夏小雅;《OSS-Compass 介绍》，王晔晖 ;《开源项目办公室——企业管理视角》，适兕 |已完成，更多记录请阅读：*[LF APAC OSPO SIG Meetup 2-24 上海](https://docs.qq.com/doc/DUGZmblpDa3RQQnVK)*
-|OSPO Summit  | 2023.3.24|地址:   北京海淀区丽亭华苑酒店 | 已完成；完整回顾：https://mp.weixin.qq.com/s/P1MZ5-uX9bGOf1CFv3CiKw
+|OSPO Summit  | 2023.3.24|本届大会共设有 1 个主论坛，2 个分论坛，4 个主题讨论，和别具一格的午餐观影、晚宴及夜谈活动。详情可访问：[OSPO Summit 2022 亮点抢先看！](https://mp.weixin.qq.com/s?__biz=MzA4MDcyOTc2Nw==&mid=2247486489&idx=1&sn=73ed36505e71c4cff7dd59a9b7a9b61f&chksm=9f9e8fd1a8e906c7898bd548eccc23ecb98f461e589cff029c370228061df00d50141626f46e&scene=132#wechat_redirect) | 已完成；完整回顾：https://mp.weixin.qq.com/s/P1MZ5-uX9bGOf1CFv3CiKw
 |LFAPAC OSPO SIG 开源万里行活动走进蚂蚁开源办公室 |2023.4.21 |《开放式组织管理的利与弊》，张家驹；《OSPO 给开源的价值》解读，适兕 | 策划中；更多记录请阅读：**[LFAPAC OSPO SIG 开源万里行之走进蚂蚁开源办公室](https://docs.qq.com/doc/DUHhhc3N6VVJEdEJp)**
 |OSPOCon China 2023@GOTC | 2023.5.28| 上海浦东| 筹备中；详情可访问：https://gotc.oschina.net/
 |LFAPAC OSPO SIG 开源万里行活动走进字节跳动 OSPO | TBD| | 规划中；

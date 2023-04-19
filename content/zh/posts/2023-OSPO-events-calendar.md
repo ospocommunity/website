@@ -37,9 +37,9 @@ OSPOlogy 是一门全新的学科与挑战，因为在这里所汇集的是企�
 |LFAPAC OSPO SIG 开源万里行活动走进蚂蚁开源办公室 |2023.4.21 |《开放式组织管理的利与弊》，张家驹；《OSPO 给开源的价值》解读，适兕 | 策划中；更多记录请阅读：**[LFAPAC OSPO SIG 开源万里行之走进蚂蚁开源办公室](https://docs.qq.com/doc/DUHhhc3N6VVJEdEJp)**
 |OSPOCon China 2023@GOTC | 2023.5.28| 详情移步： [OSPOCon China 2023 开启分享招募通道](https://opensourceway.community/posts/open-source-program-office/ospocon-china-2023-cfp/)| 筹备中；详情可访问：https://gotc.oschina.net/
 |LFAPAC OSPO SIG 开源万里行活动走进字节跳动 OSPO | TBD| | 规划中；
-|OSPO Group 季度聚会|2023.6.14|北京|规划中；
+|OSPO Group 季度聚会|2023.6.14|北京，主题：分享问题，探讨方案|正在考察场地和邀请OSPOer；
 |LFAPAC OSPO SIG 开源万里行活动走进华为 OSPO |TBD | | 规划中；
-|LFAPAC OSPO SIG 开源万里行活动走进|TBD||规划中；
+|LFAPAC OSPO SIG 开源万里行活动走进OPPO 开源|TBD||规划中；
 |LFAPAC OSPO SIG 开源万里行活动走进|TBD||规划中；
 |OSPO Group 季度聚会|2023.9||规划中；
 |LFAPAC OSPO SIG 开源万里行活动走进 |TBD | | 规划中；

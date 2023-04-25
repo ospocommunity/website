@@ -40,9 +40,9 @@ OSPOlogy 是一门全新的学科与挑战，因为在这里所汇集的是企�
 |OSPO Group 季度聚会|2023.6.14|北京，主题：分享问题，探讨方案|正在考察场地和邀请OSPOer；
 |LFAPAC OSPO SIG 开源万里行活动走进华为 OSPO |TBD | | 规划中；
 |LFAPAC OSPO SIG 开源万里行活动走进OPPO 开源|TBD||规划中；
-|LFAPAC OSPO SIG 开源万里行活动走进|TBD||规划中；
+|LFAPAC OSPO SIG 开源万里行活动走进ViVo|TBD||规划中；
 |OSPO Group 季度聚会|2023.9||规划中；
-|LFAPAC OSPO SIG 开源万里行活动走进 |TBD | | 规划中；
-|LFAPAC OSPO SIG 开源万里行活动走进|TBD||规划中；
-|LFAPAC OSPO SIG 开源万里行活动走进|TBD||规划中；
+|LFAPAC OSPO SIG 开源万里行活动走进 ZTE 深圳 |TBD | | 规划中；
+|LFAPAC OSPO SIG 开源万里行活动走进 RedHat 中国 |TBD||规划中；
+|LFAPAC OSPO SIG 开源万里行活动走进 |TBD||规划中；
 |OSPO Group 季/年度聚会|2023.12||规划中；

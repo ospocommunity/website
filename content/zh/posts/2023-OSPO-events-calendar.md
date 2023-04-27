@@ -42,6 +42,7 @@ OSPOlogy 是一门全新的学科与挑战，因为在这里所汇集的是企�
 |LFAPAC OSPO SIG 开源万里行活动走进华为 OSPO |TBD | | 规划中；
 |LFAPAC OSPO SIG 开源万里行活动走进OPPO 开源|TBD||规划中；
 |LFAPAC OSPO SIG 开源万里行活动走进ViVo|TBD||规划中；
+| Open Source Summit China 2023 |2023.9.25~27|议题征集中：[Call for Proposals](https://www.lfasiallc.com/kubecon-cloudnativecon-open-source-summit-china/program/call-for-proposals/)|CFP截止日期：中国标准时间6月18日晚上11:59（UTC +8）CFP通知：7月31日星期一 日程公告：8月2日星期三 幻灯片上传截止日期至 Sched.com：9月20日星期三 活动日期：9月25日至27日
 |OSPO Group 季度聚会|2023.9||规划中；
 |LFAPAC OSPO SIG 开源万里行活动走进 ZTE 深圳 |TBD | | 规划中；
 |LFAPAC OSPO SIG 开源万里行活动走进 RedHat 中国 |TBD||规划中；

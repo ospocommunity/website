@@ -1,6 +1,6 @@
 ---
 title: Community
-trackchairs: "Yejing Wang"
+trackchairs: "tison， Ted Liu"
 ---
 
 Why ASF believes "Community over Code"? There is more to open source than just code contribution.

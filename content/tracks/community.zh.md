@@ -1,6 +1,6 @@
 ---
 title: 开源社区
-trackchairs: "王晔倞"
+trackchairs: "陈梓立，刘天栋"
 ---
 
 

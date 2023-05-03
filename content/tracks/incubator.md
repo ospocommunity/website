@@ -1,6 +1,6 @@
 ---
 title: Incubator
-trackchairs: "Juan Pan"
+trackchairs: "Juan Pan, Calvin Kirs"
 ---
 
 The Apache Incubator provides services to projects (called "podlings") that want to enter the Apache Software Foundation (ASF).

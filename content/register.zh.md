@@ -1,12 +1,6 @@
----
-title: 会议注册
-menu:
-  main:
-    weight: -10
----
-**[ApacheCon Asia 2022](https://apachecon.com/acasia2022/zh/)** 将在网上举行。
 
-观众注册是免费的，但如果你愿意选择购买个人赞助票 ￥199 以帮助支持该活动，以及Apache软件基金会。
+**[ApacheCon Asia 2023](https://apachecon.com/acasia2023/zh/)** 将在北京举行。
+
 
 <iframe id="promote_ticket_iframe" width="100%" src="https://www.bagevent.com/widget/ticket/8212989?widget=2" frameborder="0" scrolling="no"></iframe>
 <script>

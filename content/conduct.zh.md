@@ -16,4 +16,4 @@ ApacheCon致力于为每个人提供无骚扰的体验。我们不容忍任何�
 
 如果您受到骚扰，请注意有人受到骚扰，或有其他任何疑虑，请立即与活动团队成员联系。该团队可以在注册处找到。
 
-您可以通过电子邮件[planners@apachecon.com](planners@apachecon.com)或活动网站上的实时聊天功能与活动团队联系。 
+您可以通过电子邮件[planners@apachecon.com](planners@apachecon.com)或活动网站上的实时聊天功能与活动团队联系。

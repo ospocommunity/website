@@ -1,13 +1,6 @@
----
-title: Register
-menu:
-  main:
-    weight: -10
----
 
-**[ApacheCon Asia 2022](https://apachecon.com/acasia2022)** will be held online. 
+**[ApacheCon Asia 2023](https://apachecon.com/acasia2023)** will be held in Beijing. 
 
-Registration is free, but if you wish you can register at personal donation levels CNY 199, to help support the event, and the Apache Software Foundation.
 
 <iframe id="promote_ticket_iframe" width="100%" src="https://www.bagevent.com/widget/ticket/8212989?widget=2" frameborder="0" scrolling="no"></iframe>
 <script>
@@ -24,5 +17,3 @@ Registration is free, but if you wish you can register at personal donation leve
     })(window, document, 'script', 'https://www.bagevent.com/resources/js/iframeResizer/iframeResizer.min.js', 'bfr');
     bfr('iFrameResize', {checkOrigin: false, heightCalculationMethod: 'taggedElement'}, "#promote_ticket_iframe");
 </script>
-
-

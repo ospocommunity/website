@@ -6,7 +6,7 @@ menu:
 ---
 现已开放演讲征集！于 **2023年6月6日，星期二，上午8:00:00（北京时间-UTC+8）之前提交提案。** 请不要等到最后一分钟。
 
-[现在提交您的演讲申请！](https://www.bagevent.com/event/cocasia-2023)
+[现在提交您的演讲申请！](https://www.bagevent.com/event/speechApply/8409854)
 
 我们正在寻找与Apache 软件基金会项目，开源治理，社区和软件开发有关的任何内容的演讲。
 
@@ -30,4 +30,4 @@ menu:
 
 如果您提交的演讲属于以下类别之一，请在CFP条目表中选择该主题。或者，如果与其他主题或项目领域相关，请选择“其他”。
 
-[立即提交您的演讲申请！](https://www.bagevent.com/event/cocasia-2023)
+[立即提交您的演讲申请！](https://www.bagevent.com/event/speechApply/8409854)

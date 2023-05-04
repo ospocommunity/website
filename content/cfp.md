@@ -7,7 +7,7 @@ menu:
 
 The call for presentations is now open! Submit proposals by **Tuesday, Jun 6st, 2022 8:00** AM (Beijing time - UTC +8). **Please do not wait until the last minute.**
 
-[Submit your talk proposal now!](http://cocasia-2023-EN.bagevent.com)
+[Submit your talk proposal now!](https://www.bagevent.com/event/cocasia-2023-EN)
 
 We are looking for presentations about anything relating to Apache Software Foundation projects, open source governance, community, and software development.
 
@@ -30,6 +30,6 @@ In particular, this year we are building content tracks around the following spe
 * [Workflow / Data Processing](tracks/workflowdatagovernance.html)
 * [Web Server](tracks/webserverandtomcat.html)
 
-If your proposed presentation falls into one of these categories, please select that topic in the CFP entry form. Or select **General** if it's related to some other topic or project area.
+If your proposed presentation falls into one of these categories, please select that topic in the CFP entry form. Or select **Others** if it's related to some other topic or project area.
 
-[Submit your talk proposal now!](http://cocasia-2023-EN.bagevent.com)
+[Submit your talk proposal now!](https://www.bagevent.com/event/cocasia-2023-EN)

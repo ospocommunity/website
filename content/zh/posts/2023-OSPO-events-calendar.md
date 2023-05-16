@@ -36,15 +36,15 @@ OSPOlogy 是一门全新的学科与挑战，因为在这里所汇集的是企�
 |OSPO Summit  | 2023.3.24|本届大会共设有 1 个主论坛，2 个分论坛，4 个主题讨论，和别具一格的午餐观影、晚宴及夜谈活动。详情可访问：[OSPO Summit 2022 亮点抢先看！](https://mp.weixin.qq.com/s?__biz=MzA4MDcyOTc2Nw==&mid=2247486489&idx=1&sn=73ed36505e71c4cff7dd59a9b7a9b61f&chksm=9f9e8fd1a8e906c7898bd548eccc23ecb98f461e589cff029c370228061df00d50141626f46e&scene=132#wechat_redirect) | 已完成；完整回顾：https://mp.weixin.qq.com/s/P1MZ5-uX9bGOf1CFv3CiKw
 |LFAPAC OSPO SIG 开源万里行活动走进蚂蚁开源办公室 |2023.4.21 |《开放式组织管理的利与弊》，张家驹；《OSPO 给开源的价值》解读，适兕 | 策划中；更多记录请阅读：**[LFAPAC OSPO SIG 开源万里行之走进蚂蚁开源办公室](https://docs.qq.com/doc/DUHhhc3N6VVJEdEJp)**
 |OSPOCon China 2023@GOTC | 2023.5.28| 详情移步： [OSPOCon China 2023 开启分享招募通道](https://opensourceway.community/posts/open-source-program-office/ospocon-china-2023-cfp/)| 筹备中；详情可访问：https://gotc.oschina.net/
-|LFAPAC OSPO SIG 开源万里行活动走进字节跳动 OSPO | TBD| | 规划中；
 |开放原子全球开源峰会·开源项目办公室（OSPO）分论坛|2023.6.12|议题征集中：[2023开放原子全球开源峰会分论坛speaker征集](https://docs.qq.com/form/page/DRFFOck14ZmRMcHN6)|筹备中；详情可访问：[赋能开发者，开放原子全球开源峰会期待你的声音！](https://mp.weixin.qq.com/s/A6iDWPmtlPc-txEQoyusHw)
 |OSPO Group 季度聚会|2023.6.14|北京，主题：分享问题，探讨方案|正在考察场地和邀请OSPOer；
 |LFAPAC OSPO SIG 开源万里行活动走进华为 OSPO |TBD | | 规划中；
 |LFAPAC OSPO SIG 开源万里行活动走进OPPO 开源|TBD||规划中；
 |LFAPAC OSPO SIG 开源万里行活动走进ViVo|TBD||规划中；
+| 2023 OSCAR 开源产业大会  | 2023.9.15|议题征集中： | 更多信息，敬请关注！
 | Open Source Summit China 2023 |2023.9.25~27|议题征集中：[Call for Proposals](https://www.lfasiallc.com/kubecon-cloudnativecon-open-source-summit-china/program/call-for-proposals/)|CFP截止日期：中国标准时间6月18日晚上11:59（UTC +8）CFP通知：7月31日星期一 日程公告：8月2日星期三 幻灯片上传截止日期至 Sched.com：9月20日星期三 活动日期：9月25日至27日
 |OSPO Group 季度聚会|2023.9||规划中；
 |LFAPAC OSPO SIG 开源万里行活动走进 ZTE 深圳 |TBD | | 规划中；
 |LFAPAC OSPO SIG 开源万里行活动走进 RedHat 中国 |TBD||规划中；
-|LFAPAC OSPO SIG 开源万里行活动走进 |TBD||规划中；
+|LFAPAC OSPO SIG 开源万里行活动走进字节跳动 OSPO | TBD| | 规划中；
 |OSPO Group 季/年度聚会|2023.12||规划中；

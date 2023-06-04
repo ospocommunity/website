@@ -7,7 +7,7 @@ menu:
 
 ## REFUND POLICY
 
-If you must cancel for any reason please notify us via email at vivian@segmentfault.com Refunds will only be issued for cancellations received 14 days prior to the first day of the event and may take up to 14 days to process. Please note that all refunds are subject to a 3% processing fee.
+If you must cancel for any reason please notify us via email at <vivian@segmentfault.com> Refunds will only be issued for cancellations received 14 days prior to the first day of the event and may take up to 14 days to process. Please note that all refunds are subject to a 3% processing fee.
 You can cancel or modify your registration from your confirmation email.
 
 ## PHOTO & VIDEO RELEASE

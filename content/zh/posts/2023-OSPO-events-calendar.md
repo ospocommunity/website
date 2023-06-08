@@ -38,13 +38,13 @@ OSPOlogy 是一门全新的学科与挑战，因为在这里所汇集的是企�
 |OSPOCon China 2023@GOTC | 2023.5.28| 详情移步： [OSPOCon China 2023 开启分享招募通道](https://opensourceway.community/posts/open-source-program-office/ospocon-china-2023-cfp/)| 筹备中；详情可访问：https://gotc.oschina.net/
 |开放原子全球开源峰会·开源项目办公室（OSPO）分论坛|2023.6.12|议题征集中：[2023开放原子全球开源峰会分论坛speaker征集](https://docs.qq.com/form/page/DRFFOck14ZmRMcHN6)|筹备中；详情可访问：[赋能开发者，开放原子全球开源峰会期待你的声音！](https://mp.weixin.qq.com/s/A6iDWPmtlPc-txEQoyusHw)
 |OSPO Group 季度聚会|2023.6.14|北京，主题：分享问题，探讨方案|诚挚邀请OSPOer参与：[OSPO Group 成员首次会议安排](https://docs.qq.com/doc/DUHZxcURQRGtnT3Ri)
-|LFAPAC OSPO SIG 开源万里行活动走进华为 OSPO |议题征集中：[提交](https://docs.qq.com/form/page/DUEdqYllSa0VaV1dj) | | 规划中；
-|LFAPAC OSPO SIG 开源万里行活动走进OPPO 开源|议题征集中：[提交](https://docs.qq.com/form/page/DUEdqYllSa0VaV1dj)||规划中；
-|LFAPAC OSPO SIG 开源万里行活动走进ViVo|议题征集中：[提交](https://docs.qq.com/form/page/DUEdqYllSa0VaV1dj)||规划中；
+|LFAPAC OSPO SIG 开源万里行活动走进华为 OSPO|2023.7. |议题征集中：[提交](https://docs.qq.com/form/page/DUEdqYllSa0VaV1dj)  | 规划中；
+|LFAPAC OSPO SIG 开源万里行活动走进OPPO 开源|2023.8.|议题征集中：[提交](https://docs.qq.com/form/page/DUEdqYllSa0VaV1dj)|规划中；
+|LFAPAC OSPO SIG 开源万里行活动走进ViVo|2023.9|议题征集中：[提交](https://docs.qq.com/form/page/DUEdqYllSa0VaV1dj)|规划中；
 | 2023 OSCAR 开源产业大会  | 2023.9.21|议题征集中：[提交](https://www.bagevent.com/event/speechApply/8490348) | 本次大会设立了OSPO分论坛，旨在深入探讨开源在企业中的应用。
 | Open Source Summit China 2023 |2023.9.25~27|议题征集中：[Call for Proposals](https://www.lfasiallc.com/kubecon-cloudnativecon-open-source-summit-china/program/call-for-proposals/)|CFP截止日期：中国标准时间6月18日晚上11:59（UTC +8）CFP通知：7月31日星期一 日程公告：8月2日星期三 幻灯片上传截止日期至 Sched.com：9月20日星期三 活动日期：9月25日至27日
 |OSPO Group 季度聚会|2023.9||规划中；
-|LFAPAC OSPO SIG 开源万里行活动走进 ZTE 深圳 |TBD | | 规划中；
-|LFAPAC OSPO SIG 开源万里行活动走进 RedHat 中国 |TBD||规划中；
-|LFAPAC OSPO SIG 开源万里行活动走进字节跳动 OSPO | TBD| | 规划中；
+|LFAPAC OSPO SIG 开源万里行活动走进 ZTE 深圳 |2023.10 |议题征集中：[提交](https://docs.qq.com/form/page/DUEdqYllSa0VaV1dj) | 规划中；
+|LFAPAC OSPO SIG 开源万里行活动走进 RedHat 中国 |2023.11|议题征集中：[提交](https://docs.qq.com/form/page/DUEdqYllSa0VaV1dj)|规划中；
+|LFAPAC OSPO SIG 开源万里行活动走进字节跳动 OSPO |2023.12|议题征集中：[提交](https://docs.qq.com/form/page/DUEdqYllSa0VaV1dj) | 规划中；
 |OSPO Group 季/年度聚会|2023.12||规划中；

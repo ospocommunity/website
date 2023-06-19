@@ -17,6 +17,7 @@ If you believe you still need an invitation letter, please send the following in
 
 * Complete name
 * Passport ID
+* Gender
 * Nationality
 * Date of birth
 * The company represented and the person’s position

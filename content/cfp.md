@@ -1,10 +1,3 @@
----
-title: CFP
-menu:
-   main:
-      weight: 10
----
-
 The call for presentations is now open! Submit proposals by **Sunday, Jun 18th, 2023 11:59 PM GMT. Please do not wait until the last minute.**
 
 [Submit your talk proposal now!](https://www.bagevent.com/event/speechApply/8432178)

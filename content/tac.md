@@ -1,5 +1,5 @@
 ---
-title: Travel Assistant
+title: Travel Assistance
 menu:
    main:
       weight: 35

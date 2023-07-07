@@ -6,4 +6,3 @@ keywords: CommunityOverCodeAsia, CommunityOverCode, ApacheCon, ApacheAsiaCon, Ap
 
 Join us in person for three days of Apache project content across dozens of categories, from Big Data to Fintech to Search to Tomcat and more.
 
-[Travel Assistant application](./tac.html) is open to July 6th!

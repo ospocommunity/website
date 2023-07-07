@@ -1,9 +1,3 @@
----
-title: Travel Assistance
-menu:
-   main:
-      weight: 35
----
 
 ASF [Travel Assistance Committee](https://tac.apache.org/) provides travel assistant for this conference.  
 

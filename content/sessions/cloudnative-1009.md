@@ -3,7 +3,7 @@ title: "Resilient and secure applications with Apache APISIX and KEDA"
 date: "2023-08-20T14:00:00" 
 track: "cloudnative"
 presenters: "Jintao Zhang"
-stype: "English Session"
+stype: "Chinese Session"
 ---
 KEDA is an event-based automatic scaling component in Kubernetes, and Apache APISIX is a high-performance dynamic API Gateway. What can we bring by combining them?
 

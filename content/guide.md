@@ -1,5 +1,5 @@
 ---
-title: Presentation Guide
+title: Guide
 menu:
    main:
       weight: 40

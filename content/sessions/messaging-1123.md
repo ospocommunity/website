@@ -1,6 +1,6 @@
 ---
 title: "RocketMQ Million Queue capability support - rocksdb kv storage"
-date: "2023-08-20:14:00:00" 
+date: "2023-08-20T14:00:00" 
 track: "messaging"
 presenters: "Zhao Fujian"
 stype: "Chinese Session"

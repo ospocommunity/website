@@ -3,7 +3,7 @@ title: "Optimizing HDFS Performance: Achieving Balanced Utilization of Hardware 
 date: "2023-08-19T16:15:00" 
 track: "performance"
 presenters: "Guodong Xu"
-stype: "English Session"
+stype: "Chinese Session"
 ---
 In today's rapidly evolving technological landscape, the utilization of hardware accelerators to alleviate computational-centric tasks from the CPU has become commonplace. Tasks such as compression and cryptography have traditionally been offloaded to these accelerators. However, as we continue to enhance various components of the entire system, including memory, disk I/O, and network capabilities, we are encountering a shift in the bottleneck, once again placing emphasis on computation-centric tasks in certain scenarios.
 

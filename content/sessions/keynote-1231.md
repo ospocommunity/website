@@ -11,5 +11,5 @@ The open-source community is like an organic biological system. This speech will
 
 With over 16 years of experience in the IT and OSS industry, Chen Yang has worked for multinational IT companies such as SUN, Oracle, and Microsoft, focusing on open-source technology and community governance, public cloud, industry AI solutions, knowledge graph, intelligent dialogue, and data integration.
 
-In 2019, he was granted a US patent for artificial intelligence, and he co-authored "Beautiful Testing" with O'REILLY.concurrency.
+In 2019, she was granted a US patent for artificial intelligence, and she co-authored "Beautiful Testing" with O'REILLY.concurrency.
  <br><br>

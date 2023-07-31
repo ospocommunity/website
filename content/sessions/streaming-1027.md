@@ -1,6 +1,6 @@
 ---
 title: "Shaping the Future: Unveiling High-Concurrency Streaming Analytics with Apache Druid"
-date: "2023-08-18T15:45:00" 
+date: "2023-08-18T16:15:00" 
 track: "streaming"
 presenters: "Tijo Thomas"
 stype: "English Session"

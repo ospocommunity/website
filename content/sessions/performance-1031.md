@@ -3,7 +3,7 @@ title: "Apache Arrow Optimization on Arm"
 date: "2023-08-19T14:30:00" 
 track: "performance"
 presenters: "Yibo Cai"
-stype: "English Session"
+stype: "Chinese Session"
 ---
 This speech introduces our practices of optimizing Apache Arrow on Arm platform. Using upstream PRs as solid examples, we will present the techniques to profile and optimize complex workloads on Arm, including but not limited to Top-down methodology, Arm SPE (Statistical Profiling Extension), NEON, etc.
 
@@ -15,5 +15,5 @@ Audience may learn general software profiling and optimization knowledge from th
 
 Yibo has rich experience in software optimization, from libraries to complex workloads, from low level architecture specific optimization to high level algorithm improvement.
 
-Yibo is an active open source contributor. He is Apache Arrow PMC and SPDK maintainer for SPDK-CSI project.
+Yibo is an active open source contributor. He is Apache Arrow PMC member and SPDK maintainer for SPDK-CSI project.
  <br><br>

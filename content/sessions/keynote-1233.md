@@ -2,7 +2,7 @@
 title: "Community AI Mega-Models are Coming: The Power of Challenges and Opportunities in Open Source Governance and Developer Relations."
 date: "未安排" 
 track: "keynote"
-presenters: "林旅强 Richard Ling"
+presenters: "Richard Lin"
 stype: "Chinese Session"
 ---
 With the rapid rise of AI mega-models, we need to re-examine whether the classic open-source governance approach of 'Community Over Code' can still adapt to new challenges. At the same time, developer relations centered on developer experience are also evolving towards new paradigms to meet the needs and expectations of a growing developer community. This talk will explore how different roles in open-source projects can respond to potential challenges and seize opportunities in this rapidly evolving era of AI mega-models, and consider the possible changes in future open-source business models. Through this sharing, we hope to explore together how the open-source community can maintain the spirit of 'Community Over Code' when facing the onslaught of AI mega-models and find ways and paths to adapt to the new era.

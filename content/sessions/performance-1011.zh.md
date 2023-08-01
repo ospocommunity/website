@@ -2,7 +2,7 @@
 title: "Java性能剖析技术详解及其应用"
 date: "2023-08-19T15:00:00" 
 track: "performance"
-presenters: "Long Yang"
+presenters: "杨龙"
 stype: "中文演讲"
 ---
 Java是目前最流行的服务端语言之一，更好的应用性能可以提供更好的用户体验，降低企业IT成本，使系统更加稳定可靠。如何诊断和改善Java应用的性能，是广大开发者非常关心的问题。本主题将介绍常用的Java性能分析工具(如Java Flight Recorder, async-profiler)的原理，内部结构和最佳实践，以及如何创建持续分析产品，并包含在真实的Java项目中的应用和经验。

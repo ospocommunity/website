@@ -1,5 +1,5 @@
 ---
-title: "Cloud-native solutions and practices for buried data analytics"
+title: "Cloud-native solutions and practices for clickstream data analysis"
 date: "2023-08-20T15:00:00" 
 track: "cloudnative"
 presenters: "Zheng Yubin，Liu Yong"

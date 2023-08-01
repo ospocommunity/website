@@ -1,5 +1,5 @@
 ---
-title: "埋点数据分析的云原生解决方案和实践"
+title: "点击流数据分析的云原生解决方案和实践"
 date: "2023-08-20T15:00:00" 
 track: "cloudnative"
 presenters: "郑予彬，刘勇"

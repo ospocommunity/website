@@ -13,10 +13,12 @@ The purpose of this speech is to present a sophisticated software approach that 
 
 At the conclusion of this presentation, a standardized benchmark will be showcased to demonstrate the notable enhancements achieved through the implementation of this method. Furthermore, we will outline our future plans and eagerly welcome collaboration from the community in any capacity.
  ### Speakers: 
- <img src="https://img.bagevent.com/resource/20230617/2215411950.jpg" width="200" /><br>Guodong Xu: Linaro Ltd., Senior Tech Lead, 2012-2023 Linaro Ltd. 
+ <img src="https://img.bagevent.com/resource/20230617/2215411950.jpg" width="200" /><br>Guodong Xu: Linaro Ltd., Senior Tech Lead
+
+- 2012-2023 Linaro Ltd.
  - Arm SVE/SVE2 optimization, senior tech lead
  - Kernel development tech lead
-2008-2011 Flextronics Ltd, Software development lead
-2002-2007 Motorola Mobile, Linux kernel device driver development
+- 2008-2011 Flextronics Ltd, Software development lead
+- 2002-2007 Motorola Mobile, Linux kernel device driver development
 
  <br><br>

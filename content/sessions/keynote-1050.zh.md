@@ -1,6 +1,6 @@
 ---
 title: "人间清醒：开源的最深层次动机"
-date: "未安排" 
+date: "2023-08-18T10:30:00" 
 track: "keynote"
 presenters: "卫剑钒"
 stype: "中文演讲"

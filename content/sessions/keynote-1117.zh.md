@@ -1,6 +1,6 @@
 ---
 title: "面向数字基础设施的通信新基座——移动云消息队列矩阵"
-date: "未安排" 
+date: "2023-08-19T11:40:00" 
 track: "keynote"
 presenters: "胡宗棠"
 stype: "中文演讲"

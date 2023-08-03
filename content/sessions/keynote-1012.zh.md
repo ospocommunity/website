@@ -1,6 +1,6 @@
 ---
 title: "Apache方式:建立社区和长寿"
-date: "未安排" 
+date: "2023-08-19T09:30:00" 
 track: "keynote"
 presenters: "Justin Mclean"
 stype: "英文演讲"

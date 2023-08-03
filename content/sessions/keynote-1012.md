@@ -1,6 +1,6 @@
 ---
 title: "The Apache Way: Building Community and Longevity"
-date: "未安排" 
+date: "2023-08-19T09:30:00" 
 track: "keynote"
 presenters: "Justin Mclean"
 stype: "English Session"

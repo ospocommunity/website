@@ -1,6 +1,6 @@
 ---
 title: "A new communications base for digital infrastructure - mobile cloud Message Queue Matrix"
-date: "未安排" 
+date: "2023-08-19T11:40:00" 
 track: "keynote"
 presenters: "胡宗棠"
 stype: "Chinese Session"

@@ -1,6 +1,6 @@
 ---
 title: "社群长青：开源社群如何可持续发展"
-date: "未安排" 
+date: "2023-08-19T11:10:00" 
 track: "keynote"
 presenters: "tison"
 stype: "中文演讲"

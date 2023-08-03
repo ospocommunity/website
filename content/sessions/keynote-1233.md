@@ -1,6 +1,6 @@
 ---
 title: "Community AI Mega-Models are Coming: The Power of Challenges and Opportunities in Open Source Governance and Developer Relations."
-date: "未安排" 
+date: "2023-08-20T09:30:00" 
 track: "keynote"
 presenters: "Richard Lin"
 stype: "Chinese Session"

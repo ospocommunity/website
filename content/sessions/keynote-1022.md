@@ -1,6 +1,6 @@
 ---
 title: "Community Sustainability: How can Open source communities be sustainable"
-date: "未安排" 
+date: "2023-08-19T11:10:00" 
 track: "keynote"
 presenters: "tison"
 stype: "Chinese Session"

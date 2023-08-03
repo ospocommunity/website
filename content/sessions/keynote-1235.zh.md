@@ -1,6 +1,6 @@
 ---
 title: "一路前行，阿里云大数据从拥抱开源走向引领开源"
-date: "未安排" 
+date: "2023-08-18T11:00:00" 
 track: "keynote"
 presenters: "王峰"
 stype: "中文演讲"

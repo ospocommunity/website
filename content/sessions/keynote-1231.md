@@ -1,6 +1,6 @@
 ---
 title: "The Power of Community"
-date: "未安排" 
+date: "2023-08-19T10:20:00" 
 track: "keynote"
 presenters: "Chen Yang"
 stype: "Chinese Session"

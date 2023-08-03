@@ -1,9 +1,9 @@
 ---
 title: "The ASF: The Future is Now"
-date: "未安排" 
+date: "2023-08-18T09:40:00" 
 track: "keynote"
 presenters: "Craig Russell"
-stype: "Chinese Session"
+stype: "English Session"
 ---
 Since 1999 when The Foundation was established, the open source landscape has changed in many ways but the founding principles remain. The ASF continues to operate as a  charity to serve the public interest. The projects, under the direction of the Project Management Committees, are the primary governing bodies, subject to oversight by the Board of Directors.Over the past few years, both internal and external events have required changes to the way the ASF operates:Governments have recognized that open source software presents new security challenges to the way the internet works; Privacy concerns require changes to the ASF approach to transparency; The ASF needs to recognize that new communications products and protocols change the way communities interact, both within and external to them.
  ### Speakers: 

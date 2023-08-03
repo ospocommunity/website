@@ -3,7 +3,7 @@ title: "The ASF: The Future is Now"
 date: "未安排" 
 track: "keynote"
 presenters: "Craig Russell"
-stype: "中文演讲"
+stype: "英文演讲"
 ---
 自1999年成立以来，开源领域已经发生了许多变化，但创始原则仍然保持不变。ASF继续作为一个慈善机构服务于公众利益。项目由项目管理委员会主导管理，受董事会监督。在过去的几年里，内部和外部事件都要求ASF改变运营方式：
 

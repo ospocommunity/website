@@ -1,6 +1,6 @@
 ---
 title: "借助开源生态的力量，探索自我成长与职业发展的价值"
-date: "未安排" 
+date: "2023-08-20T10:30:00" 
 track: "keynote"
 presenters: "潘娟"
 stype: "中文演讲"

@@ -1,6 +1,6 @@
 ---
 title: "Human wakefulness: The deepest motivation for open source"
-date: "未安排" 
+date: "2023-08-18T10:30:00" 
 track: "keynote"
 presenters: "卫剑钒"
 stype: "Chinese Session"

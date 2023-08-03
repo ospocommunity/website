@@ -1,6 +1,6 @@
 ---
 title: "Exploring the Value of Self-Growth and Career Development with the Power of Open-Source Ecosystem"
-date: "未安排" 
+date: "2023-08-20T10:30:00" 
 track: "keynote"
 presenters: "Trista Pan"
 stype: "Chinese Session"

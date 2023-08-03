@@ -1,6 +1,6 @@
 ---
 title: "Talking with management about open source"
-date: "未安排" 
+date: "2023-08-20T10:00:00" 
 track: "keynote"
 presenters: "Rich Bowen"
 stype: "English Session"

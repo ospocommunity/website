@@ -1,6 +1,6 @@
 ---
 title: "Is contributing to open source difficult?"
-date: "未安排" 
+date: "2023-08-19T10:00:00" 
 track: "keynote"
 presenters: "Li Benchao"
 stype: "Chinese Session"

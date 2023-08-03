@@ -1,6 +1,6 @@
 ---
 title: "社区的力量"
-date: "未安排" 
+date: "2023-08-19T10:20:00" 
 track: "keynote"
 presenters: "陈阳"
 stype: "中文演讲"

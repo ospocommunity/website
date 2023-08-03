@@ -1,6 +1,6 @@
 ---
 title: "社区AI大模型来袭：开源治理和开发者关系的挑战和机遇的力量"
-date: "未安排" 
+date: "2023-08-20T09:30:00" 
 track: "keynote"
 presenters: "林旅强"
 stype: "中文演讲"

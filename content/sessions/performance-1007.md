@@ -5,19 +5,20 @@ track: "performance"
 presenters: "Guodong Xu"
 stype: "Chinese Session"
 ---
-In today's rapidly evolving technological landscape, the utilization of hardware accelerators to alleviate computational-centric tasks from the CPU has become commonplace. Tasks such as compression and cryptography have traditionally been offloaded to these accelerators. However, as we continue to enhance various components of the entire system, including memory, disk I/O, and network capabilities, we are encountering a shift in the bottleneck, once again placing emphasis on computation-centric tasks in certain scenarios.
+Hadoop/HDFS Transparent Encryption presents performance challenges for existing servers. Traditionally, there are two ways to perform encryption calculations: one is through CPU proprietary instructions, and the other is through dedicated hardware accelerators.
 
-While upgrading hardware accelerators may not always be a feasible solution, we can still harness the inherent power and versatility of the multi-core nature of the Arm64 server architecture to extract additional bandwidth.
+Dedicated hardware accelerators provide higher encryption/decryption bandwidth through optimized algorithms and architecture. At the same time, CPU processors (Intel AES-NI, Arm64 Crypto-Extension) also have proprietary instructions to optimize encryption performance. The speed difference between CPU and hardware accelerators is gradually narrowing. We have more reasons to put CPU cores and dedicated hardware in the same resource pool for use. Balancing the performance between CPU cores and dedicated hardware accelerators (such as using CPU cores as backup processing units when the hardware accelerator reaches its performance bottleneck) is a challenge.
 
-The purpose of this speech is to present a sophisticated software approach that effectively identifies such bottlenecks and provides insights on how we can reintegrate more CPU cores into computation-centric tasks. The ultimate objective is to achieve efficient and intelligent task distribution between hardware accelerators and the multiple CPU cores.
+This presentation introduces a feature based on OpenSSL 3.0, which allows multiple implementations to be registered for the same algorithm, and dynamically allocates resources between multiple implementations of the algorithm. The resource pool allocation library can cover multiple algorithm implementation entities. "Calculation" can be allocated between multiple implementation entities to achieve higher resource utilization efficiency. From the perspective of cloud service providers, the same hardware can support more users. From the user's perspective, higher performance can be achieved.
 
-At the conclusion of this presentation, a standardized benchmark will be showcased to demonstrate the notable enhancements achieved through the implementation of this method. Furthermore, we will outline our future plans and eagerly welcome collaboration from the community in any capacity.
+The presentation concludes by discussing the performance improvement achieved in HDFS Transparent Encryption using this method.
  ### Speakers: 
  <img src="https://img.bagevent.com/resource/20230617/2215411950.jpg" width="200" /><br>Guodong Xu: Linaro Ltd., Senior Tech Lead
 
 - 2012-2023 Linaro Ltd.
- - Arm SVE/SVE2 optimization, senior tech lead
- - Kernel development tech lead
+  - Arm SVE/SVE2 optimization, software library optimization
+  - Big data, Apache Bigtop
+  - Kernel development
 - 2008-2011 Flextronics Ltd, Software development lead
 - 2002-2007 Motorola Mobile, Linux kernel device driver development
 

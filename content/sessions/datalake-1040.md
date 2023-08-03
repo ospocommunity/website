@@ -10,7 +10,6 @@ Today, there are hundreds of data sources, not only relational and non-relationa
 Solution idea:
 The Apache SeaTunnel data synchronization pipeline combined with SeaTunnel's own dedicated synchronization engine Zeta is used to solve the difficult integration problem, and data synchronization can be completed with the lowest possible resources, providing better performance for large-scale data integration synchronization.
 
-
 Audience revenue
 1. Function and architecture design of Apache SeaTunnel
 2. Why develop SeaTunnel's own sync engine Zeta instead of Spark/Flink?

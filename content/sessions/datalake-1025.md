@@ -3,7 +3,7 @@ title: "OpenEuler and Bigtop with Ambari : Empower Data Lake in the real world"
 date: "2023-08-18T14:30:00" 
 track: "datalake"
 presenters: "Yuqi Gu"
-stype: "English Session"
+stype: "Chinese Session"
 ---
 At present, there are no available free data lake platforms to streamline data management and analytics, as Cloudera Data Platform (CDP) is no longer offered free of charge.
 

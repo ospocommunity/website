@@ -1,5 +1,5 @@
 ---
-title: "使用开源软件开发快速应用程序-没有愤怒"
+title: "心平气和地使用开源软件开发快速应用程序"
 date: "2023-08-19T13:30:00" 
 track: "performance"
 presenters: "Paul Brebner"

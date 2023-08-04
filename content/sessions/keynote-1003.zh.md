@@ -1,6 +1,6 @@
 ---
 title: "The ASF: The Future is Now"
-date: "未安排" 
+date: "2023-08-18T09:40:00" 
 track: "keynote"
 presenters: "Craig Russell"
 stype: "英文演讲"

@@ -1,6 +1,6 @@
 ---
 title: "Apache ShenYu社区建设的道与术"
-date: "2023-08-19T13:30" 
+date: "2023-08-19T13:30:00" 
 track: "community"
 presenters: "肖宇"
 stype: "中文演讲"

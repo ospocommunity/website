@@ -9,7 +9,7 @@ In recent years, with the widespread use of open source software in the industry
 
 An important criterion for developers in choosing open source software is whether there is a thriving community upstream, behind which is an evaluation of the software's long-term development and maintenance. Only communities with clear value propositions, timely response to issues, and diverse developer groups can continue to grow and expand over years of testing, ensuring that each developer who contributes to open source and each enterprise that deploys open source software gets reliable returns.
 
-The Apache Way and the Apache Project Maturity Model provide methods for testing the diversity of community members and the transparency of community development. Based on practical project cases, this presentation further discusses how clear value propositions and diverse users and participants can help communities continue to grow. Finally, several sustainable strategies for the open source software economy are proposed in light of the trend of combining open source development with commercialization.
+The Apache Way and the Apache Project Maturity Model provide methods for testing the diversity of community members and the transparency of community development. Based on practical project cases, this presentation further discusses how clear value propositions and diverse users and participants can help communities continue to grow. 
  ### Speakers: 
  <img src="https://img.bagevent.com/resource/20230606/2128225391016.jpeg" width="200" /><br>tison: StreamNative, Community Manager, Apache Member and Incubator Mentor
  <br><br>

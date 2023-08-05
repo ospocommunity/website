@@ -2,7 +2,7 @@
 title: "Real-Time Data Integration Practice Based on Flink CDC at Alibaba Cloud"
 date: "2023-08-19T13:30:00" 
 track: "streaming"
-presenters: "Chen Zhengyu"
+presenters: "Ruan Hang"
 stype: "Chinese Session"
 ---
 CDC (Change Data Capture) is a technology used to capture changes from databases. Flink CDC is an open-source representative of real-time data integration frameworks, with technical advantages such as full incremental integration, lock-free reading, concurrent reading, and distributed architecture, which are highly popular in the open-source community.

@@ -1,15 +1,17 @@
 ---
-title: "China Unicom's Large-Scale Real-Time Computing Production Practice Based on Apache StreamPark"
-date: "2023-08-19T14:30:00" 
+title: "Construction practice of Xiaomi Flink real-time computing platform"
+date: "2023-08-19T16:15:00" 
 track: "streaming"
-presenters: "Mu Chunjin"
+presenters: "陈子豪"
 stype: "Chinese Session"
 ---
-The big data real-time computing platform supports event-based low-latency processing and stream-batch integrated data processing, supporting real-time business for 30+ internal and external organizations and 10,000+ data service subscriptions. It processes 2.3 trillion data records and over 600TB of data every day, with a cluster scale of 480+ servers dedicated to supporting more than ten business production product lines.
-
-Based on Apache StreamPark, a one-stop platform for real-time computing job management supports the management of 500+ Flink ON YARN real-time computing jobs in the production environment. Through a visual and concise operation process, it completes project management, job management, team management, permission management, alarm management, log management, version management, cluster management, resource configuration, Flink JAR, Flink SQL, monitoring dashboard, and other management functions, realizing end-to-end real-time job management. This helps teams solve operational and maintenance issues, improve management efficiency, reduce failure rates, and improve business support quality, and fully realizes the integration and platformization of real-time computing management.
+This sharing will focus on the construction of a real-time computing platform, combined with Xiaomi's own business practice experience, share Xiaomi's exploration and construction in the field of real-time computing, and create a unified real-time computing platform with resource flexibility, low cost, and ease of use.
+Content outline:
+1. Introduction to Xiaomi Real-Time Computing Platform This part will introduce the business overview of Xiaomi's real-time computing, and interpret the pain points and solutions encountered in conjunction with the evolution and development of Xiaomi's real-time computing platform.
+2. Real-time computing platform construction This part will introduce Xiaomi's overall real-time computing platform architecture, and explore the usability of Xiaomi's real-time computing platform in combination with unified metadata management, authority management, lineage, and scheduling management.
+3. Platform operation, maintenance and governance This part will deeply explore the operation, maintenance and governance of real-time computing, share Xiaomi's exploration at the framework layer and platform layer, and make Xiaomi's real-time computing platform have resources through productization under the guidance of the governance closed-loop methodology Elasticity, low cost, and easy-to-use capabilities. 4. Summary and Prospects A brief summary of the content shared this time will be made, and a certain discussion and prospect will be made on the future evolution direction of the real-time computing platform.
 
  ### Speakers: 
- <img src="https://img.bagevent.com/resource/20230515/1448233260.jpg" width="200" /><br>
-Mu Chunjin is the head of the Big Data Real-Time Computing Platform R&D at China Unicom Digital Technology Co., Ltd. He is also an Apache StreamPark PMC member and is responsible for the development and operation of the trillion-level Flink real-time computing and platform construction.
+ <img src="https://img.bagevent.com/resource/20230601/1445124140.jpg" width="200" /><br>
+Xiaomi software engineer, mainly responsible for Xiaomi real-time computing platform and Flink framework kernel development. 
  <br><br>

@@ -2,7 +2,7 @@
 title: "Human wakefulness: The deepest motivation for open source"
 date: "2023-08-18T10:30:00" 
 track: "keynote"
-presenters: "卫剑钒"
+presenters: "Wei Jianfeng"
 stype: "Chinese Session"
 ---
 Generally speaking, people think of open source as an altruistic act, but we know that all altruism has a basis in self-interest, so what is the psychological motivation of open source developers? How do they consider their own interests? What is it that keeps them exporting and contributing without any real benefit in return? What about enterprises? Shouldn't companies pay more attention to practical benefits? This talk is an attempt to shed some light on these myths and show the truest and most understandable open source motivation hidden beneath the surface of altruism.

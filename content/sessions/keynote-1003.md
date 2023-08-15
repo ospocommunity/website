@@ -12,5 +12,5 @@ Since 1999 when The Foundation was established, the open source landscape has ch
 - The ASF needs to recognize that new communications products and protocols change the way communities interact, both within and external to them.
   
  ### Speakers: 
- <img src="https://img.bagevent.com/resource/20230723/2219476901016.jpeg" width="200" /><br>Craig Russell: Apache Software Foundation, ASF Board Director, Eighteen years ago, Craig Russell joined the Apache Software Foundation as a contributor to the development of the DB JDO project. He was elected as a member in 2007. He currently serves as Assistant Secretary of the Apache Software Foundation and serves on the Board of Directors.
+ <img src="https://img.bagevent.com/resource/20230723/2219476901016.jpeg" width="200" /><br>Craig Russell: ASF Board Director, Eighteen years ago, Craig Russell joined the Apache Software Foundation as a contributor to the development of the DB JDO project. He was elected as a member in 2007. He currently serves as Assistant Secretary of the Apache Software Foundation and serves on the Board of Directors.
  <br><br>

@@ -1,5 +1,5 @@
 ---
-title: "ASF的往事今生"
+title: "ASF的过去与未来"
 date: "2023-08-18T09:40:00" 
 track: "keynote"
 presenters: "Craig Russell"
@@ -12,5 +12,5 @@ stype: "英文演讲"
 - ASF需要认识到新的通信产品和协议改变了社区内外的互动方式。
 
  ### Speakers: 
- <img src="https://img.bagevent.com/resource/20230723/2219476901016.jpeg" width="200" /><br>Craig Russell: Apache Software Foundation, ASF 董事, 18年前，Craig Russell作为一个贡献者加入了Apache软件基金会，为开发DB JDO项目做出了贡献。2007年，他被选为成员。目前，他担任Apache软件基金会的助理秘书，并担任董事会成员。
+ <img src="https://img.bagevent.com/resource/20230723/2219476901016.jpeg" width="200" /><br>Craig Russell: ASF 董事, 18年前，Craig Russell作为一个贡献者加入了Apache软件基金会，为开发DB JDO项目做出了贡献。2007年，他被选为成员。目前，他担任Apache软件基金会的助理秘书，并担任董事会成员。
  <br><br>

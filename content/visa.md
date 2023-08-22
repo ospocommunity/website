@@ -1,9 +1,3 @@
----
-title: Visa Letter
-menu:
-   main:
-      weight: 30
----
 
 For those needing a visa invitation letter, please refer to the instructions on this page.
 

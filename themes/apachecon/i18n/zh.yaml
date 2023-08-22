@@ -17,7 +17,10 @@ sponsorship_gold:
   other: 金牌赞助
 
 sponsorship_silver:
-  other: 白银赞助
+  other: 银牌赞助
+
+sponsorship_bronze:
+  other: 铜牌赞助
 
 sponsorship_media:
   other: 战略合作媒体

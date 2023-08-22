@@ -19,6 +19,9 @@ sponsorship_gold:
 sponsorship_silver:
   other: Silver
 
+sponsorship_bronze:
+  other: Bronze
+
 sponsorship_media:
   other: Strategic Media
 

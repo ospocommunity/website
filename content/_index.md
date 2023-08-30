@@ -1,6 +1,6 @@
 ---
 kind: home
-title: Community Over Code - The ASF Conference Asia 2023 will be held in Beijing from this August 18 to 20！
+title: Community Over Code - The ASF Conference Asia 2023 was held in Beijing from August 18 to 20 ，2023！
 keywords: CommunityOverCodeAsia, CommunityOverCode, ApacheCon, ApacheAsiaCon, ApacheConAsia2023
 ---
 

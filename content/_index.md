@@ -6,4 +6,4 @@ keywords: CommunityOverCodeAsia, CommunityOverCode, ApacheCon, ApacheAsiaCon, Ap
 
 Join us in person for three days of Apache project content across dozens of categories, from Big Data to Fintech to Search to Tomcat and more.
 
-You can find the potos of conference [here](https://as.alltuu.com/album/1261715204/).
+You can find the conference photos [here](https://photos.apachecon.com/index.php?/category/36).

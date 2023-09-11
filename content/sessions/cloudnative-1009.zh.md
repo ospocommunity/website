@@ -1,7 +1,7 @@
 ---
 title: "弹性和安全的应用程序与Apache APISIX和KEDA"
 date: "2023-08-20T14:00:00" 
-track: "cloudnative"
+track: ""
 presenters: "Jintao Zhang"
 stype: "中文演讲"
 ---

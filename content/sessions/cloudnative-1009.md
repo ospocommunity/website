@@ -1,7 +1,7 @@
 ---
 title: "Resilient and secure applications with Apache APISIX and KEDA"
 date: "2023-08-20T14:00:00" 
-track: "cloudnative"
+track: ""
 presenters: "Jintao Zhang"
 stype: "Chinese Session"
 ---

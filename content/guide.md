@@ -1,9 +1,4 @@
----
-title: Guide
-menu:
-   main:
-      weight: 40
----
+
 ## Make a presentation slide
 
 Please use the official template for PPT making.PPT template download:

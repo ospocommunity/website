@@ -7,5 +7,5 @@ draft: false
 heroHeading: 'Dinner and happy hour.'
 heroSubHeading: 'There is nothing that cannot be solved while eating!'
 heroBackground: 'services/service2.jpg'
-description: '经过一整天的烧脑知识冲刺，轮到真正的社交出场了，有音乐和啤酒，以及自助美食，走动着，畅聊着～'
+description: 'After a whole day of brain-burning knowledge sprint, it’s time for real social interaction, with music, beer, and buffet food, walking around and chatting~'
 ---

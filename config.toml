@@ -41,11 +41,6 @@ theme = "hugo-hero-theme"
     url = "/schedule/"
     weight = 2
 
-#[[menu.main]]
-#    name = "Sponsor"
-#    url = "/work/"
-#   weight = 3
-
 [[menu.main]]
     name = "Guide"
     url = "/guide/"
@@ -95,12 +90,6 @@ theme = "hugo-hero-theme"
         weight = 37
         parent = "en-guide"
 
-
-#[[menu.main]]
-#    name = "Press"
-#    url = "/posts/"
-#    weight = 4
-
 [[menu.main]]
     name = "Venue+Travel"
     url = "/venue_travel/"
@@ -137,39 +126,25 @@ theme = "hugo-hero-theme"
     url = "/support/supported-org/"
     weight = 5
 
-#[[menu.main]]
-#    name = "Sponsor"
-#    url = "/sponsor/supported-org/"
-#    weight = 5
-
-
-#[[menu.main]]
-#    identifier = "about-en"
-#    name = "About"
-#    url = "/about/"
-#    weight = 6
 
 [[menu.main]]
-    #identifier = "Conference Team"
     name = "Conference Team"
     url = "/conference_team/"
     weight = 6
-
-# [[menu.main]]
-#    name = "History"
-#    url = "/history/"
-#    weight = 3
-
 
 [[menu.main]]
   name = "中文"
   url = "/zh"
   weight = 7
   
-[[languages.zh.menu.main]]
-  name = "EN"
-  url = "../../../en"
-  weight = 7
+
+
+#################################
+#################################
+#################################
+#################################
+
+
 [[languages.zh.menu.main]]
     name = "首页"
     url = "/zh/homepage/"
@@ -186,44 +161,44 @@ theme = "hugo-hero-theme"
     weight = 3
     identifier = "zh-guide"
 
-    [[menu.main]]
+    [[languages.zh.menu.main]]
         name = "申请Visa Letter"
         url = "/zh/guide/visa_letter_request"
         weight = 31
         parent = "zh-guide"
 
 
-    [[menu.main]]
+    [[languages.zh.menu.main]]
         name = "下载演示文档模板"
         url = "/zh/guide/presentation_slides_template"
         weight = 32
         parent = "zh-guide"
 
-    [[menu.main]]
+    [[languages.zh.menu.main]]
         name = "向您所在公司阐述参会价值"
         url = "/zh/guide/convince_your_boss"
         weight = 33
         parent = "zh-guide"
 
-    [[menu.main]]
+    [[languages.zh.menu.main]]
         name = "行为准则"
         url = "/zh/guide/code_for_conduct"
         weight = 34
         parent = "zh-guide"
 
-    [[menu.main]]
+    [[languages.zh.menu.main]]
         name = "条款和条件"
         url = "/zh/guide/terms_and_conditions"
         weight = 35
         parent = "zh-guide"
 
-    [[menu.main]]
+    [[languages.zh.menu.main]]
         name = "无障碍设施"
         url = "/zh/guide/accessibility"
         weight = 36
         parent = "zh-guide"
 
-    [[menu.main]]
+    [[languages.zh.menu.main]]
         name = "常见问题"
         url = "/zh/guide/faq"
         weight = 37
@@ -236,26 +211,26 @@ theme = "hugo-hero-theme"
     weight = 4
     identifier = "zh-venue_travel"
 
-    [[menu.main]]
+    [[languages.zh.menu.main]]
         name = "会议场地"
         url = "/venue/venue"
         weight = 41
         parent= "zh-venue_travel"
 
-    [[menu.main]]
+    [[languages.zh.menu.main]]
         name = "关于深圳"
         url = "/venue/about_shenzhen"
         weight = 42
         parent= "zh-venue_travel"
 
-    [[menu.main]]
+    [[languages.zh.menu.main]]
         name = "交通指南"
         url = "/venue/getting_there"
         weight = 43
         parent= "zh-venue_travel"
 
 
-    [[menu.main]]
+    [[languages.zh.menu.main]]
         name = "申请Visa Letter"
         url = "/guide/visa_letter_request"
         weight = 44
@@ -271,10 +246,11 @@ theme = "hugo-hero-theme"
     url = "/zh/conference_team/"
     weight = 6
 
-#[[languages.zh.menu.main]]
-#    name = "新闻"
-#    url = "/zh/posts/"
-#    weight = 3
+[[languages.zh.menu.main]]
+  name = "EN"
+  url = "../../../en"
+  weight = 7
+
 
 [permalinks]
   post = "/:year/:month/:day/:slug/"

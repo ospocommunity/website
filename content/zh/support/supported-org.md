@@ -7,8 +7,19 @@ heroHeading: '支持单位/组织/机构'
 heroSubHeading: '开源世界是所有人铸就的。'
 heroBackground: ''
 thumbnail: ''
-images: ['/images/LFAPAC_Logo.jpg', 'images/OpenInfrastructureFoundation-logo.svg','images/open-atom.png','images/kaiyuanshe-logo.svg','images/openssf-stacked-color-2.png',
-'https://todogroup.org/img/logo.svg','/images/openchain-hztl-color-01.svg','/images/chaoss-white-2.png','images/e-standard-logo.png','images/mulan-shequ.jpg','images/shopen-logo.png','/images/x-lab.jpeg','images/trust-os.jpg']
+images: ['images/LFAPAC_Logo.jpg', 
+         'images/OpenInfrastructureFoundation-logo.svg',
+         'images/kaiyuanshe-logo.svg',
+         'images/open-atom.png',
+         'images/openssf-stacked-color-2.png',
+         'images/todo-logo-on-white.svg',
+         'images/openchain-hztl-color-01.svg',
+         'images/chaoss-white-2.png',
+         'images/e-standard-logo.png',
+         'images/mulan-shequ.jpg',
+         'images/shopen-logo.png',
+         'images/x-lab.jpeg',
+         'images/trust-os.jpg']
 ---
 
 # 排名不分先后

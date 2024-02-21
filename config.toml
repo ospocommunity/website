@@ -1,6 +1,6 @@
 # set the baseURL for CI verification
 baseURL = "/"
-title = "CommunityOverCode Asia 2024"
+title = "The 2nd OSPO Summit"
 theme = "osposummit"
 # When enabled, creates URL of the form /filename.html instead of /filename/.
 uglyURLs = true
@@ -13,10 +13,10 @@ DefaultContentLanguage = "zh"
 
 
 [params]
-  author = "ALC-Beijing"
-  description = "Welcome to CommunityOverCode (ApacheCon Asia) 2024"
-  keywords = ["CommunityOverCode","CommunityOverCodeAsia","ApacheConAsia2024"]
-  schedule = ["2024-07-26", "2024-07-27", "2024-07-28"]
+  author = ""
+  description = ""
+  keywords = []
+  schedule = []
 
 [languages.en]
 languageName = "English"

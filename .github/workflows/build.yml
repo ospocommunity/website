@@ -38,42 +38,20 @@ jobs:
         with:
           hugo-version: '0.92.2' # need to use this version to build the website
           extended: true
-      - name: 🗂 Checkout gh-pages branch with minimum depth
-        uses: actions/checkout@c85c95e3d7251135ab7dc9ce3241c5835cc595a9  # 3.5.3
-        if: ${{ github.event_name == 'push' }}
-        with:
-          ref: gh-pages
-          fetch-depth: 1
-          path: dist
-      - name: 🔧 Build site
-        run: |
-          env HUGO_ENV="production" hugo
-      - name: 👷 Cleanup dist directory except .git and CNAME (each fork can have its own CNAME)
-        if: ${{ github.event_name == 'push' }}
-        run: find ./dist -mindepth 1 ! -path ./dist/CNAME ! -path './dist/.git*' -delete -print
-      - name: 👷 Copy ./public/* and ./resources/* and .asf.yaml to /dist/
-        if: ${{ github.event_name == 'push' }}
-        run: |
-          cp -r ./public/* ./dist/
-          cp -r ./resources/* ./dist/
-          # The asf.yaml file must be in the branch from which the files are published.
-          # Otherwise, ASF publishing tools cannot detect it.
-          cp .asf.yaml ./dist/
-      - name: 🚀 Add commit to the gh-pages branch and deploy it
-        if: ${{ github.event_name == 'push' }}
-        working-directory: dist
-        run: |
-          echo "Running git config"
-          git config user.name "GitHub Actions"
-          git config user.email "actions@users.noreply.github.com"
-          echo "Running git add"
-          git add .
-          echo "Running git commit"
-          git commit -m "Regenerated website based on ${GITHUB_SHA} commit" > ../git_commit.log
-          git push origin gh-pages
-      - name: 🚀 Upload git commit log as artifacts
-        uses: actions/upload-artifact@0b7f8abb1508181956e8e162db84b466c27e18ce  # v3.1.2
-        with:
-          name: cocasia-git-commit-log
-          path: './git_commit.log'
-          retention-days: 5
+      - name: Build
+        run: hugo 
+  
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v3
+      # If you're changing the branch from main,
+      # also change the `main` in `refs/heads/main`
+      # below accordingly.
+      if: ${{ github.ref == 'refs/heads/main' }}
+      with:
+        deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        external_repository: ospocommunity/ospo.github.io
+        publish_dir: ./public
+        publish_branch: gh-pages
+        cname: ospo.events
+        allow_empty_commit: true

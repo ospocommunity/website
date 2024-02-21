@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>/website/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
+                href="/website/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/"
+                href="/website/"
                 />
   </url>
 </urlset>

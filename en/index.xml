@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Conference introduction on 第二届开源管理办公室年度峰会</title>
-    <link>/en/</link>
+    <link>/website/en/</link>
     <description>Recent content in Conference introduction on 第二届开源管理办公室年度峰会</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language><atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language><atom:link href="/website/en/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

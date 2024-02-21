@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/website/</loc>
+    <loc>https://ospo.events/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/website/en/"
+                href="https://ospo.events/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/website/"
+                href="https://ospo.events/"
                 />
   </url>
 </urlset>

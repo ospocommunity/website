@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 第二届开源管理办公室年度峰会</title>
-    <link>/website/en/categories.html</link>
+    <link>https://ospo.events/en/categories.html</link>
     <description>Recent content in Categories on 第二届开源管理办公室年度峰会</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language><atom:link href="/website/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language><atom:link href="https://ospo.events/en/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

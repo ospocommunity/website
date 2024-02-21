@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/website/en/categories.html</loc>
+    <loc>https://ospo.events/en/categories.html</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -11,22 +11,22 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/website/en/categories.html"
+                href="https://ospo.events/en/categories.html"
                 />
   </url><url>
-    <loc>/website/en/</loc>
+    <loc>https://ospo.events/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/website/"
+                href="https://ospo.events/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/website/en/"
+                href="https://ospo.events/en/"
                 />
   </url><url>
-    <loc>/website/en/tags.html</loc>
+    <loc>https://ospo.events/en/tags.html</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -35,7 +35,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/website/en/tags.html"
+                href="https://ospo.events/en/tags.html"
                 />
   </url>
 </urlset>

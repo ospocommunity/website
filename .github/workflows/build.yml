@@ -38,20 +38,21 @@ jobs:
         with:
           hugo-version: '0.92.2' # need to use this version to build the website
           extended: true
+          
       - name: Build
         run: hugo 
   
-    - name: Deploy
-      uses: peaceiris/actions-gh-pages@v3
-      # If you're changing the branch from main,
-      # also change the `main` in `refs/heads/main`
-      # below accordingly.
-      if: ${{ github.ref == 'refs/heads/main' }}
-      with:
-        deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        external_repository: ospocommunity/ospo.github.io
-        publish_dir: ./public
-        publish_branch: gh-pages
-        cname: ospo.events
-        allow_empty_commit: true
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        # If you're changing the branch from main,
+        # also change the `main` in `refs/heads/main`
+        # below accordingly.
+        if: ${{ github.ref == 'refs/heads/main' }}
+        with:
+          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          external_repository: ospocommunity/ospo.github.io
+          publish_dir: ./public
+          publish_branch: gh-pages
+          cname: ospo.events
+          allow_empty_commit: true

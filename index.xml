@@ -1,1 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>开源项目办公室峰会2022</title><link>http://ospo.community/</link><description>Recent content on 开源项目办公室峰会2022</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="http://ospo.community/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>http://ospo.community/</link><pubDate>Wed, 02 Nov 2022 14:53:25 +0800</pubDate><guid>http://ospo.community/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>大会介绍 on 第二届开源管理办公室年度峰会</title>
+    <link>/</link>
+    <description>Recent content in 大会介绍 on 第二届开源管理办公室年度峰会</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

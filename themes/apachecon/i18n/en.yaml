@@ -55,9 +55,38 @@ home:
 register:
   other: Register
 
-visit-2023:
-  other: Visit CommunityOverCode Asia 2023
+visit:
+  other: Visit the first OSPO Summit
 
+getTicket:
+  other: Get Your Ticket
+
+speakers:
+  other: Speakers
+
+sponsors:
+  other: Sponsors 
+
+strategic_sponsor:
+  other: Strategic Sponsor
+
+platinum_sponsor:
+  other: Platinum Sponsor
+
+gold_sponsor:
+  other: Gold Sponsor
+
+strategic_community_partner:
+  other: Strategic Community Partner
+
+community_partner:
+  other: Community Partner
+
+submit_proposal:
+  other: Submit Proposal
+
+register_attend:
+  other: Register to Attend
 weeks:
   other: Weeks
 

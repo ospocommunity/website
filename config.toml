@@ -32,25 +32,57 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 unsafe = true
 
 # menu for en (final list includes translated pages from /content)
-# [[languages.en.menu.main]]
-# name = "Schedule"
-# url = "/tracks.html"
-# weight = -100
+[[languages.en.menu.main]]
+name = "Schedule"
+url = "/"
+weight = -1
 
 # menu for ZH language (final list includes translated pages from /content)
 
-# [[languages.zh.menu.main]]
-# name = "会议日程"
-# url = "/zh/tracks.html"
-# weight = -100
+[[languages.zh.menu.main]]
+name = "会议日程"
+url = "/"
+weight = -1
 
-# [[languages.en.menu.main]]
-# name = "search"
-# url = "/search.html"
-# weight = 0
 
-# [[languages.zh.menu.main]]
-# name = "检索"
-# url = "/zh/search.html"
-# weight = 0
- 
+[[languages.zh.menu.main]]
+name = "参会指南"
+url = "/"
+weight = 1
+
+[[languages.en.menu.main]]
+name = "Guide"
+url = "/"
+weight = 1
+
+[[languages.zh.menu.main]]
+name = "会场 + 旅行"
+url = "/"
+weight = 2
+
+
+[[languages.en.menu.main]]
+name = "Venue + Travel"
+url = "/"
+weight = 2
+
+[[languages.zh.menu.main]]
+name = "会议赞助"
+url = "/"
+weight = 3
+
+[[languages.en.menu.main]]
+name = "Sponsor"
+url = "/"
+weight = 3
+
+[[languages.zh.menu.main]]
+name = "会议团队"
+url = "/"
+weight = 4
+
+[[languages.en.menu.main]]
+name = "Conference Team"
+url = "/"
+weight = 4
+

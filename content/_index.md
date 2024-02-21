@@ -1,13 +1,10 @@
 ---
 kind: home
-title: CommunityOverCode Asia 2024 will be held in Hangzhou from July 26 to 28，2024
+title: Conference introduction
 keywords: CommunityOverCodeAsia, CommunityOverCode, ApacheCon,  CommunityOverCodeAsia2023
 ---
 
-CommunityOverCode (formly known as ApacheCon) is the official global conference series of The Apache Software Foundation (ASF). Since 1998 – before the ASF’s incorporation – ApacheCon has been drawing participants at all levels to explore ”Tomorrow’s Technology Today” across 300+ Apache projects and their diverse communities. CommunityOverCode showcases the latest developments in Apache projects and emerging innovations through hands-on sessions, keynotes, real-world case studies, trainings, hackathons, and more.
+As open-source culture continues to win hearts and minds, businesses and organizations increasingly recognize that open-source software is not just a technological asset but a key driver for innovation, collaboration, and building sustainable ecosystems. The Open Source Program Office (OSPO) plays an essential role in this wave, guiding organizations to smartly leverage open-source resources while ensuring participation and contribution to the open-source community in the best manner, adhering to relevant licenses and regulations.
 
-
-CommunityOverCode showcases the latest breakthroughs from ubiquitous Apache projects and upcoming innovations in the Apache Incubator, as well as open source development and leading community-driven projects the Apache way. Attendees learn about core open source technologies independent of business interests, corporate biases, or sales pitches.
-
-
-The CommunityOverCode program is dynamic, evolving at each event with content directly driven by select Apache project developer and user communities. CommunityOverCode delivers state-of-the-art content that features the latest open source advances in big data, cloud, community development, FinTech, IoT, machine learning, messaging, programming, search, security, servers, streaming, web frameworks, and more in a collaborative, vendor-neutral environment.
+The OSPO Summit aims to enlighten attendees on establishing or optimizing an OSPO, as well as enhancing organizational competitiveness through strategic management and participation in open-source projects. From policy formulation to community building, from compliance to cultural cultivation, we will explore how OSPO can become an indispensable part of corporate strategy, thereby unlocking the boundless potential of open source.
+Founded in 2022, the inaugural OSPO Summit concluded successfully in March 2023 in Beijing, with the second conference planned for March 2024 in Shenzhen.

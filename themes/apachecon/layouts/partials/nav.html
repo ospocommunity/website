@@ -1,52 +1,65 @@
-
-<nav id="nav" class="navbar navbar-dark navbar-expand-lg {{if .IsHome }} bg-transparent{{ else }}bg-dark-custom{{ end }}">
-  <div class="container py-1">
-    <div class="btn-wrap d-flex align-items-center justify-content-between">
-        {{ if .IsHome }}
+<nav id="nav"
+    class="navbar navbar-dark navbar-expand-lg {{if .IsHome }} bg-transparent{{ else }}bg-dark-custom{{ end }}">
+    <div class="container py-1">
+        <div class="btn-wrap d-flex align-items-center">
+            {{ if .IsHome }}
             <div>&nbsp;</div>
-        {{ else}}
+            {{ else}}
             <a href="index.html" class="navbar-brand">
                 <img class="logo-img" src="images/apachecon.png" height="30" ALIGN=CENTER>
             </a>
-        {{end}}
-         <button
-            onclick="changeMenuBg()"
-            class="navbar-toggler" 
-            type="button"
-            data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-    </div>
-    <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
-        <ul class="navbar-nav">
-            <!-- <li class="nav-item">
-                <a class="nav-link" href="index.html">
-                    {{ i18n "home"}}
-                </a>
-            </li> -->
-            {{ range .Site.Menus.main }}
+            {{end}}
+            <button onclick="changeMenuBg()" class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+                aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="flex-fill d-flex justify-content-end d-sm-none">
+                <ui class="navbar-nav flex-row flex-wrap ms-md-auto me-3">
+                    {{ if .IsTranslated }}
+                    {{ range .Translations }}
+                    <li class="nav-item">
+                        <a href="{{ .URL }}" class="nav-link">{{ i18n "translation" }}</a>
+                    </li>
+                    {{ end}}
+                    {{ end }}
+                </ui>
+                <a href="http://ospo-summit-2024.bagevent.com" target="_blank" class="btn btn-warning">{{i18n "register_attend"}}</a>
+            </div>
+        </div>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="index.html">
+                        {{ i18n "home"}}
+                    </a>
+                </li>
+                {{ range .Site.Menus.main }}
                 <li class="nav-item">
                     {{ .Pre }}
                     <a href="{{.URL}}" class="nav-link">{{ .Name }}</a>
                 </li>
-            {{end}}
-            {{ if .IsTranslated }}
-                {{ range .Translations }}
-                    <li class="nav-item">
-                        <a href="{{ .URL }}" class="nav-link" >{{ i18n "translation" }}</a>
-                    </li>
-                {{ end}}
-            {{ end }}
-            <!-- <button type="button" class="btn btn-warning ms-0 ms-lg-4">
+                {{end}}
+
+                <!-- <button type="button" class="btn btn-warning ms-0 ms-lg-4">
                 {{ i18n "register" }}
             </button> -->
-        </ul>
+            </ul>
+            <ui class="navbar-nav flex-row flex-wrap ms-md-auto">
+                {{ if .IsTranslated }}
+                {{ range .Translations }}
+                <li class="nav-item">
+                    <a href="{{ .URL }}" class="nav-link">{{ i18n "translation" }}</a>
+                </li>
+                {{ end}}
+                {{ end }}
+            </ui>
+        </div>
     </div>
-  </div>
 </nav>
 <script>
     const isHome = "{{ .IsHome }}";
-    function changeMenuBg () {
+    function changeMenuBg() {
         const nav = document.getElementById('nav');
         if (isHome !== 'true') {
             return;

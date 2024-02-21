@@ -55,8 +55,38 @@ home:
 register:
   other: 注册
 
-visit-2023:
-  other: 访问 CommunityOverCode Asia 2023
+visit:
+  other: 访问首届 OSPO Summit
+
+getTicket:
+  other: 注册参会
+
+speakers:
+  other: 会议演讲者
+
+sponsors:
+  other: 赞助商
+
+strategic_sponsor:
+  other: 战略赞助商
+
+platinum_sponsor:
+  other: 白金赞助商
+
+gold_sponsor:
+  other: 金牌赞助商
+
+strategic_community_partner:
+  other: 战略社区合作伙伴
+
+community_partner:
+  other: 社区合作伙伴
+
+submit_proposal:
+  other: 提交议题
+
+register_attend:
+  other: 注册参会
 
 weeks:
   other: 周

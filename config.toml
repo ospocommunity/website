@@ -1,6 +1,6 @@
 # set the baseURL for CI verification
 baseURL = "/"
-title_en = "The 2nd OSPO Summit"
+title2 = "The 2nd OSPO Summit"
 title = "第二届开源管理办公室年度峰会"
 theme = "osposummit"
 # When enabled, creates URL of the form /filename.html instead of /filename/.

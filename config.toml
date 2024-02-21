@@ -7,8 +7,8 @@ uglyURLs = true
 #hasCJKLanguage = true
 enableRobotsTXT = true
 
-languageCode = "en-us"
-DefaultContentLanguage = "en"
+languageCode = "zh-cn"
+DefaultContentLanguage = "zh"
 
 
 

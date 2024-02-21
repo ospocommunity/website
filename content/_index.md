@@ -1,10 +1,11 @@
 ---
-kind: home
-title: Conference introduction
-keywords: CommunityOverCodeAsia, CommunityOverCode, ApacheCon,  CommunityOverCodeAsia2023
+title: 大会介绍
 ---
 
-As open-source culture continues to win hearts and minds, businesses and organizations increasingly recognize that open-source software is not just a technological asset but a key driver for innovation, collaboration, and building sustainable ecosystems. The Open Source Program Office (OSPO) plays an essential role in this wave, guiding organizations to smartly leverage open-source resources while ensuring participation and contribution to the open-source community in the best manner, adhering to relevant licenses and regulations.
+随着开源文化的不断深入人心，企业和组织越来越认识到开源软件不仅仅是技术资产，更是推动创新、实现协作和构建可持续生态系统的关键驱动力。
 
-The OSPO Summit aims to enlighten attendees on establishing or optimizing an OSPO, as well as enhancing organizational competitiveness through strategic management and participation in open-source projects. From policy formulation to community building, from compliance to cultural cultivation, we will explore how OSPO can become an indispensable part of corporate strategy, thereby unlocking the boundless potential of open source.
-Founded in 2022, the inaugural OSPO Summit concluded successfully in March 2023 in Beijing, with the second conference planned for March 2024 in Shenzhen.
+OSPO 在这一浪潮中扮演着至关重要的角色，它不仅引导组织智慧地利用开源资源，更确保了组织在遵循相应许可和法规的基础上，能够以最佳的方式参与和贡献于开源社区。
+
+OSPO Summit 旨在通过精彩的演讲、深入的研讨和实践分享，帮助参会者了解如何建立或者优化 OSPO，以及如何通过策略性地管理和参与开源项目来增强组织竞争力。从政策制定到社区建设，从合规性到文化培育，我们将一起探索 OSPO 如何成为企业战略中不可或缺的一部分，进而释放开源的无限潜能。
+
+OSPO Summit 创始于 2022 年，首届 OSPO Summit 于 2023 年 3 月在北京圆满落幕，第二届大会拟于 2024 年 3 月在深圳举办。

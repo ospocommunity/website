@@ -1,5 +1,5 @@
 # set the baseURL for CI verification
-baseURL = "/"
+baseURL = "https://ospo.events/"
 title2 = "The 2nd OSPO Summit"
 title = "第二届开源管理办公室年度峰会"
 theme = "osposummit"

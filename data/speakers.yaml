@@ -1,0 +1,19 @@
+- image: /images/avatars/AmandaBrock.png
+  name: Amanda Brock
+  role: CEO of OpenUK
+  intro:
+    - <p>Amanda Brock is the CEO of OpenUK , the UK organisation for the business of Open Technology –  open source software, open hardware, open data, open innovation, open standards  and  open AI- with a purpose of UK Leadership and Global Collaboration in Open Technology. She is also the Executive Producer of State of Open Con 24 taking place 6 and 7 February 2024 in London. </p>
+    - <p>An appointed member of the Cabinet Office's Open Standards Board; and both UKRI’s UK Exescale Science and Industry Advisory Board and Digital Research Infrastructure Advisory Board.  She is a commercial Advisory Board Member at California Cyber Security company Mimoto and at the Scottish Geo Spatial Data company Space Aye. She is also an Advisory Board Member of KDE and a European Representative of the Open Invention Network.</p>
+    - <p>A lawyer of 25 years’ experience, she previously chaired the Open Source and IP Advisory Group of the United Nations Technology Innovation Labs; sat on the OASIS Open Projects, Initiative; was a Member of the British Computer Society Inaugural Influence Board; and of the UK Government Energy Sector Digitalisation Task Force Advisory Board; as well as being an elected Board Member of the Open Source Initiative. Formerly General Counsel of Canonical for 5 years from 2008 she set up and ran their legal function and has been part of the open source community since.</p>
+    - <p>Amanda was a judge in the IDG Foundry CIO 100 2023 having been a Judge in the We are Tech Women Rising Star Awards 2020-22.</p>
+    - <p>Listed as the 37(th) Most Influential Woman in UK Tech by Computer Weekly in 2023 and in Computing’s IT Leaders 100 2023, and the INvolve HERoes list of 100 global women executives driving change by example in 2022 and 2023.</p>
+    - <p>Amanda was awarded the Lifetime Achievement Award in the Women, Influence & Power in Law Awards UK in 2022.</p>
+    - <p>Amanda writes regularly for the tech press and is the editor of Open Source Law, Policy and Practice (2nd edition) published by Oxford University Press in October 2022, with open access thanks to the Vietsch Foundation <a href="https://amandabrock.com/books" target="_blank">https://amandabrock.com/books</a></p>
+    - <p><a href="https://linkedin.com/in/amandabrocktech" target="_blank">linkedin.com/in/amandabrocktech</a> @amandabrockUK @openuk_uk</p>
+    - <p><a href="https://openuk.uk/" target="_blank">openuk.uk</a> <a href="https://amandabrock.com/" target="_blank">amandabrock.com</a> </p>
+
+- image: /images/avatars/AnaJimenez.png
+  name: Ana Jimenez
+  role: Project Manager of TODO Group
+  intro:
+    - <p>Based in Europe, Ana Jimenez is the Project Manager for the Linux Foundation project's TODO Group. TODO is formed by a community of Open Source Program Office (OSPO) practitioners who aim to collaborate on best practices and tools to manage open source operations and enable healthy open source integration across an organization's teams. Formerly at Bitergia, a Software Development Analytics firm. She holds a Master's in Data Science from Universidad Rey Juan Carlos and finishes her studies in Front-End Development and JavaScript in Madrid, Spain.</p>

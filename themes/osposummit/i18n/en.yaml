@@ -28,6 +28,12 @@ sponsorship_bronze:
 sponsorship_media:
   other: Strategic Media
 
+agenda:
+  other: Agenda
+
+modal_title:
+  other: Speaker
+
 search:
   other: Retrieval
 

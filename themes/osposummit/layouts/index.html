@@ -4,7 +4,6 @@
 {{ partial "header.html" . }}
 
 <body class="homepage">
-
 	{{ partial "nav.html" . }}
 
 	<!-- Header Wrapper -->
@@ -21,8 +20,7 @@
 			<a href="https://www.bagevent.com/event/speechApply/8490447" target="_blank" class="btn btn-custom-1 btn-lg"
 				style="padding-left:2rem;padding-right:2rem;">{{i18n
 				"submit_proposal"}}</a>
-			<a href="#get_your_ticket"
-				class="btn btn-warning ms-3 d-none d-sm-inline btn-lg"
+			<a href="#get_your_ticket" class="btn btn-warning ms-3 d-none d-sm-inline btn-lg"
 				style="padding-left:2rem;padding-right:2rem;">{{i18n "register_attend"}}</a>
 		</div>
 		<div class="d-block d-sm-none d-flex justify-content-center w-100 pb-4" style="background: #19006a;">
@@ -34,12 +32,12 @@
 	<div class="wrapper style3">
 		<section class="container">
 			<div class="row justify-content-center">
-				<div class="col col-md-12 col-lg-10">
-					<h2 class="px-3 mb-5">{{.Title}}</h3>
+				<div class="col col-md-12 col-lg-10 text-white text-center">
+					<h2 class="text-center text-white mb-5">{{.Title}}</h3>
 
 						{{ partial "countdown.html" . }}
 
-						<div class="text-start">
+						<div class="text-start ">
 							{{.Content}}
 						</div>
 						<a href="https://github.com/orgs/ospogroup/discussions/12" target="_blank" role="button"
@@ -64,21 +62,21 @@
 
 	<div class="wrapper style3 bg-image-1">
 		<section class="container">
-			<h2 class="text-center mb-5">{{ i18n "speakers"}}</h3>
+			<h2 class="text-center text-white mb-5">{{ i18n "speakers"}}</h2>
 
-				<div class="row ">
+			<div class="row ">
 
-					{{ partial "speakers.html" . }}
+				{{ partial "speakers.html" . }}
 
-				</div>
+			</div>
 		</section>
 	</div>
 
 	<div class="wrapper style4">
 		<section class="container">
-			<h2 class="text-center mb-5">{{ i18n "sponsors"}}</h3>
+			<h2 class="text-center mb-5">{{ i18n "sponsors"}}</h2>
 
-				{{ partial "sponsors.html" . }}
+			{{ partial "sponsors.html" . }}
 		</section>
 	</div>
 

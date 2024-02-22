@@ -1,15 +1,31 @@
 <div class="row position-relative">
-    <div class="col-6 col-lg-2 col-md-4 mb-5">
-        <img src="/images/avatars/AmandaBrock.png" class="rounded-circle mb-2" width="128px" height="128px"
-            alt="avatar">
-        <h5 class="mb-1">Amanda Brock</h5>
-        <p class="text-white-50">CEO of OpenUK</p>
+    {{ range $index, $speaker := .Site.Data.speakers }}
+    <div class="col-6 col-lg-2 col-md-4 mb-5" data-bs-toggle="modal" data-bs-target="#speaker-{{$index}}">
+        <div class="text-center">
+            <img src="{{ .image }}" class="rounded-circle mb-2" width="128px" height="128px" alt="avatar">
+            <h5 class="mb-1 speaker-name">{{ .name }}</h5>
+            <p class="speaker-role">{{ .role }}</p>
+        </div>
     </div>
-    <div class="col-6 col-lg-2 col-md-4 mb-5">
-        <img src="/images/avatars/AnaJimenez.png" class="rounded-circle mb-2" width="128px" height="128px"
-            alt="avatar">
-        <h5 class="mb-1">Ana Jimenez</h5>
-        <p class="text-white-50">Project Manager of TODO Group</p>
+    <div class="modal fade" id="speaker-{{$index}}" tabindex="-1" aria-labelledby="speacker" aria-hidden="true">
+        <div class="modal-dialog modal-lg modal-dialog-scrollable">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h1 class="modal-title fs-5" id="speacker">{{i18n "modal_title"}}</h1>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body text-body">
+                    <div class="text-center mb-3">
+                        <img src="{{ .image }}" class="rounded-circle mb-2" width="128px" height="128px" alt="avatar">
+                        <h5 class="mb-1">{{ .name }}</h5>
+                        <p class="text-secondary">{{ .role }}</p>
+                    </div>
+                    {{range .intro}}
+                    {{. | safeHTML}}
+                    {{end}}
+                </div>
+            </div>
+        </div>
     </div>
-    
+    {{ end }}
 </div>

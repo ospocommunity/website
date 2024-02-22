@@ -1,14 +1,6 @@
-<nav id="nav"
-    class="navbar navbar-dark navbar-expand-lg {{if .IsHome }} bg-transparent{{ else }}bg-dark-custom{{ end }}">
+<nav id="nav" class="navbar navbar-dark navbar-expand-lg bg-transparent">
     <div class="container py-1">
         <div class="btn-wrap d-flex align-items-center">
-            {{ if .IsHome }}
-            <div>&nbsp;</div>
-            {{ else}}
-            <a href="index.html" class="navbar-brand">
-                <img class="logo-img" src="images/apachecon.png" height="30" ALIGN=CENTER>
-            </a>
-            {{end}}
             <button onclick="changeMenuBg()" class="navbar-toggler" type="button" data-bs-toggle="collapse"
                 data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
                 aria-label="Toggle navigation">
@@ -30,9 +22,16 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav">
                 <li class="nav-item">
-                    <a class="nav-link" href="index.html">
+                    {{ if eq .Site.Language.Lang "zh" }}
+
+                    <a class="nav-link" href="/">
                         {{ i18n "home"}}
                     </a>
+                    {{ else }}
+                    <a class="nav-link" href="/en">
+                        {{ i18n "home"}}
+                    </a>
+                    {{ end }}
                 </li>
                 {{ range .Site.Menus.main }}
                 <li class="nav-item">

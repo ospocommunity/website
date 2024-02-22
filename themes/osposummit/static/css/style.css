@@ -1,7 +1,7 @@
 /* Basic */
 
 body {
-	background: #222222;
+	background: #19006A;
 }
 
 body.loading * {
@@ -84,6 +84,13 @@ header.major h2 {
 	background: #23f5ef !important;
 	border: 1px solid #23f5ef !important;
 	color: #222222;
+}
+.sub-banner {
+	background-image: url(/images/img-2.png);
+	color: white;
+	height: 260px;
+	background-size: cover;
+    background-repeat: no-repeat;
 }
 
 @media screen and (max-width: 768px) {
@@ -461,8 +468,6 @@ input[type="button"].small,
 
 .wrapper.style3 {
 	background: #170777;
-	text-align: center;
-	color: white;
 }
 
 .wrapper.style3 p:last-child {
@@ -513,6 +518,14 @@ input[type="button"].small,
 	background-repeat: no-repeat;
 	z-index: 0;
 	opacity: 50%;
+}
+
+.speaker-name {
+	color: white
+}
+
+.speaker-role {
+	color: rgba(255, 255, 255, 0.5)
 }
 
 @media screen and (max-width: 1199px) {

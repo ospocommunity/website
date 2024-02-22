@@ -1,0 +1,70 @@
+<!DOCTYPE HTML>
+
+<html>
+{{ partial "header.html" . }}
+
+<body>
+    <style>
+        .speaker-name {
+            color: #212529 !important;
+        }
+
+        .speaker-role {
+            color: #6c757d !important;
+        }
+    </style>
+    <!-- Header Wrapper -->
+    <div class="wrapper style1">
+
+        <!-- Header -->
+        <div class="sub-banner position-relative d-flex flex-column">
+            {{ partial "nav.html" . }}
+            <div class="flex-fill d-flex justify-content-center align-items-center">
+                <h1 style="font-size: 40px;">{{i18n "guide"}}</h1>
+            </div>
+        </div>
+
+
+        <!-- Main -->
+        <div id="main" class="wrapper style4 page">
+
+            <!-- Content -->
+            <div id="content" class="container">
+                <div class="row">
+                    <div class="col-3">
+                        <ul class="nav flex-column">
+                            {{ $currentUrl := .URL }}
+                            {{ range $index, $guide := .Site.Data.guides }}
+                            {{ $url := "" }}
+                            {{ if eq $.Site.Language.Lang "zh" }}
+                            {{ $url = $guide.url }}
+                            {{ else }}
+                            {{ $url = printf "/en%s" $guide.url }}
+                            {{ end }}
+
+                            <li class="nav-item">
+                                <a href="{{ $url }}" class="nav-link {{ if eq $currentUrl $url }} active{{ end }}"
+                                    aria-current="true">
+                                    {{ i18n $guide.name }}
+                                </a>
+                            </li>
+                            {{ end }}
+
+                        </ul>
+                    </div>
+                    <div class="col-9">
+                        <div class="card border-0">
+                            <div class="card-body">
+                                <h2 class="mb-4">{{.Title}}</h2>
+
+                                <article>{{.Content}}</article>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        {{ partial "footer.html" . }}
+</body>
+
+</html>

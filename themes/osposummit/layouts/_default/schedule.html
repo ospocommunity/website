@@ -20,7 +20,7 @@
 		<div class="sub-banner position-relative d-flex flex-column">
 			{{ partial "nav.html" . }}
 			<div class="flex-fill d-flex justify-content-center align-items-center">
-				<h1 style="font-size: 40px;">{{i18n "agenda"}}</h1>
+				<h1 style="font-size: 40px;">{{.Title}}</h1>
 			</div>
 		</div>
 
@@ -42,14 +42,7 @@
 				</section>
 			</div>
 		</div>
-
-		{{ if eq .Params.identifier "sponsorship" }}
-		{{ partial "sponsorship.html" . }}
-		{{ end }}
-
 		{{ partial "footer.html" . }}
-
-
 </body>
 
 </html>

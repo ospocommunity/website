@@ -31,6 +31,43 @@ sponsorship_media:
 agenda:
   other: Agenda
 
+visa_letter_request:
+  other: Visa Letter Request
+
+presentation_slides_template:
+  other: Presentation Slides Template
+
+convince_your_boss:
+  other: Convince Your Boss
+
+code_of_conduct:
+  other: Code of Conduct
+
+terms_conditions:
+  other: Terms & Conditions
+
+accessibility:
+  other: Accessibility
+
+faq:
+  other: FAQ
+
+venue:
+  other: Venue
+
+about_shenzhen:
+  other: About Shenzhen
+
+getting_there:
+  other: Getting There
+
+venue_travel:
+  other: Venue + Travel
+
+guide:
+  other: Guide
+
+
 modal_title:
   other: Speaker
 

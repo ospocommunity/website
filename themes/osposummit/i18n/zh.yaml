@@ -34,6 +34,43 @@ agenda:
 modal_title:
   other: 演讲者
 
+visa_letter_request:
+  other: 申请 Visa Letter
+
+presentation_slides_template:
+  other: 下载演示文档模板
+
+convince_your_boss:
+  other: 向您所在公司阐述参会价值
+
+code_of_conduct:
+  other: 行为准则
+
+terms_conditions:
+  other: 条款和条件
+
+accessibility:
+  other: 无障碍设施
+
+faq:
+  other: 常见问题
+
+venue:
+  other: 会议场地
+
+about_shenzhen:
+  other: 关于深圳
+
+getting_there:
+  other: 交通指南
+
+venue_travel:
+  other: 会场 + 旅行
+
+
+guide:
+  other: 参会指南
+
 search:
   other: 检索
 

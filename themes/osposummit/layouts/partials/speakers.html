@@ -1,11 +1,12 @@
 <div class="row position-relative">
     {{ range $index, $speaker := .Site.Data.speakers }}
     <div class="col-6 col-lg-2 col-md-4 mb-5" data-bs-toggle="modal" data-bs-target="#speaker-{{$index}}">
-        <div class="text-center">
+        <div class="text-center" style="cursor: pointer;">
             <img src="{{ .image }}" class="rounded-circle mb-2" width="128px" height="128px" alt="avatar">
             <h5 class="mb-1 speaker-name">{{ .name }}</h5>
             <p class="speaker-role">{{ .role }}</p>
         </div>
+
     </div>
     <div class="modal fade" id="speaker-{{$index}}" tabindex="-1" aria-labelledby="speacker" aria-hidden="true">
         <div class="modal-dialog modal-lg modal-dialog-scrollable">

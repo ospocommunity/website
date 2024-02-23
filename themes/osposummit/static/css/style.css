@@ -3,6 +3,7 @@
 :root {
 	--bs-primary: #19006A !important;
 	--bs-link-color: #19006A !important;
+	--bs-link-hover-color: #19006A !important;
 }
 .nav-link.active {
 	background-color: var(--bs-primary);

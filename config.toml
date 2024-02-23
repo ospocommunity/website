@@ -74,13 +74,13 @@ name = "Sponsor"
 url = "/en/sponsor.html"
 weight = 3
 
-[[languages.zh.menu.main]]
-name = "会议团队"
-url = "/"
-weight = 4
+# [[languages.zh.menu.main]]
+# name = "会议团队"
+# url = "/"
+# weight = 4
 
-[[languages.en.menu.main]]
-name = "Conference Team"
-url = "/"
-weight = 4
+# [[languages.en.menu.main]]
+# name = "Conference Team"
+# url = "/"
+# weight = 4
 

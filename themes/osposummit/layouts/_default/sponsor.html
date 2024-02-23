@@ -1,0 +1,91 @@
+<!DOCTYPE HTML>
+
+<html>
+	{{ partial "header.html" . }}
+
+	<body>
+		<style>
+			.speaker-name {
+				color: #212529 !important;
+			}
+
+			.speaker-role {
+				color: #6c757d !important;
+			}
+		</style>
+		<!-- Header Wrapper -->
+		<div
+			class="wrapper style1">
+			<!-- Header -->
+			<div class="sub-banner position-relative d-flex flex-column">
+				{{ partial "nav.html" . }}
+				<div class="flex-fill d-flex justify-content-center align-items-center">
+					<h1 style="font-size: 40px;">{{.Title}}</h1>
+				</div>
+			</div>
+
+
+			<!-- Main -->
+			<div
+				id="main" class="wrapper style4 page">
+
+				<!-- Content -->
+				<div id="content" class="container">
+					<section>
+						{{ if eq .Site.Language.Lang "zh" }}
+
+							{{ range .Site.Data.sponsor.zh }}
+								<div class="card border-0 mb-3">
+									<div class="card-body">
+										<div class="d-flex">
+											✅
+											<div class="ms-3">
+												<h3>{{.name}}</h3>
+												<p>{{.description}}</p>
+											</div>
+										</div>
+
+									</div>
+								</div>
+							{{ end }}
+
+						{{ else }}
+
+							{{ range .Site.Data.sponsor.en }}
+								<div class="card border-0 mb-3">
+									<div class="card-body">
+										<div class="d-flex">
+											✅
+											<div class="ms-3">
+												<h3>{{.name}}</h3>
+												<p>{{.description}}</p>
+											</div>
+										</div>
+									</div>
+								</div>
+							{{ end }}
+						{{ end }}
+
+						<div class="text-center mt-3 pt-3" style="margin-bottom: 4rem">
+							<button class="btn btn-warning mb-5 btn-lg" style="padding-left: 2rem; padding-right: 2rem;">{{i18n "download_sponsorship"}}</button>
+							<div>
+								{{i18n "sponsorship_consultation"}}{{ if eq .Site.Language.Lang "zh" }}：{{else}}:{{end}}徐琳
+								<br/>
+								{{i18n "email"}}{{ if eq .Site.Language.Lang "zh" }}：{{else}}:{{end}}linda@sifou.com{{ if eq .Site.Language.Lang "zh" }}，{{else}},{{end}}{{i18n
+							"wechat"}}{{ if eq .Site.Language.Lang "zh" }}：{{else}}:{{end}}xuxiaolin0528
+							</div>
+						</div>
+						<h2 class="text-center mb-5" style="margin-top: 4rem">{{ i18n "sponsors"}}</h2>
+
+						<div class="row ">
+
+							{{ partial "sponsors.html" . }}
+
+						</div>
+
+					</section>
+				</div>
+			</div>
+			{{ partial "footer.html" . }}</body>
+	</body>
+</html>

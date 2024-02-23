@@ -67,7 +67,6 @@ getting_there:
 venue_travel:
   other: 会场 + 旅行
 
-
 guide:
   other: 参会指南
 
@@ -148,3 +147,15 @@ minutes:
 
 seconds:
   other: 秒
+
+download_sponsorship:
+  other: 下载赞助方案
+
+sponsorship_consultation:
+  other: 赞助咨询
+
+email:
+  other: 邮箱
+  
+wechat:
+  other: 微信

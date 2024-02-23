@@ -66,12 +66,12 @@ weight = 2
 
 [[languages.zh.menu.main]]
 name = "会议赞助"
-url = "/"
+url = "/sponsor.html"
 weight = 3
 
 [[languages.en.menu.main]]
 name = "Sponsor"
-url = "/"
+url = "/en/sponsor.html"
 weight = 3
 
 [[languages.zh.menu.main]]

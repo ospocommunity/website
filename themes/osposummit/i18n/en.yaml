@@ -147,3 +147,15 @@ minutes:
 
 seconds:
   other: Seconds
+
+download_sponsorship:
+  other: Download Sponsorship Prospectus
+
+sponsorship_consultation:
+  other: Sponsorship Consultation
+
+email:
+  other: Email
+  
+wechat:
+  other: Wechat

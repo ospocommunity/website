@@ -1,6 +1,6 @@
-# ApacheCon hugo site
+# OSPO Summit hugo site
 
-This repository contains a Hugo based site for ApacheCon.
+This repository contains a Hugo based site for OSPO Summit.
 
 NOTE: Please use hugo v0.92.2 to avoid the website build error.
 

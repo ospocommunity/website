@@ -1,0 +1,50 @@
+<!DOCTYPE HTML>
+
+<html>
+{{ partial "header.html" . }}
+
+<body>
+	<style>
+		.speaker-name {
+			color: #212529 !important;
+		}
+
+		.speaker-role {
+			color: #6c757d !important;
+		}
+	</style>
+	<!-- Header Wrapper -->
+	<div class="wrapper style1">
+		<!-- Header -->
+		<div class="sub-banner position-relative d-flex flex-column">
+			{{ partial "nav.html" . }}
+			<div class="flex-fill d-flex justify-content-center align-items-center">
+				<h1 style="font-size: 40px;">{{.Title}}</h1>
+			</div>
+		</div>
+
+
+		<!-- Main -->
+		<div id="main" class="wrapper style4 page">
+
+			<!-- Content -->
+			<div id="content" class="container">
+				<section>
+
+
+					<h2 class="text-center mb-5">{{ i18n "support"}}</h2>
+
+					<div class="row ">
+
+						{{ partial "support.html" . }}
+
+					</div>
+
+				</section>
+			</div>
+		</div>
+		{{ partial "footer.html" . }}
+</body>
+</body>
+
+</html>

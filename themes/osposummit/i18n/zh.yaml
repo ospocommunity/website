@@ -13,6 +13,12 @@ translation:
 community_partner:
   other: 社区合作伙伴
 
+staff:
+  other: 筹备组成员
+
+modal_staff:
+  other: 会议筹备成员
+
 support_org:
   other: 支持组织
 

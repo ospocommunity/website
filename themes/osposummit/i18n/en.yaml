@@ -13,6 +13,13 @@ translation:
 community_partner:
   other: community partner
 
+staff:
+  other: summit staff
+
+
+modal_staff:
+  other: summit staff
+
 support_org:
   other: Support Open Source Organzation
 

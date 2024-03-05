@@ -535,13 +535,11 @@ input[type="button"].small,
 	opacity: 50%;
 }
 
-.speaker-name,
-.staff-name {
+.speaker-name {
 	color: white
 }
 
-.speaker-role,
-.staff-role {
+.speaker-role {
 	color: rgba(255, 255, 255, 0.5)
 }
 

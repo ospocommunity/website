@@ -1,4 +1,4 @@
 ---
-title: conference_team
+title: Conference Team
 layout: staff
 ---

@@ -1,9 +1,12 @@
-- image: /images/avatars/img1.png
-  name: 郁志强
-  role: 开源布道师
-  intro: 郁志强是中国移动研究院的首席开源联络官。自2022年起，他成为 LF APAC 开源布道者团队的一员，并担任 LF APAC OSPO SIG 联合主席。他与江波、李建盛一起，发起了第一届 OSPO Summit。
 
-- image: /images/avatars/img2.png
-  name: 江波
-  role: SegmentFault 思否 COO，Answer.dev 联合创始人
-  intro: 现任开源社理事 & 2022 年度执行长，是 ALC Beijing 正式成员，CCF 开源发展委员会执行委员，中国通信学会开源技术委员会组织秘书，多个开源/生态大会的核心组织者，如：ApacheCon Asia、OpenInfra Days China、COSCon、Dev.Together 开发者生态峰会等。
+- image: /images/staff/biansikang.jpg
+  name: 边思康
+  role: 蚂蚁集团 蚂蚁开源办公室负责人
+  intro:
+    第二届 OSPO Summit 联合主席。
+
+- image: /images/staff/Arnuojo.jpg
+  name: 刘洁
+  role: 华为开源布道者
+  intro:
+    第二届 OSPO Summit 联合主席。

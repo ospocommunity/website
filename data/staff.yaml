@@ -1,13 +1,234 @@
-- image: /images/staff/biansikang.jpg
-  name: 边思康
-  role: 蚂蚁集团 蚂蚁开源办公室负责人
-  intro:
-    - <p></p>
-    - <p> 第二届 OSPO Summit 联合主席。</p>
+- image: /images/avatars/img1.png
+  name: 郁志强
+  role: 开源布道师
+  intro: 
+    - <p>郁志强是中国移动研究院的首席开源联络官。自2022年起，他成为 LF APAC 开源布道者团队的一员，并担任 LF APAC OSPO SIG 联合主席。他与江波、李建盛一起，发起了第一届 OSPO Summit。</p>
 
-- image: /images/staff/Arnuojo.jpg
-  name: 刘洁
-  role: 华为开源布道者
-  intro:
-    - <p> 第二届 OSPO Summit 联合主席。</p>
+- image: /images/avatars/img2.png
+  name: 江波
+  role: SegmentFault 思否 COO，Answer.dev 联合创始人
+  intro: 
+    - <p>现任开源社理事 & 2022 年度执行长，是 ALC Beijing 正式成员，CCF 开源发展委员会执行委员，中国通信学会开源技术委员会组织秘书，多个开源/生态大会的核心组织者，如：ApacheCon Asia、OpenInfra Days China、COSCon、Dev.Together 开发者生态峰会等。</p>
+
+- image: /images/avatars/lixue.jpg
+  name: 李雪
+  role: 开放原子开源基金会品牌推广部部长
+  intro: 
+   - <p></p>
+
+- image: /images/avatars/genhang.jpg
+  name: 耿航
+  role: 
+  intro: 
+   - <p></p>
+
+- image: /images/avatars/kuosi.jpeg
+  name: 适兕
+  role: 作者，「开源之道」主创，OSPO 倡导者。
+  intro: 
+   - <p></p>
+
+- image: /images/avatars/ted-liu.jpg
+  name: 刘天栋
+  role: 开源社联合创始人
+  intro: 
+   - <p></p>
+
+- image: /images/avatars/male.jpg
+  name: 马乐
+  role: 
+  intro: 
+   - <p></p>
+
+- image: /images/avatars/xiaxiaoya.jpg
+  name: 夏小雅
+  role:  华东师范大学 Ph.D Candidate
+  intro: 
+   - <p></p>
+
+- image: /images/avatars/yangxuan.jpg
+  name: 杨轩
+  role: Linux Foundation APAC 总监
+  intro: 
+   - <p></p>
+
+- image: /images/avatars/g
+  name: 
+  role: 
+  intro: 
+   - <p></p>
+
+- image: /images/avatars/g
+  name: 
+  role: 
+  intro: 
+   - <p></p>
+
+- image: /images/avatars/g
+  name: 
+  role: 
+  intro: 
+   - <p></p>
+
+- image: /images/avatars/g
+  name: 
+  role: 
+  intro: 
+   - <p></p>
+
+- image: /images/avatars/g
+  name: 
+  role: 
+  intro: 
+   - <p></p>
+
+- image: /images/avatars/g
+  name: 
+  role: 
+  intro: 
+   - <p></p>
+
+- image: /images/avatars/g
+  name: 
+  role: 
+  intro: 
+   - <p></p>
+
+- image: /images/avatars/g
+  name: 
+  role: 
+  intro: 
+   - <p></p>
+
+- image: /images/avatars/g
+  name: 
+  role: 
+  intro: 
+   - <p></p>
+
+- image: /images/avatars/g
+  name: 
+  role: 
+  intro: 
+   - <p></p>
+
+- image: /images/avatars/g
+  name: 
+  role: 
+  intro: 
+   - <p></p>
+
+- image: /images/avatars/g
+  name: 
+  role: 
+  intro: 
+   - <p></p>
+
+- image: /images/avatars/g
+  name: 
+  role: 
+  intro: 
+   - <p></p>
+
+- image: /images/avatars/g
+  name: 
+  role: 
+  intro: 
+   - <p></p>
+
+- image: /images/avatars/g
+  name: 
+  role: 
+  intro: 
+   - <p></p>
+
+- image: /images/avatars/g
+  name: 
+  role: 
+  intro: 
+   - <p></p>
+
+- image: /images/avatars/g
+  name: 
+  role: 
+  intro: 
+   - <p></p>
+
+- image: /images/avatars/g
+  name: 
+  role: 
+  intro: 
+   - <p></p>
+
+- image: /images/avatars/g
+  name: 
+  role: 
+  intro: 
+   - <p></p>
+
+- image: /images/avatars/g
+  name: 
+  role: 
+  intro: 
+   - <p></p>
+
+- image: /images/avatars/g
+  name: 
+  role: 
+  intro: 
+   - <p></p>
+
+- image: /images/avatars/g
+  name: 
+  role: 
+  intro: 
+   - <p></p>
+
+- image: /images/avatars/g
+  name: 
+  role: 
+  intro: 
+   - <p></p>
+
+- image: /images/avatars/g
+  name: 
+  role: 
+  intro: 
+   - <p></p>
+
+- image: /images/avatars/g
+  name: 
+  role: 
+  intro: 
+   - <p></p>
+
+- image: /images/avatars/g
+  name: 
+  role: 
+  intro: 
+   - <p></p>
+
+- image: /images/avatars/g
+  name: 
+  role: 
+  intro: 
+   - <p></p>
+
+- image: /images/avatars/g
+  name: 
+  role: 
+  intro: 
+   - <p></p>
+
+- image: /images/avatars/g
+  name: 
+  role: 
+  intro: 
+   - <p></p>
+
+- image: /images/avatars/g
+  name: 
+  role: 
+  intro: 
+   - <p></p>
 

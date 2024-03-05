@@ -76,12 +76,12 @@ weight = 3
 
 [[languages.zh.menu.main]]
 name = "会议筹备组成员"
-url = "/"
+url = "/conference_team.html"
 weight = 4
 
 [[languages.en.menu.main]]
 name = "Conference Team"
-url = "/"
+url = "/en/conference_team.html"
 weight = 4
 
 [[languages.zh.menu.main]]

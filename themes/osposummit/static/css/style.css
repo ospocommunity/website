@@ -5,11 +5,13 @@
 	--bs-link-color: #19006A !important;
 	--bs-link-hover-color: #19006A !important;
 }
+
 .nav-link.active {
 	background-color: var(--bs-primary);
 	color: white;
 	border-radius: var(--radius-rounded-2, 6px);
 }
+
 body {
 	background: var(--bs-primary);
 }
@@ -90,17 +92,19 @@ header.major h2 {
 	border: 1px solid #00FFF8;
 	color: #222222;
 }
+
 .btn-custom-1:hover {
 	background: #23f5ef !important;
 	border: 1px solid #23f5ef !important;
 	color: #222222;
 }
+
 .sub-banner {
 	background-image: url(/images/img-2.png);
 	color: white;
 	height: 260px;
 	background-size: cover;
-    background-repeat: no-repeat;
+	background-repeat: no-repeat;
 }
 
 @media screen and (max-width: 768px) {
@@ -516,6 +520,7 @@ input[type="button"].small,
 .bg-image-1 {
 	position: relative;
 }
+
 .bg-image-1:before {
 	content: "";
 	position: absolute;
@@ -523,18 +528,20 @@ input[type="button"].small,
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background-image: url(/images/img-1.png) ;
+	background-image: url(/images/img-1.png);
 	background-size: cover;
 	background-repeat: no-repeat;
 	z-index: 0;
 	opacity: 50%;
 }
 
-.speaker-name {
+.speaker-name,
+.staff-name {
 	color: white
 }
 
-.speaker-role {
+.speaker-role,
+.staff-role {
 	color: rgba(255, 255, 255, 0.5)
 }
 
@@ -592,6 +599,7 @@ input[type="button"].small,
 		position: relative;
 		background-color: #170777 !important;
 	}
+
 	#nav .btn-wrap {
 		display: block;
 		width: 100%;
@@ -894,6 +902,7 @@ input[type="button"].small,
 	}
 
 }
+
 .support-logos {
 	img {
 		margin: 0 1rem 1rem;

@@ -90,7 +90,7 @@ url = "/support.html"
 weight = 5
 
 [[languages.en.menu.main]]
-name = "support organization"
+name = "Support Organization"
 url = "/en/support.html"
 weight = 5
 

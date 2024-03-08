@@ -96,11 +96,13 @@
   intro: 
    - <p>就职于中国电子技术标准化研究院，主要负责木兰开源社区运营，和ISO/IEC JTC1 SC38 中国对口单位秘书处工作。</p>
 
-- image: /images/avatars/g
-  name: 
-  role: 
+- image: /images/avatars/chenrui.jpeg
+  name: Rui Chen
+  role: Senior Staff Software Engineer
   intro: 
-   - <p></p>
+   - <p>"Rui is currently working as Senior Staff Software Engineer at [Meetup](https://www.meetup.com/).</p> 
+   - <p>And I am also helping out as maintainer for [Homebrew](https://github.com/Homebrew), [Atlantis](https://github.com/runatlantis/atlantis/), [tflint](https://github.com/terraform-linters/tflint), and [awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) projects.</> 
+   - <p>As OSS project lover, I also do various contributions to many other Terraform/k8s/Bazel projects as well."</p>
 
 - image: /images/avatars/g
   name: 

@@ -492,7 +492,7 @@ input[type="button"].small,
 	background: #f8f9fa;
 }
 
-.wrapper.style4 .title {
+.wrapper.style4 .container > .title {
 	display: flex;
 	align-items: center;
 	font-size: 2.5em;
@@ -905,4 +905,63 @@ input[type="button"].small,
 	img {
 		margin: 0 1rem 1rem;
 	}
+}
+
+#arrange table {
+    width: 100%
+}
+
+#arrange table tbody .author span:first-child {
+    display: inline-block;
+    min-width: 52px;
+    text-align: justify;
+    text-align-last: justify;
+    font-size: 14px;
+    color: #6c757d
+}
+
+#arrange table tbody .author span:nth-child(2) {
+    padding-left: 8px;
+    font-size: 14px;
+    color: #6c757d
+}
+
+#arrange table tbody .author .spe {
+    width: auto!important
+}
+
+#arrange table tbody td {
+    border: 1px solid #bebebe;
+    padding: 12px;
+    vertical-align: middle!important
+}
+
+#arrange table tbody td>p:first-child,#arrange table tbody td>span:first-child {
+    display: block
+}
+
+#arrange table tbody td>p:nth-child(n+2),#arrange table tbody td>span:nth-child(2) {
+    font-size: 14px;
+    color: #6c757d
+}
+
+#arrange table tbody .td-noborder {
+    border: none
+}
+
+#arrange table tbody .td-noborder2 {
+    border-bottom: none
+}
+
+#arrange table .font-size-14 {
+    font-size: 14px
+}
+
+#arrange table .title {
+    color: #000;
+    font-weight: 700
+}
+
+#arrange table .noborder>td {
+    border: none!important
 }

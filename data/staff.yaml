@@ -104,3 +104,8 @@
    - <p>And I am also helping out as maintainer for [Homebrew](https://github.com/Homebrew), [Atlantis](https://github.com/runatlantis/atlantis/), [tflint](https://github.com/terraform-linters/tflint), and [awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) projects.</> 
    - <p>As OSS project lover, I also do various contributions to many other Terraform/k8s/Bazel projects as well."</p>
 
+- image: /images/avatars/mengwei.jpeg
+  name: 孟伟
+  role: LF AI & Data董事会主席
+  intro: 
+   - <p>在中兴通讯从事标准开源工作，中国人工智能产业发展联盟总体组副组长，联合国国际电联ML5G架构组主席，第一作者获得授权专利30余篇。</p>

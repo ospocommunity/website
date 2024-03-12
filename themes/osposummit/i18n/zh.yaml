@@ -37,6 +37,18 @@ sponsorship_bronze:
 sponsorship_media:
   other: 战略合作媒体
 
+sponsorship_strategic_community:
+  other: 战略社区合作伙伴
+
+sponsorship_community:
+  other: 社区合作伙伴
+
+sponsorship_toolbox:
+  other: OSPO 百宝箱合作企业
+
+sponsorship_swag:
+  other: 大会周边礼品赞助
+
 agenda:
   other: 会议议程
 
@@ -121,29 +133,6 @@ speakers:
 sponsors:
   other: 赞助商
 
-strategic_sponsor:
-  other: 战略赞助商
-
-platinum_sponsor:
-  other: 白金赞助商
-
-gold_sponsor:
-  other: 金牌赞助商
-
-strategic_community_partner:
-  other: 战略社区合作伙伴
-
-community_partner:
-  other: 社区合作伙伴
-
-co_create_partner:
-  other: 共创合作伙伴
-
-toolbox_partner:
-  other: OSPO 百宝箱合作企业
-
-gift_partner:
-  other: 大会周边礼品赞助
 
 submit_proposal:
   other: 提交议题

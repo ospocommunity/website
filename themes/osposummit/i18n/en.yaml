@@ -38,6 +38,18 @@ sponsorship_bronze:
 sponsorship_media:
   other: Strategic Media
 
+sponsorship_strategic_community:
+  other: Strategic Community
+
+sponsorship_community:
+  other: Community
+
+sponsorship_toolbox:
+  other: OSPO Toolbox
+
+sponsorship_swag:
+  other: Swag
+
 agenda:
   other: Agenda
 
@@ -123,29 +135,6 @@ speakers:
 sponsors:
   other: Sponsors 
 
-strategic_sponsor:
-  other: Strategic Sponsor
-
-platinum_sponsor:
-  other: Platinum Sponsor
-
-gold_sponsor:
-  other: Gold Sponsor
-
-strategic_community_partner:
-  other: Strategic Community Partner
-
-community_partner:
-  other: Community Partner
-
-co_create_partner:
-  other: Co-create Partner
-
-toolbox_partner:
-  other: OSPO Toolbox Partner
-
-gift_partner:
-  other: Summit Gift Partner
 
 submit_proposal:
   other: Submit Proposal

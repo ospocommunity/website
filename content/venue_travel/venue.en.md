@@ -11,8 +11,11 @@ The Kexing International Conference Center is based in the Kexing Science Parkâ€
 Kexing Science Park is located at the core of Shenzhen's high-tech park, positioned within a multi-dimensional transport hub close to Shenzhen's ports, docks, and airport. It is served by over 20 bus routes, with just a 10-minute distance from the nearest subway station.
 
 10 minutes to Shenzhen Bay Port;
+<br/>
 15 minutes to Futian CBD;
+<br/>
 20 minutes to Shekou Ferry Terminal;
+<br/>
 30 minutes to Bao'an International Airport. 
 
 ### Hotels Nearby
@@ -22,12 +25,18 @@ Kexing Science Park is located at the core of Shenzhen's high-tech park, positio
 
 2. Others (within 10 minutes walk)
 Yaddo Hotel Shenzhen Nanshan Science Park Keyuan Road
+<br/>
 Hilton Hampton Hotel Shenzhen Nanshan Science Park (Hilton)
+<br/>
 Hilton Garden Inn Shenzhen Nanshan Science Park (Hilton)
+<br/>
 UrCove by HYATT, Nanshan Science and Technology Park, Shenzhen (Hyatt)
+<br/>
 Crowne Plaza Shenzhen Shenzhen Railway (IHG)
 
 3. Others (within 20 minutes walk)
 The Lia Carlton Hotel, Shenzhen Bay Science Park
+<br/>
 Courtyard by Marriott, Shenzhen Bay (Marriott)
+<br/>
 Renaissance Shenzhen Bay Hotel (Marriott)

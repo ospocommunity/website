@@ -901,7 +901,7 @@ input[type="button"].small,
 
 }
 
-.support-logos {
+.support-logos,.sponsor-logos {
 	img {
 		margin: 0 1rem 1rem;
 	}

@@ -930,7 +930,7 @@ input[type="button"].small,
     width: auto!important
 }
 
-#arrange table tbody td {
+#arrange table tbody td, #arrange table thead td	{
     border: 1px solid #bebebe;
     padding: 12px;
     vertical-align: middle!important

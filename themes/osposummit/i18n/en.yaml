@@ -10,9 +10,6 @@ tracks:
 translation:
   other: 中文
 
-community_partner:
-  other: community partner
-
 staff:
   other: summit staff
 
@@ -141,6 +138,15 @@ strategic_community_partner:
 community_partner:
   other: Community Partner
 
+co_create_partner:
+  other: Co-create Partner
+
+toolbox_partner:
+  other: OSPO Toolbox Partner
+
+gift_partner:
+  other: Summit Gift Partner
+
 submit_proposal:
   other: Submit Proposal
 
@@ -175,3 +181,15 @@ wechat:
 
 forum_chairman:
   other: Forum Chairman
+
+agenda_title:
+  other: Agenda
+
+forum:
+  other: Forum
+
+time:
+  other: Time
+
+topic:
+  other: Topic

@@ -124,6 +124,9 @@ register:
   other: Register
 
 visit:
+  other: Visit OSPO Summit 2024
+
+visit_2024:
   other: Visit the first OSPO Summit
 
 getTicket:

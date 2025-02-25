@@ -2,8 +2,8 @@
 title: Convince Your Boss
 ---
 
-Want to attend but not sure how to bring it up with your boss? We’ve created this sample email to help you explain why it’s important to attend OSPO Summit 2024. Feel free to use the full letter or pieces that work for you. See you in Shenzhen!
+Want to attend this conference but not sure how to ask your boss? We've prepared this email template to help you explain to your company why attending OSPO Summit is important. You can use the entire email or parts that work for you. We look forward to seeing you in Beijing!
 
-<a class="btn btn-warning" style="padding-left: 2rem; padding-right: 2rem;">
+<a class="btn btn-warning" href="https://sifoudev.sg.larksuite.com/docx/IxoXdSGEqoC38RxwSdll5MsLgqg?from=from_copylink" style="padding-left: 2rem; padding-right: 2rem;">
 Download Template
 </a>

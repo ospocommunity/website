@@ -14,6 +14,7 @@ DefaultContentLanguage = "zh"
 
 
 [params]
+  currentYear = "2025"
   author = ""
   description = ""
   keywords = []

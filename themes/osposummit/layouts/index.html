@@ -19,7 +19,7 @@
 		<div class="d-none d-sm-flex position-absolute bottom-0 mb-5 justify-content-center w-100">
 			<a href="/schedule.html"class="btn btn-custom-1 btn-lg"
 				style="padding-left:2rem;padding-right:2rem;">{{i18n
-				"agenda_title"}}</a>
+				"submit_proposal"}}</a>
 			<a href="#get_your_ticket" class="btn btn-warning ms-3 d-none d-sm-inline btn-lg"
 				style="padding-left:2rem;padding-right:2rem;">{{i18n "register_attend"}}</a>
 		</div>
@@ -40,7 +40,7 @@
 						<div class="text-start ">
 							{{.Content}}
 						</div>
-						<a href="https://github.com/orgs/ospogroup/discussions/12" target="_blank" role="button"
+						<a href="{{ cond (eq .Site.Language.Lang "zh") "/2024.html" "/en/2024.html" }}" target="_blank" role="button"
 							class="btn btn-outline-light mt-5">{{ i18n "visit"}}</a>
 				</div>
 			</div>

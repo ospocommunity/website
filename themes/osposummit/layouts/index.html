@@ -9,15 +9,15 @@
 	<!-- Header Wrapper -->
 	<div class="style1 position-relative">
 		{{ if eq .Site.Language.Lang "zh" }}
-		<img class="pc-show" src="images/banner-zh.png" alt="Community Over Code Asia 2024" width="100%">
-		<img class="mobile-show" src="images/mobile-banner-zh.png" alt="Community Over Code Asia 2024" width="100%">
+		<img class="pc-show" src="images/2025/banner-zh.png" alt="Community Over Code Asia 2025" width="100%">
+		<img class="mobile-show" src="images/2025/mobile-banner-zh.png" alt="Community Over Code Asia 2025" width="100%">
 		{{ else }}
-		<img class="pc-show" src="images/banner-zh.png" alt="Community Over Code Asia 2024" width="100%">
-		<img class="mobile-show" src="images/mobile-banner-zh.png" alt="Community Over Code Asia 2024" width="100%">
+		<img class="pc-show" src="images/2025/banner-zh.png" alt="Community Over Code Asia 2025" width="100%">
+		<img class="mobile-show" src="images/2025/mobile-banner-zh.png" alt="Community Over Code Asia 2025" width="100%">
 		{{ end }}
 
 		<div class="d-none d-sm-flex position-absolute bottom-0 mb-5 justify-content-center w-100">
-			<a href="/schedule.html"class="btn btn-custom-1 btn-lg"
+			<a href="/schedule.html" class="btn btn-custom-1 btn-lg"
 				style="padding-left:2rem;padding-right:2rem;">{{i18n
 				"submit_proposal"}}</a>
 			<a href="#get_your_ticket" class="btn btn-warning ms-3 d-none d-sm-inline btn-lg"
@@ -40,8 +40,8 @@
 						<div class="text-start ">
 							{{.Content}}
 						</div>
-						<a href="{{ cond (eq .Site.Language.Lang "zh") "/2024.html" "/en/2024.html" }}" target="_blank" role="button"
-							class="btn btn-outline-light mt-5">{{ i18n "visit"}}</a>
+						<a href="{{ cond (eq .Site.Language.Lang " zh") "/2024.html" "/en/2024.html" }}" target="_blank"
+							role="button" class="btn btn-outline-light mt-5">{{ i18n "visit"}}</a>
 				</div>
 			</div>
 		</section>
@@ -52,9 +52,9 @@
 			<div class="row">
 				<div class="col">
 					<h2 class="text-center mb-5">{{ i18n "getTicket"}}</h3>
-						<iframe id="promote_ticket_iframe" src="https://www.bagevent.com/widget/ticket/8490447?widget=2" scrolling="no" border="0"
-							frameborder="no" framespacing="0" allowfullscreen="true" width="100%">
-						</iframe>
+						<iframe id="promote_ticket_iframe" width="100%"
+							src="https://www.bagevent.com/widget/ticket/8977989?widget=2&iframe=1" frameborder="0"
+							scrolling="no"></iframe>
 						<script>
 							(function (i, s, o, g, r, a, m) {
 								i['BagEventIFrameResize'] = r;
@@ -96,8 +96,7 @@
 	<div class="wrapper bg-white">
 		<section class="container">
 			<h2 class="text-center mb-5">{{ i18n "forum_chairman"}}</h2>
-
-			{{ partial "chairman.html" . }}
+			{{ partial "2025/chairman.html" . }}
 		</section>
 	</div>
 	<div class="wrapper style4">
@@ -106,7 +105,7 @@
 
 			<div class="row ">
 
-				{{ partial "staff.html" . }}
+				{{ partial "2025/staff.html" . }}
 
 			</div>
 		</section>

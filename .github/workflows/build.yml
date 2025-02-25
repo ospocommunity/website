@@ -20,8 +20,6 @@ name: Build docs
 on:
   push:
     branches: ['main']
-    tags:
-      - '2024'  # 添加 2024 tag 触发
   pull_request:
 
 jobs:
@@ -42,11 +40,14 @@ jobs:
           extended: true
           
       - name: Build
-        run: hugo --destination public/2024
+        run: hugo 
   
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
-        if: ${{ github.ref == 'refs/heads/main' || github.ref == 'refs/tags/2024' }}
+        # If you're changing the branch from main,
+        # also change the `main` in `refs/heads/main`
+        # below accordingly.
+        if: ${{ github.ref == 'refs/heads/main' }}
         with:
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           github_token: ${{ secrets.GITHUB_TOKEN }}

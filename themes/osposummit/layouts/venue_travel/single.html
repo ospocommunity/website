@@ -47,12 +47,24 @@
                     <div class="col-3">
                         <ul class="nav flex-column">
                             {{ $currentUrl := .URL }}
-                            {{ range $index, $guide := .Site.Data.venue_travel }}
+                            {{ range $index, $guide := .Site.Data.guides }}
                             {{ $url := "" }}
+                            {{ $guideUrl := $guide.url }}
+                            {{ if hasPrefix $guideUrl "/" }}
+                            {{ $guideUrl = strings.TrimPrefix "/" $guideUrl }}
+                            {{ end }}
                             {{ if eq $.Site.Language.Lang "zh" }}
-                            {{ $url = $guide.url }}
+                            {{ if $.Site.Params.urlPrefix }}
+                            {{ $url = printf "/%s/%s" $.Site.Params.urlPrefix $guideUrl }}
                             {{ else }}
-                            {{ $url = printf "/en%s" $guide.url }}
+                            {{ $url = printf "/%s" $guideUrl }}
+                            {{ end }}
+                            {{ else }}
+                            {{ if $.Site.Params.urlPrefix }}
+                            {{ $url = printf "/en/%s/%s" $.Site.Params.urlPrefix $guideUrl }}
+                            {{ else }}
+                            {{ $url = printf "/en/%s" $guideUrl }}
+                            {{ end }}
                             {{ end }}
 
                             <li class="nav-item">

@@ -1,12 +1,8 @@
+- image: /images/staff/sunzhenhua.jpeg
+  name: 孙振华
+  role: OpenChain中国社区主席
 
-- image: images/staff/biansikang.jpg
-  name: 边思康
-  role: 蚂蚁集团 蚂蚁开源办公室负责人
-  intro:
-    第二届 OSPO Summit 联合主席。
 
-- image: images/staff/Arnuojo.jpg
-  name: 刘洁
-  role: 华为开源布道师
-  intro:
-    "目前在华为OSPO工作，致力于开源相关的传播和推广工作，是一位积极的开源文化传播者，现担任Linux基金会理事会观察员，LF APAC布道师。As an open-source evangelist and OSPOer at Huawei, Jie Liu is dedicated to promoting open source development, fostering collaboration within the open-source communities, and advocating for open source culture. She has been working in the ICT industry for 21 years, currently she also serves as the Board Observer of Linux Foundation and LF APAC envangelist."
+- image: /images/staff/yangzhentao.png
+  name: 杨振涛
+  role: vivo 研发总监

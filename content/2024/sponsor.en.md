@@ -1,4 +1,0 @@
----
-title: Sponsor
-layout: sponsor
----

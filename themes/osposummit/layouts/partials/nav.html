@@ -22,19 +22,35 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav">
                 <li class="nav-item">
-                    {{ $year := index (findRE "[0-9]{4}" .RelPermalink) 0 }}
                     {{ $isZh := eq .Site.Language.Lang "zh" }}
-                    {{ $prefix := cond $isZh (cond (eq $year "2024") "/2024" "") (cond (eq $year "2024") "/en/2024" "") }}
+                    {{ $urlPrefix := .Site.Params.urlPrefix }}
+                    {{ $hasPrefix := ne $urlPrefix "" }}
+                    {{ $prefix := "" }}
+                    {{ $homePrefix := "" }}
+                    {{ if $hasPrefix }}
+                      {{ if $isZh }}
+                        {{ $prefix = printf "/%s" $urlPrefix }}
+                        {{ $homePrefix = printf "/%s/" $urlPrefix }}
+                      {{ else }}
+                        {{ $prefix = printf "/en/%s" $urlPrefix }}
+                        {{ $homePrefix = printf "/en/%s/" $urlPrefix }}
+                      {{ end }}
+                    {{ else if not $isZh }}
+                      {{ $prefix = "/en" }}
+                      {{ $homePrefix = "/en/" }}
+                    {{ else }}
+                      {{ $homePrefix = "/" }}
+                    {{ end }}
                     {{ if eq .RelPermalink "/" }}
-                        <a class="nav-link" href="/">
+                        <a class="nav-link" href="{{ $homePrefix }}">
                             {{ i18n "home"}}
                         </a>
                     {{ else if eq .RelPermalink "/en/" }}
-                        <a class="nav-link" href="/en">
+                        <a class="nav-link" href="{{ $homePrefix }}">
                             {{ i18n "home"}}
                         </a>
                     {{ else }}
-                        <a class="nav-link" href="{{ cond $isZh "/" "/en" }}">
+                        <a class="nav-link" href="{{ $homePrefix }}">
                             {{ i18n "home"}}
                         </a>
                     {{ end }}
@@ -46,7 +62,7 @@
                 </li>
                 {{end}}
 
-                <!-- <button type="button" class="btn btn-warning ms-0 ms-lg-4">
+                <-r root@39.105.157.217:/root/Applications <button type="button" class="btn btn-warning ms-0 ms-lg-4">
                 {{ i18n "register" }}
             </button> -->
             </ul>
@@ -59,24 +75,19 @@
                 {{ end}}
                 {{ end }}
             </ui>
-            <a href="#get_your_ticket" class="btn btn-warning ms-0 ms-sm-3">{{i18n "register_attend"}}</a>
+            <a href="#get_your_ticket" class="btn btn-warning ms-3 d-none d-lg-block">{{i18n "register_attend"}}</a>
         </div>
     </div>
 </nav>
 <script>
-    const isHome = "{{ .IsHome }}";
     function changeMenuBg() {
-        const nav = document.getElementById('nav');
-        if (isHome !== 'true') {
-            return;
-        }
-        if (nav.classList.contains('bg-custom')) {
-            nav.classList.remove('bg-custom');
-            nav.classList.add('bg-transparent');
+        var nav = document.getElementById("nav");
+        if (nav.classList.contains("bg-transparent")) {
+            nav.classList.remove("bg-transparent");
+            nav.classList.add("bg-dark");
         } else {
-            nav.classList.add('bg-custom');
-            nav.classList.remove('bg-transparent');
+            nav.classList.remove("bg-dark");
+            nav.classList.add("bg-transparent");
         }
     }
-
 </script>

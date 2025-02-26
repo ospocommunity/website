@@ -20,6 +20,8 @@ name: Build docs
 on:
   push:
     branches: ['main']
+    tags:
+      - '*'  # 匹配所有标签
   pull_request:
 
 jobs:
@@ -33,26 +35,93 @@ jobs:
           submodules: recursive
           lfs: true
           fetch-depth: 1
-      - name: 📚 Install Hugo
+
+      - name: 📚 Setup Hugo
         uses: peaceiris/actions-hugo@16361eb4acea8698b220b76c0d4e84e1fd22c61d  # v2.6.0
         with:
           hugo-version: '0.92.2' # need to use this version to build the website
           extended: true
+      
+      - name: 🔧 Set deployment config
+        id: config
+        run: |
+          # 设置基础URL
+          BASE_URL="https://ospo.events/"
+          echo "base_url=$BASE_URL" >> $GITHUB_OUTPUT
           
-      - name: Build
-        run: hugo 
+          # 根据是否为标签构建设置不同的配置
+          if [[ $GITHUB_REF == refs/tags/* ]]; then
+            VERSION=${GITHUB_REF#refs/tags/}
+            echo "version=$VERSION" >> $GITHUB_OUTPUT
+            echo "is_tag_build=true" >> $GITHUB_OUTPUT
+            echo "full_url=$BASE_URL$VERSION/" >> $GITHUB_OUTPUT
+            echo "publish_dir=public" >> $GITHUB_OUTPUT
+          else
+            echo "version=latest" >> $GITHUB_OUTPUT
+            echo "is_tag_build=false" >> $GITHUB_OUTPUT
+            echo "full_url=$BASE_URL" >> $GITHUB_OUTPUT
+            echo "publish_dir=public" >> $GITHUB_OUTPUT
+          fi
+          
+          echo "publish_branch=gh-pages" >> $GITHUB_OUTPUT
+
+      - name: 🏗️ Build
+        id: build
+        run: |
+          # 使用配置步骤中的输出变量
+          if [[ "${{ steps.config.outputs.is_tag_build }}" == "true" ]]; then
+            VERSION="${{ steps.config.outputs.version }}"
+            FULL_URL="${{ steps.config.outputs.full_url }}"
+            
+            echo "Building version: $VERSION with URL: $FULL_URL"
+            
+            # 直接构建到版本目录
+            hugo --baseURL "$FULL_URL" \
+              --config config.toml \
+              --cleanDestinationDir \
+              --minify \
+              --environment production \
+              --destination "public/$VERSION"
+              
+            # 创建符号链接，使最新版本也可通过根URL访问（可选）
+            if [[ "$VERSION" == $(git tag --sort=-creatordate | head -n 1) ]]; then
+              echo "This is the latest tag, creating symbolic links"
+              mkdir -p public
+              find public/$VERSION -mindepth 1 -maxdepth 1 -exec ln -sf {} public/ \;
+            fi
+          else
+            FULL_URL="${{ steps.config.outputs.full_url }}"
+            
+            echo "Building latest version with URL: $FULL_URL"
+            
+            # 构建到根目录
+            hugo --baseURL "$FULL_URL" \
+              --config config.toml \
+              --cleanDestinationDir \
+              --minify \
+              --environment production \
+              --destination "public"
+          fi
+          
+          # 检查构建是否成功
+          if [ $? -ne 0 ]; then
+            echo "::error::Hugo build failed"
+            exit 1
+          fi
+          
+          echo "Build completed successfully"
   
-      - name: Deploy
+      - name: 🚀 Deploy
         uses: peaceiris/actions-gh-pages@v3
-        # If you're changing the branch from main,
-        # also change the `main` in `refs/heads/main`
-        # below accordingly.
-        if: ${{ github.ref == 'refs/heads/main' }}
+        if: ${{ github.ref == 'refs/heads/main' || startsWith(github.ref, 'refs/tags/') }}
         with:
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
           external_repository: ospocommunity/ospo.github.io
-          publish_dir: ./public
-          publish_branch: gh-pages
+          publish_dir: ${{ steps.config.outputs.publish_dir }}
+          publish_branch: ${{ steps.config.outputs.publish_branch }}
           cname: ospo.events
+          keep_files: true
           allow_empty_commit: true
+          force_orphan: false
+          commit_message: "Deploy: ${{ steps.config.outputs.version }} from ${{ github.sha }}"

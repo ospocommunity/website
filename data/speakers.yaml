@@ -1,4 +1,4 @@
-- image: /images/avatars/AmandaBrock.png
+- image: images/avatars/AmandaBrock.png
   name: Amanda Brock
   role: CEO of OpenUK
   intro:
@@ -12,7 +12,7 @@
     - <p><a href="https://linkedin.com/in/amandabrocktech" target="_blank">linkedin.com/in/amandabrocktech</a> @amandabrockUK @openuk_uk</p>
     - <p><a href="https://openuk.uk/" target="_blank">openuk.uk</a> <a href="https://amandabrock.com/" target="_blank">amandabrock.com</a> </p>
 
-- image: /images/avatars/AnaJimenez.png
+- image: images/avatars/AnaJimenez.png
   name: Ana Jimenez
   role: Project Manager of TODO Group
   intro:

@@ -17,9 +17,7 @@
 		{{ end }}
 
 		<div class="d-none d-sm-flex position-absolute bottom-0 mb-5 justify-content-center w-100">
-			<a href="#" class="btn btn-custom-1 btn-lg"
-				style="padding-left:2rem;padding-right:2rem;">{{i18n
-				"submit_proposal"}}</a>
+			
 			<a href="#get_your_ticket" class="btn btn-warning ms-3 d-none d-sm-inline btn-lg"
 				style="padding-left:2rem;padding-right:2rem;">{{i18n "register_attend"}}</a>
 		</div>
@@ -74,17 +72,7 @@
 		</section>
 	</div>
 
-	<div class="wrapper style3 bg-image-1">
-		<section class="container">
-			<h2 class="text-center text-white mb-5">{{ i18n "speakers"}}</h2>
-
-			<div class="row ">
-
-				{{ partial "speakers.html" . }}
-
-			</div>
-		</section>
-	</div>
+	
 
 	<div class="wrapper style4">
 		<section class="container">
@@ -108,14 +96,6 @@
 				{{ partial "staff.html" . }}
 
 			</div>
-		</section>
-	</div>
-
-	<div class="wrapper bg-white">
-		<section class="container">
-			<h2 class="text-center mb-5">{{ i18n "support_org"}}</h2>
-
-			{{ partial "support.html" . }}
 		</section>
 	</div>
 

@@ -84,13 +84,13 @@ name = "Conference Team"
 url = "/en/conference_team.html"
 weight = 4
 
-[[languages.zh.menu.main]]
-name = "支持组织"
-url = "/support.html"
-weight = 5
+# [[languages.zh.menu.main]]
+# name = "支持组织"
+# url = "/support.html"
+# weight = 5
 
-[[languages.en.menu.main]]
-name = "Support Organization"
-url = "/en/support.html"
-weight = 5
+# [[languages.en.menu.main]]
+# name = "Support Organization"
+# url = "/en/support.html"
+# weight = 5
 

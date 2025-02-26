@@ -47,7 +47,7 @@
                     <div class="col-3">
                         <ul class="nav flex-column">
                             {{ $currentUrl := .URL }}
-                            {{ range $index, $guide := .Site.Data.guides }}
+                            {{ range $index, $guide := .Site.Data.venue_travel }}
                             {{ $url := "" }}
                             {{ $guideUrl := $guide.url }}
                             {{ if hasPrefix $guideUrl "/" }}

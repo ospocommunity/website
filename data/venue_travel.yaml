@@ -1,13 +1,13 @@
 - name: venue
-  url: venue_travel/venue.html
+  url: /venue_travel/venue.html
 
 # - name: about_shenzhen
 #   url: /venue_travel/about_shenzhen.html
 
 - name: getting_there
-  url: venue_travel/getting_there.html
+  url: /venue_travel/getting_there.html
 
 - name: visa_letter_request
-  url: guide/visa_letter_request.html
+  url: /guide/visa_letter_request.html
 
 

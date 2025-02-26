@@ -18,6 +18,7 @@ DefaultContentLanguage = "zh"
   description = ""
   keywords = []
   schedule = []
+  urlPrefix = ""
 
 [languages.en]
 languageName = "English"
@@ -93,4 +94,3 @@ weight = 4
 # name = "Support Organization"
 # url = "/en/support.html"
 # weight = 5
-

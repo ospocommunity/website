@@ -124,9 +124,6 @@ register:
 visit:
   other: 访问 OSPO Summit 2024
 
-visit_2024:
-  other: 访问首届 OSPO Summit
-
 getTicket:
   other: 注册参会
 

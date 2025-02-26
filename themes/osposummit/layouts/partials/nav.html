@@ -58,13 +58,9 @@
                 {{ range .Site.Menus.main }}
                 <li class="nav-item">
                     {{ .Pre }}
-                    <a href="{{ $prefix }}{{.URL}}" class="nav-link">{{ .Name }}</a>
+                    <a href="{{.URL}}" class="nav-link">{{ .Name }}</a>
                 </li>
                 {{end}}
-
-                <-r root@39.105.157.217:/root/Applications <button type="button" class="btn btn-warning ms-0 ms-lg-4">
-                {{ i18n "register" }}
-            </button> -->
             </ul>
             <ui class="navbar-nav flex-row flex-wrap ms-md-auto">
                 {{ if .IsTranslated }}

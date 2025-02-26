@@ -32,8 +32,8 @@
                         {{ $prefix = printf "/%s" $urlPrefix }}
                         {{ $homePrefix = printf "/%s/" $urlPrefix }}
                       {{ else }}
-                        {{ $prefix = "/en" }}
-                        {{ $homePrefix = "/en/" }}
+                        {{ $prefix = printf "/%s/en" $urlPrefix }}
+                        {{ $homePrefix = printf "/%s/en/" $urlPrefix }}
                       {{ end }}
                     {{ else if not $isZh }}
                       {{ $prefix = "/en" }}

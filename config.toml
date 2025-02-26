@@ -32,15 +32,15 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 [markup.goldmark.renderer]
 unsafe = true
 
-[[languages.en.menu.main]]
-name = "Schedule"
-url = "/en/schedule.html"
-weight = -1
+# [[languages.en.menu.main]]
+# name = "Schedule"
+# url = "/en/schedule.html"
+# weight = -1
 
-[[languages.zh.menu.main]]
-name = "会议日程"
-url = "/schedule.html"
-weight = -1
+# [[languages.zh.menu.main]]
+# name = "会议日程"
+# url = "/schedule.html"
+# weight = -1
 
 
 [[languages.zh.menu.main]]

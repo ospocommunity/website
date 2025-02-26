@@ -1,6 +1,5 @@
 <div class="row">
-    {{ $year := "2025" }}
-    {{ range $index, $chairman := index .Site.Data $year "chairmans" }}
+    {{ range $index, $chairman := index .Site.Data.chairmans }}
     {{ if gt $index 0 }}
     <div class="col-12 col-md-6 mt-4 mt-sm-0">
     {{ else }}

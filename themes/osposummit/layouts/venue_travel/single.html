@@ -61,7 +61,7 @@
                             {{ end }}
                             {{ else }}
                             {{ if $.Site.Params.urlPrefix }}
-                            {{ $url = printf "/en/%s/%s" $.Site.Params.urlPrefix $guideUrl }}
+                            {{ $url = printf "/%s/en/%s" $.Site.Params.urlPrefix $guideUrl }}
                             {{ else }}
                             {{ $url = printf "/en/%s" $guideUrl }}
                             {{ end }}

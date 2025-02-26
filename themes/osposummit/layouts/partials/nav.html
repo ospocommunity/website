@@ -32,8 +32,8 @@
                         {{ $prefix = printf "/%s" $urlPrefix }}
                         {{ $homePrefix = printf "/%s/" $urlPrefix }}
                       {{ else }}
-                        {{ $prefix = printf "/en/%s" $urlPrefix }}
-                        {{ $homePrefix = printf "/en/%s/" $urlPrefix }}
+                        {{ $prefix = printf "/%s/en" $urlPrefix }}
+                        {{ $homePrefix = printf "/%s/en/" $urlPrefix }}
                       {{ end }}
                     {{ else if not $isZh }}
                       {{ $prefix = "/en" }}
@@ -58,7 +58,7 @@
                 {{ range .Site.Menus.main }}
                 <li class="nav-item">
                     {{ .Pre }}
-                    <a href="{{.URL}}" class="nav-link">{{ .Name }}</a>
+                    <a href="{{ $prefix }}{{.URL}}" class="nav-link">{{ .Name }}</a>
                 </li>
                 {{end}}
             </ul>

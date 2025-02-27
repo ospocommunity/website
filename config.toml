@@ -18,7 +18,7 @@ DefaultContentLanguage = "zh"
   description = ""
   keywords = []
   schedule = []
-   urlPrefix = "2024"
+  urlPrefix = ""
 
 [languages.en]
 languageName = "English"

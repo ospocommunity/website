@@ -1,77 +1,56 @@
 - image: images/avatars/cheungmaggie.png
   name: Maggie Cheung
   role: Vice President of Training and Certification, Asia-Pacific Region, Linux Foundation
-  intro: 
-    - <p></p>
 
 - image: images/avatars/chenyokang.jpg
   name: Jikang Chen
   role: Director, Information Technology Publishing Branch, Science and Technology Publishing Centre, People's Posts and Telecommunications Press
-  intro: 
-    - <p>Jikang Chen is the Director of Information Technology Publishing Branch, Science and Technology Publishing Centre, People's Posts and Telecommunications Press. He is mainly engaged in the management of information technology book publishing, and has planned several series of books, including "C and C++ Practical Selection", "Primer Plus", "Mobile Development Series", "Game Design and Development", "Deep Learning", and "Excellent Textbooks of Information Science and Technology from Famous Foreign Universities". He has also edited several best-selling books, including "C Primer Plus Chinese Version (Fifth Edition)", "Spring in Action (Fourth Edition)", "Artificial Intelligence (Second Edition)", and "Introduction to Operating Systems".</p>
+
+- image: images/avatars/cuijing.png
+  name: Jing Cui
+  role: Technical Branding Expert, Partner and COO of AI Open Source Platform
+
 
 - image: images/avatars/genghang.jpg
   name: Hang Geng
-  role: Tencent Open Source Expert，Operation Director of Mulan Open Source Community
-  intro: 
-    - <p>Hang Geng is a Tencent Open Source Expert and the Operation Director of the Mulan Open Source Community. He is also the Secretary-General of the China Association for Science and Technology's "Science and Technology Innovation China" Open Source Technology Promotion Committee, a member of the China Open Source Software Promotion Alliance's Youth Committee, and a member of the CCF Open Source Development Committee. He has won several awards, including the 2023 Tencent Group Technology Breakthrough Award, the 2023 Tencent Open Source Collaboration Excellence Award, the 2022 Tencent Open Source Contribution Individual Award, and the 2021 China Open Source 33 People Award.</p>
+  role: Tencent Open Source Expert, Head of Operations at Mulan Open Source Community
 
 - image: images/avatars/guoxudong.png
   name: Xudong Guo
-  role: Senior Operations Officer, OpenAtom Foundation
-  intro:
-    - <p>Xudong Guo is the Senior Operations Officer of the OpenAtom Foundation, a Linux Foundation APAC Open Source Evangelist, and the Chair of the Education SIG. He is also a member of the CCF Open Source Development Committee, a Microsoft MVP, and an Alibaba Cloud MVP. He is the author of the public account "Cloud Native Road" and is a Maintainer of the CNCF project KubeVela / ChaosBlade.</p>
+  role: Senior Operations Officer, OpenAtom Open Source Foundation
 
 - image: images/avatars/hujie.jpg
   name: Jie Hu
-  role: Director of Open Source Strategy, ZTE Corporation
-  intro:
-    - <p>Jie Hu is the Director of Open Source Strategy at ZTE Corporation, a member of the Linux Network Foundation's Board of Directors, and the Chair of the Strategic Planning Committee.</p>
+  role: Open Source Strategy Director, ZTE Corporation
 
 - image: images/avatars/jiangbo.jpg
-  name: Nadia Jiang
-  role: Head of Open Source Growth & Internationalization, Ant Group; Co-founder of Answer.dev
-  intro:
-    - <p></p>
+  name: Bo Jiang
+  role: Head of Open Source Growth & Internationalization at Ant Group, Co-founder of Answer.dev
 
 - image: images/avatars/lijiansheng.png
-  name: Jiansheng Li
-  role: Author, Main Creator of "The Way of Open Source", OSPO Advocate
-  intro:
-    - <p>Jiansheng Li is the author and main creator of "The Way of Open Source", an OSPO advocate, and a member of the OSPO Group. He is also a member of the OSPO Summit preparation team.</p>
+  name: Jiansheng Li (Shirk)
+  role: Author, Creator of "The Way of Open Source", OSPO Advocate
 
 - image: images/avatars/limingkang.png
-  name: Mingkang Li
-  role: Host of "Ming's Open Source Talk"
-  intro:
-    - <p>Mingkang Li is the host of "Ming's Open Source Talk", a software engineer, and a consultant of the OpenAtom Foundation. He is also a Linux Foundation APAC Open Source Evangelist, a member of the CCF Open Source Development Committee, and the Secretary-General of the Open Source Society's Advisory Committee. He has rich experience in open source community cooperation and has participated in several open source research reports and translations. He is familiar with developer relations (DevRel) and technical community operation concepts.</p>
+  name: Mingkang Li (Xiaoming)
+  role: Host of "Talking about Open Source"
 
-- image: images/avatars/lishanzhuhua.png
+- image: images/avatars/lizhenhu.png
   name: Zhenhu Li
-  role: PhD Candidate at Rice University
-  intro:
-    - <p></p>
+  role: PhD Student, Rice University
 
-- image: images/avatars/lijiene.jpg
+- image: images/avatars/liujie.jpg
   name: Jie Liu
-  role: Huawei Open Source Strategy Expert
-  intro:
-    - <p>Jie Liu is a Huawei Open Source Strategy Expert, currently working in Huawei's Open Source Project Office (OSPO). She has been committed to open source-related dissemination and promotion work and is an active open source culture disseminator. She is also a member of the Linux Foundation's Board of Directors.</p>
+  role: LF APAC Open Source Evangelist, Huawei Software Ecosystem Analyst
 
 - image: images/avatars/taoye.jpg
   name: Ye Tao
   role: Attorney at Law, Grandall Law Offices
-  intro:
-    - <p>Ye Tao is an attorney at Grandall Law Offices, a Linux Foundation APAC 2024 Open Source Evangelist, and the defense attorney for the domestic GPL-related case Future Software vs. Yun Qingting. His practice area is software and internet industry legal services. Ye Tao is concerned about the development of China's open source industry and is committed to promoting open source consensus in China's legal profession.</p>
 
 - image: images/avatars/yangxuan.jpeg
   name: Xuan Yang
   role: Linux Foundation APAC VP
-  intro:
-    - <p>Xuan Yang is the Linux Foundation APAC VP, responsible for the ecological development of artificial intelligence, open source compliance, edge computing, and open source talent development. He has over 20 years of experience in the software industry and has served as the China representative of several large international software companies and organizations. He has rich experience in enterprise management software, application development, enterprise digital transformation practice, and open source community operation and governance.</p>
 
-- image: images/avatars/xiaozhiqiang.jpg
+- image: images/avatars/yuzhiqiang.jpg
   name: Zhiqiang Yu
-  role: Open Source Advocate
-  intro:
-    - <p>Zhiqiang Yu is the Chief Open Source Liaison Officer from China Mobile Research. He has been a member of the LF APAC Open Source Evangelist team since 2022 and serves as the LF APAC OSPO SIG co-chair. Together with Nadia Jiang and Jiangsheng Li, he launched the first OSPO Summit.</p>
+  role: LFAPAC Open Source Evangelist, Chairman of the First OSPO Summit

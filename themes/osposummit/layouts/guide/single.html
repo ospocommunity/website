@@ -36,10 +36,22 @@
                             {{ $currentUrl := .URL }}
                             {{ range $index, $guide := .Site.Data.guides }}
                             {{ $url := "" }}
+                            {{ $guideUrl := $guide.url }}
+                            {{ if hasPrefix $guideUrl "/" }}
+                            {{ $guideUrl = strings.TrimPrefix "/" $guideUrl }}
+                            {{ end }}
                             {{ if eq $.Site.Language.Lang "zh" }}
-                            {{ $url = $guide.url }}
+                            {{ if $.Site.Params.urlPrefix }}
+                            {{ $url = printf "/%s/%s" $.Site.Params.urlPrefix $guideUrl }}
                             {{ else }}
-                            {{ $url = printf "/en%s" $guide.url }}
+                            {{ $url = printf "/%s" $guideUrl }}
+                            {{ end }}
+                            {{ else }}
+                            {{ if $.Site.Params.urlPrefix }}
+                            {{ $url = printf "/%s/en/%s" $.Site.Params.urlPrefix $guideUrl }}
+                            {{ else }}
+                            {{ $url = printf "/en/%s" $guideUrl }}
+                            {{ end }}
                             {{ end }}
 
                             <li class="nav-item">

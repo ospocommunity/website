@@ -58,7 +58,7 @@
                 {{ range .Site.Menus.main }}
                 <li class="nav-item">
                     {{ .Pre }}
-                    <a href="{{ $prefix }}{{.URL}}" class="nav-link">{{ .Name }}</a>
+                    <a href="{{.URL}}" class="nav-link">{{ .Name }}</a>
                 </li>
                 {{end}}
             </ul>

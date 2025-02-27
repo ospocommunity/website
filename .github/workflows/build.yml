@@ -110,6 +110,13 @@ jobs:
           fi
           
           echo "Build completed successfully"
+          # 如果是 main 分支构建，也检查 public 目录
+          if [[ "${{ steps.config.outputs.is_tag_build }}" == "false" ]]; then
+            if [[ -f "public/.html" ]]; then
+              echo "Removing unwanted .html file from root directory"
+              rm -f "public/.html"
+            fi
+          fi
           
           # 如果是标签构建，也检查标签目录
           if [[ "${{ steps.config.outputs.is_tag_build }}" == "true" ]]; then

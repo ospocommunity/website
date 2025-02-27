@@ -1,42 +1,31 @@
 ---
 title: Venue
 ---
+This conference will be held at the Zhongguancun National Independent Innovation Demonstration Zone Conference Center (No. 2 Xinjiangong Road, Haidian District, Beijing).
 
-This conference will be held at the Conference Center of the Kexing Science Park in Nanshan District, Shenzhen.
+The Conference Center, located in the heart of Beijing's Haidian District, is adjacent to the historic Three Mountains and Five Gardens cultural area and the thriving Zhongguancun Science City. It serves as a convergence point of technology and culture, and a brilliant stage for innovation and exchange. With its expansive building area and scientifically designed interior layout, the center features multiple multi-functional conference rooms that can accommodate various events, from small seminars of dozens of people to large summits of thousands. Thanks to its unique architectural design, advanced conference facilities, and prime location, it has become the preferred venue for high-end conferences, forums, exhibitions, and business events both domestically and internationally, leading the new trend of technological innovation and cultural integration.
 
-The Kexing International Conference Center is based in the Kexing Science Park—a world-class R&D headquarters, offering six conference halls of various sizes for global enterprises. It provides one-stop conference support services to fully meet the diverse meeting needs.
+![image](images/img-3.jpg)
 
-![image](images/img-3.png)
 
-Kexing Science Park is located at the core of Shenzhen's high-tech park, positioned within a multi-dimensional transport hub close to Shenzhen's ports, docks, and airport. It is served by over 20 bus routes, with just a 10-minute distance from the nearest subway station.
+### Business Travel
+#### Conference Hotel
+Park Plaza Beijing Science Park Hotel is 4.6km from the venue, approximately 20 minutes by taxi. Special conference rates (including breakfast):
 
-10 minutes to Shenzhen Bay Port;
+| Room Type | King Bed | Twin Bed |
+|------|--------|--------|
+| Superior Room | 618 | 698 |
+| Deluxe Room | 658 | 738 |
+| Business Room | 758 | 838 |
+| Executive Room | 838 | 938 |
+
+Booking Instructions: Call Park Plaza Beijing Science Park Hotel and mention "OSPO Summit" for special rates
 <br/>
-15 minutes to Futian CBD;
+Reservation Department: 010-82356699 ext. 470/472/460
 <br/>
-20 minutes to Shekou Ferry Terminal;
-<br/>
-30 minutes to Bao'an International Airport. 
+Email: rsvn@parkplaza-bj.com
 
-### Hotels Nearby
-
-1. Hotel in Kexing Science Park: Orange Crystal Hotel (Shenzhen Nanshan Science Park)
-
-
-2. Others (within 10 minutes walk)
-Yaddo Hotel Shenzhen Nanshan Science Park Keyuan Road
-<br/>
-Hilton Hampton Hotel Shenzhen Nanshan Science Park (Hilton)
-<br/>
-Hilton Garden Inn Shenzhen Nanshan Science Park (Hilton)
-<br/>
-UrCove by HYATT, Nanshan Science and Technology Park, Shenzhen (Hyatt)
-<br/>
-Crowne Plaza Shenzhen Shenzhen Railway (IHG)
-
-3. Others (within 20 minutes walk)
-The Lia Carlton Hotel, Shenzhen Bay Science Park
-<br/>
-Courtyard by Marriott, Shenzhen Bay (Marriott)
-<br/>
-Renaissance Shenzhen Bay Hotel (Marriott)
+#### Nearby Hotels (within 3km)
+- Longrich Hotel (Beijing Zhongguancun Suzhou Branch)
+- Crowne Plaza Beijing Zhongguancun
+- Century Huatian Hotel

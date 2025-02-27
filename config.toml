@@ -1,7 +1,7 @@
 # set the baseURL for CI verification
 baseURL = "https://ospo.events/"
-title2 = "The 2nd OSPO Summit"
-title = "第二届开源管理办公室年度峰会"
+title2 = "The 3rd OSPO Summit"
+title = "第三届开源管理办公室年度峰会"
 theme = "osposummit"
 # When enabled, creates URL of the form /filename.html instead of /filename/.
 uglyURLs = true
@@ -33,15 +33,15 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 [markup.goldmark.renderer]
 unsafe = true
 
-[[languages.en.menu.main]]
-name = "Schedule"
-url = "/en/schedule.html"
-weight = -1
+# [[languages.en.menu.main]]
+# name = "Schedule"
+# url = "/en/schedule.html"
+# weight = -1
 
-[[languages.zh.menu.main]]
-name = "会议日程"
-url = "/schedule.html"
-weight = -1
+# [[languages.zh.menu.main]]
+# name = "会议日程"
+# url = "/schedule.html"
+# weight = -1
 
 
 [[languages.zh.menu.main]]
@@ -85,13 +85,12 @@ name = "Conference Team"
 url = "/en/conference_team.html"
 weight = 4
 
-[[languages.zh.menu.main]]
-name = "支持组织"
-url = "/support.html"
-weight = 5
+# [[languages.zh.menu.main]]
+# name = "支持组织"
+# url = "/support.html"
+# weight = 5
 
-[[languages.en.menu.main]]
-name = "Support Organization"
-url = "/en/support.html"
-weight = 5
-
+# [[languages.en.menu.main]]
+# name = "Support Organization"
+# url = "/support.html"
+# weight = 5

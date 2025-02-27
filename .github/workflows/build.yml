@@ -110,6 +110,15 @@ jobs:
           fi
           
           echo "Build completed successfully"
+          
+          # 如果是标签构建，也检查标签目录
+          if [[ "${{ steps.config.outputs.is_tag_build }}" == "true" ]]; then
+            VERSION="${{ steps.config.outputs.version }}"
+            if [[ -f "public/$VERSION/.html" ]]; then
+              echo "Removing unwanted .html file from version directory"
+              rm -f "public/$VERSION/.html"
+            fi
+          fi
   
       - name: 🚀 Deploy
         uses: peaceiris/actions-gh-pages@v3

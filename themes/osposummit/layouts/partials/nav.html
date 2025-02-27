@@ -16,7 +16,7 @@
                     {{ end}}
                     {{ end }}
                 </ui>
-                <a href="#get_your_ticket" class="btn btn-warning ms-3">{{i18n "register_attend"}}</a>
+                <a href="{{if eq .Site.Language.Lang "en" }}en#get_your_ticket{{ else }}#get_your_ticket{{ end }}" class="btn btn-warning ms-3">{{i18n "register_attend"}}</a>
             </div>
         </div>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -71,7 +71,7 @@
                 {{ end}}
                 {{ end }}
             </ui>
-            <a href="#get_your_ticket" class="btn btn-warning ms-0 ms-sm-3">{{i18n "register_attend"}}</a>
+            <a href="{{if eq .Site.Language.Lang "en" }}en#get_your_ticket{{ else }}#get_your_ticket{{ end }}" class="btn btn-warning ms-3 d-none d-lg-block">{{i18n "register_attend"}}</a>
         </div>
     </div>
 </nav>

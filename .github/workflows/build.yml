@@ -137,7 +137,7 @@ jobs:
           publish_dir: ${{ steps.config.outputs.publish_dir }}
           publish_branch: ${{ steps.config.outputs.publish_branch }}
           cname: ospo.events
-          keep_files: true
+          keep_files: false
           allow_empty_commit: true
           force_orphan: false
           commit_message: "Deploy: ${{ steps.config.outputs.version }} from ${{ github.sha }}"

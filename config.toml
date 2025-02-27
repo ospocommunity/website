@@ -18,7 +18,7 @@ DefaultContentLanguage = "zh"
   description = ""
   keywords = []
   schedule = []
-  urlPrefix = "2025"
+  urlPrefix = ""
 
 [languages.en]
 languageName = "English"
@@ -51,7 +51,7 @@ weight = 1
 
 [[languages.en.menu.main]]
 name = "Guide"
-url = "/guide/visa_letter_request.html"
+url = "/en/guide/visa_letter_request.html"
 weight = 1
 
 [[languages.zh.menu.main]]
@@ -62,7 +62,7 @@ weight = 2
 
 [[languages.en.menu.main]]
 name = "Venue + Travel"
-url = "/venue_travel/venue.html"
+url = "/en/venue_travel/venue.html"
 weight = 2
 
 [[languages.zh.menu.main]]
@@ -72,7 +72,7 @@ weight = 3
 
 [[languages.en.menu.main]]
 name = "Sponsor"
-url = "/sponsor.html"
+url = "/en/sponsor.html"
 weight = 3
 
 [[languages.zh.menu.main]]
@@ -82,7 +82,7 @@ weight = 4
 
 [[languages.en.menu.main]]
 name = "Conference Team"
-url = "/conference_team.html"
+url = "/en/conference_team.html"
 weight = 4
 
 # [[languages.zh.menu.main]]

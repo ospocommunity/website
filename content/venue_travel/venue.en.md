@@ -5,7 +5,7 @@ This conference will be held at the Zhongguancun National Independent Innovation
 
 The Conference Center, located in the heart of Beijing's Haidian District, is adjacent to the historic Three Mountains and Five Gardens cultural area and the thriving Zhongguancun Science City. It serves as a convergence point of technology and culture, and a brilliant stage for innovation and exchange. With its expansive building area and scientifically designed interior layout, the center features multiple multi-functional conference rooms that can accommodate various events, from small seminars of dozens of people to large summits of thousands. Thanks to its unique architectural design, advanced conference facilities, and prime location, it has become the preferred venue for high-end conferences, forums, exhibitions, and business events both domestically and internationally, leading the new trend of technological innovation and cultural integration.
 
-![image](images/img-3.png)
+![image](images/img-3.jpg)
 
 
 ### Business Travel

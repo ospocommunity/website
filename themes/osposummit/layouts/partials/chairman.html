@@ -1,5 +1,6 @@
 <div class="d-none d-md-flex justify-content-center">
-	{{ range $index, $chairman := .Site.Data.chairmans }}
+	{{ $chairmanData := cond (eq .Site.Language.Lang "en") .Site.Data.chairmans_en .Site.Data.chairmans }}
+	{{ range $index, $chairman := $chairmanData }}
 		<div class="d-flex align-items-center px-5">
 			<img class="me-4 rounded-circle object-fit-cover" width="128px" height="128px" src="{{.image}}" alt="avatar" style="object-position: top;">
 
@@ -11,25 +12,26 @@
 		</div>
 	{{ end }}
 
-	</div>
+</div>
 
-	<div class="row d-flex d-md-none">
-		{{ range $index, $chairman := .Site.Data.chairmans }}
-			{{ if gt $index 0 }}
-				<div class="col-12 col-md-6 mt-4 mt-md-0">
-				{{ else }}
-					<div class="col-12 col-md-6">
-					{{ end }}
-					<div class="d-flex align-items-center">
-						<img class="me-4 rounded-circle object-fit-cover" width="128px" height="128px" src="{{.image}}" alt="avatar" style="object-position: top;">
+<div class="row d-flex d-md-none">
+	{{ $chairmanData := cond (eq .Site.Language.Lang "en") .Site.Data.chairmans_en .Site.Data.chairmans }}
+	{{ range $index, $chairman := $chairmanData }}
+		{{ if gt $index 0 }}
+			<div class="col-12 col-md-6 mt-4 mt-md-0">
+			{{ else }}
+				<div class="col-12 col-md-6">
+				{{ end }}
+				<div class="d-flex align-items-center">
+					<img class="me-4 rounded-circle object-fit-cover" width="128px" height="128px" src="{{.image}}" alt="avatar" style="object-position: top;">
 
-						<div>
-							<h5>{{.name}}</h5>
-							<div class="mb-1">{{.role}}</div>
-							<div class="text-secondary">{{.intro}}</div>
-						</div>
+					<div>
+						<h5>{{.name}}</h5>
+						<div class="mb-1">{{.role}}</div>
+						<div class="text-secondary">{{.intro}}</div>
 					</div>
 				</div>
-			{{ end }}
+			</div>
+		{{ end }}
 
-		</div>
+	</div>

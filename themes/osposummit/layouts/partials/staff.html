@@ -1,5 +1,6 @@
 <div class="row position-relative">
-	{{ range $index, $staff := .Site.Data.staff }}
+	{{ $staffData := cond (eq .Site.Language.Lang "en") .Site.Data.staff_en .Site.Data.staff }}
+	{{ range $index, $staff := $staffData }}
 		<div class="col-6 col-lg-2 col-md-4 mb-5" data-bs-toggle="modal" data-bs-target="#staff-{{$index}}">
 			<div class="text-center" style="cursor: pointer;">
 				<img src="{{ .image }}" class="rounded-circle mb-2 object-fit-cover" style="object-position: top;" width="128px" height="128px" alt="avatar">

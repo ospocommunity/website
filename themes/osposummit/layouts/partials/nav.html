@@ -22,15 +22,37 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav">
                 <li class="nav-item">
-                    {{ if eq .Site.Language.Lang "zh" }}
-
-                    <a class="nav-link" href="/">
-                        {{ i18n "home"}}
-                    </a>
+                    {{ $isZh := eq .Site.Language.Lang "zh" }}
+                    {{ $urlPrefix := .Site.Params.urlPrefix }}
+                    {{ $hasPrefix := ne $urlPrefix "" }}
+                    {{ $prefix := "" }}
+                    {{ $homePrefix := "" }}
+                    {{ if $hasPrefix }}
+                      {{ if $isZh }}
+                        {{ $prefix = printf "/%s" $urlPrefix }}
+                        {{ $homePrefix = printf "/%s/" $urlPrefix }}
+                      {{ else }}
+                        {{ $prefix = printf "/%s/en" $urlPrefix }}
+                        {{ $homePrefix = printf "/%s/en/" $urlPrefix }}
+                      {{ end }}
+                    {{ else if not $isZh }}
+                      {{ $prefix = "/en" }}
+                      {{ $homePrefix = "/en/" }}
                     {{ else }}
-                    <a class="nav-link" href="/en">
-                        {{ i18n "home"}}
-                    </a>
+                      {{ $homePrefix = "/" }}
+                    {{ end }}
+                    {{ if eq .RelPermalink "/" }}
+                        <a class="nav-link" href="{{ $homePrefix }}">
+                            {{ i18n "home"}}
+                        </a>
+                    {{ else if eq .RelPermalink "/en/" }}
+                        <a class="nav-link" href="{{ $homePrefix }}">
+                            {{ i18n "home"}}
+                        </a>
+                    {{ else }}
+                        <a class="nav-link" href="{{ $homePrefix }}">
+                            {{ i18n "home"}}
+                        </a>
                     {{ end }}
                 </li>
                 {{ range .Site.Menus.main }}
@@ -39,10 +61,6 @@
                     <a href="{{.URL}}" class="nav-link">{{ .Name }}</a>
                 </li>
                 {{end}}
-
-                <!-- <button type="button" class="btn btn-warning ms-0 ms-lg-4">
-                {{ i18n "register" }}
-            </button> -->
             </ul>
             <ui class="navbar-nav flex-row flex-wrap ms-md-auto">
                 {{ if .IsTranslated }}
@@ -58,19 +76,14 @@
     </div>
 </nav>
 <script>
-    const isHome = "{{ .IsHome }}";
     function changeMenuBg() {
-        const nav = document.getElementById('nav');
-        if (isHome !== 'true') {
-            return;
-        }
-        if (nav.classList.contains('bg-custom')) {
-            nav.classList.remove('bg-custom');
-            nav.classList.add('bg-transparent');
+        var nav = document.getElementById("nav");
+        if (nav.classList.contains("bg-transparent")) {
+            nav.classList.remove("bg-transparent");
+            nav.classList.add("bg-dark");
         } else {
-            nav.classList.add('bg-custom');
-            nav.classList.remove('bg-transparent');
+            nav.classList.remove("bg-dark");
+            nav.classList.add("bg-transparent");
         }
     }
-
 </script>

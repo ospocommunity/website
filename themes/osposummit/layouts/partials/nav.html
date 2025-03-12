@@ -16,7 +16,8 @@
                     {{ end}}
                     {{ end }}
                 </ui>
-                <a href="{{if eq .Site.Language.Lang "en" }}en#get_your_ticket{{ else }}#get_your_ticket{{ end }}" class="btn btn-warning ms-3">{{i18n "register_attend"}}</a>
+                <a href="{{if eq .Site.Language.Lang " en" }}en#get_your_ticket{{ else }}#get_your_ticket{{ end }}"
+                    class="btn btn-warning ms-3">{{i18n "register_attend"}}</a>
             </div>
         </div>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -28,37 +29,38 @@
                     {{ $prefix := "" }}
                     {{ $homePrefix := "" }}
                     {{ if $hasPrefix }}
-                      {{ if $isZh }}
-                        {{ $prefix = printf "/%s" $urlPrefix }}
-                        {{ $homePrefix = printf "/%s/" $urlPrefix }}
-                      {{ else }}
-                        {{ $prefix = printf "/%s/en" $urlPrefix }}
-                        {{ $homePrefix = printf "/%s/en/" $urlPrefix }}
-                      {{ end }}
-                    {{ else if not $isZh }}
-                      {{ $prefix = "/en" }}
-                      {{ $homePrefix = "/en/" }}
+                    {{ if $isZh }}
+                    {{ $prefix = printf "/%s" $urlPrefix }}
+                    {{ $homePrefix = printf "/%s/" $urlPrefix }}
                     {{ else }}
-                      {{ $homePrefix = "/" }}
+                    {{ $prefix = printf "/%s/en" $urlPrefix }}
+                    {{ $homePrefix = printf "/%s/en/" $urlPrefix }}
+                    {{ end }}
+                    {{ else if not $isZh }}
+                    {{ $prefix = "/en" }}
+                    {{ $homePrefix = "/en/" }}
+                    {{ else }}
+                    {{ $homePrefix = "/" }}
                     {{ end }}
                     {{ if eq .RelPermalink "/" }}
-                        <a class="nav-link" href="{{ $homePrefix }}">
-                            {{ i18n "home"}}
-                        </a>
+                    <a class="nav-link" href="{{ $homePrefix }}">
+                        {{ i18n "home"}}
+                    </a>
                     {{ else if eq .RelPermalink "/en/" }}
-                        <a class="nav-link" href="{{ $homePrefix }}">
-                            {{ i18n "home"}}
-                        </a>
+                    <a class="nav-link" href="{{ $homePrefix }}">
+                        {{ i18n "home"}}
+                    </a>
                     {{ else }}
-                        <a class="nav-link" href="{{ $homePrefix }}">
-                            {{ i18n "home"}}
-                        </a>
+                    <a class="nav-link" href="{{ $homePrefix }}">
+                        {{ i18n "home"}}
+                    </a>
                     {{ end }}
                 </li>
                 {{ range .Site.Menus.main }}
                 <li class="nav-item">
                     {{ .Pre }}
-                    <a href="{{.URL}}" class="nav-link">{{ .Name }}</a>
+                    <a href="{{.URL}}" class="nav-link" {{ if or (hasPrefix .URL "http://" ) (hasPrefix .URL "https://"
+                        ) }}target="_blank" rel="noopener noreferrer" {{ end }}>{{ .Name }}</a>
                 </li>
                 {{end}}
             </ul>
@@ -71,7 +73,8 @@
                 {{ end}}
                 {{ end }}
             </ui>
-            <a href="{{if eq .Site.Language.Lang "en" }}en#get_your_ticket{{ else }}#get_your_ticket{{ end }}" class="btn btn-warning ms-3 d-none d-lg-block">{{i18n "register_attend"}}</a>
+            <a href="{{if eq .Site.Language.Lang " en" }}en#get_your_ticket{{ else }}#get_your_ticket{{ end }}"
+                class="btn btn-warning ms-3 d-none d-lg-block">{{i18n "register_attend"}}</a>
         </div>
     </div>
 </nav>

@@ -53,16 +53,16 @@ name = "Guide"
 url = "/en/guide/visa_letter_request.html"
 weight = 1
 
-[[languages.zh.menu.main]]
-name = "会场 + 旅行"
-url = "/venue_travel/venue.html"
-weight = 2
+# [[languages.zh.menu.main]]
+# name = "会场 + 旅行"
+# url = "/venue_travel/venue.html"
+# weight = 2
 
 
-[[languages.en.menu.main]]
-name = "Venue + Travel"
-url = "/en/venue_travel/venue.html"
-weight = 2
+# [[languages.en.menu.main]]
+# name = "Venue + Travel"
+# url = "/en/venue_travel/venue.html"
+# weight = 2
 
 [[languages.zh.menu.main]]
 name = "会议赞助"

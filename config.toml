@@ -42,6 +42,15 @@ name = "议题征集"
 url = "https://www.bagevent.com/event/speechApply/8977989"
 weight = -1
 
+# [[languages.en.menu.main]]
+# name = "Schedule"
+# url = "/en/schedule.html"
+# weight = -1
+
+# [[languages.zh.menu.main]]
+# name = "会议日程"
+# url = "/schedule.html"
+# weight = -1
 
 [[languages.zh.menu.main]]
 name = "参会指南"

@@ -1,111 +1,117 @@
-- image: images/avatars/sunzhenhua.jpeg
-  name: 孙振华
-  role: OpenChain 中国社区主席
-
-- image: images/avatars/yangzhentao.jpg
-  name: 杨振涛
-  role: vivo 研发总监
-
-- image: images/avatars/ana.jpg
+- image: images/avatars/ana-jimenez-santamaria.jpg
   name: Ana Jiménez Santamaría
   role: Linux Foundation (TODO Group and PyTorch Foundation) Senior Project Manager
 
-- image: images/avatars/shane.png
-  name: Shane Coughlan
-  role: OpenChain General Manager
-
-- image: images/avatars/yangxuan.jpeg
-  name: 杨轩
-  role: Linux Foundation APAC VP
-
-- image: images/avatars/tina.jpeg
-  name: Tina Tsou
-  role: TikTok Director of External Tech Influence
-
-- image: images/avatars/biansikang.png
-  name: 边思康
-  role: 蚂蚁集团开源业务总监
-
-- image: images/avatars/lijiansheng.png
-  name: 李建盛（适兕）
-  role: 作者，「开源之道」主创，OSPO 倡导者
-
-- image: images/avatars/zhangguofeng.jpeg
-  name: 张国锋
-  role: 上海对外经贸大学 院长
-
-- image: images/avatars/wangwei.jpg
-  name: 王伟
-  role: 华东师范大学 教授
-
-- image: images/avatars/liangyao.png
-  name: 梁尧
-  role: OpenSDV 生态运营总监
-
-- image: images/avatars/junzhe.jpg
-  name: 俊哲
-  role: 中国信通院云计算与大数据研究所开源和软件安全部高级业务主管
-
-- image: images/avatars/limingkang.jpg
-  name: 李明康
-  role: “明说开源”主理人、开源社理事、LFAPAC 开源布道者
-
-- image: images/avatars/liujinming.jpeg
-  name: 刘津铭
-  role: 维沃移动通信有限公司安全研发工程师
-
-- image: images/avatars/lixiang.jpeg
-  name: 李响
-  role: 中兴通讯 云计算开源与标准总监
-
-- image: images/avatars/tanzhongyi.jpg
-  name: 谭中意
-  role: COPU 常务副秘书长
-
-- image: images/avatars/ouyangqiangbin.jpeg
-  name: 欧阳强斌
-  role: 墨菲安全 架构师
-
-- image: images/avatars/gaokun.jpeg
-  name: 高琨
-  role: 上海安势信息技术有限公司 联合创始人&高级副总裁
-
-- image: images/avatars/liudongwei.jpeg
-  name: 刘东威
-  role: 字节跳动（南京）科技有限公司 研发工程师
-
-- image: images/avatars/taoye.jpg
-  name: 陶冶
-  role: 国浩律师（南京）事务所 合伙人
-
-- image: images/avatars/yuanyi.jpg
-  name: 袁怿
-  role: 个人开发者
-
-- image: images/avatars/mengwei.jpg
-  name: 孟伟
-  role: 中兴通讯股份有限公司开源战略总监，联合国国际电联AINN副主席，LF AI & Data 2023-2024届董事会主席
-
-- image: images/avatars/zhangjunxia.jpg
-  name: 张俊霞
-  role: 中国信通院知识产权与创新发展中心产业发展研究部主任
-
-- image: images/avatars/lvfengjun.jpg
-  name: 吕峰军（明城）
-  role: 蚂蚁集团开源办公室技术布道师、Apache Answer PMC 成员
-
-- image: images/avatars/drIbrahimHaddad.jpg
+- image: images/avatars/ibrahim-haddad.jpg
   name: Dr. Ibrahim Haddad
   role: 沃尔沃车载系统总工程师，前 Linux 基金会战略副总裁
 
-- image: images/avatars/ganlihao.jpg
+- image: images/avatars/shane-coughlan.png
+  name: Shane Coughlan
+  role: OpenChain General Manager
+
+- image: images/avatars/tina-tsou.jpeg
+  name: Tina Tsou
+  role: TikTok Director of External Tech Influence
+
+- image: images/avatars/si-kang-bian.png
+  name: 边思康
+  role: 蚂蚁集团开源业务总监
+
+- image: images/avatars/gao-wei-chang.jpg
+  name: 常高伟
+  role: ANP 开源技术社区发起人
+
+- image: images/avatars/li-hao-gan.jpg
   name: 甘莅豪
   role: 华东师范大学传播学院 教授，博士生导师
 
-- image: images/avatars/wangqing.jpg
+- image: images/avatars/kun-gao.jpeg
+  name: 高琨
+  role: 上海安势信息技术有限公司 联合创始人&高级副总裁
+
+- image: images/avatars/jun-zhe.jpg
+  name: 俊哲
+  role: 中国信通院云计算与大数据研究所开源和软件安全部高级业务主管
+
+- image: images/avatars/jian-sheng-li.png
+  name: 李建盛（适兕）
+  role: 作者，「开源之道」主创，OSPO 倡导者
+
+- image: images/avatars/ming-kang-li.jpg
+  name: 李明康
+  role: “明说开源”主理人、开源社理事、LFAPAC 开源布道者
+
+- image: images/avatars/xiang-li.jpeg
+  name: 李响
+  role: 中兴通讯 云计算开源与标准总监
+
+
+
+- image: images/avatars/yao-liang.png
+  name: 梁尧
+  role: OpenSDV 生态运营总监
+
+- image: images/avatars/dong-wei-liu.jpeg
+  name: 刘东威
+  role: 字节跳动（南京）科技有限公司 研发工程师
+
+- image: images/avatars/jin-ming-liu.jpeg
+  name: 刘津铭
+  role: 维沃移动通信有限公司安全研发工程师
+
+- image: images/avatars/feng-jun-lv.jpg
+  name: 吕峰军（明城）
+  role: 蚂蚁集团开源办公室技术布道师、Apache Answer PMC 成员
+
+- image: images/avatars/wei-meng.jpg
+  name: 孟伟
+  role: 中兴通讯股份有限公司开源战略总监，联合国国际电联AINN副主席，LF AI & Data 2023-2024届董事会主席
+
+- image: images/avatars/qiang-bin-ou-yang.jpeg
+  name: 欧阳强斌
+  role: 墨菲安全 架构师
+
+- image: images/avatars/zhen-hua-sun.jpeg
+  name: 孙振华
+  role: OpenChain 中国社区主席
+
+- image: images/avatars/ye-tao.jpg
+  name: 陶冶
+  role: 国浩律师（南京）事务所 合伙人
+
+- image: images/avatars/zhong-yi-tan.jpg
+  name: 谭中意
+  role: COPU 常务副秘书长
+
+- image: images/avatars/qing-wang.jpg
   name: 王庆
   role: 英特尔研发总监
-  
-- image: images/avatars/changgaowei.jpg
-  name: 常高伟
-  role: ANP 开源技术社区发起人
+
+- image: images/avatars/wei-wang.jpg
+  name: 王伟
+  role: 华东师范大学 教授
+
+- image: images/avatars/xuan-yang.jpeg
+  name: 杨轩
+  role: Linux Foundation APAC VP
+
+- image: images/avatars/zhen-tao-yang.jpg
+  name: 杨振涛
+  role: vivo 研发总监
+
+- image: images/avatars/yi-yuan.jpg
+  name: 袁怿
+  role: 个人开发者
+
+- image: images/avatars/jia-ju-zhang.png
+  name: 张家驹
+  role: Red Hat 首席架构师
+
+- image: images/avatars/jun-xia-zhang.jpg
+  name: 张俊霞
+  role: 中国信通院知识产权与创新发展中心产业发展研究部主任
+
+- image: images/avatars/guo-feng-zhang.jpeg
+  name: 张国锋
+  role: 上海对外经贸大学 院长

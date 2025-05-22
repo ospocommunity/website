@@ -17,20 +17,20 @@
 		{{ end }}
 
 		<div class="d-none d-sm-flex position-absolute bottom-0 mb-5 justify-content-center w-100">
-			<a href="https://www.bagevent.com/event/speechApply/8977989" target="_blank"
+			<!-- <a href="https://www.bagevent.com/event/speechApply/8977989" target="_blank"
 				class="btn btn-warning btn-lg me-3" style="padding-left:2rem;padding-right:2rem;">
 				{{i18n "submit_proposal"}}
-			</a>
+			</a> -->
 
 			<a href="{{if eq .Site.Language.Lang " en" }}en#get_your_ticket{{ else }}#get_your_ticket{{ end }}"
 				class="btn btn-warning btn-lg" style="padding-left:2rem;padding-right:2rem;">{{i18n
 				"register_attend"}}</a>
 		</div>
 		<div class="d-block d-sm-none d-flex flex-column justify-content-center align-items-center w-100 pb-4" style="background: #19006a;">
-			<a href="https://www.bagevent.com/event/speechApply/8977989" target="_blank" class="btn btn-warning"
+			<!-- <a href="https://www.bagevent.com/event/speechApply/8977989" target="_blank" class="btn btn-warning"
 				style="padding-left:2rem;padding-right:2rem;">
 				{{i18n "submit_proposal"}}
-			</a>
+			</a> -->
 			<a href="{{if eq .Site.Language.Lang " en" }}en#get_your_ticket{{ else }}#get_your_ticket{{ end }}"
 				class="btn btn-warning d-none" style="padding-left:2rem;padding-right:2rem;">{{i18n
 				"register_attend"}}</a>

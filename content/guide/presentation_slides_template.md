@@ -1,7 +1,16 @@
 ---
 title: 下载演示文档模板
 ---
-### 制作演示文档
-请使用大会主办方提供的 PPT 模板制作演讲幻灯片， 演讲稿模板下载地址：[https://github.com/orgs/ospogroup/discussions/13](https://github.com/orgs/ospogroup/discussions/13)
 
-常规演讲的时间不超过 30 分钟, 考虑过场和提问，建议控制在25分钟之内。
+我们强烈建议您使用大会统一的 PPT 模板，但如果您不计划使用该模板，请至少在封面封底页使用同一的模板。
+
+* 如果您使用自己的 PPT 模板，请将幻灯片大小比例设置为 16:9。
+* 请勿包含任何攻击性或色情方面的内容，这将违反《行为准则》。
+
+演讲时长为 30 分钟。这个时间包括 Q&A。
+理想的演讲时间分配为：
+* 23-27 分钟演讲；
+* 3-5 分钟问答。
+
+
+ppt 模板下载地址：[the-3nd-ospo-summit-template.pptx](the-3nd-ospo-summit-template.pptx)

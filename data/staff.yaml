@@ -16,7 +16,7 @@
 
 - image: images/avatars/guoxudong.png
   name: 郭旭东
-  role: 开放原子开源基金会高级运营官
+  role: LFAPAC 开源布道者
 
 - image: images/avatars/hujie.jpg
   name: 胡捷
@@ -24,7 +24,7 @@
 
 - image: images/avatars/jiangbo.jpg
   name: 江波
-  role: 蚂蚁集团开源增长&国际化负责人，Answer.dev 联合创始人
+  role: 蚂蚁集团开源增长&国际化负责人，开源社理事长，Apache 软件基金会正式成员
 
 - image: images/avatars/lijiansheng.png
   name: 李建盛（适兕）
@@ -32,7 +32,7 @@
 
 - image: images/avatars/limingkang.png
   name: 李明康（小明）
-  role: “明说开源”主理人
+  role: “明说开源”主理人、开源社理事、LFAPAC 开源布道者
 
 - image: images/avatars/lizhenhu.png
   name: 李圳虎
@@ -41,6 +41,10 @@
 - image: images/avatars/liujie.jpg
   name: 刘洁
   role: LF APAC 开源布道者，华为软件生态分析师
+
+- image: images/avatars/lvfengjun.jpg
+  name: 吕峰军（明城）
+  role: 蚂蚁集团开源办公室技术布道师、Apache Answer PMC 成员
 
 - image: images/avatars/taoye.jpg
   name: 陶冶

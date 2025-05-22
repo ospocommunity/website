@@ -1,8 +1,8 @@
 - name: visa_letter_request
   url: /guide/visa_letter_request.html
 
-# - name: presentation_slides_template
-#   url: /guide/presentation_slides_template.html
+- name: presentation_slides_template
+  url: /guide/presentation_slides_template.html
 
 - name: convince_your_boss
   url: /guide/convince_your_boss.html

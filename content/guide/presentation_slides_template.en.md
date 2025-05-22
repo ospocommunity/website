@@ -2,7 +2,13 @@
 title: Presentation Slides Template
 ---
 
-### Make a presentation slide
-Please use the official template for PPT making.PPT template download:[https://github.com/orgs/ospogroup/discussions/13](https://github.com/orgs/ospogroup/discussions/13)
+We strongly recommend you to use the template, but if you don’t plan to use it for your entire presentation, please use the title slide at least.
+* If you use your own template, please set your slide size ratio as 16:9.
+* Do not include any offensive or sexualized references. This would be a violation of the Code of Conduct.
 
-Session time is about 30 minute. It is recommended that you limit your presentation to 25 minutes, taking into account overtures and Q&A.
+Talks are 30 minutes long. This time is inclusive of Q&A.
+The ideal time structure of your presentation would be
+* 23-27 minutes presentation.
+* 3-5 min Q&A.
+
+ppt template download address: [the-3nd-ospo-summit-template.pptx](the-3nd-ospo-summit-template.pptx)

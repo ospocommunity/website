@@ -13,4 +13,4 @@ title: 下载演示文档模板
 * 3-5 分钟问答。
 
 
-ppt 模板下载地址：[the-3nd-ospo-summit-template.pptx](the-3nd-ospo-summit-template.pptx)
+ppt 模板下载地址：[the-3rd-ospo-summit-template.pptx](the-3rd-ospo-summit-template.pptx)

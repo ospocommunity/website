@@ -11,4 +11,4 @@ The ideal time structure of your presentation would be
 * 23-27 minutes presentation.
 * 3-5 min Q&A.
 
-ppt template download address: [the-3nd-ospo-summit-template.pptx](the-3nd-ospo-summit-template.pptx)
+ppt template download address: [the-3rd-ospo-summit-template.pptx](the-3rd-ospo-summit-template.pptx)

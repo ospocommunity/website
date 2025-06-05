@@ -14,25 +14,28 @@
 		}
 
 		.sub-venue-header {
-            background-color: #e9ecef;
-            color: #212529;
-            font-weight: bold;
-            padding: 0.75rem 1.25rem;
-            margin-top: 1.5rem;
-            margin-bottom: 0.5rem;
-            border-radius: 0.3rem;
-        }
-        .speaker-info {
-            font-size: 0.9em;
-            color: #6c757d;
-        }
-        .session-theme {
-            font-weight: 500;
-        }
-        .table th {
-            background-color: #e9ecef;
-            font-weight: 600;
-        }
+			background-color: #e9ecef;
+			color: #212529;
+			font-weight: bold;
+			padding: 0.75rem 1.25rem;
+			margin-top: 1.5rem;
+			margin-bottom: 0.5rem;
+			border-radius: 0.3rem;
+		}
+
+		.speaker-info {
+			font-size: 0.9em;
+			color: #6c757d;
+		}
+
+		.session-theme {
+			font-weight: 500;
+		}
+
+		.table th {
+			background-color: #e9ecef;
+			font-weight: 600;
+		}
 	</style>
 	<!-- Header Wrapper -->
 	<div class="wrapper style1">
@@ -73,10 +76,13 @@
 					{{ else }}
 					<h4 class="py-5 text-center">June 12th</h4>
 					{{ end }}
+					
 					<div class="row">
 						<div class="position-relative col">
+							{{ range .Site.Data.schedule.venues }}
+							<!-- {{ .name }} -->
 							<div class="sub-venue-header">
-								Keynote (09:00 - 12:00) - 静宜厅
+								{{ .name }} ({{ .time_span }}) - {{ .location }}
 							</div>
 							<table class="table table-striped table-hover table-bordered mb-4">
 								<thead class="thead-light">
@@ -87,500 +93,38 @@
 									</tr>
 								</thead>
 								<tbody>
+									{{ range .sessions }}
 									<tr>
-										<td>09:00 - 09:10</td>
-										<td>
-											<div class="session-theme">Welcome Note 大会主席欢迎致辞</div>
-										</td>
-										<td>
-											<div class="speaker-info mb-2">
-												<div><strong>孙振华</strong></div>
-												<div class="small">OpenChain 中国社区主席</div>
-											</div>
-											<div class="speaker-info mb-2">
-												<div><strong>杨振涛</strong></div>
-												<div class="small">vivo 研发总监</div>
-											</div>
-										</td>
-									</tr>
-									<tr>
-										<td>09:10 - 09:30</td>
-										<td>
-											<div class="session-theme">Harmonizing OSPOs — Balancing Change in OSS
-												Management</div>
-										</td>
-										<td>
-											<div class="speaker-info mb-2">
-												<div><strong>Ana Jiménez Santamaría</strong></div>
-												<div class="small">Linux Foundation (TODO Group and PyTorch Foundation)
-													Senior Project Manager</div>
-											</div>
-										</td>
-									</tr>
-									<tr>
-										<td>09:30 - 09:50</td>
-										<td>
-											<div class="session-theme">TBD</div>
-										</td>
-										<td>
-											<div class="speaker-info mb-2">
-												<div><strong>Shane Coughlan</strong></div>
-												<div class="small">OpenChain General Manager</div>
-											</div>
-										</td>
-									</tr>
-									<tr>
-										<td>09:50 - 10:10</td>
-										<td>
-											<div class="session-theme">《Review of Leading Enterprise ：Open Source
-												Program Offices: Strategies, Technical Focus, Advocacy, and 2025
-												Predictions》</div>
-										</td>
-										<td>
-											<div class="speaker-info mb-2">
-												<div><strong>杨轩</strong></div>
-												<div class="small">Linux Foundation APAC VP</div>
-											</div>
-										</td>
-									</tr>
-									<tr>
-										<td>10:10 - 10:30</td>
-										<td>
-											<div class="session-theme">Open Culture in Open Source &amp; IETF</div>
-										</td>
-										<td>
-											<div class="speaker-info mb-2">
-												<div><strong>Tina Tsou</strong></div>
-												<div class="small">TikTok Director of External Tech Influence</div>
-											</div>
-										</td>
-									</tr>
-									<tr>
-										<td>10:30 - 10:50</td>
-										<td>
-											<div class="session-theme">OSPO 新解：Objective oriented, Strategy led, Product
-												mindset, Operationally lean</div>
-										</td>
-										<td>
-											<div class="speaker-info mb-2">
-												<div><strong>边思康</strong></div>
-												<div class="small">蚂蚁集团开源业务总监</div>
-											</div>
-										</td>
-									</tr>
-									<tr>
-										<td>10:50 - 11:30</td>
-										<td>
-											<div class="session-theme">圆桌分享｜OSPO 职能</div>
-										</td>
-										<td>TBD</td>
-									</tr>
-									<tr>
-										<td>11:30 - 11:50</td>
-										<td>
-											<div class="session-theme">新书发布</div>
-										</td>
-										<td>
-											<div class="speaker-info mb-2">
-												<div><strong>李建盛（适兕）</strong></div>
-												<div class="small">作者，「开源之道」主创，OSPO 倡导者</div>
-											</div>
-										</td>
-									</tr>
-									<tr>
-										<td>11:50 - 12:00</td>
-										<td>
-											<div class="session-theme">OSPO 调研问卷发布与征集</div>
-										</td>
-										<td>TBD</td>
-									</tr>
-								</tbody>
-							</table>
-
-							<div class="sub-venue-header">
-								OSPO 与学术、教育、政府非盈利组织论坛 (14:00 - 18:00) - 二层百望山会议室
-							</div>
-							<table class="table table-striped table-hover table-bordered mb-4">
-								<thead class="thead-light">
-									<tr>
-										<th style="width: 20%;">时间</th>
-										<th style="width: 50%;">主题</th>
-										<th style="width: 30%;">演讲者</th>
-									</tr>
-								</thead>
-								<tbody>
-									<tr>
-										<td>14:00 - 14:05</td>
-										<td>
-											<div class="session-theme">出品人开场</div>
-										</td>
-										<td>
-											<div class="speaker-info mb-2">
-												<div><strong>李建盛（适兕）</strong></div>
-												<div class="small">作者，「开源之道」主创，OSPO 倡导者</div>
-											</div>
-										</td>
-									</tr>
-									<tr>
-										<td>14:05 - 14:35</td>
-										<td>
-											<div class="session-theme">经管法高校开源竞争战略规划人才培养</div>
-										</td>
-										<td>
-											<div class="speaker-info mb-2">
-												<div><strong>张国锋</strong></div>
-												<div class="small">上海对外经贸大学 院长</div>
-											</div>
-										</td>
-									</tr>
-									<tr>
-										<td>14:35 - 15:05</td>
-										<td>
-											<div class="session-theme">学术共同体 2.0：OSPO 方法驱动的高校教学科研体系革新</div>
-										</td>
-										<td>
-											<div class="speaker-info mb-2">
-												<div><strong>王伟</strong></div>
-												<div class="small">华东师范大学 教授</div>
-											</div>
-										</td>
-									</tr>
-									<tr>
-										<td>15:05 - 15:35</td>
-										<td>
-											<div class="session-theme">汽车行业开源治理洞察</div>
-										</td>
-										<td>
-											<div class="speaker-info mb-2">
-												<div><strong>梁尧</strong></div>
-												<div class="small">OpenSDV 生态运营总监、开源社执行长</div>
-											</div>
-										</td>
-									</tr>
-									<tr>
-										<td>15:35 - 15:50</td>
+										<td>{{ .time }}</td>
+										{{ if .is_break }}
 										<td colspan="2">
-											<div class="session-theme">茶歇</div>
+											<div class="session-theme">{{ .title }}</div>
 										</td>
-									</tr>
-									<tr>
-										<td>15:50 - 16:20</td>
+										{{ else }}
 										<td>
-											<div class="session-theme">从开源治理到价值创造：OSPO 全景洞察与企业级体系建设方法论</div>
+											<div class="session-theme">{{ .title }}</div>
 										</td>
 										<td>
+											{{ if .speakers }}
+											{{ range .speakers }}
 											<div class="speaker-info mb-2">
-												<div><strong>俊哲</strong></div>
-												<div class="small">中国信通院云计算与大数据研究所开源和软件安全部高级业务主管</div>
+												<div><strong>{{ .name }}</strong></div>
+												<div class="small">{{ .title }}</div>
 											</div>
-										</td>
-									</tr>
-									<tr>
-										<td>16:20 - 16:50</td>
-										<td>
-											<div class="session-theme">高校如何通过设置 OSPO 培养下一代开源创新者</div>
-										</td>
-										<td>
+											{{ end }}
+											{{ else }}
 											<div class="speaker-info mb-2">
-												<div><strong> 李明康（小明</strong></div>
-												<div class="small">开放原子开源基金会教培顾问、开源社理事、LFAPAC 开源布道者</div>
+												<div><strong>待定</strong></div>
+												<div class="small">TBD</div>
 											</div>
+											{{ end }}
 										</td>
+										{{ end }}
 									</tr>
+									{{ end }}
 								</tbody>
 							</table>
-
-							<div class="sub-venue-header">
-								OSPO 与企业论坛 (14:00 - 18:00) - 二层阳山会议室
-							</div>
-							<table class="table table-striped table-hover table-bordered mb-4">
-								<thead class="thead-light">
-									<tr>
-										<th style="width: 20%;">时间</th>
-										<th style="width: 50%;">主题</th>
-										<th style="width: 30%;">演讲者</th>
-									</tr>
-								</thead>
-								<tbody>
-									<tr>
-										<td>14:00 - 14:05</td>
-										<td>
-											<div class="session-theme">出品人开场</div>
-										</td>
-										<td>
-											<div class="speaker-info mb-2">
-												<div><strong>杨振涛</strong></div>
-												<div class="small">vivo 研发总监</div>
-											</div>
-										</td>
-									</tr>
-									<tr>
-										<td>14:05 - 14:35</td>
-										<td>
-											<div class="session-theme">OSPO 领航·敏捷破局：既有研发体系的开源治理融入与新业务响应的加速范式</div>
-										</td>
-										<td>
-											<div class="speaker-info mb-2">
-												<div><strong>刘津铭</strong></div>
-												<div class="small">维沃移动通信有限公司安全研发工程师</div>
-											</div>
-										</td>
-									</tr>
-									<tr>
-										<td>14:35 - 15:05</td>
-										<td>
-											<div class="session-theme">开源软件许可证正确性问题</div>
-										</td>
-										<td>
-											<div class="speaker-info mb-2">
-												<div><strong>李响</strong></div>
-												<div class="small">中兴通讯 云计算开源与标准总监</div>
-											</div>
-										</td>
-									</tr>
-									<tr>
-										<td>15:05 - 15:35</td>
-										<td>
-											<div class="session-theme">如何在人工智能领域拥抱开源价值观</div>
-										</td>
-										<td>
-											<div class="speaker-info mb-2">
-												<div><strong>张家驹</strong></div>
-												<div class="small">Red Hat首席架构师</div>
-											</div>
-										</td>
-									</tr>
-									<tr>
-										<td>15:35 - 15:50</td>
-										<td colspan="2">
-											<div class="session-theme">茶歇</div>
-										</td>
-									</tr>
-									<tr>
-										<td>15:50 - 16:20</td>
-										<td>
-											<div class="session-theme">内部开源（InnerSource）在中国的过去、现在和未来</div>
-										</td>
-										<td>
-											<div class="speaker-info mb-2">
-												<div><strong>谭中意</strong></div>
-												<div class="small">COPU 常务副秘书长</div>
-											</div>
-										</td>
-									</tr>
-									<tr>
-										<td>16:20 - 16:50</td>
-										<td>
-											<div class="session-theme">从合规到安全：OSPO 如何应对开源软件供应链威胁</div>
-										</td>
-										<td>
-											<div class="speaker-info mb-2">
-												<div><strong>欧阳强斌</strong></div>
-												<div class="small">墨菲安全 架构师</div>
-											</div>
-										</td>
-									</tr>
-								</tbody>
-							</table>
-
-							<div class="sub-venue-header">
-								OpenChain China Day 专场 (14:00 - 18:00) - 二层玉泉山会议室
-							</div>
-							<table class="table table-striped table-hover table-bordered mb-4">
-								<thead class="thead-light">
-									<tr>
-										<th style="width: 20%;">时间</th>
-										<th style="width: 50%;">主题</th>
-										<th style="width: 30%;">演讲者</th>
-									</tr>
-								</thead>
-								<tbody>
-									<tr>
-										<td>14:00 - 14:05</td>
-										<td>
-											<div class="session-theme">出品人开场</div>
-										</td>
-										<td>
-											<div class="speaker-info mb-2">
-												<div><strong>孙振华</strong></div>
-												<div class="small">OpenChain 中国社区主席</div>
-											</div>
-										</td>
-									</tr>
-									<tr>
-										<td>14:05 - 14:35</td>
-										<td>
-											<div class="session-theme">AI重构开源安全防线：从漏洞到韧性的软件供应链革命</div>
-										</td>
-										<td>
-											<div class="speaker-info mb-2">
-												<div><strong>高琨</strong></div>
-												<div class="small">上海安势信息技术有限公司 联合创始人&amp;高级副总裁</div>
-											</div>
-										</td>
-									</tr>
-									<tr>
-										<td>14:35 - 15:05</td>
-										<td>
-											<div class="session-theme">OpenChain SBOM 国际标准落地实践分享</div>
-										</td>
-										<td>
-											<div class="speaker-info mb-2">
-												<div><strong>刘东威</strong></div>
-												<div class="small">字节跳动（南京）科技有限公司 研发工程师</div>
-											</div>
-										</td>
-									</tr>
-									<tr>
-										<td>15:05 - 15:35</td>
-										<td>
-											<div class="session-theme">Unpacking AGPL</div>
-										</td>
-										<td>
-											<div class="speaker-info mb-2">
-												<div><strong>陶冶</strong></div>
-												<div class="small">国浩律师（南京）事务所 合伙人</div>
-											</div>
-										</td>
-									</tr>
-									<tr>
-										<td>15:35 - 15:50</td>
-										<td colspan="2">
-											<div class="session-theme">茶歇</div>
-										</td>
-									</tr>
-									<tr>
-										<td>15:50 - 16:20</td>
-										<td>
-											<div class="session-theme">左移安全新实践：基于 DeepSeek 的软件供应链安全智能化扫描与修复</div>
-										</td>
-										<td>
-											<div class="speaker-info mb-2">
-												<div><strong>袁怿</strong></div>
-												<div class="small">个人开发者</div>
-											</div>
-										</td>
-									</tr>
-								</tbody>
-							</table>
-
-							<div class="sub-venue-header">
-								OSPO 与开源 AI 论坛 (14:00 - 18:20) - 静宜厅
-							</div>
-							<table class="table table-striped table-hover table-bordered mb-4">
-								<thead class="thead-light">
-									<tr>
-										<th style="width: 20%;">时间</th>
-										<th style="width: 50%;">主题</th>
-										<th style="width: 30%;">演讲者</th>
-									</tr>
-								</thead>
-								<tbody>
-									<tr>
-										<td>14:00 - 14:05</td>
-										<td>
-											<div class="session-theme">出品人开场</div>
-										</td>
-										<td>
-											<div class="speaker-info mb-2">
-												<div><strong>孟伟</strong></div>
-												<div class="small">中兴通讯股份有限公司开源战略总监，联合国国际电联AINN副主席，LF AI &amp; Data
-													2023-2024届董事会主席</div>
-											</div>
-										</td>
-									</tr>
-									<tr>
-										<td>14:05 - 14:35</td>
-										<td>
-											<div class="session-theme">AI 开源治理之路</div>
-										</td>
-										<td>
-											<div class="speaker-info mb-2">
-												<div><strong>张俊霞</strong></div>
-												<div class="small">中国信息通信研究院知识产权与创新发展中心副总工</div>
-											</div>
-										</td>
-									</tr>
-									<tr>
-										<td>14:35 - 15:05</td>
-										<td>
-											<div class="session-theme">AI “开源”的开发者体验之谜思</div>
-										</td>
-										<td>
-											<div class="speaker-info mb-2">
-												<div><strong>边思康</strong></div>
-												<div class="small">蚂蚁集团开源业务总监</div>
-											</div>
-											<div class="speaker-info mb-2">
-												<div><strong>吕峰军（明城）</strong></div>
-												<div class="small">蚂蚁集团开源办公室技术布道师、Apache Answer PMC 成员</div>
-											</div>
-										</td>
-									</tr>
-									<tr>
-										<td>15:05 - 15:35</td>
-										<td>
-											<div class="session-theme">AI-Driven Efficiency: Boosting OSPO Productivity
-											</div>
-										</td>
-										<td>
-											<div class="speaker-info mb-2">
-												<div><strong>Dr. Ibrahim Haddad</strong></div>
-												<div class="small">沃尔沃车载系统总工程师，前 Linux 基金会战略副总裁</div>
-											</div>
-										</td>
-									</tr>
-									<tr>
-										<td>15:35 - 15:50</td>
-										<td colspan="2">
-											<div class="session-theme">茶歇</div>
-										</td>
-									</tr>
-									<tr>
-										<td>15:50 - 16:20</td>
-										<td>
-											<div class="session-theme">AI 挑战与开源回应： 对数智信息社会的批判性反思</div>
-										</td>
-										<td>
-											<div class="speaker-info mb-2">
-												<div><strong>甘莅豪</strong></div>
-												<div class="small">华东师范大学传播学院 教授，博士生导师</div>
-											</div>
-										</td>
-									</tr>
-									<tr>
-										<td>16:20 - 16:50</td>
-										<td>
-											<div class="session-theme">构建企业级开源 AI 生态：从 OSPO 视角看 OPEA 的协作实践</div>
-										</td>
-										<td>
-											<div class="speaker-info mb-2">
-												<div><strong>王庆</strong></div>
-												<div class="small">英特尔研发总监</div>
-											</div>
-										</td>
-									</tr>
-									<tr>
-										<td>16:50 - 17:20</td>
-										<td>
-											<div class="session-theme">MCP 爆火，智能体互联网需要什么样的通信协议</div>
-										</td>
-										<td>
-											<div class="speaker-info mb-2">
-												<div><strong>常高伟</strong></div>
-												<div class="small">ANP 开源技术社区发起人</div>
-											</div>
-										</td>
-									</tr>
-									<tr>
-										<td>17:20 - 18:20</td>
-										<td>
-											<div class="session-theme">圆桌分享</div>
-										</td>
-										<td>TBD</td>
-									</tr>
-								</tbody>
-							</table>
+							{{ end }}
 						</div>
 					</div>
 				</div>

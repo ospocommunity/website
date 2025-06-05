@@ -1,0 +1,237 @@
+date: "2025-06-12"
+venues:
+  - name: "Keynote"
+    time_span: "09:00 - 12:00"
+    location: "静宜厅"
+    sessions:
+      - time: "09:00 - 09:10"
+        title: "Welcome Note 大会主席欢迎致辞"
+        speakers:
+          - name: "孙振华"
+            title: "OpenChain 中国社区主席"
+          - name: "杨振涛"
+            title: "vivo 研发总监"
+      - time: "09:10 - 09:30"
+        title: "Harmonizing OSPOs — Balancing Change in OSS Management"
+        speakers:
+          - name: "Ana Jiménez Santamaría"
+            title: "Linux Foundation (TODO Group and PyTorch Foundation) Senior Project Manager"
+      - time: "09:30 - 09:50"
+        title: "Open Source Business Processes and Standards in 2025"
+        speakers:
+          - name: "Shane Coughlan"
+            title: "OpenChain General Manager"
+      - time: "09:50 - 10:10"
+        title: "《Review of Leading Enterprise ：Open Source Program Offices: Strategies, Technical Focus, Advocacy, and 2025 Predictions》"
+        speakers:
+          - name: "杨轩"
+            title: "Linux Foundation APAC VP"
+          - name: "郁志强（代讲人）"
+            title: "OSPO Ambassador of TODO Group"
+      - time: "10:10 - 10:30"
+        title: "Open Culture in Open Source & IETF"
+        speakers:
+          - name: "Tina Tsou"
+            title: "TikTok Director of External Tech Influence"
+      - time: "10:30 - 10:50"
+        title: "OSPO 新解：Objective oriented, Strategy led, Product mindset, Operationally lean"
+        speakers:
+          - name: "边思康"
+            title: "蚂蚁集团开源业务总监"
+      - time: "10:50 - 11:30"
+        title: "圆桌分享：OSPO 职能的演变"
+        speakers:
+          - name: "谭中意"
+            title: "COPU 常务副秘书长"
+          - name: "林旅强"
+            title: "开源社联合创始人，RTE开发者社区主理人"
+          - name: "边思康"
+            title: "蚂蚁集团开源业务总监"
+          - name: "王伟"
+            title: "华东师范大学教授"
+          - name: "文婷"
+            title: "字节跳动开源法务"
+      - time: "11:30 - 11:40"
+        title: "《企业开源战略》新书发布"
+        speakers:
+          - name: "李建盛（适兕）"
+            title: "作者，「开源之道」主创，OSPO 倡导者"
+      - time: "11:40 - 11:50"
+        title: "《开源治理良策》、《OSPO Book》新书发布"
+        speakers:
+          - name: "杨振涛"
+            title: "vivo 研发总监"
+      - time: "11:50 - 12:00"
+        title: "OSPO 调研问卷发布与征集"
+        speakers:
+          - name: "待定"
+            title: "TBD"
+
+  - name: "OSPO 与学术、教育、政府非盈利组织论坛"
+    time_span: "14:00 - 16:50" # 更正为主会场的实际议程结束时间
+    location: "静宜厅"
+    sessions:
+      - time: "14:00 - 14:05"
+        title: "出品人开场"
+        speakers:
+          - name: "李建盛（适兕）"
+            title: "作者，「开源之道」主创，OSPO 倡导者"
+      - time: "14:05 - 14:35"
+        title: "经管法高校开源竞争战略规划人才培养"
+        speakers:
+          - name: "张国锋"
+            title: "上海对外经贸大学开源创新与数字治理研究院院长"
+      - time: "14:35 - 15:05"
+        title: "学术共同体 2.0：OSPO 方法驱动的高校教学科研体系革新"
+        speakers:
+          - name: "王伟"
+            title: "华东师范大学教授"
+      - time: "15:05 - 15:35"
+        title: "汽车行业开源治理洞察"
+        speakers:
+          - name: "梁尧"
+            title: "OpenSDV生态运营总监、开源社执行长"
+      - time: "15:35 - 15:50"
+        title: "茶歇"
+        is_break: true
+      - time: "15:50 - 16:20"
+        title: "从开源治理到价值创造：OSPO 全景洞察与企业级体系建设方法论"
+        speakers:
+          - name: "俊哲"
+            title: "中国信通院云计算与大数据研究所开源和软件安全部高级业务主管"
+      - time: "16:20 - 16:50"
+        title: "高校如何通过设置 OSPO 培养下一代开源创新者"
+        speakers:
+          - name: "李明康"
+            title: "开放原子开源基金会教培顾问、开源社理事、LFAPAC 开源布道者"
+
+  - name: "OSPO 与企业论坛"
+    time_span: "14:00 - 16:50" # 更正为主会场的实际议程结束时间
+    location: "二层百望山会议室"
+    sessions:
+      - time: "14:00 - 14:05"
+        title: "出品人开场"
+        speakers:
+          - name: "杨振涛"
+            title: "vivo 研发总监"
+      - time: "14:05 - 14:35"
+        title: "OSPO 领航·敏捷破局：既有研发体系的开源治理融入与新业务响应的加速范式"
+        speakers:
+          - name: "刘津铭"
+            title: "vivo 安全研发工程师"
+      - time: "14:35 - 15:05"
+        title: "开源软件许可证正确性问题"
+        speakers:
+          - name: "李响"
+            title: "中兴通讯云计算开源与标准总监"
+      - time: "15:05 - 15:35"
+        title: "如何在人工智能领域拥抱开源价值观"
+        speakers:
+          - name: "张家驹"
+            title: "Red Hat 首席架构师"
+      - time: "15:35 - 15:50"
+        title: "茶歇"
+        is_break: true
+      - time: "15:50 - 16:20"
+        title: "内部开源（InnerSource）在中国的过去、现在和未来"
+        speakers:
+          - name: "谭中意"
+            title: "COPU 常务副秘书长"
+      - time: "16:20 - 16:50"
+        title: "从合规到安全：OSPO 如何应对开源软件供应链威胁"
+        speakers:
+          - name: "欧阳强斌"
+            title: "墨菲安全架构师"
+
+  - name: "OpenChain China Day 专场"
+    time_span: "14:00 - 16:55" # 更正为主会场的实际议程结束时间
+    location: "二层玉泉山会议室"
+    sessions:
+      - time: "14:00 - 14:05"
+        title: "出品人开场"
+        speakers:
+          - name: "孙振华"
+            title: "OpenChain 中国社区主席"
+      - time: "14:05 - 14:10"
+        title: "嘉宾致辞"
+        speakers:
+          - name: "Shane Coughlan"
+            title: "OpenChain General Manager"
+      - time: "14:10 - 14:40"
+        title: "开源共生：打造清源SCA 社区版与开发者的双向赋能之路"
+        speakers:
+          - name: "高琨"
+            title: "上海安势信息技术有限公司联合创始人&高级副总裁"
+      - time: "14:40 - 15:10"
+        title: "OpenChain SBOM 国际标准落地实践分享"
+        speakers:
+          - name: "刘东威"
+            title: "字节跳动（南京）科技有限公司研发工程师"
+      - time: "15:10 - 15:40"
+        title: "Unpacking AGPL"
+        speakers:
+          - name: "陶冶"
+            title: "国浩律师（南京）事务所 合伙人"
+      - time: "15:40 - 15:55"
+        title: "茶歇"
+        is_break: true
+      - time: "15:55 - 16:25"
+        title: "左移安全新实践：基于 DeepSeek 的软件供应链安全智能化扫描与修复"
+        speakers:
+          - name: "袁怿"
+            title: "个人开发者"
+      - time: "16:25 - 16:55"
+        title: "从经济学视角浅析开源软件与私有软件之间的关系"
+        speakers:
+          - name: "刘伟"
+            title: "开放原子开源基金会资深法律顾问"
+
+  - name: "OSPO 与开源 AI、开放数据、开放生态论坛"
+    time_span: "14:00 - 18:20"
+    location: "二层阳山会议室"
+    sessions:
+      - time: "14:00 - 14:05"
+        title: "出品人开场"
+        speakers:
+          - name: "孟伟"
+            title: "中兴通讯股份有限公司开源战略总监，联合国国际电联 AINN 副主席，LF AI & Data 2023-2024 届董事会主席"
+      - time: "14:05 - 14:35"
+        title: "AI 开源治理之路"
+        speakers:
+          - name: "张俊霞"
+            title: "中国信息通信研究院知识产权与创新发展中心副总工"
+      - time: "14:35 - 15:05"
+        title: "AI \"开源\"的开发者体验之谜思"
+        speakers:
+          - name: "吕峰军（明城）"
+            title: "蚂蚁集团开源办公室技术布道师、Apache Answer PMC 成员"
+          - name: "边思康"
+            title: "蚂蚁集团开源业务总监"
+      - time: "15:05 - 15:35"
+        title: "AI-Driven Efficiency: Boosting OSPO Productivity"
+        speakers:
+          - name: "Dr. Ibrahim Haddad"
+            title: "沃尔沃车载系统总工程师，前 Linux 基金会战略副总裁"
+      - time: "15:35 - 15:50"
+        title: "茶歇"
+        is_break: true
+      - time: "15:50 - 16:20"
+        title: "AI 挑战与开源回应： 对数智信息社会的批判性反思"
+        speakers:
+          - name: "甘莅豪"
+            title: "华东师范大学传播学院教授，博士生导师"
+      - time: "16:20 - 16:50"
+        title: "构建企业级开源 AI 生态：从 OSPO 视角看 OPEA 的协作实践"
+        speakers:
+          - name: "王庆"
+            title: "英特尔研发总监"
+      - time: "16:50 - 17:20"
+        title: "分析MCP、A2A、ANP：智能体互联网的黎明之前"
+        speakers:
+          - name: "张盛毅"
+            title: "anp开源社区联合发起人"
+      - time: "17:20 - 18:20"
+        title: "圆桌分享"
+        speakers:
+          - name: "待定"
+            title: "TBD"
